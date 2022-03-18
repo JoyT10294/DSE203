@@ -1,0 +1,1484 @@
+,billid,firstname,lastname,state,primaryorco,representativeid,billstage,chambername,civid
+0,2,,Franks,Arizona,Primary,416,ENGROSSED,Representative,
+1,4,,Ryan,Ohio,Co,262,ENGROSSED,Representative,
+2,4,,Davis,California,Co,403,ENGROSSED,Representative,
+3,7,,Clarke,New York,Co,330,ENGROSSED,Representative,
+4,8,Al,Green,Texas,Primary,132,ENGROSSED,Representative,
+5,8,Al,Green,Texas,Primary,128,ENGROSSED,Representative,
+6,9,,Clarke,New York,Co,330,ENGROSSED,Representative,
+7,12,Al,Green,Texas,Primary,132,ENGROSSED,Representative,
+8,12,Al,Green,Texas,Primary,128,ENGROSSED,Representative,
+9,12,Danny K,Davis,Illinois,Co,187,ENGROSSED,Representative,
+10,12,Danny K,Davis,Illinois,Co,158,ENGROSSED,Representative,
+11,12,,Lewis,Georgia,Co,221,ENGROSSED,Representative,
+12,12,,Bishop,Georgia,Co,9,ENGROSSED,Representative,
+13,12,,Carson,Indiana,Co,202,ENGROSSED,Representative,
+14,12,Maxine,Waters,California,Co,383,ENGROSSED,Representative,
+15,12,,Wilson,Florida,Co,278,ENGROSSED,Representative,
+16,12,,Gonzalez,Texas,Co,98,ENGROSSED,Representative,
+17,12,,Kelly,Illinois,Co,177,ENGROSSED,Representative,
+18,12,,Higgins,New York,Co,290,ENGROSSED,Representative,
+19,12,,Johnson,Georgia,Co,0,ENGROSSED,Representative,184
+20,12,,Smith,Washington,Co,357,ENGROSSED,Representative,340
+21,13,Al,Green,Texas,Primary,132,ENGROSSED,Representative,
+22,13,Al,Green,Texas,Primary,128,ENGROSSED,Representative,
+23,13,,Brown,Maryland,Co,304,ENGROSSED,Representative,42
+24,13,,Carson,Indiana,Co,202,ENGROSSED,Representative,
+25,13,,Clarke,New York,Co,330,ENGROSSED,Representative,
+26,13,Danny K,Davis,Illinois,Co,187,ENGROSSED,Representative,
+27,13,Danny K,Davis,Illinois,Co,158,ENGROSSED,Representative,
+28,13,,Gonzalez,Texas,Co,98,ENGROSSED,Representative,
+29,13,Eddie B,Johnson,Texas,Co,117,ENGROSSED,Representative,184
+30,13,Eddie B,Johnson,Texas,Co,113,ENGROSSED,Representative,184
+31,13,,Johnson,Georgia,Co,0,ENGROSSED,Representative,184
+32,13,,Kelly,Illinois,Co,177,ENGROSSED,Representative,
+33,13,,Lewis,Georgia,Co,221,ENGROSSED,Representative,
+34,13,David,Scott,Georgia,Co,230,ENGROSSED,Representative,328
+35,13,David,Scott,Georgia,Co,216,ENGROSSED,Representative,328
+36,13,,Sewell,Alabama,Co,172,ENGROSSED,Representative,
+37,13,,Thompson,Mississippi,Co,155,ENGROSSED,Representative,
+38,13,Maxine,Waters,California,Co,383,ENGROSSED,Representative,
+39,13,,Wilson,Florida,Co,278,ENGROSSED,Representative,
+40,13,,Smith,Washington,Co,357,ENGROSSED,Representative,340
+41,17,Danny K,Davis,Illinois,Co,187,ENGROSSED,Representative,
+42,17,Danny K,Davis,Illinois,Co,158,ENGROSSED,Representative,
+43,18,,Scott,Virginia,Primary,52,ENROLLED,Representative,328
+44,18,Judy,Chu,California,Co,388,ENROLLED,Representative,
+45,18,Danny K,Davis,Illinois,Co,187,ENROLLED,Representative,
+46,18,Danny K,Davis,Illinois,Co,158,ENROLLED,Representative,
+47,18,,Wilson,Florida,Co,278,ENROLLED,Representative,
+48,18,,Sewell,Alabama,Co,172,ENROLLED,Representative,
+49,22,,Brownley,California,Co,92,ENROLLED,Representative,
+50,22,Sean P,Maloney,New York,Co,329,ENROLLED,Representative,
+51,22,Sean P,Maloney,New York,Co,322,ENROLLED,Representative,
+52,22,,Frankel,Florida,Co,279,ENROLLED,Representative,
+53,22,,Frankel,Florida,Co,277,ENROLLED,Representative,
+54,22,,Ryan,Ohio,Co,262,ENROLLED,Representative,
+55,22,Brendan F,Boyle,Pennsylvania,Co,315,ENROLLED,Representative,
+56,22,,Scott,Virginia,Co,52,ENROLLED,Representative,328
+57,22,,Davis,California,Co,403,ENROLLED,Representative,
+58,22,,Castro,Texas,Co,99,ENROLLED,Representative,
+59,22,,Murphy,Florida,Co,264,ENROLLED,Representative,254
+60,22,,Kelly,Illinois,Co,177,ENROLLED,Representative,
+61,22,,Lawson,Florida,Co,249,ENROLLED,Representative,
+62,22,,Clark,Massachusetts,Co,347,ENROLLED,Representative,
+63,22,,Larson,Connecticut,Co,342,ENROLLED,Representative,
+64,22,,Brown,Maryland,Co,304,ENROLLED,Representative,42
+65,22,,Rice,New York,Co,335,ENROLLED,Representative,
+66,22,,Gonzalez,Texas,Co,98,ENROLLED,Representative,
+67,22,,Swalwell,California,Co,361,ENROLLED,Representative,
+68,22,,Kuster,New Hampshire,Co,345,ENROLLED,Representative,
+69,22,,Esty,Connecticut,Co,337,ENROLLED,Representative,119
+70,22,David,Scott,Georgia,Co,230,ENROLLED,Representative,328
+71,22,David,Scott,Georgia,Co,216,ENROLLED,Representative,328
+72,22,,Thompson,California,Co,354,ENROLLED,Representative,
+73,22,Ted,Lieu,California,Co,378,ENROLLED,Representative,
+74,22,Michael F,Doyle,Pennsylvania,Co,282,ENROLLED,Representative,
+75,22,,Lewis,Georgia,Co,221,ENROLLED,Representative,
+76,22,,Brady,Pennsylvania,Co,316,ENROLLED,Representative,
+77,22,,Castor,Florida,Co,42,ENROLLED,Representative,
+78,22,,Clarke,New York,Co,330,ENROLLED,Representative,
+79,22,,Price,North Carolina,Co,288,ENROLLED,Representative,
+80,22,,Larsen,Washington,Co,83,ENROLLED,Representative,
+81,22,,Carson,Indiana,Co,202,ENROLLED,Representative,
+82,22,Danny K,Davis,Illinois,Co,187,ENROLLED,Representative,
+83,22,Danny K,Davis,Illinois,Co,158,ENROLLED,Representative,
+84,22,,Sewell,Alabama,Co,172,ENROLLED,Representative,
+85,22,Maxine,Waters,California,Co,383,ENROLLED,Representative,
+86,22,,Johnson,Georgia,Co,0,ENROLLED,Representative,184
+87,22,,Smith,Washington,Co,357,ENROLLED,Representative,340
+88,22,Carolyn B,Maloney,New York,Co,329,ENROLLED,Representative,
+89,22,Carolyn B,Maloney,New York,Co,322,ENROLLED,Representative,
+90,22,Al,Green,Texas,Co,132,ENROLLED,Representative,
+91,22,Al,Green,Texas,Co,128,ENROLLED,Representative,
+92,22,,Bishop,Georgia,Co,9,ENROLLED,Representative,
+93,22,Judy,Chu,California,Co,388,ENROLLED,Representative,
+94,22,,Wilson,Florida,Co,278,ENROLLED,Representative,
+95,22,,Higgins,New York,Co,290,ENROLLED,Representative,
+96,22,,Thompson,Mississippi,Co,155,ENROLLED,Representative,
+97,22,Eddie B,Johnson,Texas,Co,117,ENROLLED,Representative,184
+98,22,Eddie B,Johnson,Texas,Co,113,ENROLLED,Representative,184
+99,22,Gene,Green,Texas,Co,132,ENROLLED,Representative,
+100,22,Gene,Green,Texas,Co,128,ENROLLED,Representative,
+101,23,,Johnson,Georgia,Co,0,ENROLLED,Representative,184
+102,23,Ted,Lieu,California,Co,378,ENROLLED,Representative,
+103,26,Al,Green,Texas,Primary,132,INTRODUCED,Representative,
+104,26,Al,Green,Texas,Primary,128,INTRODUCED,Representative,
+105,27,,Clarke,New York,Co,330,INTRODUCED,Representative,
+106,27,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+107,27,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+108,27,,Higgins,New York,Co,290,INTRODUCED,Representative,
+109,27,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+110,27,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+111,27,,Rice,New York,Co,335,INTRODUCED,Representative,
+112,27,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+113,27,,Swalwell,California,Co,361,INTRODUCED,Representative,
+114,28,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+115,30,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+116,30,,Rice,New York,Co,335,INTRODUCED,Representative,
+117,30,,Davis,California,Co,403,INTRODUCED,Representative,
+118,30,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+119,30,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+120,30,,Brownley,California,Co,92,INTRODUCED,Representative,
+121,30,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+122,30,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+123,30,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+124,30,,Curbelo,Florida,Co,45,INTRODUCED,Representative,
+125,30,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+126,30,,Esty,Connecticut,Co,337,INTRODUCED,Representative,119
+127,30,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+128,30,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+129,30,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+130,30,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+131,30,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+132,30,,Costello,Pennsylvania,Co,308,INTRODUCED,Representative,
+133,30,,Higgins,New York,Co,290,INTRODUCED,Representative,
+134,30,,Kuster,New Hampshire,Co,345,INTRODUCED,Representative,
+135,33,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+136,33,,Swalwell,California,Co,361,INTRODUCED,Representative,
+137,33,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+138,33,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+139,33,,Clarke,New York,Co,330,INTRODUCED,Representative,
+140,33,,Davis,California,Co,403,INTRODUCED,Representative,
+141,33,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+142,33,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+143,33,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+144,33,,Brownley,California,Co,92,INTRODUCED,Representative,
+145,34,Ted,Lieu,California,Primary,378,INTRODUCED,Representative,
+146,34,,Curbelo,Florida,Co,45,INTRODUCED,Representative,
+147,37,,Thompson,Mississippi,Primary,155,INTRODUCED,Representative,
+148,39,,Sewell,Alabama,Primary,172,INTRODUCED,Representative,
+149,39,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+150,39,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+151,39,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+152,39,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+153,39,,Brady,Pennsylvania,Co,316,INTRODUCED,Representative,
+154,39,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+155,39,,Brownley,California,Co,92,INTRODUCED,Representative,
+156,39,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+157,39,,Castor,Florida,Co,42,INTRODUCED,Representative,
+158,39,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+159,39,,Clarke,New York,Co,330,INTRODUCED,Representative,
+160,39,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+161,39,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+162,39,,Davis,California,Co,403,INTRODUCED,Representative,
+163,39,Michael F,Doyle,Pennsylvania,Co,282,INTRODUCED,Representative,
+164,39,,Frankel,Florida,Co,279,INTRODUCED,Representative,
+165,39,,Frankel,Florida,Co,277,INTRODUCED,Representative,
+166,39,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+167,39,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+168,39,Gene,Green,Texas,Co,132,INTRODUCED,Representative,
+169,39,Gene,Green,Texas,Co,128,INTRODUCED,Representative,
+170,39,,Higgins,New York,Co,290,INTRODUCED,Representative,
+171,39,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+172,39,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+173,39,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+174,39,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+175,39,,Kuster,New Hampshire,Co,345,INTRODUCED,Representative,
+176,39,,Larsen,Washington,Co,83,INTRODUCED,Representative,
+177,39,,Larson,Connecticut,Co,342,INTRODUCED,Representative,
+178,39,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+179,39,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+180,39,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+181,39,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+182,39,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+183,39,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+184,39,,Murphy,Florida,Co,264,INTRODUCED,Representative,254
+185,39,,Price,North Carolina,Co,288,INTRODUCED,Representative,
+186,39,,Rice,New York,Co,335,INTRODUCED,Representative,
+187,39,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+188,39,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+189,39,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+190,39,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+191,39,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+192,39,,Swalwell,California,Co,361,INTRODUCED,Representative,
+193,39,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+194,39,,Thompson,California,Co,354,INTRODUCED,Representative,
+195,39,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+196,39,,Esty,Connecticut,Co,337,INTRODUCED,Representative,119
+197,40,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+198,40,,Clarke,New York,Co,330,INTRODUCED,Representative,
+199,40,,Kelly,Pennsylvania,Co,273,INTRODUCED,Representative,
+200,40,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+201,40,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+202,40,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+203,42,,Gonzalez,Texas,Primary,98,INTRODUCED,Representative,
+204,43,,Collins,Georgia,Co,220,INTRODUCED,Representative,70
+205,44,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+206,44,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+207,44,,Clarke,New York,Co,330,INTRODUCED,Representative,
+208,44,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+209,45,,Brown,Maryland,Primary,304,INTRODUCED,Representative,42
+210,45,,Clarke,New York,Co,330,INTRODUCED,Representative,
+211,45,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+212,56,Al,Green,Texas,Primary,132,INTRODUCED,Representative,
+213,56,Al,Green,Texas,Primary,128,INTRODUCED,Representative,
+214,57,,Murphy,Florida,Co,264,INTRODUCED,Representative,254
+215,60,Carolyn B,Maloney,New York,Primary,329,INTRODUCED,Representative,
+216,60,Carolyn B,Maloney,New York,Primary,322,INTRODUCED,Representative,
+217,64,,Swalwell,California,Co,361,INTRODUCED,Representative,
+218,64,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+219,65,,Clarke,New York,Co,330,INTRODUCED,Representative,
+220,65,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+221,65,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+222,65,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+223,65,,Esty,Connecticut,Co,337,INTRODUCED,Representative,119
+224,65,,Kuster,New Hampshire,Co,345,INTRODUCED,Representative,
+225,65,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+226,65,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+227,67,,Curbelo,Florida,Co,45,INTRODUCED,Representative,
+228,67,,Young,Alaska,Co,77,INTRODUCED,Representative,392
+229,67,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+230,67,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+231,67,,King,New York,Co,336,INTRODUCED,Representative,197
+232,68,,Young,Iowa,Primary,125,INTRODUCED,Representative,392
+233,68,Rodney,Davis,Illinois,Co,187,INTRODUCED,Representative,
+234,68,Rodney,Davis,Illinois,Co,158,INTRODUCED,Representative,
+235,68,,Joyce,Ohio,Co,261,INTRODUCED,Representative,
+236,68,Mimi,Walters,California,Co,394,INTRODUCED,Representative,
+237,68,,Brooks,Indiana,Co,201,INTRODUCED,Representative,
+238,68,,King,New York,Co,336,INTRODUCED,Representative,197
+239,68,,Curbelo,Florida,Co,45,INTRODUCED,Representative,
+240,69,,Clarke,New York,Primary,330,INTRODUCED,Representative,
+241,69,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+242,71,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+243,73,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+244,75,,Collins,New York,Co,48,INTRODUCED,Representative,70
+245,75,,King,New York,Co,336,INTRODUCED,Representative,197
+246,75,,Smith,New Jersey,Co,323,INTRODUCED,Representative,340
+247,79,Judy,Chu,California,Primary,388,INTRODUCED,Representative,
+248,82,,Clarke,New York,Co,330,INTRODUCED,Representative,
+249,82,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+250,82,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+251,82,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+252,82,,Brady,Pennsylvania,Co,316,INTRODUCED,Representative,
+253,82,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+254,89,Al,Green,Texas,Primary,132,INTRODUCED,Representative,
+255,89,Al,Green,Texas,Primary,128,INTRODUCED,Representative,
+256,94,,Kelly,Illinois,Primary,177,INTRODUCED,Representative,
+257,95,,Swalwell,California,Co,361,INTRODUCED,Representative,
+258,96,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+259,96,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+260,96,,Clarke,New York,Co,330,INTRODUCED,Representative,
+261,96,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+262,96,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+263,96,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+264,96,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+265,96,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+266,96,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+267,96,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+268,96,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+269,96,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+270,96,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+271,96,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+272,96,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+273,96,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+274,96,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+275,96,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+276,96,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+277,96,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+278,96,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+279,96,,Swalwell,California,Co,361,INTRODUCED,Representative,
+280,96,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+281,96,,Price,North Carolina,Co,288,INTRODUCED,Representative,
+282,96,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+283,96,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+284,96,,Larson,Connecticut,Co,342,INTRODUCED,Representative,
+285,96,,Thompson,California,Co,354,INTRODUCED,Representative,
+286,96,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+287,96,,Higgins,New York,Co,290,INTRODUCED,Representative,
+288,96,,Castor,Florida,Co,42,INTRODUCED,Representative,
+289,96,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+290,96,,Brownley,California,Co,92,INTRODUCED,Representative,
+291,96,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+292,96,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+293,96,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+294,96,,Frankel,Florida,Co,279,INTRODUCED,Representative,
+295,96,,Frankel,Florida,Co,277,INTRODUCED,Representative,
+296,96,,Larsen,Washington,Co,83,INTRODUCED,Representative,
+297,96,Michael F,Doyle,Pennsylvania,Co,282,INTRODUCED,Representative,
+298,96,,Davis,California,Co,403,INTRODUCED,Representative,
+299,96,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+300,96,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+301,96,Gene,Green,Texas,Co,132,INTRODUCED,Representative,
+302,96,Gene,Green,Texas,Co,128,INTRODUCED,Representative,
+303,96,,Esty,Connecticut,Co,337,INTRODUCED,Representative,119
+304,97,,Weber,Texas,Co,1,INTRODUCED,Representative,
+305,98,,Weber,Texas,Primary,1,INTRODUCED,Representative,
+306,100,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+307,101,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+308,101,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+309,101,,Castor,Florida,Co,42,INTRODUCED,Representative,
+310,101,,Castro,Texas,Co,99,INTRODUCED,Representative,
+311,101,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+312,101,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+313,101,,Clarke,New York,Co,330,INTRODUCED,Representative,
+314,101,,Davis,California,Co,403,INTRODUCED,Representative,
+315,101,,Esty,Connecticut,Co,337,INTRODUCED,Representative,119
+316,101,,Frankel,Florida,Co,279,INTRODUCED,Representative,
+317,101,,Frankel,Florida,Co,277,INTRODUCED,Representative,
+318,101,Gene,Green,Texas,Co,132,INTRODUCED,Representative,
+319,101,Gene,Green,Texas,Co,128,INTRODUCED,Representative,
+320,101,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+321,101,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+322,101,,Higgins,New York,Co,290,INTRODUCED,Representative,
+323,101,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+324,101,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+325,101,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+326,101,,Larsen,Washington,Co,83,INTRODUCED,Representative,
+327,101,,Larson,Connecticut,Co,342,INTRODUCED,Representative,
+328,101,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+329,101,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+330,101,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+331,101,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+332,101,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+333,101,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+334,101,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+335,101,,Kuster,New Hampshire,Co,345,INTRODUCED,Representative,
+336,101,,Price,North Carolina,Co,288,INTRODUCED,Representative,
+337,101,,Rice,New York,Co,335,INTRODUCED,Representative,
+338,101,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+339,101,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+340,101,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+341,101,,Swalwell,California,Co,361,INTRODUCED,Representative,
+342,101,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+343,101,,Brownley,California,Co,92,INTRODUCED,Representative,
+344,101,,Gonzalez,Texas,Co,98,INTRODUCED,Representative,
+345,101,,Brady,Pennsylvania,Co,316,INTRODUCED,Representative,
+346,101,,Murphy,Florida,Co,264,INTRODUCED,Representative,254
+347,101,,Thompson,California,Co,354,INTRODUCED,Representative,
+348,101,Michael F,Doyle,Pennsylvania,Co,282,INTRODUCED,Representative,
+349,101,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+350,101,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+351,102,,King,New York,Co,336,INTRODUCED,Representative,197
+352,102,,Rice,New York,Co,335,INTRODUCED,Representative,
+353,105,Danny K,Davis,Illinois,Primary,187,INTRODUCED,Representative,
+354,105,Danny K,Davis,Illinois,Primary,158,INTRODUCED,Representative,
+355,108,,Smith,Missouri,Co,150,INTRODUCED,Representative,340
+356,108,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+357,108,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+358,108,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+359,108,,Clarke,New York,Co,330,INTRODUCED,Representative,
+360,108,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+361,108,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+362,108,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+363,108,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+364,108,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+365,108,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+366,108,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+367,108,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+368,108,,Larson,Connecticut,Co,342,INTRODUCED,Representative,
+369,108,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+370,108,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+371,108,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+372,108,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+373,108,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+374,108,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+375,108,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+376,108,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+377,108,,Graves,Louisiana,Co,152,INTRODUCED,Representative,
+378,108,,Price,North Carolina,Co,288,INTRODUCED,Representative,
+379,109,,Smith,Nebraska,Co,442,INTRODUCED,Representative,340
+380,110,,Clarke,New York,Primary,330,INTRODUCED,Representative,
+381,110,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+382,112,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+383,112,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+384,112,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+385,112,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+386,112,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+387,112,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+388,112,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+389,112,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+390,112,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+391,112,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+392,112,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+393,112,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+394,112,,Clarke,New York,Co,330,INTRODUCED,Representative,
+395,112,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+396,112,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+397,112,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+398,112,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+399,112,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+400,112,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+401,112,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+402,115,,Curbelo,Florida,Co,45,INTRODUCED,Representative,
+403,115,,Young,Alaska,Co,77,INTRODUCED,Representative,392
+404,124,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+405,124,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+406,124,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+407,124,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+408,124,,Price,North Carolina,Co,288,INTRODUCED,Representative,
+409,124,,Higgins,New York,Co,290,INTRODUCED,Representative,
+410,124,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+411,124,,Clarke,New York,Co,330,INTRODUCED,Representative,
+412,124,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+413,124,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+414,124,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+415,124,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+416,124,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+417,124,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+418,124,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+419,124,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+420,125,,Poe,Texas,Co,129,INTRODUCED,Representative,
+421,125,,Kuster,New Hampshire,Co,345,INTRODUCED,Representative,
+422,135,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+423,135,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+424,135,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+425,135,,Brady,Pennsylvania,Co,316,INTRODUCED,Representative,
+426,135,,Swalwell,California,Co,361,INTRODUCED,Representative,
+427,140,,Murphy,Pennsylvania,Primary,275,INTRODUCED,Representative,254
+428,140,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+429,140,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+430,140,,Costello,Pennsylvania,Co,308,INTRODUCED,Representative,
+431,140,Rodney,Davis,Illinois,Co,187,INTRODUCED,Representative,
+432,140,Rodney,Davis,Illinois,Co,158,INTRODUCED,Representative,
+433,140,,Frankel,Florida,Co,279,INTRODUCED,Representative,
+434,140,,Frankel,Florida,Co,277,INTRODUCED,Representative,
+435,140,,Young,Alaska,Co,77,INTRODUCED,Representative,392
+436,140,Thomas J,Rooney,Florida,Co,248,INTRODUCED,Representative,
+437,140,Thomas J,Rooney,Florida,Co,43,INTRODUCED,Representative,
+438,140,,King,New York,Co,336,INTRODUCED,Representative,197
+439,140,Mimi,Walters,California,Co,394,INTRODUCED,Representative,
+440,142,,Lewis,Georgia,Primary,221,INTRODUCED,Representative,
+441,148,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+442,148,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+443,148,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+444,148,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+445,148,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+446,149,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+447,149,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+448,149,,Clarke,New York,Co,330,INTRODUCED,Representative,
+449,151,Brendan F,Boyle,Pennsylvania,Primary,315,INTRODUCED,Representative,
+450,152,,Johnson,Georgia,Primary,0,INTRODUCED,Representative,184
+451,152,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+452,152,,Clarke,New York,Co,330,INTRODUCED,Representative,
+453,152,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+454,152,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+455,152,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+456,153,,Scott,Virginia,Primary,52,INTRODUCED,Representative,328
+457,153,,Young,Iowa,Co,125,INTRODUCED,Representative,392
+458,156,,Clarke,New York,Co,330,INTRODUCED,Representative,
+459,156,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+460,156,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+461,156,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+462,156,,Castor,Florida,Co,42,INTRODUCED,Representative,
+463,156,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+464,156,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+465,156,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+466,156,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+467,156,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+468,156,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+469,156,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+470,156,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+471,156,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+472,156,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+473,156,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+474,156,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+475,156,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+476,158,,King,New York,Primary,336,INTRODUCED,Representative,197
+477,158,,Carter,Georgia,Co,44,INTRODUCED,Representative,
+478,158,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+479,158,,Wilson,South Carolina,Co,254,INTRODUCED,Representative,
+480,158,,Joyce,Ohio,Co,261,INTRODUCED,Representative,
+481,158,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+482,161,,Thompson,Pennsylvania,Primary,280,INTRODUCED,Representative,
+483,163,,Price,North Carolina,Co,288,INTRODUCED,Representative,
+484,166,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+485,166,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+486,166,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+487,170,,Smith,New Jersey,Co,323,INTRODUCED,Representative,340
+488,170,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+489,171,,Scott,Virginia,Primary,52,INTRODUCED,Representative,328
+490,172,,Poe,Texas,Co,129,INTRODUCED,Representative,
+491,174,,Clarke,New York,Co,330,INTRODUCED,Representative,
+492,174,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+493,174,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+494,174,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+495,178,,Rice,New York,Primary,335,INTRODUCED,Representative,
+496,178,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+497,178,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+498,179,Al,Green,Texas,Primary,132,INTRODUCED,Representative,
+499,179,Al,Green,Texas,Primary,128,INTRODUCED,Representative,
+500,179,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+501,179,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+502,179,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+503,179,,Clarke,New York,Co,330,INTRODUCED,Representative,
+504,179,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+505,179,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+506,179,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+507,179,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+508,179,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+509,179,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+510,179,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+511,179,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+512,179,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+513,179,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+514,179,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+515,179,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+516,179,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+517,179,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+518,179,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+519,185,,Thompson,Pennsylvania,Primary,280,INTRODUCED,Representative,
+520,186,,Clarke,New York,Primary,330,INTRODUCED,Representative,
+521,187,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+522,187,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+523,187,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+524,187,,Brownley,California,Co,92,INTRODUCED,Representative,
+525,187,,Swalwell,California,Co,361,INTRODUCED,Representative,
+526,187,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+527,187,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+528,187,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+529,187,,Frankel,Florida,Co,279,INTRODUCED,Representative,
+530,187,,Frankel,Florida,Co,277,INTRODUCED,Representative,
+531,187,,Rice,New York,Co,335,INTRODUCED,Representative,
+532,187,,Larsen,Washington,Co,83,INTRODUCED,Representative,
+533,187,,Clarke,New York,Co,330,INTRODUCED,Representative,
+534,187,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+535,187,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+536,187,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+537,187,,Higgins,New York,Co,290,INTRODUCED,Representative,
+538,187,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+539,187,,Esty,Connecticut,Co,337,INTRODUCED,Representative,119
+540,189,,Smith,Texas,Co,452,INTRODUCED,Representative,340
+541,191,,Lewis,Georgia,Primary,221,INTRODUCED,Representative,
+542,191,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+543,191,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+544,191,,Clarke,New York,Co,330,INTRODUCED,Representative,
+545,191,,Kuster,New Hampshire,Co,345,INTRODUCED,Representative,
+546,194,Maxine,Waters,California,Primary,383,INTRODUCED,Representative,
+547,194,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+548,194,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+549,194,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+550,194,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+551,194,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+552,194,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+553,194,,Clarke,New York,Co,330,INTRODUCED,Representative,
+554,194,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+555,194,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+556,194,,Esty,Connecticut,Co,337,INTRODUCED,Representative,119
+557,194,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+558,196,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+559,196,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+560,196,,Castor,Florida,Co,42,INTRODUCED,Representative,
+561,196,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+562,196,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+563,196,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+564,196,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+565,196,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+566,196,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+567,196,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+568,196,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+569,196,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+570,196,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+571,196,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+572,196,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+573,196,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+574,196,,Swalwell,California,Co,361,INTRODUCED,Representative,
+575,196,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+576,196,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+577,196,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+578,196,,Clarke,New York,Co,330,INTRODUCED,Representative,
+579,197,,Clarke,New York,Co,330,INTRODUCED,Representative,
+580,199,,Clarke,New York,Primary,330,INTRODUCED,Representative,
+581,199,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+582,199,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+583,199,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+584,199,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+585,199,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+586,201,Judy,Chu,California,Primary,388,INTRODUCED,Representative,
+587,202,Maxine,Waters,California,Primary,383,INTRODUCED,Representative,
+588,202,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+589,202,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+590,202,,Clarke,New York,Co,330,INTRODUCED,Representative,
+591,202,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+592,202,,Brownley,California,Co,92,INTRODUCED,Representative,
+593,204,,Clarke,New York,Primary,330,INTRODUCED,Representative,
+594,210,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+595,213,,Frankel,Florida,Primary,279,INTRODUCED,Representative,
+596,213,,Frankel,Florida,Primary,277,INTRODUCED,Representative,
+597,213,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+598,213,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+599,213,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+600,213,,Thompson,California,Co,354,INTRODUCED,Representative,
+601,213,,Castor,Florida,Co,42,INTRODUCED,Representative,
+602,213,,Clarke,New York,Co,330,INTRODUCED,Representative,
+603,213,,Davis,California,Co,403,INTRODUCED,Representative,
+604,213,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+605,213,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+606,213,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+607,213,,Brownley,California,Co,92,INTRODUCED,Representative,
+608,213,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+609,213,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+610,213,,Brady,Pennsylvania,Co,316,INTRODUCED,Representative,
+611,213,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+612,213,,Swalwell,California,Co,361,INTRODUCED,Representative,
+613,213,,Kuster,New Hampshire,Co,345,INTRODUCED,Representative,
+614,214,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+615,214,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+616,214,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+617,214,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+618,214,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+619,214,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+620,215,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+621,215,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+622,215,,Castor,Florida,Co,42,INTRODUCED,Representative,
+623,215,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+624,215,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+625,215,,Clarke,New York,Co,330,INTRODUCED,Representative,
+626,215,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+627,215,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+628,215,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+629,215,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+630,215,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+631,215,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+632,215,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+633,215,,Larsen,Washington,Co,83,INTRODUCED,Representative,
+634,215,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+635,215,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+636,215,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+637,215,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+638,215,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+639,215,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+640,215,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+641,215,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+642,215,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+643,216,,Frankel,Florida,Primary,279,INTRODUCED,Representative,
+644,216,,Frankel,Florida,Primary,277,INTRODUCED,Representative,
+645,216,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+646,216,,Davis,California,Co,403,INTRODUCED,Representative,
+647,216,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+648,216,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+649,216,,Brownley,California,Co,92,INTRODUCED,Representative,
+650,216,,Castor,Florida,Co,42,INTRODUCED,Representative,
+651,216,,Clarke,New York,Co,330,INTRODUCED,Representative,
+652,216,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+653,216,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+654,216,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+655,216,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+656,216,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+657,216,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+658,216,,Kuster,New Hampshire,Co,345,INTRODUCED,Representative,
+659,216,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+660,216,,Brady,Pennsylvania,Co,316,INTRODUCED,Representative,
+661,216,,Castro,Texas,Co,99,INTRODUCED,Representative,
+662,216,,Swalwell,California,Co,361,INTRODUCED,Representative,
+663,217,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+664,217,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+665,217,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+666,217,,Swalwell,California,Co,361,INTRODUCED,Representative,
+667,218,,Rice,New York,Co,335,INTRODUCED,Representative,
+668,218,,Clark,Massachusetts,Co,347,INTRODUCED,Representative,
+669,218,,Larsen,Washington,Co,83,INTRODUCED,Representative,
+670,218,,Clarke,New York,Co,330,INTRODUCED,Representative,
+671,218,,Ryan,Ohio,Co,262,INTRODUCED,Representative,
+672,218,,Price,North Carolina,Co,288,INTRODUCED,Representative,
+673,218,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+674,218,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+675,218,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+676,218,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+677,218,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+678,218,,Frankel,Florida,Co,279,INTRODUCED,Representative,
+679,218,,Frankel,Florida,Co,277,INTRODUCED,Representative,
+680,218,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Representative,
+681,218,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Representative,
+682,219,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+683,219,Al,Green,Texas,Co,132,INTRODUCED,Representative,
+684,219,Al,Green,Texas,Co,128,INTRODUCED,Representative,
+685,220,,Lewis,Georgia,Primary,221,INTRODUCED,Representative,
+686,222,Eddie B,Johnson,Texas,Primary,117,INTRODUCED,Representative,184
+687,222,Eddie B,Johnson,Texas,Primary,113,INTRODUCED,Representative,184
+688,223,Al,Green,Texas,Primary,132,INTRODUCED,Representative,
+689,223,Al,Green,Texas,Primary,128,INTRODUCED,Representative,
+690,223,,Brown,Maryland,Co,304,INTRODUCED,Representative,42
+691,223,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+692,223,Danny K,Davis,Illinois,Co,187,INTRODUCED,Representative,
+693,223,Danny K,Davis,Illinois,Co,158,INTRODUCED,Representative,
+694,223,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+695,223,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+696,223,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+697,223,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+698,223,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+699,223,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+700,223,,Clarke,New York,Co,330,INTRODUCED,Representative,
+701,228,,Clark,Massachusetts,Primary,347,INTRODUCED,Representative,
+702,230,,Swalwell,California,Co,361,INTRODUCED,Representative,
+703,230,,Murphy,Florida,Co,264,INTRODUCED,Representative,254
+704,230,,Webster,Florida,Co,38,INTRODUCED,Representative,
+705,230,,Collins,New York,Co,48,INTRODUCED,Representative,70
+706,231,,Clarke,New York,Co,330,INTRODUCED,Representative,
+707,231,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+708,231,,Kelly,Illinois,Co,177,INTRODUCED,Representative,
+709,231,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+710,231,,Brownley,California,Co,92,INTRODUCED,Representative,
+711,231,Ted,Lieu,California,Co,378,INTRODUCED,Representative,
+712,231,,Castro,Texas,Co,99,INTRODUCED,Representative,
+713,231,Maxine,Waters,California,Co,383,INTRODUCED,Representative,
+714,231,,Scott,Virginia,Co,52,INTRODUCED,Representative,328
+715,235,,Swalwell,California,Co,361,INTRODUCED,Representative,
+716,235,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Representative,
+717,235,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+718,235,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+719,235,Judy,Chu,California,Co,388,INTRODUCED,Representative,
+720,242,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+721,242,,Clarke,New York,Co,330,INTRODUCED,Representative,
+722,242,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+723,242,Sean P,Maloney,New York,Co,329,INTRODUCED,Representative,
+724,242,Sean P,Maloney,New York,Co,322,INTRODUCED,Representative,
+725,242,,Swalwell,California,Co,361,INTRODUCED,Representative,
+726,244,Maxine,Waters,California,Primary,383,INTRODUCED,Representative,
+727,244,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+728,244,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+729,244,,Smith,Washington,Co,357,INTRODUCED,Representative,340
+730,244,David,Scott,Georgia,Co,230,INTRODUCED,Representative,328
+731,244,David,Scott,Georgia,Co,216,INTRODUCED,Representative,328
+732,244,,Lawson,Florida,Co,249,INTRODUCED,Representative,
+733,250,,Thompson,Mississippi,Co,155,INTRODUCED,Representative,
+734,250,,Wilson,Florida,Co,278,INTRODUCED,Representative,
+735,250,,Johnson,Georgia,Co,0,INTRODUCED,Representative,184
+736,250,,Bishop,Georgia,Co,9,INTRODUCED,Representative,
+737,250,,Sewell,Alabama,Co,172,INTRODUCED,Representative,
+738,250,,Clarke,New York,Co,330,INTRODUCED,Representative,
+739,250,,Carson,Indiana,Co,202,INTRODUCED,Representative,
+740,250,,Esty,Connecticut,Co,337,INTRODUCED,Representative,119
+741,250,,Lewis,Georgia,Co,221,INTRODUCED,Representative,
+742,250,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Representative,184
+743,250,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Representative,184
+744,251,,Thompson,Mississippi,Primary,155,INTRODUCED,Representative,
+745,259,,Thompson,Pennsylvania,Co,280,INTRODUCED,Representative,
+746,265,,Carson,Indiana,Primary,202,INTRODUCED,Representative,
+747,265,,Costello,Pennsylvania,Co,308,INTRODUCED,Representative,
+748,266,,Ryan,Ohio,Primary,262,INTRODUCED,Representative,
+749,267,Sean P,Maloney,New York,Co,329,REFERRED,Representative,
+750,267,Sean P,Maloney,New York,Co,322,REFERRED,Representative,
+751,268,,Kelly,Illinois,Co,177,REFERRED,Representative,
+752,269,Judy,Chu,California,Co,388,REFERRED,Representative,
+753,269,,Johnson,Georgia,Co,0,REFERRED,Representative,184
+754,269,Eddie B,Johnson,Texas,Co,117,REFERRED,Representative,184
+755,269,Eddie B,Johnson,Texas,Co,113,REFERRED,Representative,184
+756,271,,Johnson,Georgia,Primary,0,REPORTED,Representative,184
+757,271,,Clark,Massachusetts,Co,347,REPORTED,Representative,
+758,271,,Swalwell,California,Co,361,REPORTED,Representative,
+759,271,,Scott,Virginia,Co,52,REPORTED,Representative,328
+760,271,Eddie B,Johnson,Texas,Co,117,REPORTED,Representative,184
+761,271,Eddie B,Johnson,Texas,Co,113,REPORTED,Representative,184
+762,271,Maxine,Waters,California,Co,383,REPORTED,Representative,
+763,271,,Ryan,Ohio,Co,262,REPORTED,Representative,
+764,271,,Higgins,New York,Co,290,REPORTED,Representative,
+765,271,Ted,Lieu,California,Co,378,REPORTED,Representative,
+766,271,,Frankel,Florida,Co,279,REPORTED,Representative,
+767,271,,Frankel,Florida,Co,277,REPORTED,Representative,
+768,272,,Smith,Texas,Co,452,REPORTED,Representative,340
+769,277,,Curbelo,Florida,Primary,45,REPORTED,Representative,
+770,277,,Wilson,Florida,Co,278,REPORTED,Representative,
+771,279,,Curbelo,Florida,Primary,45,REPORTED,Representative,
+772,282,,Scott,Virginia,Primary,52,REPORTED,Representative,328
+773,282,,Brady,Pennsylvania,Co,316,REPORTED,Representative,
+774,282,,Brown,Maryland,Co,304,REPORTED,Representative,42
+775,282,,Brownley,California,Co,92,REPORTED,Representative,
+776,282,Judy,Chu,California,Co,388,REPORTED,Representative,
+777,282,,Clark,Massachusetts,Co,347,REPORTED,Representative,
+778,282,,Clarke,New York,Co,330,REPORTED,Representative,
+779,282,Danny K,Davis,Illinois,Co,187,REPORTED,Representative,
+780,282,Danny K,Davis,Illinois,Co,158,REPORTED,Representative,
+781,282,,Davis,California,Co,403,REPORTED,Representative,
+782,282,Al,Green,Texas,Co,132,REPORTED,Representative,
+783,282,Al,Green,Texas,Co,128,REPORTED,Representative,
+784,282,,Kelly,Illinois,Co,177,REPORTED,Representative,
+785,282,,Lawson,Florida,Co,249,REPORTED,Representative,
+786,282,,Ryan,Ohio,Co,262,REPORTED,Representative,
+787,282,David,Scott,Georgia,Co,230,REPORTED,Representative,328
+788,282,David,Scott,Georgia,Co,216,REPORTED,Representative,328
+789,282,,Sewell,Alabama,Co,172,REPORTED,Representative,
+790,282,,Wilson,Florida,Co,278,REPORTED,Representative,
+791,282,,Swalwell,California,Co,361,REPORTED,Representative,
+792,283,,Clarke,New York,Co,330,REPORTED,Representative,
+793,287,,Scott,Virginia,Co,52,ENGROSSED,Senator,328
+794,287,,Brown,Maryland,Co,304,ENGROSSED,Senator,42
+795,287,Eddie B,Johnson,Texas,Co,117,ENGROSSED,Senator,184
+796,287,Eddie B,Johnson,Texas,Co,113,ENGROSSED,Senator,184
+797,287,,Kelly,Illinois,Co,177,ENGROSSED,Senator,
+798,287,,Brady,Pennsylvania,Co,316,ENGROSSED,Senator,
+799,287,Carolyn B,Maloney,New York,Co,329,ENGROSSED,Senator,
+800,287,Carolyn B,Maloney,New York,Co,322,ENGROSSED,Senator,
+801,287,,Price,North Carolina,Co,288,ENGROSSED,Senator,
+802,287,,Higgins,New York,Co,290,ENGROSSED,Senator,
+803,287,David,Scott,Georgia,Co,230,ENGROSSED,Senator,328
+804,287,David,Scott,Georgia,Co,216,ENGROSSED,Senator,328
+805,287,,Murphy,Florida,Co,264,ENGROSSED,Senator,254
+806,287,,Bishop,Georgia,Co,9,ENGROSSED,Senator,
+807,287,Danny K,Davis,Illinois,Co,187,ENGROSSED,Senator,
+808,287,Danny K,Davis,Illinois,Co,158,ENGROSSED,Senator,
+809,287,,Lewis,Georgia,Co,221,ENGROSSED,Senator,
+810,287,Ted,Lieu,California,Co,378,ENGROSSED,Senator,
+811,287,,Lawson,Florida,Co,249,ENGROSSED,Senator,
+812,287,,Clark,Massachusetts,Co,347,ENGROSSED,Senator,
+813,287,,Sewell,Alabama,Co,172,ENGROSSED,Senator,
+814,287,Maxine,Waters,California,Co,383,ENGROSSED,Senator,
+815,287,,Johnson,Georgia,Co,0,ENGROSSED,Senator,184
+816,287,,Clarke,New York,Co,330,ENGROSSED,Senator,
+817,287,Al,Green,Texas,Co,132,ENGROSSED,Senator,
+818,287,Al,Green,Texas,Co,128,ENGROSSED,Senator,
+819,287,Sean P,Maloney,New York,Co,329,ENGROSSED,Senator,
+820,287,Sean P,Maloney,New York,Co,322,ENGROSSED,Senator,
+821,287,,Carson,Indiana,Co,202,ENGROSSED,Senator,
+822,291,,Brown,Maryland,Co,304,ENGROSSED,Senator,42
+823,291,,Carson,Indiana,Co,202,ENGROSSED,Senator,
+824,291,,Castro,Texas,Co,99,ENGROSSED,Senator,
+825,291,Judy,Chu,California,Co,388,ENGROSSED,Senator,
+826,291,,Clarke,New York,Co,330,ENGROSSED,Senator,
+827,291,Danny K,Davis,Illinois,Co,187,ENGROSSED,Senator,
+828,291,Danny K,Davis,Illinois,Co,158,ENGROSSED,Senator,
+829,291,Al,Green,Texas,Co,132,ENGROSSED,Senator,
+830,291,Al,Green,Texas,Co,128,ENGROSSED,Senator,
+831,291,Eddie B,Johnson,Texas,Co,117,ENGROSSED,Senator,184
+832,291,Eddie B,Johnson,Texas,Co,113,ENGROSSED,Senator,184
+833,291,,Kelly,Illinois,Co,177,ENGROSSED,Senator,
+834,291,,Lewis,Georgia,Co,221,ENGROSSED,Senator,
+835,291,Ted,Lieu,California,Co,378,ENGROSSED,Senator,
+836,291,,Scott,Virginia,Co,52,ENGROSSED,Senator,328
+837,291,,Sewell,Alabama,Co,172,ENGROSSED,Senator,
+838,291,,Swalwell,California,Co,361,ENGROSSED,Senator,
+839,291,,Wilson,Florida,Co,278,ENGROSSED,Senator,
+840,293,,Brady,Pennsylvania,Co,316,ENROLLED,Senator,
+841,293,,Lewis,Georgia,Co,221,ENROLLED,Senator,
+842,293,Sean P,Maloney,New York,Co,329,ENROLLED,Senator,
+843,293,Sean P,Maloney,New York,Co,322,ENROLLED,Senator,
+844,293,,Duncan,Tennessee,Co,4,ENROLLED,Senator,
+845,293,,Bishop,Georgia,Co,9,ENROLLED,Senator,
+846,293,,Scott,Virginia,Co,52,ENROLLED,Senator,328
+847,293,Danny K,Davis,Illinois,Co,187,ENROLLED,Senator,
+848,293,Danny K,Davis,Illinois,Co,158,ENROLLED,Senator,
+849,293,David,Scott,Georgia,Co,230,ENROLLED,Senator,328
+850,293,David,Scott,Georgia,Co,216,ENROLLED,Senator,328
+851,293,,Sewell,Alabama,Co,172,ENROLLED,Senator,
+852,293,,Carson,Indiana,Co,202,ENROLLED,Senator,
+853,293,,Johnson,Georgia,Co,0,ENROLLED,Senator,184
+854,293,Maxine,Waters,California,Co,383,ENROLLED,Senator,
+855,293,Judy,Chu,California,Co,388,ENROLLED,Senator,
+856,293,,Wilson,Florida,Co,278,ENROLLED,Senator,
+857,293,,Castor,Florida,Co,42,ENROLLED,Senator,
+858,293,,Roe,Tennessee,Co,232,ENROLLED,Senator,
+859,293,,Kustoff,Tennessee,Co,23,ENROLLED,Senator,
+860,293,,Brown,Maryland,Co,304,ENROLLED,Senator,42
+861,293,,Ryan,Ohio,Co,262,ENROLLED,Senator,
+862,293,Eddie B,Johnson,Texas,Co,117,ENROLLED,Senator,184
+863,293,Eddie B,Johnson,Texas,Co,113,ENROLLED,Senator,184
+864,294,,Thompson,Mississippi,Co,155,ENROLLED,Senator,
+865,294,Brendan F,Boyle,Pennsylvania,Co,315,ENROLLED,Senator,
+866,296,,Royce,California,Primary,392,ENROLLED,Senator,
+867,296,Ted,Lieu,California,Co,378,ENROLLED,Senator,
+868,296,Judy,Chu,California,Co,388,ENROLLED,Senator,
+869,296,Al,Green,Texas,Co,132,ENROLLED,Senator,
+870,296,Al,Green,Texas,Co,128,ENROLLED,Senator,
+871,296,Mimi,Walters,California,Co,394,ENROLLED,Senator,
+872,296,,Wilson,South Carolina,Co,254,ENROLLED,Senator,
+873,299,,Bishop,Georgia,Co,9,INTRODUCED,Senator,
+874,306,,Bishop,Georgia,Co,9,INTRODUCED,Senator,
+875,306,,Brady,Pennsylvania,Co,316,INTRODUCED,Senator,
+876,306,Gene,Green,Texas,Co,132,INTRODUCED,Senator,
+877,306,Gene,Green,Texas,Co,128,INTRODUCED,Senator,
+878,306,,Ryan,Ohio,Co,262,INTRODUCED,Senator,
+879,306,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+880,307,,Carson,Indiana,Primary,202,INTRODUCED,Senator,
+881,313,,Castro,Texas,Primary,99,INTRODUCED,Senator,
+882,315,,Rice,New York,Co,335,INTRODUCED,Senator,
+883,315,,Brownley,California,Co,92,INTRODUCED,Senator,
+884,315,,Davis,California,Co,403,INTRODUCED,Senator,
+885,315,,Ryan,Ohio,Co,262,INTRODUCED,Senator,
+886,315,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+887,315,,Swalwell,California,Co,361,INTRODUCED,Senator,
+888,318,,Clarke,New York,Co,330,INTRODUCED,Senator,
+889,320,Eddie B,Johnson,Texas,Primary,117,INTRODUCED,Senator,184
+890,320,Eddie B,Johnson,Texas,Primary,113,INTRODUCED,Senator,184
+891,320,,Clark,Massachusetts,Co,347,INTRODUCED,Senator,
+892,320,,Price,North Carolina,Co,288,INTRODUCED,Senator,
+893,320,,Esty,Connecticut,Co,337,INTRODUCED,Senator,119
+894,320,Ted,Lieu,California,Co,378,INTRODUCED,Senator,
+895,320,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+896,320,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+897,324,,Lewis,Georgia,Primary,221,INTRODUCED,Senator,
+898,325,Eddie B,Johnson,Texas,Primary,117,INTRODUCED,Senator,184
+899,325,Eddie B,Johnson,Texas,Primary,113,INTRODUCED,Senator,184
+900,325,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+901,325,,Clarke,New York,Co,330,INTRODUCED,Senator,
+902,325,,Thompson,Mississippi,Co,155,INTRODUCED,Senator,
+903,325,,Bishop,Georgia,Co,9,INTRODUCED,Senator,
+904,325,,Lewis,Georgia,Co,221,INTRODUCED,Senator,
+905,325,Al,Green,Texas,Co,132,INTRODUCED,Senator,
+906,325,Al,Green,Texas,Co,128,INTRODUCED,Senator,
+907,325,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+908,325,,Lawson,Florida,Co,249,INTRODUCED,Senator,
+909,325,,Sewell,Alabama,Co,172,INTRODUCED,Senator,
+910,325,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+911,325,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+912,326,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Senator,184
+913,326,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Senator,184
+914,326,,Brown,Maryland,Co,304,INTRODUCED,Senator,42
+915,326,,Lewis,Georgia,Co,221,INTRODUCED,Senator,
+916,327,,Costello,Pennsylvania,Co,308,INTRODUCED,Senator,
+917,328,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+918,328,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Senator,
+919,328,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+920,328,Ted,Lieu,California,Co,378,INTRODUCED,Senator,
+921,328,,Larsen,Washington,Co,83,INTRODUCED,Senator,
+922,328,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Senator,
+923,328,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Senator,
+924,328,,Sewell,Alabama,Co,172,INTRODUCED,Senator,
+925,328,,Lewis,Georgia,Co,221,INTRODUCED,Senator,
+926,336,,Esty,Connecticut,Primary,337,INTRODUCED,Senator,119
+927,339,,Brooks,Alabama,Co,178,INTRODUCED,Senator,
+928,339,,Carter,Georgia,Co,44,INTRODUCED,Senator,
+929,339,,Carter,Texas,Co,103,INTRODUCED,Senator,
+930,339,,Duncan,South Carolina,Co,236,INTRODUCED,Senator,
+931,339,Jody B,Hice,Georgia,Co,229,INTRODUCED,Senator,
+932,339,,Smith,Texas,Co,452,INTRODUCED,Senator,340
+933,339,,Webster,Florida,Co,38,INTRODUCED,Senator,
+934,341,Sean P,Maloney,New York,Co,329,INTRODUCED,Senator,
+935,341,Sean P,Maloney,New York,Co,322,INTRODUCED,Senator,
+936,343,,Higgins,New York,Co,290,INTRODUCED,Senator,
+937,343,,Ryan,Ohio,Co,262,INTRODUCED,Senator,
+938,343,,Smith,Washington,Co,357,INTRODUCED,Senator,340
+939,344,,Thompson,Mississippi,Co,155,INTRODUCED,Senator,
+940,344,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+941,344,,Gonzalez,Texas,Co,98,INTRODUCED,Senator,
+942,346,,King,New York,Primary,336,INTRODUCED,Senator,197
+943,346,,Rice,New York,Co,335,INTRODUCED,Senator,
+944,353,Danny K,Davis,Illinois,Primary,187,INTRODUCED,Senator,
+945,353,Danny K,Davis,Illinois,Primary,158,INTRODUCED,Senator,
+946,354,,Davis,California,Co,403,INTRODUCED,Senator,
+947,354,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+948,354,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+949,354,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+950,358,,Clark,Massachusetts,Co,347,INTRODUCED,Senator,
+951,358,Ted,Lieu,California,Co,378,INTRODUCED,Senator,
+952,358,,Ryan,Ohio,Co,262,INTRODUCED,Senator,
+953,358,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+954,358,,Lewis,Georgia,Co,221,INTRODUCED,Senator,
+955,358,,Thompson,Mississippi,Co,155,INTRODUCED,Senator,
+956,358,,Brady,Pennsylvania,Co,316,INTRODUCED,Senator,
+957,358,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+958,358,,Clarke,New York,Co,330,INTRODUCED,Senator,
+959,358,Judy,Chu,California,Co,388,INTRODUCED,Senator,
+960,358,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+961,358,Michael F,Doyle,Pennsylvania,Co,282,INTRODUCED,Senator,
+962,358,Al,Green,Texas,Co,132,INTRODUCED,Senator,
+963,358,Al,Green,Texas,Co,128,INTRODUCED,Senator,
+964,359,Maxine,Waters,California,Co,383,INTRODUCED,Senator,
+965,359,David,Scott,Georgia,Co,230,INTRODUCED,Senator,328
+966,359,David,Scott,Georgia,Co,216,INTRODUCED,Senator,328
+967,362,,Lewis,Georgia,Co,221,INTRODUCED,Senator,
+968,362,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Senator,184
+969,362,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Senator,184
+970,362,,Sewell,Alabama,Co,172,INTRODUCED,Senator,
+971,362,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+972,362,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+973,362,,Clarke,New York,Co,330,INTRODUCED,Senator,
+974,362,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+975,362,David,Scott,Georgia,Co,230,INTRODUCED,Senator,328
+976,362,David,Scott,Georgia,Co,216,INTRODUCED,Senator,328
+977,362,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+978,362,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+979,362,Maxine,Waters,California,Co,383,INTRODUCED,Senator,
+980,362,,Lawson,Florida,Co,249,INTRODUCED,Senator,
+981,362,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+982,363,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+983,363,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+984,363,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+985,365,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+986,365,Sean P,Maloney,New York,Co,329,INTRODUCED,Senator,
+987,365,Sean P,Maloney,New York,Co,322,INTRODUCED,Senator,
+988,365,,Swalwell,California,Co,361,INTRODUCED,Senator,
+989,365,,Brownley,California,Co,92,INTRODUCED,Senator,
+990,365,,Rice,New York,Co,335,INTRODUCED,Senator,
+991,365,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+992,365,,Price,North Carolina,Co,288,INTRODUCED,Senator,
+993,365,,Clark,Massachusetts,Co,347,INTRODUCED,Senator,
+994,365,,Frankel,Florida,Co,279,INTRODUCED,Senator,
+995,365,,Frankel,Florida,Co,277,INTRODUCED,Senator,
+996,365,,Smith,Washington,Co,357,INTRODUCED,Senator,340
+997,365,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Senator,
+998,365,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Senator,
+999,365,,Davis,California,Co,403,INTRODUCED,Senator,
+1000,365,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+1001,365,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+1002,365,Ted,Lieu,California,Co,378,INTRODUCED,Senator,
+1003,365,,Larson,Connecticut,Co,342,INTRODUCED,Senator,
+1004,365,,Lewis,Georgia,Co,221,INTRODUCED,Senator,
+1005,365,,Brady,Pennsylvania,Co,316,INTRODUCED,Senator,
+1006,365,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Senator,
+1007,365,,Ryan,Ohio,Co,262,INTRODUCED,Senator,
+1008,365,,Larsen,Washington,Co,83,INTRODUCED,Senator,
+1009,365,,Castor,Florida,Co,42,INTRODUCED,Senator,
+1010,365,,Esty,Connecticut,Co,337,INTRODUCED,Senator,119
+1011,367,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+1012,367,,Davis,California,Co,403,INTRODUCED,Senator,
+1013,368,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+1014,368,,Brown,Maryland,Co,304,INTRODUCED,Senator,42
+1015,368,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Senator,184
+1016,368,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Senator,184
+1017,368,,Clarke,New York,Co,330,INTRODUCED,Senator,
+1018,368,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+1019,368,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+1020,368,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+1021,368,Al,Green,Texas,Co,132,INTRODUCED,Senator,
+1022,368,Al,Green,Texas,Co,128,INTRODUCED,Senator,
+1023,368,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+1024,368,David,Scott,Georgia,Co,230,INTRODUCED,Senator,328
+1025,368,David,Scott,Georgia,Co,216,INTRODUCED,Senator,328
+1026,369,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+1027,369,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+1028,369,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+1029,369,David,Scott,Georgia,Co,230,INTRODUCED,Senator,328
+1030,369,David,Scott,Georgia,Co,216,INTRODUCED,Senator,328
+1031,369,Al,Green,Texas,Co,132,INTRODUCED,Senator,
+1032,369,Al,Green,Texas,Co,128,INTRODUCED,Senator,
+1033,369,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+1034,369,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Senator,184
+1035,369,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Senator,184
+1036,369,,Clarke,New York,Co,330,INTRODUCED,Senator,
+1037,369,,Brown,Maryland,Co,304,INTRODUCED,Senator,42
+1038,369,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+1039,376,,Clarke,New York,Co,330,INTRODUCED,Senator,
+1040,376,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+1041,376,Sean P,Maloney,New York,Co,329,INTRODUCED,Senator,
+1042,376,Sean P,Maloney,New York,Co,322,INTRODUCED,Senator,
+1043,377,,Swalwell,California,Co,361,INTRODUCED,Senator,
+1044,377,Judy,Chu,California,Co,388,INTRODUCED,Senator,
+1045,377,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+1046,377,Michael F,Doyle,Pennsylvania,Co,282,INTRODUCED,Senator,
+1047,377,Sean P,Maloney,New York,Co,329,INTRODUCED,Senator,
+1048,377,Sean P,Maloney,New York,Co,322,INTRODUCED,Senator,
+1049,377,,Sewell,Alabama,Co,172,INTRODUCED,Senator,
+1050,377,Al,Green,Texas,Co,132,INTRODUCED,Senator,
+1051,377,Al,Green,Texas,Co,128,INTRODUCED,Senator,
+1052,377,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+1053,377,,Davis,California,Co,403,INTRODUCED,Senator,
+1054,377,,Brownley,California,Co,92,INTRODUCED,Senator,
+1055,377,,Clark,Massachusetts,Co,347,INTRODUCED,Senator,
+1056,377,,Larsen,Washington,Co,83,INTRODUCED,Senator,
+1057,377,,Clarke,New York,Co,330,INTRODUCED,Senator,
+1058,377,,Larson,Connecticut,Co,342,INTRODUCED,Senator,
+1059,377,,Frankel,Florida,Co,279,INTRODUCED,Senator,
+1060,377,,Frankel,Florida,Co,277,INTRODUCED,Senator,
+1061,377,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Senator,
+1062,377,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Senator,
+1063,377,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+1064,377,,Rice,New York,Co,335,INTRODUCED,Senator,
+1065,377,,Ryan,Ohio,Co,262,INTRODUCED,Senator,
+1066,377,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+1067,377,,Brady,Pennsylvania,Co,316,INTRODUCED,Senator,
+1068,377,Brendan F,Boyle,Pennsylvania,Co,315,INTRODUCED,Senator,
+1069,377,,Smith,Washington,Co,357,INTRODUCED,Senator,340
+1070,377,,Thompson,California,Co,354,INTRODUCED,Senator,
+1071,377,,Price,North Carolina,Co,288,INTRODUCED,Senator,
+1072,377,,Lewis,Georgia,Co,221,INTRODUCED,Senator,
+1073,377,,Higgins,New York,Co,290,INTRODUCED,Senator,
+1074,378,,Franks,Arizona,Co,416,INTRODUCED,Senator,
+1075,383,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+1076,383,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+1077,383,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+1078,383,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+1079,383,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+1080,383,,Smith,Washington,Co,357,INTRODUCED,Senator,340
+1081,384,,Brown,Maryland,Co,304,INTRODUCED,Senator,42
+1082,384,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+1083,384,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Senator,
+1084,384,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Senator,
+1085,384,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+1086,393,,Costello,Pennsylvania,Co,308,INTRODUCED,Senator,
+1087,393,,Kuster,New Hampshire,Co,345,INTRODUCED,Senator,
+1088,402,,Smith,Missouri,Co,150,INTRODUCED,Senator,340
+1089,403,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+1090,406,,Scott,Virginia,Primary,52,INTRODUCED,Senator,328
+1091,406,,Davis,California,Co,403,INTRODUCED,Senator,
+1092,407,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+1093,407,,Clarke,New York,Co,330,INTRODUCED,Senator,
+1094,408,Judy,Chu,California,Co,388,INTRODUCED,Senator,
+1095,408,,Clarke,New York,Co,330,INTRODUCED,Senator,
+1096,408,Carolyn B,Maloney,New York,Co,329,INTRODUCED,Senator,
+1097,408,Carolyn B,Maloney,New York,Co,322,INTRODUCED,Senator,
+1098,410,,Mooney,West Virginia,Co,251,INTRODUCED,Senator,
+1099,415,,Lewis,Georgia,Co,221,INTRODUCED,Senator,
+1100,415,Maxine,Waters,California,Co,383,INTRODUCED,Senator,
+1101,415,,Bishop,Georgia,Co,9,INTRODUCED,Senator,
+1102,415,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Senator,184
+1103,415,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Senator,184
+1104,415,,Scott,Virginia,Co,52,INTRODUCED,Senator,328
+1105,415,,Thompson,Mississippi,Co,155,INTRODUCED,Senator,
+1106,415,Danny K,Davis,Illinois,Co,187,INTRODUCED,Senator,
+1107,415,Danny K,Davis,Illinois,Co,158,INTRODUCED,Senator,
+1108,415,David,Scott,Georgia,Co,230,INTRODUCED,Senator,328
+1109,415,David,Scott,Georgia,Co,216,INTRODUCED,Senator,328
+1110,415,Al,Green,Texas,Co,132,INTRODUCED,Senator,
+1111,415,Al,Green,Texas,Co,128,INTRODUCED,Senator,
+1112,415,,Clarke,New York,Co,330,INTRODUCED,Senator,
+1113,415,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+1114,415,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+1115,415,,Sewell,Alabama,Co,172,INTRODUCED,Senator,
+1116,415,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+1117,415,,Kelly,Illinois,Co,177,INTRODUCED,Senator,
+1118,415,,Brown,Maryland,Co,304,INTRODUCED,Senator,42
+1119,415,,Lawson,Florida,Co,249,INTRODUCED,Senator,
+1120,419,,Rice,South Carolina,Co,272,INTRODUCED,Senator,
+1121,420,,Esty,Connecticut,Co,337,INTRODUCED,Senator,119
+1122,423,,Ryan,Ohio,Co,262,INTRODUCED,Senator,
+1123,423,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+1124,423,,Johnson,Georgia,Co,0,INTRODUCED,Senator,184
+1125,423,Sean P,Maloney,New York,Co,329,INTRODUCED,Senator,
+1126,423,Sean P,Maloney,New York,Co,322,INTRODUCED,Senator,
+1127,423,Judy,Chu,California,Co,388,INTRODUCED,Senator,
+1128,423,,Kuster,New Hampshire,Co,345,INTRODUCED,Senator,
+1129,428,,Carson,Indiana,Co,202,INTRODUCED,Senator,
+1130,431,,Clark,Massachusetts,Co,347,INTRODUCED,Senator,
+1131,431,,Frankel,Florida,Co,279,INTRODUCED,Senator,
+1132,431,,Frankel,Florida,Co,277,INTRODUCED,Senator,
+1133,431,,Brooks,Indiana,Co,201,INTRODUCED,Senator,
+1134,431,Judy,Chu,California,Co,388,INTRODUCED,Senator,
+1135,431,,Jenkins,Kansas,Co,118,INTRODUCED,Senator,
+1136,431,,Brownley,California,Co,92,INTRODUCED,Senator,
+1137,431,,Sewell,Alabama,Co,172,INTRODUCED,Senator,
+1138,431,,Clarke,New York,Co,330,INTRODUCED,Senator,
+1139,431,,Wilson,Florida,Co,278,INTRODUCED,Senator,
+1140,431,Eddie B,Johnson,Texas,Co,117,INTRODUCED,Senator,184
+1141,431,Eddie B,Johnson,Texas,Co,113,INTRODUCED,Senator,184
+1142,431,,Davis,California,Co,403,INTRODUCED,Senator,
+1143,431,,Esty,Connecticut,Co,337,INTRODUCED,Senator,119
+1144,432,Al,Green,Texas,Co,132,INTRODUCED,Senator,
+1145,432,Al,Green,Texas,Co,128,INTRODUCED,Senator,
+1146,434,Judy,Chu,California,Co,388,INTRODUCED,Senator,
+1147,437,Ted,Lieu,California,Co,378,INTRODUCED,Senator,
+1148,439,,Smith,Washington,Co,357,INTRODUCED,Senator,340
+1149,442,,Scott,Virginia,Primary,52,PLACED_ON_CALENDAR,Senator,328
+1150,442,,Ryan,Ohio,Co,262,PLACED_ON_CALENDAR,Senator,
+1151,442,,Wilson,Florida,Co,278,PLACED_ON_CALENDAR,Senator,
+1152,442,,Sewell,Alabama,Co,172,PLACED_ON_CALENDAR,Senator,
+1153,442,,Clarke,New York,Co,330,PLACED_ON_CALENDAR,Senator,
+1154,442,Ted,Lieu,California,Co,378,PLACED_ON_CALENDAR,Senator,
+1155,442,,Johnson,Georgia,Co,0,PLACED_ON_CALENDAR,Senator,184
+1156,442,Brendan F,Boyle,Pennsylvania,Co,315,PLACED_ON_CALENDAR,Senator,
+1157,442,,Brady,Pennsylvania,Co,316,PLACED_ON_CALENDAR,Senator,
+1158,442,Gene,Green,Texas,Co,132,PLACED_ON_CALENDAR,Senator,
+1159,442,Gene,Green,Texas,Co,128,PLACED_ON_CALENDAR,Senator,
+1160,442,,Castor,Florida,Co,42,PLACED_ON_CALENDAR,Senator,
+1161,449,,Murphy,Florida,Co,264,PLACED_ON_CALENDAR,Senator,254
+1162,453,,Scott,Virginia,Co,52,PLACED,Senator,328
+1163,453,,Clarke,New York,Co,330,PLACED,Senator,
+1164,453,Carolyn B,Maloney,New York,Co,329,PLACED,Senator,
+1165,453,Carolyn B,Maloney,New York,Co,322,PLACED,Senator,
+1166,453,,Davis,California,Co,403,PLACED,Senator,
+1167,454,,Franks,Arizona,Co,416,PLACED,Senator,
+1168,454,Jody B,Hice,Georgia,Co,229,PLACED,Senator,
+1169,454,,Bishop,Utah,Co,414,PLACED,Senator,
+1170,454,,Duncan,South Carolina,Co,236,PLACED,Senator,
+1171,455,Brendan F,Boyle,Pennsylvania,Co,315,PLACED,Senator,
+1172,455,,Clarke,New York,Co,330,PLACED,Senator,
+1173,455,,Rice,New York,Co,335,PLACED,Senator,
+1174,455,,Frankel,Florida,Co,279,PLACED,Senator,
+1175,455,,Frankel,Florida,Co,277,PLACED,Senator,
+1176,455,Carolyn B,Maloney,New York,Co,329,PLACED,Senator,
+1177,455,Carolyn B,Maloney,New York,Co,322,PLACED,Senator,
+1178,455,,Thompson,California,Co,354,PLACED,Senator,
+1179,455,,Higgins,New York,Co,290,PLACED,Senator,
+1180,455,,Smith,Washington,Co,357,PLACED,Senator,340
+1181,455,Danny K,Davis,Illinois,Co,187,PLACED,Senator,
+1182,455,Danny K,Davis,Illinois,Co,158,PLACED,Senator,
+1183,455,,Clark,Massachusetts,Co,347,PLACED,Senator,
+1184,455,,Brownley,California,Co,92,PLACED,Senator,
+1185,455,,Castor,Florida,Co,42,PLACED,Senator,
+1186,455,,Wilson,Florida,Co,278,PLACED,Senator,
+1187,455,David,Scott,Georgia,Co,230,PLACED,Senator,328
+1188,455,David,Scott,Georgia,Co,216,PLACED,Senator,328
+1189,455,Michael F,Doyle,Pennsylvania,Co,282,PLACED,Senator,
+1190,455,Ted,Lieu,California,Co,378,PLACED,Senator,
+1191,455,,Swalwell,California,Co,361,PLACED,Senator,
+1192,455,,Ryan,Ohio,Co,262,PLACED,Senator,
+1193,455,,Carson,Indiana,Co,202,PLACED,Senator,
+1194,455,,Brady,Pennsylvania,Co,316,PLACED,Senator,
+1195,455,Gene,Green,Texas,Co,132,PLACED,Senator,
+1196,455,Gene,Green,Texas,Co,128,PLACED,Senator,
+1197,455,,Lawson,Florida,Co,249,PLACED,Senator,
+1198,455,,Bishop,Georgia,Co,9,PLACED,Senator,
+1199,455,,Davis,California,Co,403,PLACED,Senator,
+1200,455,Sean P,Maloney,New York,Co,329,PLACED,Senator,
+1201,455,Sean P,Maloney,New York,Co,322,PLACED,Senator,
+1202,455,Eddie B,Johnson,Texas,Co,117,PLACED,Senator,184
+1203,455,Eddie B,Johnson,Texas,Co,113,PLACED,Senator,184
+1204,455,,Murphy,Florida,Co,264,PLACED,Senator,254
+1205,455,,Price,North Carolina,Co,288,PLACED,Senator,
+1206,455,,Sewell,Alabama,Co,172,PLACED,Senator,
+1207,455,Judy,Chu,California,Co,388,PLACED,Senator,
+1208,455,,Larsen,Washington,Co,83,PLACED,Senator,
+1209,455,Al,Green,Texas,Co,132,PLACED,Senator,
+1210,455,Al,Green,Texas,Co,128,PLACED,Senator,
+1211,455,,Kuster,New Hampshire,Co,345,PLACED,Senator,
+1212,455,,Larson,Connecticut,Co,342,PLACED,Senator,
+1213,455,,Scott,Virginia,Co,52,PLACED,Senator,328
+1214,455,,Johnson,Georgia,Co,0,PLACED,Senator,184
+1215,455,,Kelly,Illinois,Co,177,PLACED,Senator,
+1216,455,,Brown,Maryland,Co,304,PLACED,Senator,42
+1217,455,,Lewis,Georgia,Co,221,PLACED,Senator,
+1218,455,,Gonzalez,Texas,Co,98,PLACED,Senator,
+1219,455,,Castro,Texas,Co,99,PLACED,Senator,
+1220,455,,Thompson,Mississippi,Co,155,PLACED,Senator,
+1221,455,Maxine,Waters,California,Co,383,PLACED,Senator,
+1222,455,,Smith,New Jersey,Co,323,PLACED,Senator,340
+1223,456,,Scott,Virginia,Co,52,PLACED,Senator,328
+1224,456,,Smith,Washington,Co,357,PLACED,Senator,340
+1225,456,Sean P,Maloney,New York,Co,329,PLACED,Senator,
+1226,456,Sean P,Maloney,New York,Co,322,PLACED,Senator,
+1227,458,,Curbelo,Florida,Primary,45,RECEIVED,Senator,
+1228,461,,Scott,Virginia,Primary,52,REFERRED,Senator,328
+1229,461,,Wilson,Florida,Co,278,REFERRED,Senator,
+1230,461,,Frankel,Florida,Co,279,REFERRED,Senator,
+1231,461,,Frankel,Florida,Co,277,REFERRED,Senator,
+1232,461,,Carson,Indiana,Co,202,REFERRED,Senator,
+1233,461,,Clark,Massachusetts,Co,347,REFERRED,Senator,
+1234,461,,Castro,Texas,Co,99,REFERRED,Senator,
+1235,461,,Davis,California,Co,403,REFERRED,Senator,
+1236,467,,Smith,New Jersey,Primary,323,REFERRED,Senator,340
+1237,468,,Smith,New Jersey,Primary,323,REFERRED,Senator,340
+1238,469,,Kelly,Pennsylvania,Co,273,REPORTED,Senator,
+1239,471,,Scott,Virginia,Primary,52,REPORTED,Senator,328
+1240,471,,Davis,California,Co,403,REPORTED,Senator,
+1241,471,,Wilson,Florida,Co,278,REPORTED,Senator,
+1242,472,,Frankel,Florida,Primary,279,REPORTED,Senator,
+1243,472,,Frankel,Florida,Primary,277,REPORTED,Senator,
+1244,472,,Poe,Texas,Co,129,REPORTED,Senator,
+1245,477,,Kelly,Illinois,Primary,177,REPORTED,Senator,
+1246,477,,Swalwell,California,Co,361,REPORTED,Senator,
+1247,477,,Scott,Virginia,Co,52,REPORTED,Senator,328
+1248,477,,Clarke,New York,Co,330,REPORTED,Senator,
+1249,477,,Thompson,Mississippi,Co,155,REPORTED,Senator,
+1250,477,,Sewell,Alabama,Co,172,REPORTED,Senator,
+1251,477,,Ryan,Ohio,Co,262,REPORTED,Senator,
+1252,477,,Kuster,New Hampshire,Co,345,REPORTED,Senator,
+1253,477,,Esty,Connecticut,Co,337,REPORTED,Senator,119
+1254,484,,Kelly,Illinois,Primary,177,,,
+1255,484,,Swalwell,California,Co,361,,,
+1256,484,,Scott,Virginia,Co,52,,,328
+1257,484,,Clarke,New York,Co,330,,,
+1258,484,,Thompson,Mississippi,Co,155,,,
+1259,484,,Sewell,Alabama,Co,172,,,
+1260,484,,Ryan,Ohio,Co,262,,,
+1261,484,,Kuster,New Hampshire,Co,345,,,
+1262,485,,Royce,California,Primary,392,,,
+1263,489,,Royce,California,Primary,392,,,
+1264,493,,Scott,Virginia,Co,52,,,328
+1265,493,,Davis,California,Co,403,,,
+1266,493,,Wilson,Florida,Co,278,,,
+1267,495,Brendan F,Boyle,Pennsylvania,Co,315,,,
+1268,495,,Brownley,California,Co,92,,,
+1269,495,,Davis,California,Co,403,,,
+1270,495,Eddie B,Johnson,Texas,Co,117,,,184
+1271,495,Eddie B,Johnson,Texas,Co,113,,,184
+1272,495,,Johnson,Georgia,Co,0,,,184
+1273,495,,Price,North Carolina,Co,288,,,
+1274,495,,Ryan,Ohio,Co,262,,,
+1275,495,,Swalwell,California,Co,361,,,
+1276,495,,Thompson,California,Co,354,,,
+1277,495,Ted,Lieu,California,Co,378,,,
+1278,495,,Larson,Connecticut,Co,342,,,
+1279,495,,Brown,Maryland,Co,304,,,42
+1280,496,,Scott,Virginia,Co,52,,,328
+1281,496,,Davis,California,Co,403,,,
+1282,496,,Wilson,Florida,Co,278,,,
+1283,496,,Roe,Tennessee,Co,232,,,
+1284,496,,Wilson,South Carolina,Co,254,,,
+1285,496,Danny K,Davis,Illinois,Co,187,,,
+1286,496,Danny K,Davis,Illinois,Co,158,,,
+1287,496,,Thompson,Pennsylvania,Co,280,,,
+1288,496,,Curbelo,Florida,Co,45,,,
+1289,497,,Lewis,Georgia,Co,221,,,
+1290,497,Maxine,Waters,California,Co,383,,,
+1291,497,Ted,Lieu,California,Co,378,,,
+1292,497,,Davis,California,Co,403,,,
+1293,497,Eddie B,Johnson,Texas,Co,117,,,184
+1294,497,Eddie B,Johnson,Texas,Co,113,,,184
+1295,497,Al,Green,Texas,Co,132,,,
+1296,497,Al,Green,Texas,Co,128,,,
+1297,497,Judy,Chu,California,Co,388,,,
+1298,497,Danny K,Davis,Illinois,Co,187,,,
+1299,497,Danny K,Davis,Illinois,Co,158,,,
+1300,497,,Scott,Virginia,Co,52,,,328
+1301,499,,Lewis,Georgia,Primary,221,,,
+1302,499,,Brady,Pennsylvania,Co,316,,,
+1303,499,,Bishop,Georgia,Co,9,,,
+1304,499,Brendan F,Boyle,Pennsylvania,Co,315,,,
+1305,499,,Brown,Maryland,Co,304,,,42
+1306,499,,Brownley,California,Co,92,,,
+1307,499,,Carson,Indiana,Co,202,,,
+1308,499,,Castor,Florida,Co,42,,,
+1309,499,,Castro,Texas,Co,99,,,
+1310,499,Judy,Chu,California,Co,388,,,
+1311,499,,Clark,Massachusetts,Co,347,,,
+1312,499,,Clarke,New York,Co,330,,,
+1313,499,Danny K,Davis,Illinois,Co,187,,,
+1314,499,Danny K,Davis,Illinois,Co,158,,,
+1315,499,,Davis,California,Co,403,,,
+1316,499,Michael F,Doyle,Pennsylvania,Co,282,,,
+1317,499,,Esty,Connecticut,Co,337,,,119
+1318,499,,Frankel,Florida,Co,279,,,
+1319,499,,Frankel,Florida,Co,277,,,
+1320,499,,Gonzalez,Texas,Co,98,,,
+1321,499,Al,Green,Texas,Co,132,,,
+1322,499,Al,Green,Texas,Co,128,,,
+1323,499,Gene,Green,Texas,Co,132,,,
+1324,499,Gene,Green,Texas,Co,128,,,
+1325,499,,Higgins,New York,Co,290,,,
+1326,499,Eddie B,Johnson,Texas,Co,117,,,184
+1327,499,Eddie B,Johnson,Texas,Co,113,,,184
+1328,499,,Johnson,Georgia,Co,0,,,184
+1329,499,,Kelly,Illinois,Co,177,,,
+1330,499,,Kuster,New Hampshire,Co,345,,,
+1331,499,,Larsen,Washington,Co,83,,,
+1332,499,,Larson,Connecticut,Co,342,,,
+1333,499,,Lawson,Florida,Co,249,,,
+1334,499,Ted,Lieu,California,Co,378,,,
+1335,499,Carolyn B,Maloney,New York,Co,329,,,
+1336,499,Carolyn B,Maloney,New York,Co,322,,,
+1337,499,Sean P,Maloney,New York,Co,329,,,
+1338,499,Sean P,Maloney,New York,Co,322,,,
+1339,499,,Price,North Carolina,Co,288,,,
+1340,499,,Rice,New York,Co,335,,,
+1341,499,,Ryan,Ohio,Co,262,,,
+1342,499,David,Scott,Georgia,Co,230,,,328
+1343,499,David,Scott,Georgia,Co,216,,,328
+1344,499,,Scott,Virginia,Co,52,,,328
+1345,499,,Sewell,Alabama,Co,172,,,
+1346,499,,Smith,Washington,Co,357,,,340
+1347,499,,Swalwell,California,Co,361,,,
+1348,499,,Thompson,Mississippi,Co,155,,,
+1349,499,,Thompson,California,Co,354,,,
+1350,499,,Wilson,Florida,Co,278,,,
+1351,502,Ted,Lieu,California,Co,378,,,
+1352,507,,Scott,Virginia,Primary,52,,,328
+1353,507,,Curbelo,Florida,Co,45,,,
+1354,510,,Kelly,Illinois,Primary,177,,,
+1355,510,,Clark,Massachusetts,Co,347,,,
+1356,510,Al,Green,Texas,Co,132,,,
+1357,510,Al,Green,Texas,Co,128,,,
+1358,510,,Clarke,New York,Co,330,,,
+1359,510,Maxine,Waters,California,Co,383,,,
+1360,510,Danny K,Davis,Illinois,Co,187,,,
+1361,510,Danny K,Davis,Illinois,Co,158,,,
+1362,511,,Smith,Washington,Co,357,,,340
+1363,511,Gene,Green,Texas,Co,132,,,
+1364,511,Gene,Green,Texas,Co,128,,,
+1365,511,Sean P,Maloney,New York,Co,329,,,
+1366,511,Sean P,Maloney,New York,Co,322,,,
+1367,511,Danny K,Davis,Illinois,Co,187,,,
+1368,511,Danny K,Davis,Illinois,Co,158,,,
+1369,511,,Lewis,Georgia,Co,221,,,
+1370,511,,Johnson,Georgia,Co,0,,,184
+1371,511,,Swalwell,California,Co,361,,,
+1372,511,,Rice,New York,Co,335,,,
+1373,511,,Ryan,Ohio,Co,262,,,
+1374,511,David,Scott,Georgia,Co,230,,,328
+1375,511,David,Scott,Georgia,Co,216,,,328
+1376,511,,Larsen,Washington,Co,83,,,
+1377,511,,Kelly,Illinois,Co,177,,,
+1378,511,,Carson,Indiana,Co,202,,,
+1379,511,,Clark,Massachusetts,Co,347,,,
+1380,511,,Clarke,New York,Co,330,,,
+1381,511,Brendan F,Boyle,Pennsylvania,Co,315,,,
+1382,511,,Price,North Carolina,Co,288,,,
+1383,511,,Scott,Virginia,Co,52,,,328
+1384,511,Judy,Chu,California,Co,388,,,
+1385,511,,Castor,Florida,Co,42,,,
+1386,511,,Larson,Connecticut,Co,342,,,
+1387,511,Carolyn B,Maloney,New York,Co,329,,,
+1388,511,Carolyn B,Maloney,New York,Co,322,,,
+1389,511,,Thompson,California,Co,354,,,
+1390,511,,Wilson,Florida,Co,278,,,
+1391,511,,Higgins,New York,Co,290,,,
+1392,512,,Wilson,Florida,Co,278,,,
+1393,512,,Clarke,New York,Co,330,,,
+1394,512,,Lewis,Georgia,Co,221,,,
+1395,512,Danny K,Davis,Illinois,Co,187,,,
+1396,512,Danny K,Davis,Illinois,Co,158,,,
+1397,512,Eddie B,Johnson,Texas,Co,117,,,184
+1398,512,Eddie B,Johnson,Texas,Co,113,,,184
+1399,512,,Ryan,Ohio,Co,262,,,
+1400,512,Judy,Chu,California,Co,388,,,
+1401,512,Al,Green,Texas,Co,132,,,
+1402,512,Al,Green,Texas,Co,128,,,
+1403,515,,Brooks,Indiana,Co,201,,,
+1404,515,,Costello,Pennsylvania,Co,308,,,
+1405,515,,King,New York,Co,336,,,197
+1406,515,,Sewell,Alabama,Co,172,,,
+1407,515,,Clarke,New York,Co,330,,,
+1408,515,Eddie B,Johnson,Texas,Co,117,,,184
+1409,515,Eddie B,Johnson,Texas,Co,113,,,184
+1410,515,Judy,Chu,California,Co,388,,,
+1411,515,,Rice,New York,Co,335,,,
+1412,520,,Murphy,Florida,Co,264,,,254
+1413,524,,Collins,Georgia,Primary,220,,,70
+1414,525,,Collins,Georgia,Primary,220,,,70
+1415,525,,Ryan,Ohio,Co,262,,,
+1416,525,Eddie B,Johnson,Texas,Co,117,,,184
+1417,525,Eddie B,Johnson,Texas,Co,113,,,184
+1418,525,,Curbelo,Florida,Co,45,,,
+1419,528,,Poe,Texas,Co,129,,,
+1420,529,,Thompson,Pennsylvania,Primary,280,,,
+1421,535,,Carson,Indiana,Co,202,,,
+1422,540,Danny K,Davis,Illinois,Primary,187,,,
+1423,540,Danny K,Davis,Illinois,Primary,158,,,
+1424,540,,Kelly,Illinois,Co,177,,,
+1425,544,,Smith,Texas,Co,452,,,340
+1426,544,,Larsen,Washington,Co,83,,,
+1427,544,,Graves,Missouri,Co,127,,,
+1428,544,,Graves,Louisiana,Co,152,,,
+1429,547,Maxine,Waters,California,Primary,383,,,
+1430,547,Al,Green,Texas,Co,132,,,
+1431,547,Al,Green,Texas,Co,128,,,
+1432,548,,Frankel,Florida,Co,279,,,
+1433,548,,Frankel,Florida,Co,277,,,
+1434,548,,Kuster,New Hampshire,Co,345,,,
+1435,548,Maxine,Waters,California,Co,383,,,
+1436,548,Brendan F,Boyle,Pennsylvania,Co,315,,,
+1437,548,,Clark,Massachusetts,Co,347,,,
+1438,548,,Wilson,Florida,Co,278,,,
+1439,548,Ted,Lieu,California,Co,378,,,
+1440,548,,Brown,Maryland,Co,304,,,42
+1441,548,,Carson,Indiana,Co,202,,,
+1442,548,,Swalwell,California,Co,361,,,
+1443,548,Eddie B,Johnson,Texas,Co,117,,,184
+1444,548,Eddie B,Johnson,Texas,Co,113,,,184
+1445,548,,Brownley,California,Co,92,,,
+1446,548,Danny K,Davis,Illinois,Co,187,,,
+1447,548,Danny K,Davis,Illinois,Co,158,,,
+1448,548,David,Scott,Georgia,Co,230,,,328
+1449,548,David,Scott,Georgia,Co,216,,,328
+1450,548,,Brady,Pennsylvania,Co,316,,,
+1451,548,,Johnson,Georgia,Co,0,,,184
+1452,548,Al,Green,Texas,Co,132,,,
+1453,548,Al,Green,Texas,Co,128,,,
+1454,548,Sean P,Maloney,New York,Co,329,,,
+1455,548,Sean P,Maloney,New York,Co,322,,,
+1456,548,,Kelly,Illinois,Co,177,,,
+1457,548,,Thompson,California,Co,354,,,
+1458,548,Gene,Green,Texas,Co,132,,,
+1459,548,Gene,Green,Texas,Co,128,,,
+1460,548,Judy,Chu,California,Co,388,,,
+1461,548,,Scott,Virginia,Co,52,,,328
+1462,548,,Davis,California,Co,403,,,
+1463,548,Carolyn B,Maloney,New York,Co,329,,,
+1464,548,Carolyn B,Maloney,New York,Co,322,,,
+1465,548,,Lewis,Georgia,Co,221,,,
+1466,548,,Castor,Florida,Co,42,,,
+1467,550,,Graves,Missouri,Co,127,,,
+1468,557,,Graves,Missouri,Co,127,,,
+1469,557,Rodney,Davis,Illinois,Co,187,,,
+1470,557,Rodney,Davis,Illinois,Co,158,,,
+1471,557,,Duncan,Tennessee,Co,4,,,
+1472,557,,Gonzalez,Texas,Co,98,,,
+1473,562,,Clarke,New York,Co,330,,,
+1474,564,,Wilson,South Carolina,Co,254,,,
+1475,564,,Roe,Tennessee,Co,232,,,
+1476,564,,Thompson,Pennsylvania,Co,280,,,
+1477,564,Francis,Rooney,Florida,Co,248,,,
+1478,564,Francis,Rooney,Florida,Co,43,,,
+1479,579,,Price,North Carolina,Primary,288,,,
+1480,582,,Price,North Carolina,Primary,288,,,
+1481,588,,Smith,Washington,Co,357,,,340
+1482,592,,King,New York,Co,336,,,197

@@ -1,0 +1,1484 @@
+"billid","firstname","lastname","state","primaryorco","representativeid"
+2,"nan","Franks","Arizona","Primary",416
+4,"nan","Ryan","Ohio","Co",262
+4,"nan","Davis","California","Co",403
+7,"nan","Clarke","New York","Co",330
+8,"Al","Green","Texas","Primary",132
+8,"Al","Green","Texas","Primary",128
+9,"nan","Clarke","New York","Co",330
+12,"Al","Green","Texas","Primary",132
+12,"Al","Green","Texas","Primary",128
+12,"Danny K","Davis","Illinois","Co",187
+12,"Danny K","Davis","Illinois","Co",158
+12,"nan","Lewis","Georgia","Co",221
+12,"nan","Bishop","Georgia","Co",9
+12,"nan","Carson","Indiana","Co",202
+12,"Maxine","Waters","California","Co",383
+12,"nan","Wilson","Florida","Co",278
+12,"nan","Gonzalez","Texas","Co",98
+12,"nan","Kelly","Illinois","Co",177
+12,"nan","Higgins","New York","Co",290
+12,"nan","Johnson","Georgia","Co",0
+12,"nan","Smith","Washington","Co",357
+13,"Al","Green","Texas","Primary",132
+13,"Al","Green","Texas","Primary",128
+13,"nan","Brown","Maryland","Co",304
+13,"nan","Carson","Indiana","Co",202
+13,"nan","Clarke","New York","Co",330
+13,"Danny K","Davis","Illinois","Co",187
+13,"Danny K","Davis","Illinois","Co",158
+13,"nan","Gonzalez","Texas","Co",98
+13,"Eddie B","Johnson","Texas","Co",117
+13,"Eddie B","Johnson","Texas","Co",113
+13,"nan","Johnson","Georgia","Co",0
+13,"nan","Kelly","Illinois","Co",177
+13,"nan","Lewis","Georgia","Co",221
+13,"David","Scott","Georgia","Co",230
+13,"David","Scott","Georgia","Co",216
+13,"nan","Sewell","Alabama","Co",172
+13,"nan","Thompson","Mississippi","Co",155
+13,"Maxine","Waters","California","Co",383
+13,"nan","Wilson","Florida","Co",278
+13,"nan","Smith","Washington","Co",357
+17,"Danny K","Davis","Illinois","Co",187
+17,"Danny K","Davis","Illinois","Co",158
+18,"nan","Scott","Virginia","Primary",52
+18,"Judy","Chu","California","Co",388
+18,"Danny K","Davis","Illinois","Co",187
+18,"Danny K","Davis","Illinois","Co",158
+18,"nan","Wilson","Florida","Co",278
+18,"nan","Sewell","Alabama","Co",172
+22,"nan","Brownley","California","Co",92
+22,"Sean P","Maloney","New York","Co",329
+22,"Sean P","Maloney","New York","Co",322
+22,"nan","Frankel","Florida","Co",279
+22,"nan","Frankel","Florida","Co",277
+22,"nan","Ryan","Ohio","Co",262
+22,"Brendan F","Boyle","Pennsylvania","Co",315
+22,"nan","Scott","Virginia","Co",52
+22,"nan","Davis","California","Co",403
+22,"nan","Castro","Texas","Co",99
+22,"nan","Murphy","Florida","Co",264
+22,"nan","Kelly","Illinois","Co",177
+22,"nan","Lawson","Florida","Co",249
+22,"nan","Clark","Massachusetts","Co",347
+22,"nan","Larson","Connecticut","Co",342
+22,"nan","Brown","Maryland","Co",304
+22,"nan","Rice","New York","Co",335
+22,"nan","Gonzalez","Texas","Co",98
+22,"nan","Swalwell","California","Co",361
+22,"nan","Kuster","New Hampshire","Co",345
+22,"nan","Esty","Connecticut","Co",337
+22,"David","Scott","Georgia","Co",230
+22,"David","Scott","Georgia","Co",216
+22,"nan","Thompson","California","Co",354
+22,"Ted","Lieu","California","Co",378
+22,"Michael F","Doyle","Pennsylvania","Co",282
+22,"nan","Lewis","Georgia","Co",221
+22,"nan","Brady","Pennsylvania","Co",316
+22,"nan","Castor","Florida","Co",42
+22,"nan","Clarke","New York","Co",330
+22,"nan","Price","North Carolina","Co",288
+22,"nan","Larsen","Washington","Co",83
+22,"nan","Carson","Indiana","Co",202
+22,"Danny K","Davis","Illinois","Co",187
+22,"Danny K","Davis","Illinois","Co",158
+22,"nan","Sewell","Alabama","Co",172
+22,"Maxine","Waters","California","Co",383
+22,"nan","Johnson","Georgia","Co",0
+22,"nan","Smith","Washington","Co",357
+22,"Carolyn B","Maloney","New York","Co",329
+22,"Carolyn B","Maloney","New York","Co",322
+22,"Al","Green","Texas","Co",132
+22,"Al","Green","Texas","Co",128
+22,"nan","Bishop","Georgia","Co",9
+22,"Judy","Chu","California","Co",388
+22,"nan","Wilson","Florida","Co",278
+22,"nan","Higgins","New York","Co",290
+22,"nan","Thompson","Mississippi","Co",155
+22,"Eddie B","Johnson","Texas","Co",117
+22,"Eddie B","Johnson","Texas","Co",113
+22,"Gene","Green","Texas","Co",132
+22,"Gene","Green","Texas","Co",128
+23,"nan","Johnson","Georgia","Co",0
+23,"Ted","Lieu","California","Co",378
+26,"Al","Green","Texas","Primary",132
+26,"Al","Green","Texas","Primary",128
+27,"nan","Clarke","New York","Co",330
+27,"Al","Green","Texas","Co",132
+27,"Al","Green","Texas","Co",128
+27,"nan","Higgins","New York","Co",290
+27,"Sean P","Maloney","New York","Co",329
+27,"Sean P","Maloney","New York","Co",322
+27,"nan","Rice","New York","Co",335
+27,"nan","Ryan","Ohio","Co",262
+27,"nan","Swalwell","California","Co",361
+28,"nan","Scott","Virginia","Co",52
+30,"Judy","Chu","California","Co",388
+30,"nan","Rice","New York","Co",335
+30,"nan","Davis","California","Co",403
+30,"nan","Kelly","Illinois","Co",177
+30,"nan","Lewis","Georgia","Co",221
+30,"nan","Brownley","California","Co",92
+30,"Sean P","Maloney","New York","Co",329
+30,"Sean P","Maloney","New York","Co",322
+30,"nan","Scott","Virginia","Co",52
+30,"nan","Curbelo","Florida","Co",45
+30,"nan","Johnson","Georgia","Co",0
+30,"nan","Esty","Connecticut","Co",337
+30,"Carolyn B","Maloney","New York","Co",329
+30,"Carolyn B","Maloney","New York","Co",322
+30,"nan","Clark","Massachusetts","Co",347
+30,"David","Scott","Georgia","Co",230
+30,"David","Scott","Georgia","Co",216
+30,"nan","Costello","Pennsylvania","Co",308
+30,"nan","Higgins","New York","Co",290
+30,"nan","Kuster","New Hampshire","Co",345
+33,"Judy","Chu","California","Co",388
+33,"nan","Swalwell","California","Co",361
+33,"Sean P","Maloney","New York","Co",329
+33,"Sean P","Maloney","New York","Co",322
+33,"nan","Clarke","New York","Co",330
+33,"nan","Davis","California","Co",403
+33,"Ted","Lieu","California","Co",378
+33,"nan","Carson","Indiana","Co",202
+33,"nan","Johnson","Georgia","Co",0
+33,"nan","Brownley","California","Co",92
+34,"Ted","Lieu","California","Primary",378
+34,"nan","Curbelo","Florida","Co",45
+37,"nan","Thompson","Mississippi","Primary",155
+39,"nan","Sewell","Alabama","Primary",172
+39,"Judy","Chu","California","Co",388
+39,"nan","Lewis","Georgia","Co",221
+39,"nan","Bishop","Georgia","Co",9
+39,"Brendan F","Boyle","Pennsylvania","Co",315
+39,"nan","Brady","Pennsylvania","Co",316
+39,"nan","Brown","Maryland","Co",304
+39,"nan","Brownley","California","Co",92
+39,"nan","Carson","Indiana","Co",202
+39,"nan","Castor","Florida","Co",42
+39,"nan","Clark","Massachusetts","Co",347
+39,"nan","Clarke","New York","Co",330
+39,"Danny K","Davis","Illinois","Co",187
+39,"Danny K","Davis","Illinois","Co",158
+39,"nan","Davis","California","Co",403
+39,"Michael F","Doyle","Pennsylvania","Co",282
+39,"nan","Frankel","Florida","Co",279
+39,"nan","Frankel","Florida","Co",277
+39,"Al","Green","Texas","Co",132
+39,"Al","Green","Texas","Co",128
+39,"Gene","Green","Texas","Co",132
+39,"Gene","Green","Texas","Co",128
+39,"nan","Higgins","New York","Co",290
+39,"Eddie B","Johnson","Texas","Co",117
+39,"Eddie B","Johnson","Texas","Co",113
+39,"nan","Johnson","Georgia","Co",0
+39,"nan","Kelly","Illinois","Co",177
+39,"nan","Kuster","New Hampshire","Co",345
+39,"nan","Larsen","Washington","Co",83
+39,"nan","Larson","Connecticut","Co",342
+39,"nan","Lawson","Florida","Co",249
+39,"Ted","Lieu","California","Co",378
+39,"Carolyn B","Maloney","New York","Co",329
+39,"Carolyn B","Maloney","New York","Co",322
+39,"Sean P","Maloney","New York","Co",329
+39,"Sean P","Maloney","New York","Co",322
+39,"nan","Murphy","Florida","Co",264
+39,"nan","Price","North Carolina","Co",288
+39,"nan","Rice","New York","Co",335
+39,"nan","Ryan","Ohio","Co",262
+39,"nan","Scott","Virginia","Co",52
+39,"David","Scott","Georgia","Co",230
+39,"David","Scott","Georgia","Co",216
+39,"nan","Smith","Washington","Co",357
+39,"nan","Swalwell","California","Co",361
+39,"nan","Thompson","Mississippi","Co",155
+39,"nan","Thompson","California","Co",354
+39,"nan","Wilson","Florida","Co",278
+39,"nan","Esty","Connecticut","Co",337
+40,"nan","Sewell","Alabama","Co",172
+40,"nan","Clarke","New York","Co",330
+40,"nan","Kelly","Pennsylvania","Co",273
+40,"David","Scott","Georgia","Co",230
+40,"David","Scott","Georgia","Co",216
+40,"Maxine","Waters","California","Co",383
+42,"nan","Gonzalez","Texas","Primary",98
+43,"nan","Collins","Georgia","Co",220
+44,"nan","Wilson","Florida","Co",278
+44,"nan","Lewis","Georgia","Co",221
+44,"nan","Clarke","New York","Co",330
+44,"nan","Clark","Massachusetts","Co",347
+45,"nan","Brown","Maryland","Primary",304
+45,"nan","Clarke","New York","Co",330
+45,"nan","Wilson","Florida","Co",278
+56,"Al","Green","Texas","Primary",132
+56,"Al","Green","Texas","Primary",128
+57,"nan","Murphy","Florida","Co",264
+60,"Carolyn B","Maloney","New York","Primary",329
+60,"Carolyn B","Maloney","New York","Primary",322
+64,"nan","Swalwell","California","Co",361
+64,"Ted","Lieu","California","Co",378
+65,"nan","Clarke","New York","Co",330
+65,"nan","Brown","Maryland","Co",304
+65,"nan","Clark","Massachusetts","Co",347
+65,"nan","Bishop","Georgia","Co",9
+65,"nan","Esty","Connecticut","Co",337
+65,"nan","Kuster","New Hampshire","Co",345
+65,"David","Scott","Georgia","Co",230
+65,"David","Scott","Georgia","Co",216
+67,"nan","Curbelo","Florida","Co",45
+67,"nan","Young","Alaska","Co",77
+67,"Sean P","Maloney","New York","Co",329
+67,"Sean P","Maloney","New York","Co",322
+67,"nan","King","New York","Co",336
+68,"nan","Young","Iowa","Primary",125
+68,"Rodney","Davis","Illinois","Co",187
+68,"Rodney","Davis","Illinois","Co",158
+68,"nan","Joyce","Ohio","Co",261
+68,"Mimi","Walters","California","Co",394
+68,"nan","Brooks","Indiana","Co",201
+68,"nan","King","New York","Co",336
+68,"nan","Curbelo","Florida","Co",45
+69,"nan","Clarke","New York","Primary",330
+69,"nan","Carson","Indiana","Co",202
+71,"nan","Wilson","Florida","Co",278
+73,"nan","Thompson","Mississippi","Co",155
+75,"nan","Collins","New York","Co",48
+75,"nan","King","New York","Co",336
+75,"nan","Smith","New Jersey","Co",323
+79,"Judy","Chu","California","Primary",388
+82,"nan","Clarke","New York","Co",330
+82,"nan","Carson","Indiana","Co",202
+82,"Maxine","Waters","California","Co",383
+82,"nan","Lewis","Georgia","Co",221
+82,"nan","Brady","Pennsylvania","Co",316
+82,"nan","Wilson","Florida","Co",278
+89,"Al","Green","Texas","Primary",132
+89,"Al","Green","Texas","Primary",128
+94,"nan","Kelly","Illinois","Primary",177
+95,"nan","Swalwell","California","Co",361
+96,"nan","Carson","Indiana","Co",202
+96,"nan","Brown","Maryland","Co",304
+96,"nan","Clarke","New York","Co",330
+96,"nan","Lewis","Georgia","Co",221
+96,"Maxine","Waters","California","Co",383
+96,"nan","Bishop","Georgia","Co",9
+96,"Eddie B","Johnson","Texas","Co",117
+96,"Eddie B","Johnson","Texas","Co",113
+96,"nan","Scott","Virginia","Co",52
+96,"nan","Thompson","Mississippi","Co",155
+96,"Danny K","Davis","Illinois","Co",187
+96,"Danny K","Davis","Illinois","Co",158
+96,"David","Scott","Georgia","Co",230
+96,"David","Scott","Georgia","Co",216
+96,"Al","Green","Texas","Co",132
+96,"Al","Green","Texas","Co",128
+96,"nan","Johnson","Georgia","Co",0
+96,"nan","Sewell","Alabama","Co",172
+96,"nan","Wilson","Florida","Co",278
+96,"nan","Kelly","Illinois","Co",177
+96,"nan","Lawson","Florida","Co",249
+96,"nan","Swalwell","California","Co",361
+96,"Ted","Lieu","California","Co",378
+96,"nan","Price","North Carolina","Co",288
+96,"Carolyn B","Maloney","New York","Co",329
+96,"Carolyn B","Maloney","New York","Co",322
+96,"nan","Larson","Connecticut","Co",342
+96,"nan","Thompson","California","Co",354
+96,"nan","Ryan","Ohio","Co",262
+96,"nan","Higgins","New York","Co",290
+96,"nan","Castor","Florida","Co",42
+96,"Judy","Chu","California","Co",388
+96,"nan","Brownley","California","Co",92
+96,"Sean P","Maloney","New York","Co",329
+96,"Sean P","Maloney","New York","Co",322
+96,"nan","Clark","Massachusetts","Co",347
+96,"nan","Frankel","Florida","Co",279
+96,"nan","Frankel","Florida","Co",277
+96,"nan","Larsen","Washington","Co",83
+96,"Michael F","Doyle","Pennsylvania","Co",282
+96,"nan","Davis","California","Co",403
+96,"nan","Smith","Washington","Co",357
+96,"Brendan F","Boyle","Pennsylvania","Co",315
+96,"Gene","Green","Texas","Co",132
+96,"Gene","Green","Texas","Co",128
+96,"nan","Esty","Connecticut","Co",337
+97,"nan","Weber","Texas","Co",1
+98,"nan","Weber","Texas","Primary",1
+100,"nan","Lewis","Georgia","Co",221
+101,"Brendan F","Boyle","Pennsylvania","Co",315
+101,"nan","Brown","Maryland","Co",304
+101,"nan","Castor","Florida","Co",42
+101,"nan","Castro","Texas","Co",99
+101,"Judy","Chu","California","Co",388
+101,"nan","Clark","Massachusetts","Co",347
+101,"nan","Clarke","New York","Co",330
+101,"nan","Davis","California","Co",403
+101,"nan","Esty","Connecticut","Co",337
+101,"nan","Frankel","Florida","Co",279
+101,"nan","Frankel","Florida","Co",277
+101,"Gene","Green","Texas","Co",132
+101,"Gene","Green","Texas","Co",128
+101,"Al","Green","Texas","Co",132
+101,"Al","Green","Texas","Co",128
+101,"nan","Higgins","New York","Co",290
+101,"Eddie B","Johnson","Texas","Co",117
+101,"Eddie B","Johnson","Texas","Co",113
+101,"nan","Kelly","Illinois","Co",177
+101,"nan","Larsen","Washington","Co",83
+101,"nan","Larson","Connecticut","Co",342
+101,"nan","Lawson","Florida","Co",249
+101,"nan","Lewis","Georgia","Co",221
+101,"Ted","Lieu","California","Co",378
+101,"Sean P","Maloney","New York","Co",329
+101,"Sean P","Maloney","New York","Co",322
+101,"Carolyn B","Maloney","New York","Co",329
+101,"Carolyn B","Maloney","New York","Co",322
+101,"nan","Kuster","New Hampshire","Co",345
+101,"nan","Price","North Carolina","Co",288
+101,"nan","Rice","New York","Co",335
+101,"nan","Scott","Virginia","Co",52
+101,"nan","Sewell","Alabama","Co",172
+101,"nan","Smith","Washington","Co",357
+101,"nan","Swalwell","California","Co",361
+101,"Maxine","Waters","California","Co",383
+101,"nan","Brownley","California","Co",92
+101,"nan","Gonzalez","Texas","Co",98
+101,"nan","Brady","Pennsylvania","Co",316
+101,"nan","Murphy","Florida","Co",264
+101,"nan","Thompson","California","Co",354
+101,"Michael F","Doyle","Pennsylvania","Co",282
+101,"nan","Ryan","Ohio","Co",262
+101,"nan","Carson","Indiana","Co",202
+102,"nan","King","New York","Co",336
+102,"nan","Rice","New York","Co",335
+105,"Danny K","Davis","Illinois","Primary",187
+105,"Danny K","Davis","Illinois","Primary",158
+108,"nan","Smith","Missouri","Co",150
+108,"nan","Bishop","Georgia","Co",9
+108,"nan","Carson","Indiana","Co",202
+108,"Judy","Chu","California","Co",388
+108,"nan","Clarke","New York","Co",330
+108,"Danny K","Davis","Illinois","Co",187
+108,"Danny K","Davis","Illinois","Co",158
+108,"Al","Green","Texas","Co",132
+108,"Al","Green","Texas","Co",128
+108,"nan","Brown","Maryland","Co",304
+108,"Eddie B","Johnson","Texas","Co",117
+108,"Eddie B","Johnson","Texas","Co",113
+108,"nan","Johnson","Georgia","Co",0
+108,"nan","Larson","Connecticut","Co",342
+108,"nan","Lewis","Georgia","Co",221
+108,"nan","Sewell","Alabama","Co",172
+108,"nan","Scott","Virginia","Co",52
+108,"nan","Thompson","Mississippi","Co",155
+108,"nan","Wilson","Florida","Co",278
+108,"nan","Kelly","Illinois","Co",177
+108,"Carolyn B","Maloney","New York","Co",329
+108,"Carolyn B","Maloney","New York","Co",322
+108,"nan","Graves","Louisiana","Co",152
+108,"nan","Price","North Carolina","Co",288
+109,"nan","Smith","Nebraska","Co",442
+110,"nan","Clarke","New York","Primary",330
+110,"Ted","Lieu","California","Co",378
+112,"nan","Lewis","Georgia","Co",221
+112,"nan","Wilson","Florida","Co",278
+112,"nan","Bishop","Georgia","Co",9
+112,"nan","Carson","Indiana","Co",202
+112,"nan","Johnson","Georgia","Co",0
+112,"nan","Lawson","Florida","Co",249
+112,"nan","Brown","Maryland","Co",304
+112,"Danny K","Davis","Illinois","Co",187
+112,"Danny K","Davis","Illinois","Co",158
+112,"nan","Scott","Virginia","Co",52
+112,"David","Scott","Georgia","Co",230
+112,"David","Scott","Georgia","Co",216
+112,"nan","Clarke","New York","Co",330
+112,"Brendan F","Boyle","Pennsylvania","Co",315
+112,"Maxine","Waters","California","Co",383
+112,"nan","Sewell","Alabama","Co",172
+112,"nan","Kelly","Illinois","Co",177
+112,"Al","Green","Texas","Co",132
+112,"Al","Green","Texas","Co",128
+112,"nan","Thompson","Mississippi","Co",155
+115,"nan","Curbelo","Florida","Co",45
+115,"nan","Young","Alaska","Co",77
+124,"nan","Johnson","Georgia","Co",0
+124,"nan","Bishop","Georgia","Co",9
+124,"nan","Sewell","Alabama","Co",172
+124,"nan","Thompson","Mississippi","Co",155
+124,"nan","Price","North Carolina","Co",288
+124,"nan","Higgins","New York","Co",290
+124,"nan","Lawson","Florida","Co",249
+124,"nan","Clarke","New York","Co",330
+124,"Danny K","Davis","Illinois","Co",187
+124,"Danny K","Davis","Illinois","Co",158
+124,"David","Scott","Georgia","Co",230
+124,"David","Scott","Georgia","Co",216
+124,"nan","Wilson","Florida","Co",278
+124,"nan","Kelly","Illinois","Co",177
+124,"Al","Green","Texas","Co",132
+124,"Al","Green","Texas","Co",128
+125,"nan","Poe","Texas","Co",129
+125,"nan","Kuster","New Hampshire","Co",345
+135,"nan","Kelly","Illinois","Co",177
+135,"nan","Sewell","Alabama","Co",172
+135,"nan","Bishop","Georgia","Co",9
+135,"nan","Brady","Pennsylvania","Co",316
+135,"nan","Swalwell","California","Co",361
+140,"nan","Murphy","Pennsylvania","Primary",275
+140,"nan","Johnson","Georgia","Co",0
+140,"nan","Smith","Washington","Co",357
+140,"nan","Costello","Pennsylvania","Co",308
+140,"Rodney","Davis","Illinois","Co",187
+140,"Rodney","Davis","Illinois","Co",158
+140,"nan","Frankel","Florida","Co",279
+140,"nan","Frankel","Florida","Co",277
+140,"nan","Young","Alaska","Co",77
+140,"Thomas J","Rooney","Florida","Co",248
+140,"Thomas J","Rooney","Florida","Co",43
+140,"nan","King","New York","Co",336
+140,"Mimi","Walters","California","Co",394
+142,"nan","Lewis","Georgia","Primary",221
+148,"Judy","Chu","California","Co",388
+148,"nan","Clark","Massachusetts","Co",347
+148,"nan","Kelly","Illinois","Co",177
+148,"Eddie B","Johnson","Texas","Co",117
+148,"Eddie B","Johnson","Texas","Co",113
+149,"nan","Lawson","Florida","Co",249
+149,"Judy","Chu","California","Co",388
+149,"nan","Clarke","New York","Co",330
+151,"Brendan F","Boyle","Pennsylvania","Primary",315
+152,"nan","Johnson","Georgia","Primary",0
+152,"nan","Lewis","Georgia","Co",221
+152,"nan","Clarke","New York","Co",330
+152,"nan","Wilson","Florida","Co",278
+152,"David","Scott","Georgia","Co",230
+152,"David","Scott","Georgia","Co",216
+153,"nan","Scott","Virginia","Primary",52
+153,"nan","Young","Iowa","Co",125
+156,"nan","Clarke","New York","Co",330
+156,"nan","Kelly","Illinois","Co",177
+156,"nan","Ryan","Ohio","Co",262
+156,"nan","Carson","Indiana","Co",202
+156,"nan","Castor","Florida","Co",42
+156,"nan","Wilson","Florida","Co",278
+156,"nan","Johnson","Georgia","Co",0
+156,"nan","Thompson","Mississippi","Co",155
+156,"David","Scott","Georgia","Co",230
+156,"David","Scott","Georgia","Co",216
+156,"Ted","Lieu","California","Co",378
+156,"nan","Lewis","Georgia","Co",221
+156,"Eddie B","Johnson","Texas","Co",117
+156,"Eddie B","Johnson","Texas","Co",113
+156,"nan","Brown","Maryland","Co",304
+156,"nan","Lawson","Florida","Co",249
+156,"Sean P","Maloney","New York","Co",329
+156,"Sean P","Maloney","New York","Co",322
+158,"nan","King","New York","Primary",336
+158,"nan","Carter","Georgia","Co",44
+158,"nan","Bishop","Georgia","Co",9
+158,"nan","Wilson","South Carolina","Co",254
+158,"nan","Joyce","Ohio","Co",261
+158,"nan","Ryan","Ohio","Co",262
+161,"nan","Thompson","Pennsylvania","Primary",280
+163,"nan","Price","North Carolina","Co",288
+166,"nan","Ryan","Ohio","Co",262
+166,"nan","Johnson","Georgia","Co",0
+166,"nan","Wilson","Florida","Co",278
+170,"nan","Smith","New Jersey","Co",323
+170,"nan","Brown","Maryland","Co",304
+171,"nan","Scott","Virginia","Primary",52
+172,"nan","Poe","Texas","Co",129
+174,"nan","Clarke","New York","Co",330
+174,"Al","Green","Texas","Co",132
+174,"Al","Green","Texas","Co",128
+174,"Ted","Lieu","California","Co",378
+178,"nan","Rice","New York","Primary",335
+178,"Sean P","Maloney","New York","Co",329
+178,"Sean P","Maloney","New York","Co",322
+179,"Al","Green","Texas","Primary",132
+179,"Al","Green","Texas","Primary",128
+179,"nan","Bishop","Georgia","Co",9
+179,"nan","Brown","Maryland","Co",304
+179,"nan","Carson","Indiana","Co",202
+179,"nan","Clarke","New York","Co",330
+179,"Danny K","Davis","Illinois","Co",187
+179,"Danny K","Davis","Illinois","Co",158
+179,"Eddie B","Johnson","Texas","Co",117
+179,"Eddie B","Johnson","Texas","Co",113
+179,"nan","Johnson","Georgia","Co",0
+179,"nan","Kelly","Illinois","Co",177
+179,"nan","Lawson","Florida","Co",249
+179,"nan","Lewis","Georgia","Co",221
+179,"David","Scott","Georgia","Co",230
+179,"David","Scott","Georgia","Co",216
+179,"nan","Scott","Virginia","Co",52
+179,"nan","Sewell","Alabama","Co",172
+179,"nan","Thompson","Mississippi","Co",155
+179,"Maxine","Waters","California","Co",383
+179,"nan","Wilson","Florida","Co",278
+185,"nan","Thompson","Pennsylvania","Primary",280
+186,"nan","Clarke","New York","Primary",330
+187,"nan","Clark","Massachusetts","Co",347
+187,"Sean P","Maloney","New York","Co",329
+187,"Sean P","Maloney","New York","Co",322
+187,"nan","Brownley","California","Co",92
+187,"nan","Swalwell","California","Co",361
+187,"Carolyn B","Maloney","New York","Co",329
+187,"Carolyn B","Maloney","New York","Co",322
+187,"Ted","Lieu","California","Co",378
+187,"nan","Frankel","Florida","Co",279
+187,"nan","Frankel","Florida","Co",277
+187,"nan","Rice","New York","Co",335
+187,"nan","Larsen","Washington","Co",83
+187,"nan","Clarke","New York","Co",330
+187,"Judy","Chu","California","Co",388
+187,"nan","Smith","Washington","Co",357
+187,"nan","Johnson","Georgia","Co",0
+187,"nan","Higgins","New York","Co",290
+187,"Brendan F","Boyle","Pennsylvania","Co",315
+187,"nan","Esty","Connecticut","Co",337
+189,"nan","Smith","Texas","Co",452
+191,"nan","Lewis","Georgia","Primary",221
+191,"Carolyn B","Maloney","New York","Co",329
+191,"Carolyn B","Maloney","New York","Co",322
+191,"nan","Clarke","New York","Co",330
+191,"nan","Kuster","New Hampshire","Co",345
+194,"Maxine","Waters","California","Primary",383
+194,"nan","Kelly","Illinois","Co",177
+194,"Danny K","Davis","Illinois","Co",187
+194,"Danny K","Davis","Illinois","Co",158
+194,"Sean P","Maloney","New York","Co",329
+194,"Sean P","Maloney","New York","Co",322
+194,"nan","Wilson","Florida","Co",278
+194,"nan","Clarke","New York","Co",330
+194,"nan","Johnson","Georgia","Co",0
+194,"nan","Thompson","Mississippi","Co",155
+194,"nan","Esty","Connecticut","Co",337
+194,"nan","Lewis","Georgia","Co",221
+196,"nan","Bishop","Georgia","Co",9
+196,"nan","Carson","Indiana","Co",202
+196,"nan","Castor","Florida","Co",42
+196,"nan","Clark","Massachusetts","Co",347
+196,"Danny K","Davis","Illinois","Co",187
+196,"Danny K","Davis","Illinois","Co",158
+196,"Al","Green","Texas","Co",132
+196,"Al","Green","Texas","Co",128
+196,"Eddie B","Johnson","Texas","Co",117
+196,"Eddie B","Johnson","Texas","Co",113
+196,"nan","Johnson","Georgia","Co",0
+196,"nan","Kelly","Illinois","Co",177
+196,"nan","Lewis","Georgia","Co",221
+196,"nan","Scott","Virginia","Co",52
+196,"nan","Sewell","Alabama","Co",172
+196,"nan","Smith","Washington","Co",357
+196,"nan","Swalwell","California","Co",361
+196,"nan","Thompson","Mississippi","Co",155
+196,"nan","Wilson","Florida","Co",278
+196,"Maxine","Waters","California","Co",383
+196,"nan","Clarke","New York","Co",330
+197,"nan","Clarke","New York","Co",330
+199,"nan","Clarke","New York","Primary",330
+199,"Sean P","Maloney","New York","Co",329
+199,"Sean P","Maloney","New York","Co",322
+199,"nan","Wilson","Florida","Co",278
+199,"Eddie B","Johnson","Texas","Co",117
+199,"Eddie B","Johnson","Texas","Co",113
+201,"Judy","Chu","California","Primary",388
+202,"Maxine","Waters","California","Primary",383
+202,"Judy","Chu","California","Co",388
+202,"nan","Wilson","Florida","Co",278
+202,"nan","Clarke","New York","Co",330
+202,"nan","Kelly","Illinois","Co",177
+202,"nan","Brownley","California","Co",92
+204,"nan","Clarke","New York","Primary",330
+210,"nan","Clark","Massachusetts","Co",347
+213,"nan","Frankel","Florida","Primary",279
+213,"nan","Frankel","Florida","Primary",277
+213,"Brendan F","Boyle","Pennsylvania","Co",315
+213,"Carolyn B","Maloney","New York","Co",329
+213,"Carolyn B","Maloney","New York","Co",322
+213,"nan","Thompson","California","Co",354
+213,"nan","Castor","Florida","Co",42
+213,"nan","Clarke","New York","Co",330
+213,"nan","Davis","California","Co",403
+213,"nan","Wilson","Florida","Co",278
+213,"nan","Scott","Virginia","Co",52
+213,"nan","Lawson","Florida","Co",249
+213,"nan","Brownley","California","Co",92
+213,"nan","Ryan","Ohio","Co",262
+213,"Maxine","Waters","California","Co",383
+213,"nan","Brady","Pennsylvania","Co",316
+213,"nan","Clark","Massachusetts","Co",347
+213,"nan","Swalwell","California","Co",361
+213,"nan","Kuster","New Hampshire","Co",345
+214,"Al","Green","Texas","Co",132
+214,"Al","Green","Texas","Co",128
+214,"nan","Thompson","Mississippi","Co",155
+214,"nan","Johnson","Georgia","Co",0
+214,"nan","Kelly","Illinois","Co",177
+214,"nan","Scott","Virginia","Co",52
+215,"Brendan F","Boyle","Pennsylvania","Co",315
+215,"nan","Carson","Indiana","Co",202
+215,"nan","Castor","Florida","Co",42
+215,"Judy","Chu","California","Co",388
+215,"nan","Clark","Massachusetts","Co",347
+215,"nan","Clarke","New York","Co",330
+215,"Danny K","Davis","Illinois","Co",187
+215,"Danny K","Davis","Illinois","Co",158
+215,"Al","Green","Texas","Co",132
+215,"Al","Green","Texas","Co",128
+215,"Eddie B","Johnson","Texas","Co",117
+215,"Eddie B","Johnson","Texas","Co",113
+215,"nan","Kelly","Illinois","Co",177
+215,"nan","Larsen","Washington","Co",83
+215,"nan","Ryan","Ohio","Co",262
+215,"David","Scott","Georgia","Co",230
+215,"David","Scott","Georgia","Co",216
+215,"nan","Sewell","Alabama","Co",172
+215,"nan","Thompson","Mississippi","Co",155
+215,"nan","Bishop","Georgia","Co",9
+215,"nan","Brown","Maryland","Co",304
+215,"nan","Lawson","Florida","Co",249
+215,"nan","Wilson","Florida","Co",278
+216,"nan","Frankel","Florida","Primary",279
+216,"nan","Frankel","Florida","Primary",277
+216,"nan","Ryan","Ohio","Co",262
+216,"nan","Davis","California","Co",403
+216,"Carolyn B","Maloney","New York","Co",329
+216,"Carolyn B","Maloney","New York","Co",322
+216,"nan","Brownley","California","Co",92
+216,"nan","Castor","Florida","Co",42
+216,"nan","Clarke","New York","Co",330
+216,"Brendan F","Boyle","Pennsylvania","Co",315
+216,"Sean P","Maloney","New York","Co",329
+216,"Sean P","Maloney","New York","Co",322
+216,"nan","Wilson","Florida","Co",278
+216,"nan","Lawson","Florida","Co",249
+216,"nan","Smith","Washington","Co",357
+216,"nan","Kuster","New Hampshire","Co",345
+216,"nan","Johnson","Georgia","Co",0
+216,"nan","Brady","Pennsylvania","Co",316
+216,"nan","Castro","Texas","Co",99
+216,"nan","Swalwell","California","Co",361
+217,"Judy","Chu","California","Co",388
+217,"Ted","Lieu","California","Co",378
+217,"nan","Smith","Washington","Co",357
+217,"nan","Swalwell","California","Co",361
+218,"nan","Rice","New York","Co",335
+218,"nan","Clark","Massachusetts","Co",347
+218,"nan","Larsen","Washington","Co",83
+218,"nan","Clarke","New York","Co",330
+218,"nan","Ryan","Ohio","Co",262
+218,"nan","Price","North Carolina","Co",288
+218,"nan","Kelly","Illinois","Co",177
+218,"Danny K","Davis","Illinois","Co",187
+218,"Danny K","Davis","Illinois","Co",158
+218,"Judy","Chu","California","Co",388
+218,"nan","Lewis","Georgia","Co",221
+218,"nan","Frankel","Florida","Co",279
+218,"nan","Frankel","Florida","Co",277
+218,"Carolyn B","Maloney","New York","Co",329
+218,"Carolyn B","Maloney","New York","Co",322
+219,"Maxine","Waters","California","Co",383
+219,"Al","Green","Texas","Co",132
+219,"Al","Green","Texas","Co",128
+220,"nan","Lewis","Georgia","Primary",221
+222,"Eddie B","Johnson","Texas","Primary",117
+222,"Eddie B","Johnson","Texas","Primary",113
+223,"Al","Green","Texas","Primary",132
+223,"Al","Green","Texas","Primary",128
+223,"nan","Brown","Maryland","Co",304
+223,"nan","Thompson","Mississippi","Co",155
+223,"Danny K","Davis","Illinois","Co",187
+223,"Danny K","Davis","Illinois","Co",158
+223,"Eddie B","Johnson","Texas","Co",117
+223,"Eddie B","Johnson","Texas","Co",113
+223,"nan","Wilson","Florida","Co",278
+223,"nan","Johnson","Georgia","Co",0
+223,"nan","Lewis","Georgia","Co",221
+223,"nan","Kelly","Illinois","Co",177
+223,"nan","Clarke","New York","Co",330
+228,"nan","Clark","Massachusetts","Primary",347
+230,"nan","Swalwell","California","Co",361
+230,"nan","Murphy","Florida","Co",264
+230,"nan","Webster","Florida","Co",38
+230,"nan","Collins","New York","Co",48
+231,"nan","Clarke","New York","Co",330
+231,"nan","Wilson","Florida","Co",278
+231,"nan","Kelly","Illinois","Co",177
+231,"nan","Smith","Washington","Co",357
+231,"nan","Brownley","California","Co",92
+231,"Ted","Lieu","California","Co",378
+231,"nan","Castro","Texas","Co",99
+231,"Maxine","Waters","California","Co",383
+231,"nan","Scott","Virginia","Co",52
+235,"nan","Swalwell","California","Co",361
+235,"Brendan F","Boyle","Pennsylvania","Co",315
+235,"Sean P","Maloney","New York","Co",329
+235,"Sean P","Maloney","New York","Co",322
+235,"Judy","Chu","California","Co",388
+242,"nan","Bishop","Georgia","Co",9
+242,"nan","Clarke","New York","Co",330
+242,"nan","Johnson","Georgia","Co",0
+242,"Sean P","Maloney","New York","Co",329
+242,"Sean P","Maloney","New York","Co",322
+242,"nan","Swalwell","California","Co",361
+244,"Maxine","Waters","California","Primary",383
+244,"Eddie B","Johnson","Texas","Co",117
+244,"Eddie B","Johnson","Texas","Co",113
+244,"nan","Smith","Washington","Co",357
+244,"David","Scott","Georgia","Co",230
+244,"David","Scott","Georgia","Co",216
+244,"nan","Lawson","Florida","Co",249
+250,"nan","Thompson","Mississippi","Co",155
+250,"nan","Wilson","Florida","Co",278
+250,"nan","Johnson","Georgia","Co",0
+250,"nan","Bishop","Georgia","Co",9
+250,"nan","Sewell","Alabama","Co",172
+250,"nan","Clarke","New York","Co",330
+250,"nan","Carson","Indiana","Co",202
+250,"nan","Esty","Connecticut","Co",337
+250,"nan","Lewis","Georgia","Co",221
+250,"Eddie B","Johnson","Texas","Co",117
+250,"Eddie B","Johnson","Texas","Co",113
+251,"nan","Thompson","Mississippi","Primary",155
+259,"nan","Thompson","Pennsylvania","Co",280
+265,"nan","Carson","Indiana","Primary",202
+265,"nan","Costello","Pennsylvania","Co",308
+266,"nan","Ryan","Ohio","Primary",262
+267,"Sean P","Maloney","New York","Co",329
+267,"Sean P","Maloney","New York","Co",322
+268,"nan","Kelly","Illinois","Co",177
+269,"Judy","Chu","California","Co",388
+269,"nan","Johnson","Georgia","Co",0
+269,"Eddie B","Johnson","Texas","Co",117
+269,"Eddie B","Johnson","Texas","Co",113
+271,"nan","Johnson","Georgia","Primary",0
+271,"nan","Clark","Massachusetts","Co",347
+271,"nan","Swalwell","California","Co",361
+271,"nan","Scott","Virginia","Co",52
+271,"Eddie B","Johnson","Texas","Co",117
+271,"Eddie B","Johnson","Texas","Co",113
+271,"Maxine","Waters","California","Co",383
+271,"nan","Ryan","Ohio","Co",262
+271,"nan","Higgins","New York","Co",290
+271,"Ted","Lieu","California","Co",378
+271,"nan","Frankel","Florida","Co",279
+271,"nan","Frankel","Florida","Co",277
+272,"nan","Smith","Texas","Co",452
+277,"nan","Curbelo","Florida","Primary",45
+277,"nan","Wilson","Florida","Co",278
+279,"nan","Curbelo","Florida","Primary",45
+282,"nan","Scott","Virginia","Primary",52
+282,"nan","Brady","Pennsylvania","Co",316
+282,"nan","Brown","Maryland","Co",304
+282,"nan","Brownley","California","Co",92
+282,"Judy","Chu","California","Co",388
+282,"nan","Clark","Massachusetts","Co",347
+282,"nan","Clarke","New York","Co",330
+282,"Danny K","Davis","Illinois","Co",187
+282,"Danny K","Davis","Illinois","Co",158
+282,"nan","Davis","California","Co",403
+282,"Al","Green","Texas","Co",132
+282,"Al","Green","Texas","Co",128
+282,"nan","Kelly","Illinois","Co",177
+282,"nan","Lawson","Florida","Co",249
+282,"nan","Ryan","Ohio","Co",262
+282,"David","Scott","Georgia","Co",230
+282,"David","Scott","Georgia","Co",216
+282,"nan","Sewell","Alabama","Co",172
+282,"nan","Wilson","Florida","Co",278
+282,"nan","Swalwell","California","Co",361
+283,"nan","Clarke","New York","Co",330
+287,"nan","Scott","Virginia","Co",52
+287,"nan","Brown","Maryland","Co",304
+287,"Eddie B","Johnson","Texas","Co",117
+287,"Eddie B","Johnson","Texas","Co",113
+287,"nan","Kelly","Illinois","Co",177
+287,"nan","Brady","Pennsylvania","Co",316
+287,"Carolyn B","Maloney","New York","Co",329
+287,"Carolyn B","Maloney","New York","Co",322
+287,"nan","Price","North Carolina","Co",288
+287,"nan","Higgins","New York","Co",290
+287,"David","Scott","Georgia","Co",230
+287,"David","Scott","Georgia","Co",216
+287,"nan","Murphy","Florida","Co",264
+287,"nan","Bishop","Georgia","Co",9
+287,"Danny K","Davis","Illinois","Co",187
+287,"Danny K","Davis","Illinois","Co",158
+287,"nan","Lewis","Georgia","Co",221
+287,"Ted","Lieu","California","Co",378
+287,"nan","Lawson","Florida","Co",249
+287,"nan","Clark","Massachusetts","Co",347
+287,"nan","Sewell","Alabama","Co",172
+287,"Maxine","Waters","California","Co",383
+287,"nan","Johnson","Georgia","Co",0
+287,"nan","Clarke","New York","Co",330
+287,"Al","Green","Texas","Co",132
+287,"Al","Green","Texas","Co",128
+287,"Sean P","Maloney","New York","Co",329
+287,"Sean P","Maloney","New York","Co",322
+287,"nan","Carson","Indiana","Co",202
+291,"nan","Brown","Maryland","Co",304
+291,"nan","Carson","Indiana","Co",202
+291,"nan","Castro","Texas","Co",99
+291,"Judy","Chu","California","Co",388
+291,"nan","Clarke","New York","Co",330
+291,"Danny K","Davis","Illinois","Co",187
+291,"Danny K","Davis","Illinois","Co",158
+291,"Al","Green","Texas","Co",132
+291,"Al","Green","Texas","Co",128
+291,"Eddie B","Johnson","Texas","Co",117
+291,"Eddie B","Johnson","Texas","Co",113
+291,"nan","Kelly","Illinois","Co",177
+291,"nan","Lewis","Georgia","Co",221
+291,"Ted","Lieu","California","Co",378
+291,"nan","Scott","Virginia","Co",52
+291,"nan","Sewell","Alabama","Co",172
+291,"nan","Swalwell","California","Co",361
+291,"nan","Wilson","Florida","Co",278
+293,"nan","Brady","Pennsylvania","Co",316
+293,"nan","Lewis","Georgia","Co",221
+293,"Sean P","Maloney","New York","Co",329
+293,"Sean P","Maloney","New York","Co",322
+293,"nan","Duncan","Tennessee","Co",4
+293,"nan","Bishop","Georgia","Co",9
+293,"nan","Scott","Virginia","Co",52
+293,"Danny K","Davis","Illinois","Co",187
+293,"Danny K","Davis","Illinois","Co",158
+293,"David","Scott","Georgia","Co",230
+293,"David","Scott","Georgia","Co",216
+293,"nan","Sewell","Alabama","Co",172
+293,"nan","Carson","Indiana","Co",202
+293,"nan","Johnson","Georgia","Co",0
+293,"Maxine","Waters","California","Co",383
+293,"Judy","Chu","California","Co",388
+293,"nan","Wilson","Florida","Co",278
+293,"nan","Castor","Florida","Co",42
+293,"nan","Roe","Tennessee","Co",232
+293,"nan","Kustoff","Tennessee","Co",23
+293,"nan","Brown","Maryland","Co",304
+293,"nan","Ryan","Ohio","Co",262
+293,"Eddie B","Johnson","Texas","Co",117
+293,"Eddie B","Johnson","Texas","Co",113
+294,"nan","Thompson","Mississippi","Co",155
+294,"Brendan F","Boyle","Pennsylvania","Co",315
+296,"nan","Royce","California","Primary",392
+296,"Ted","Lieu","California","Co",378
+296,"Judy","Chu","California","Co",388
+296,"Al","Green","Texas","Co",132
+296,"Al","Green","Texas","Co",128
+296,"Mimi","Walters","California","Co",394
+296,"nan","Wilson","South Carolina","Co",254
+299,"nan","Bishop","Georgia","Co",9
+306,"nan","Bishop","Georgia","Co",9
+306,"nan","Brady","Pennsylvania","Co",316
+306,"Gene","Green","Texas","Co",132
+306,"Gene","Green","Texas","Co",128
+306,"nan","Ryan","Ohio","Co",262
+306,"nan","Scott","Virginia","Co",52
+307,"nan","Carson","Indiana","Primary",202
+313,"nan","Castro","Texas","Primary",99
+315,"nan","Rice","New York","Co",335
+315,"nan","Brownley","California","Co",92
+315,"nan","Davis","California","Co",403
+315,"nan","Ryan","Ohio","Co",262
+315,"nan","Wilson","Florida","Co",278
+315,"nan","Swalwell","California","Co",361
+318,"nan","Clarke","New York","Co",330
+320,"Eddie B","Johnson","Texas","Primary",117
+320,"Eddie B","Johnson","Texas","Primary",113
+320,"nan","Clark","Massachusetts","Co",347
+320,"nan","Price","North Carolina","Co",288
+320,"nan","Esty","Connecticut","Co",337
+320,"Ted","Lieu","California","Co",378
+320,"Danny K","Davis","Illinois","Co",187
+320,"Danny K","Davis","Illinois","Co",158
+324,"nan","Lewis","Georgia","Primary",221
+325,"Eddie B","Johnson","Texas","Primary",117
+325,"Eddie B","Johnson","Texas","Primary",113
+325,"nan","Carson","Indiana","Co",202
+325,"nan","Clarke","New York","Co",330
+325,"nan","Thompson","Mississippi","Co",155
+325,"nan","Bishop","Georgia","Co",9
+325,"nan","Lewis","Georgia","Co",221
+325,"Al","Green","Texas","Co",132
+325,"Al","Green","Texas","Co",128
+325,"nan","Kelly","Illinois","Co",177
+325,"nan","Lawson","Florida","Co",249
+325,"nan","Sewell","Alabama","Co",172
+325,"Danny K","Davis","Illinois","Co",187
+325,"Danny K","Davis","Illinois","Co",158
+326,"Eddie B","Johnson","Texas","Co",117
+326,"Eddie B","Johnson","Texas","Co",113
+326,"nan","Brown","Maryland","Co",304
+326,"nan","Lewis","Georgia","Co",221
+327,"nan","Costello","Pennsylvania","Co",308
+328,"nan","Johnson","Georgia","Co",0
+328,"Brendan F","Boyle","Pennsylvania","Co",315
+328,"nan","Scott","Virginia","Co",52
+328,"Ted","Lieu","California","Co",378
+328,"nan","Larsen","Washington","Co",83
+328,"Carolyn B","Maloney","New York","Co",329
+328,"Carolyn B","Maloney","New York","Co",322
+328,"nan","Sewell","Alabama","Co",172
+328,"nan","Lewis","Georgia","Co",221
+336,"nan","Esty","Connecticut","Primary",337
+339,"nan","Brooks","Alabama","Co",178
+339,"nan","Carter","Georgia","Co",44
+339,"nan","Carter","Texas","Co",103
+339,"nan","Duncan","South Carolina","Co",236
+339,"Jody B","Hice","Georgia","Co",229
+339,"nan","Smith","Texas","Co",452
+339,"nan","Webster","Florida","Co",38
+341,"Sean P","Maloney","New York","Co",329
+341,"Sean P","Maloney","New York","Co",322
+343,"nan","Higgins","New York","Co",290
+343,"nan","Ryan","Ohio","Co",262
+343,"nan","Smith","Washington","Co",357
+344,"nan","Thompson","Mississippi","Co",155
+344,"nan","Kelly","Illinois","Co",177
+344,"nan","Gonzalez","Texas","Co",98
+346,"nan","King","New York","Primary",336
+346,"nan","Rice","New York","Co",335
+353,"Danny K","Davis","Illinois","Primary",187
+353,"Danny K","Davis","Illinois","Primary",158
+354,"nan","Davis","California","Co",403
+354,"nan","Scott","Virginia","Co",52
+354,"Danny K","Davis","Illinois","Co",187
+354,"Danny K","Davis","Illinois","Co",158
+358,"nan","Clark","Massachusetts","Co",347
+358,"Ted","Lieu","California","Co",378
+358,"nan","Ryan","Ohio","Co",262
+358,"nan","Scott","Virginia","Co",52
+358,"nan","Lewis","Georgia","Co",221
+358,"nan","Thompson","Mississippi","Co",155
+358,"nan","Brady","Pennsylvania","Co",316
+358,"nan","Kelly","Illinois","Co",177
+358,"nan","Clarke","New York","Co",330
+358,"Judy","Chu","California","Co",388
+358,"nan","Johnson","Georgia","Co",0
+358,"Michael F","Doyle","Pennsylvania","Co",282
+358,"Al","Green","Texas","Co",132
+358,"Al","Green","Texas","Co",128
+359,"Maxine","Waters","California","Co",383
+359,"David","Scott","Georgia","Co",230
+359,"David","Scott","Georgia","Co",216
+362,"nan","Lewis","Georgia","Co",221
+362,"Eddie B","Johnson","Texas","Co",117
+362,"Eddie B","Johnson","Texas","Co",113
+362,"nan","Sewell","Alabama","Co",172
+362,"Danny K","Davis","Illinois","Co",187
+362,"Danny K","Davis","Illinois","Co",158
+362,"nan","Clarke","New York","Co",330
+362,"nan","Johnson","Georgia","Co",0
+362,"David","Scott","Georgia","Co",230
+362,"David","Scott","Georgia","Co",216
+362,"nan","Carson","Indiana","Co",202
+362,"nan","Wilson","Florida","Co",278
+362,"Maxine","Waters","California","Co",383
+362,"nan","Lawson","Florida","Co",249
+362,"nan","Kelly","Illinois","Co",177
+363,"nan","Carson","Indiana","Co",202
+363,"nan","Wilson","Florida","Co",278
+363,"nan","Johnson","Georgia","Co",0
+365,"nan","Scott","Virginia","Co",52
+365,"Sean P","Maloney","New York","Co",329
+365,"Sean P","Maloney","New York","Co",322
+365,"nan","Swalwell","California","Co",361
+365,"nan","Brownley","California","Co",92
+365,"nan","Rice","New York","Co",335
+365,"nan","Carson","Indiana","Co",202
+365,"nan","Price","North Carolina","Co",288
+365,"nan","Clark","Massachusetts","Co",347
+365,"nan","Frankel","Florida","Co",279
+365,"nan","Frankel","Florida","Co",277
+365,"nan","Smith","Washington","Co",357
+365,"Carolyn B","Maloney","New York","Co",329
+365,"Carolyn B","Maloney","New York","Co",322
+365,"nan","Davis","California","Co",403
+365,"Danny K","Davis","Illinois","Co",187
+365,"Danny K","Davis","Illinois","Co",158
+365,"Ted","Lieu","California","Co",378
+365,"nan","Larson","Connecticut","Co",342
+365,"nan","Lewis","Georgia","Co",221
+365,"nan","Brady","Pennsylvania","Co",316
+365,"Brendan F","Boyle","Pennsylvania","Co",315
+365,"nan","Ryan","Ohio","Co",262
+365,"nan","Larsen","Washington","Co",83
+365,"nan","Castor","Florida","Co",42
+365,"nan","Esty","Connecticut","Co",337
+367,"nan","Scott","Virginia","Co",52
+367,"nan","Davis","California","Co",403
+368,"nan","Kelly","Illinois","Co",177
+368,"nan","Brown","Maryland","Co",304
+368,"Eddie B","Johnson","Texas","Co",117
+368,"Eddie B","Johnson","Texas","Co",113
+368,"nan","Clarke","New York","Co",330
+368,"nan","Carson","Indiana","Co",202
+368,"Danny K","Davis","Illinois","Co",187
+368,"Danny K","Davis","Illinois","Co",158
+368,"Al","Green","Texas","Co",132
+368,"Al","Green","Texas","Co",128
+368,"nan","Wilson","Florida","Co",278
+368,"David","Scott","Georgia","Co",230
+368,"David","Scott","Georgia","Co",216
+369,"nan","Kelly","Illinois","Co",177
+369,"Danny K","Davis","Illinois","Co",187
+369,"Danny K","Davis","Illinois","Co",158
+369,"David","Scott","Georgia","Co",230
+369,"David","Scott","Georgia","Co",216
+369,"Al","Green","Texas","Co",132
+369,"Al","Green","Texas","Co",128
+369,"nan","Wilson","Florida","Co",278
+369,"Eddie B","Johnson","Texas","Co",117
+369,"Eddie B","Johnson","Texas","Co",113
+369,"nan","Clarke","New York","Co",330
+369,"nan","Brown","Maryland","Co",304
+369,"nan","Carson","Indiana","Co",202
+376,"nan","Clarke","New York","Co",330
+376,"nan","Johnson","Georgia","Co",0
+376,"Sean P","Maloney","New York","Co",329
+376,"Sean P","Maloney","New York","Co",322
+377,"nan","Swalwell","California","Co",361
+377,"Judy","Chu","California","Co",388
+377,"nan","Wilson","Florida","Co",278
+377,"Michael F","Doyle","Pennsylvania","Co",282
+377,"Sean P","Maloney","New York","Co",329
+377,"Sean P","Maloney","New York","Co",322
+377,"nan","Sewell","Alabama","Co",172
+377,"Al","Green","Texas","Co",132
+377,"Al","Green","Texas","Co",128
+377,"nan","Carson","Indiana","Co",202
+377,"nan","Davis","California","Co",403
+377,"nan","Brownley","California","Co",92
+377,"nan","Clark","Massachusetts","Co",347
+377,"nan","Larsen","Washington","Co",83
+377,"nan","Clarke","New York","Co",330
+377,"nan","Larson","Connecticut","Co",342
+377,"nan","Frankel","Florida","Co",279
+377,"nan","Frankel","Florida","Co",277
+377,"Carolyn B","Maloney","New York","Co",329
+377,"Carolyn B","Maloney","New York","Co",322
+377,"nan","Scott","Virginia","Co",52
+377,"nan","Rice","New York","Co",335
+377,"nan","Ryan","Ohio","Co",262
+377,"nan","Kelly","Illinois","Co",177
+377,"nan","Brady","Pennsylvania","Co",316
+377,"Brendan F","Boyle","Pennsylvania","Co",315
+377,"nan","Smith","Washington","Co",357
+377,"nan","Thompson","California","Co",354
+377,"nan","Price","North Carolina","Co",288
+377,"nan","Lewis","Georgia","Co",221
+377,"nan","Higgins","New York","Co",290
+378,"nan","Franks","Arizona","Co",416
+383,"Danny K","Davis","Illinois","Co",187
+383,"Danny K","Davis","Illinois","Co",158
+383,"nan","Kelly","Illinois","Co",177
+383,"nan","Wilson","Florida","Co",278
+383,"nan","Johnson","Georgia","Co",0
+383,"nan","Smith","Washington","Co",357
+384,"nan","Brown","Maryland","Co",304
+384,"nan","Johnson","Georgia","Co",0
+384,"Carolyn B","Maloney","New York","Co",329
+384,"Carolyn B","Maloney","New York","Co",322
+384,"nan","Carson","Indiana","Co",202
+393,"nan","Costello","Pennsylvania","Co",308
+393,"nan","Kuster","New Hampshire","Co",345
+402,"nan","Smith","Missouri","Co",150
+403,"nan","Scott","Virginia","Co",52
+406,"nan","Scott","Virginia","Primary",52
+406,"nan","Davis","California","Co",403
+407,"nan","Johnson","Georgia","Co",0
+407,"nan","Clarke","New York","Co",330
+408,"Judy","Chu","California","Co",388
+408,"nan","Clarke","New York","Co",330
+408,"Carolyn B","Maloney","New York","Co",329
+408,"Carolyn B","Maloney","New York","Co",322
+410,"nan","Mooney","West Virginia","Co",251
+415,"nan","Lewis","Georgia","Co",221
+415,"Maxine","Waters","California","Co",383
+415,"nan","Bishop","Georgia","Co",9
+415,"Eddie B","Johnson","Texas","Co",117
+415,"Eddie B","Johnson","Texas","Co",113
+415,"nan","Scott","Virginia","Co",52
+415,"nan","Thompson","Mississippi","Co",155
+415,"Danny K","Davis","Illinois","Co",187
+415,"Danny K","Davis","Illinois","Co",158
+415,"David","Scott","Georgia","Co",230
+415,"David","Scott","Georgia","Co",216
+415,"Al","Green","Texas","Co",132
+415,"Al","Green","Texas","Co",128
+415,"nan","Clarke","New York","Co",330
+415,"nan","Johnson","Georgia","Co",0
+415,"nan","Carson","Indiana","Co",202
+415,"nan","Sewell","Alabama","Co",172
+415,"nan","Wilson","Florida","Co",278
+415,"nan","Kelly","Illinois","Co",177
+415,"nan","Brown","Maryland","Co",304
+415,"nan","Lawson","Florida","Co",249
+419,"nan","Rice","South Carolina","Co",272
+420,"nan","Esty","Connecticut","Co",337
+423,"nan","Ryan","Ohio","Co",262
+423,"nan","Wilson","Florida","Co",278
+423,"nan","Johnson","Georgia","Co",0
+423,"Sean P","Maloney","New York","Co",329
+423,"Sean P","Maloney","New York","Co",322
+423,"Judy","Chu","California","Co",388
+423,"nan","Kuster","New Hampshire","Co",345
+428,"nan","Carson","Indiana","Co",202
+431,"nan","Clark","Massachusetts","Co",347
+431,"nan","Frankel","Florida","Co",279
+431,"nan","Frankel","Florida","Co",277
+431,"nan","Brooks","Indiana","Co",201
+431,"Judy","Chu","California","Co",388
+431,"nan","Jenkins","Kansas","Co",118
+431,"nan","Brownley","California","Co",92
+431,"nan","Sewell","Alabama","Co",172
+431,"nan","Clarke","New York","Co",330
+431,"nan","Wilson","Florida","Co",278
+431,"Eddie B","Johnson","Texas","Co",117
+431,"Eddie B","Johnson","Texas","Co",113
+431,"nan","Davis","California","Co",403
+431,"nan","Esty","Connecticut","Co",337
+432,"Al","Green","Texas","Co",132
+432,"Al","Green","Texas","Co",128
+434,"Judy","Chu","California","Co",388
+437,"Ted","Lieu","California","Co",378
+439,"nan","Smith","Washington","Co",357
+442,"nan","Scott","Virginia","Primary",52
+442,"nan","Ryan","Ohio","Co",262
+442,"nan","Wilson","Florida","Co",278
+442,"nan","Sewell","Alabama","Co",172
+442,"nan","Clarke","New York","Co",330
+442,"Ted","Lieu","California","Co",378
+442,"nan","Johnson","Georgia","Co",0
+442,"Brendan F","Boyle","Pennsylvania","Co",315
+442,"nan","Brady","Pennsylvania","Co",316
+442,"Gene","Green","Texas","Co",132
+442,"Gene","Green","Texas","Co",128
+442,"nan","Castor","Florida","Co",42
+449,"nan","Murphy","Florida","Co",264
+453,"nan","Scott","Virginia","Co",52
+453,"nan","Clarke","New York","Co",330
+453,"Carolyn B","Maloney","New York","Co",329
+453,"Carolyn B","Maloney","New York","Co",322
+453,"nan","Davis","California","Co",403
+454,"nan","Franks","Arizona","Co",416
+454,"Jody B","Hice","Georgia","Co",229
+454,"nan","Bishop","Utah","Co",414
+454,"nan","Duncan","South Carolina","Co",236
+455,"Brendan F","Boyle","Pennsylvania","Co",315
+455,"nan","Clarke","New York","Co",330
+455,"nan","Rice","New York","Co",335
+455,"nan","Frankel","Florida","Co",279
+455,"nan","Frankel","Florida","Co",277
+455,"Carolyn B","Maloney","New York","Co",329
+455,"Carolyn B","Maloney","New York","Co",322
+455,"nan","Thompson","California","Co",354
+455,"nan","Higgins","New York","Co",290
+455,"nan","Smith","Washington","Co",357
+455,"Danny K","Davis","Illinois","Co",187
+455,"Danny K","Davis","Illinois","Co",158
+455,"nan","Clark","Massachusetts","Co",347
+455,"nan","Brownley","California","Co",92
+455,"nan","Castor","Florida","Co",42
+455,"nan","Wilson","Florida","Co",278
+455,"David","Scott","Georgia","Co",230
+455,"David","Scott","Georgia","Co",216
+455,"Michael F","Doyle","Pennsylvania","Co",282
+455,"Ted","Lieu","California","Co",378
+455,"nan","Swalwell","California","Co",361
+455,"nan","Ryan","Ohio","Co",262
+455,"nan","Carson","Indiana","Co",202
+455,"nan","Brady","Pennsylvania","Co",316
+455,"Gene","Green","Texas","Co",132
+455,"Gene","Green","Texas","Co",128
+455,"nan","Lawson","Florida","Co",249
+455,"nan","Bishop","Georgia","Co",9
+455,"nan","Davis","California","Co",403
+455,"Sean P","Maloney","New York","Co",329
+455,"Sean P","Maloney","New York","Co",322
+455,"Eddie B","Johnson","Texas","Co",117
+455,"Eddie B","Johnson","Texas","Co",113
+455,"nan","Murphy","Florida","Co",264
+455,"nan","Price","North Carolina","Co",288
+455,"nan","Sewell","Alabama","Co",172
+455,"Judy","Chu","California","Co",388
+455,"nan","Larsen","Washington","Co",83
+455,"Al","Green","Texas","Co",132
+455,"Al","Green","Texas","Co",128
+455,"nan","Kuster","New Hampshire","Co",345
+455,"nan","Larson","Connecticut","Co",342
+455,"nan","Scott","Virginia","Co",52
+455,"nan","Johnson","Georgia","Co",0
+455,"nan","Kelly","Illinois","Co",177
+455,"nan","Brown","Maryland","Co",304
+455,"nan","Lewis","Georgia","Co",221
+455,"nan","Gonzalez","Texas","Co",98
+455,"nan","Castro","Texas","Co",99
+455,"nan","Thompson","Mississippi","Co",155
+455,"Maxine","Waters","California","Co",383
+455,"nan","Smith","New Jersey","Co",323
+456,"nan","Scott","Virginia","Co",52
+456,"nan","Smith","Washington","Co",357
+456,"Sean P","Maloney","New York","Co",329
+456,"Sean P","Maloney","New York","Co",322
+458,"nan","Curbelo","Florida","Primary",45
+461,"nan","Scott","Virginia","Primary",52
+461,"nan","Wilson","Florida","Co",278
+461,"nan","Frankel","Florida","Co",279
+461,"nan","Frankel","Florida","Co",277
+461,"nan","Carson","Indiana","Co",202
+461,"nan","Clark","Massachusetts","Co",347
+461,"nan","Castro","Texas","Co",99
+461,"nan","Davis","California","Co",403
+467,"nan","Smith","New Jersey","Primary",323
+468,"nan","Smith","New Jersey","Primary",323
+469,"nan","Kelly","Pennsylvania","Co",273
+471,"nan","Scott","Virginia","Primary",52
+471,"nan","Davis","California","Co",403
+471,"nan","Wilson","Florida","Co",278
+472,"nan","Frankel","Florida","Primary",279
+472,"nan","Frankel","Florida","Primary",277
+472,"nan","Poe","Texas","Co",129
+477,"nan","Kelly","Illinois","Primary",177
+477,"nan","Swalwell","California","Co",361
+477,"nan","Scott","Virginia","Co",52
+477,"nan","Clarke","New York","Co",330
+477,"nan","Thompson","Mississippi","Co",155
+477,"nan","Sewell","Alabama","Co",172
+477,"nan","Ryan","Ohio","Co",262
+477,"nan","Kuster","New Hampshire","Co",345
+477,"nan","Esty","Connecticut","Co",337
+484,"nan","Kelly","Illinois","Primary",177
+484,"nan","Swalwell","California","Co",361
+484,"nan","Scott","Virginia","Co",52
+484,"nan","Clarke","New York","Co",330
+484,"nan","Thompson","Mississippi","Co",155
+484,"nan","Sewell","Alabama","Co",172
+484,"nan","Ryan","Ohio","Co",262
+484,"nan","Kuster","New Hampshire","Co",345
+485,"nan","Royce","California","Primary",392
+489,"nan","Royce","California","Primary",392
+493,"nan","Scott","Virginia","Co",52
+493,"nan","Davis","California","Co",403
+493,"nan","Wilson","Florida","Co",278
+495,"Brendan F","Boyle","Pennsylvania","Co",315
+495,"nan","Brownley","California","Co",92
+495,"nan","Davis","California","Co",403
+495,"Eddie B","Johnson","Texas","Co",117
+495,"Eddie B","Johnson","Texas","Co",113
+495,"nan","Johnson","Georgia","Co",0
+495,"nan","Price","North Carolina","Co",288
+495,"nan","Ryan","Ohio","Co",262
+495,"nan","Swalwell","California","Co",361
+495,"nan","Thompson","California","Co",354
+495,"Ted","Lieu","California","Co",378
+495,"nan","Larson","Connecticut","Co",342
+495,"nan","Brown","Maryland","Co",304
+496,"nan","Scott","Virginia","Co",52
+496,"nan","Davis","California","Co",403
+496,"nan","Wilson","Florida","Co",278
+496,"nan","Roe","Tennessee","Co",232
+496,"nan","Wilson","South Carolina","Co",254
+496,"Danny K","Davis","Illinois","Co",187
+496,"Danny K","Davis","Illinois","Co",158
+496,"nan","Thompson","Pennsylvania","Co",280
+496,"nan","Curbelo","Florida","Co",45
+497,"nan","Lewis","Georgia","Co",221
+497,"Maxine","Waters","California","Co",383
+497,"Ted","Lieu","California","Co",378
+497,"nan","Davis","California","Co",403
+497,"Eddie B","Johnson","Texas","Co",117
+497,"Eddie B","Johnson","Texas","Co",113
+497,"Al","Green","Texas","Co",132
+497,"Al","Green","Texas","Co",128
+497,"Judy","Chu","California","Co",388
+497,"Danny K","Davis","Illinois","Co",187
+497,"Danny K","Davis","Illinois","Co",158
+497,"nan","Scott","Virginia","Co",52
+499,"nan","Lewis","Georgia","Primary",221
+499,"nan","Brady","Pennsylvania","Co",316
+499,"nan","Bishop","Georgia","Co",9
+499,"Brendan F","Boyle","Pennsylvania","Co",315
+499,"nan","Brown","Maryland","Co",304
+499,"nan","Brownley","California","Co",92
+499,"nan","Carson","Indiana","Co",202
+499,"nan","Castor","Florida","Co",42
+499,"nan","Castro","Texas","Co",99
+499,"Judy","Chu","California","Co",388
+499,"nan","Clark","Massachusetts","Co",347
+499,"nan","Clarke","New York","Co",330
+499,"Danny K","Davis","Illinois","Co",187
+499,"Danny K","Davis","Illinois","Co",158
+499,"nan","Davis","California","Co",403
+499,"Michael F","Doyle","Pennsylvania","Co",282
+499,"nan","Esty","Connecticut","Co",337
+499,"nan","Frankel","Florida","Co",279
+499,"nan","Frankel","Florida","Co",277
+499,"nan","Gonzalez","Texas","Co",98
+499,"Al","Green","Texas","Co",132
+499,"Al","Green","Texas","Co",128
+499,"Gene","Green","Texas","Co",132
+499,"Gene","Green","Texas","Co",128
+499,"nan","Higgins","New York","Co",290
+499,"Eddie B","Johnson","Texas","Co",117
+499,"Eddie B","Johnson","Texas","Co",113
+499,"nan","Johnson","Georgia","Co",0
+499,"nan","Kelly","Illinois","Co",177
+499,"nan","Kuster","New Hampshire","Co",345
+499,"nan","Larsen","Washington","Co",83
+499,"nan","Larson","Connecticut","Co",342
+499,"nan","Lawson","Florida","Co",249
+499,"Ted","Lieu","California","Co",378
+499,"Carolyn B","Maloney","New York","Co",329
+499,"Carolyn B","Maloney","New York","Co",322
+499,"Sean P","Maloney","New York","Co",329
+499,"Sean P","Maloney","New York","Co",322
+499,"nan","Price","North Carolina","Co",288
+499,"nan","Rice","New York","Co",335
+499,"nan","Ryan","Ohio","Co",262
+499,"David","Scott","Georgia","Co",230
+499,"David","Scott","Georgia","Co",216
+499,"nan","Scott","Virginia","Co",52
+499,"nan","Sewell","Alabama","Co",172
+499,"nan","Smith","Washington","Co",357
+499,"nan","Swalwell","California","Co",361
+499,"nan","Thompson","Mississippi","Co",155
+499,"nan","Thompson","California","Co",354
+499,"nan","Wilson","Florida","Co",278
+502,"Ted","Lieu","California","Co",378
+507,"nan","Scott","Virginia","Primary",52
+507,"nan","Curbelo","Florida","Co",45
+510,"nan","Kelly","Illinois","Primary",177
+510,"nan","Clark","Massachusetts","Co",347
+510,"Al","Green","Texas","Co",132
+510,"Al","Green","Texas","Co",128
+510,"nan","Clarke","New York","Co",330
+510,"Maxine","Waters","California","Co",383
+510,"Danny K","Davis","Illinois","Co",187
+510,"Danny K","Davis","Illinois","Co",158
+511,"nan","Smith","Washington","Co",357
+511,"Gene","Green","Texas","Co",132
+511,"Gene","Green","Texas","Co",128
+511,"Sean P","Maloney","New York","Co",329
+511,"Sean P","Maloney","New York","Co",322
+511,"Danny K","Davis","Illinois","Co",187
+511,"Danny K","Davis","Illinois","Co",158
+511,"nan","Lewis","Georgia","Co",221
+511,"nan","Johnson","Georgia","Co",0
+511,"nan","Swalwell","California","Co",361
+511,"nan","Rice","New York","Co",335
+511,"nan","Ryan","Ohio","Co",262
+511,"David","Scott","Georgia","Co",230
+511,"David","Scott","Georgia","Co",216
+511,"nan","Larsen","Washington","Co",83
+511,"nan","Kelly","Illinois","Co",177
+511,"nan","Carson","Indiana","Co",202
+511,"nan","Clark","Massachusetts","Co",347
+511,"nan","Clarke","New York","Co",330
+511,"Brendan F","Boyle","Pennsylvania","Co",315
+511,"nan","Price","North Carolina","Co",288
+511,"nan","Scott","Virginia","Co",52
+511,"Judy","Chu","California","Co",388
+511,"nan","Castor","Florida","Co",42
+511,"nan","Larson","Connecticut","Co",342
+511,"Carolyn B","Maloney","New York","Co",329
+511,"Carolyn B","Maloney","New York","Co",322
+511,"nan","Thompson","California","Co",354
+511,"nan","Wilson","Florida","Co",278
+511,"nan","Higgins","New York","Co",290
+512,"nan","Wilson","Florida","Co",278
+512,"nan","Clarke","New York","Co",330
+512,"nan","Lewis","Georgia","Co",221
+512,"Danny K","Davis","Illinois","Co",187
+512,"Danny K","Davis","Illinois","Co",158
+512,"Eddie B","Johnson","Texas","Co",117
+512,"Eddie B","Johnson","Texas","Co",113
+512,"nan","Ryan","Ohio","Co",262
+512,"Judy","Chu","California","Co",388
+512,"Al","Green","Texas","Co",132
+512,"Al","Green","Texas","Co",128
+515,"nan","Brooks","Indiana","Co",201
+515,"nan","Costello","Pennsylvania","Co",308
+515,"nan","King","New York","Co",336
+515,"nan","Sewell","Alabama","Co",172
+515,"nan","Clarke","New York","Co",330
+515,"Eddie B","Johnson","Texas","Co",117
+515,"Eddie B","Johnson","Texas","Co",113
+515,"Judy","Chu","California","Co",388
+515,"nan","Rice","New York","Co",335
+520,"nan","Murphy","Florida","Co",264
+524,"nan","Collins","Georgia","Primary",220
+525,"nan","Collins","Georgia","Primary",220
+525,"nan","Ryan","Ohio","Co",262
+525,"Eddie B","Johnson","Texas","Co",117
+525,"Eddie B","Johnson","Texas","Co",113
+525,"nan","Curbelo","Florida","Co",45
+528,"nan","Poe","Texas","Co",129
+529,"nan","Thompson","Pennsylvania","Primary",280
+535,"nan","Carson","Indiana","Co",202
+540,"Danny K","Davis","Illinois","Primary",187
+540,"Danny K","Davis","Illinois","Primary",158
+540,"nan","Kelly","Illinois","Co",177
+544,"nan","Smith","Texas","Co",452
+544,"nan","Larsen","Washington","Co",83
+544,"nan","Graves","Missouri","Co",127
+544,"nan","Graves","Louisiana","Co",152
+547,"Maxine","Waters","California","Primary",383
+547,"Al","Green","Texas","Co",132
+547,"Al","Green","Texas","Co",128
+548,"nan","Frankel","Florida","Co",279
+548,"nan","Frankel","Florida","Co",277
+548,"nan","Kuster","New Hampshire","Co",345
+548,"Maxine","Waters","California","Co",383
+548,"Brendan F","Boyle","Pennsylvania","Co",315
+548,"nan","Clark","Massachusetts","Co",347
+548,"nan","Wilson","Florida","Co",278
+548,"Ted","Lieu","California","Co",378
+548,"nan","Brown","Maryland","Co",304
+548,"nan","Carson","Indiana","Co",202
+548,"nan","Swalwell","California","Co",361
+548,"Eddie B","Johnson","Texas","Co",117
+548,"Eddie B","Johnson","Texas","Co",113
+548,"nan","Brownley","California","Co",92
+548,"Danny K","Davis","Illinois","Co",187
+548,"Danny K","Davis","Illinois","Co",158
+548,"David","Scott","Georgia","Co",230
+548,"David","Scott","Georgia","Co",216
+548,"nan","Brady","Pennsylvania","Co",316
+548,"nan","Johnson","Georgia","Co",0
+548,"Al","Green","Texas","Co",132
+548,"Al","Green","Texas","Co",128
+548,"Sean P","Maloney","New York","Co",329
+548,"Sean P","Maloney","New York","Co",322
+548,"nan","Kelly","Illinois","Co",177
+548,"nan","Thompson","California","Co",354
+548,"Gene","Green","Texas","Co",132
+548,"Gene","Green","Texas","Co",128
+548,"Judy","Chu","California","Co",388
+548,"nan","Scott","Virginia","Co",52
+548,"nan","Davis","California","Co",403
+548,"Carolyn B","Maloney","New York","Co",329
+548,"Carolyn B","Maloney","New York","Co",322
+548,"nan","Lewis","Georgia","Co",221
+548,"nan","Castor","Florida","Co",42
+550,"nan","Graves","Missouri","Co",127
+557,"nan","Graves","Missouri","Co",127
+557,"Rodney","Davis","Illinois","Co",187
+557,"Rodney","Davis","Illinois","Co",158
+557,"nan","Duncan","Tennessee","Co",4
+557,"nan","Gonzalez","Texas","Co",98
+562,"nan","Clarke","New York","Co",330
+564,"nan","Wilson","South Carolina","Co",254
+564,"nan","Roe","Tennessee","Co",232
+564,"nan","Thompson","Pennsylvania","Co",280
+564,"Francis","Rooney","Florida","Co",248
+564,"Francis","Rooney","Florida","Co",43
+579,"nan","Price","North Carolina","Primary",288
+582,"nan","Price","North Carolina","Primary",288
+588,"nan","Smith","Washington","Co",357
+592,"nan","King","New York","Co",336

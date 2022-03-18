@@ -1,0 +1,5073 @@
+,BillID,HeaderID,EntityOrderID,Text,CategoryLabel,HeaderText
+0,1,1,1,,ACT,the  Prevention of Arms Race Act
+1,1,1,2,,DATE,2018
+2,1,2,1,,ORG,Findings Congress
+3,1,3,1,,ORG,Senate
+4,1,3,2,,ORG,Senate
+5,1,5,1,,GPE,United States
+6,1,5,2,,QUANTITY,"500 and 5,500 kilometers"
+7,1,5,3,,ORG,Defense
+8,1,5,4,,ORG,State
+9,1,5,5,,ORG,National Intelligence
+10,1,5,6,,ORG,Congress
+11,1,7,1,,ORG,Congress
+12,1,7,2,,ORG,Congress
+13,2,8,1,,ACT,the  Prenatal Nondiscrimination Act
+14,2,8,2,,DATE,2017
+15,2,10,1,,ORG,Congress
+16,2,11,1,,NORP,American
+17,2,11,2,,GPE,United States
+18,2,11,3,,WORK_OF_ART,CVS A
+19,2,11,4,,GPE,the United States
+20,2,11,5,,GPE,United States
+21,2,11,6,,CARDINAL,46
+22,2,11,7,,GPE,the United States
+23,2,11,8,,DATE,March 2008
+24,2,11,9,,ORG,the National Academy of Sciences
+25,2,11,10,,ORG,Columbia University
+26,2,11,11,,PERSON,Douglas Almond
+27,2,11,12,,PERSON,Lena Edlund
+28,2,11,13,,GPE,United States
+29,2,11,14,,NORP,American
+30,2,11,15,,DATE,March 2006
+31,2,11,16,,ORG,Zogby International
+32,2,11,17,,PERCENT,86 percent
+33,2,11,18,,NORP,Americans
+34,2,11,19,,CARDINAL,only eight
+35,2,11,20,,NORP,States
+36,2,11,21,,DATE,2012
+37,2,11,22,,ORG,the Charlotte Lozier Institute
+38,2,11,23,,PERCENT,77 percent
+39,2,11,24,,NORP,Americans
+40,2,11,25,,GPE,the United States
+41,2,11,26,,GPE,the United States
+42,2,11,27,,ORG,Congress
+43,2,11,28,,NORP,Congressional
+44,2,11,29,,ORG,the  Communist Government of China
+45,2,11,30,,DATE,1990
+46,2,11,31,,ORG,Harvard University
+47,2,11,32,,PERSON,Amartya Sen
+48,2,11,33,,CARDINAL,more than 100 million
+49,2,11,34,,GPE,the Republic of India
+50,2,11,35,,GPE,the United Kingdom
+51,2,11,36,,ORG,the People’s Republic of China
+52,2,11,37,,GPE,The United States
+53,2,11,38,,GPE,the United States
+54,2,11,39,,GPE,the Republic of India
+55,2,11,40,,ORG,the People’s Republic of China
+56,2,11,41,,GPE,United States
+57,2,11,42,,GPE,the United States
+58,2,11,43,,GPE,the United States
+59,2,11,44,,GPE,the United States
+60,2,11,45,,GPE,the United States
+61,2,11,46,,NORP,American
+62,2,11,47,,ORG,The American Congress of Obstetricians
+63,2,11,48,,NORP,Gynecologists
+64,2,11,49,,CARDINAL,one
+65,2,11,50,,GPE,the United States
+66,2,11,51,,ORDINAL,first
+67,2,11,52,,ORG,the American Association of Pro Life Obstetricians
+68,2,11,53,,NORP,Gynecologists
+69,2,11,54,,GPE,the United States
+70,2,11,55,,CARDINAL,One third
+71,2,11,56,,NORP,South Asian
+72,2,11,57,,PERSON,Walter Astrada
+73,2,11,58,,NORP,Indian
+74,2,11,59,,PERCENT,Forty percent
+75,2,11,60,,PERCENT,89 percent
+76,2,11,61,,PERCENT,100 percent
+77,2,11,62,,PERCENT,100 percent
+78,2,11,63,,PERCENT,100 percent
+79,2,11,64,,DATE,2012
+80,2,11,65,,GPE,the United Kingdom
+81,2,11,66,,PERSON,Tony Falconer
+82,2,11,67,,ORG,the Royal College of Obstetrics and Gynaecology
+83,2,11,68,,ORG,the University of California
+84,2,11,69,,GPE,the United States
+85,2,11,70,,CARDINAL,two
+86,2,11,71,,CARDINAL,three
+87,2,11,72,,CARDINAL,four
+88,2,11,73,,NORP,American
+89,2,11,74,,NORP,American
+90,2,12,1,,NORP,American
+91,2,12,2,,GPE,United States
+92,2,12,3,,NORP,American
+93,2,12,4,,ORG,the American Eugenics Society
+94,2,12,5,,CARDINAL,"450,000"
+95,2,12,6,,NORP,Black Americans
+96,2,12,7,,DATE,each year
+97,2,12,8,,ORG,the Alan Guttmacher Institute
+98,2,12,9,,ORG,Planned Parenthood
+99,2,12,10,,ORG,the National Vital Statistics
+100,2,12,11,,DATE,annual
+101,2,12,12,,DATE,from year to year
+102,2,12,13,,DATE,2005
+103,2,12,14,,CARDINAL,Only one
+104,2,12,15,,ORG,State
+105,2,12,16,,GPE,Arizona
+106,2,12,17,,NORP,American
+107,2,12,18,,NORP,American
+108,2,13,1,,GPE,the United States
+109,2,13,2,,GPE,the United States
+110,2,13,3,,NORP,African Americans
+111,2,13,4,,NORP,American
+112,2,13,5,,NORP,Americans
+113,2,13,6,,ORG,Congress
+114,2,14,1,,ORG,Congress
+115,2,14,2,,ORG,Congress
+116,2,16,1,,LAW,Chapter 13
+117,2,28,1,,PRODUCT,VI of
+118,2,28,2,,ACT,the Civil Rights Act
+119,2,28,3,,DATE,1964
+120,2,28,4,,CARDINAL,601
+121,2,29,1,,DATE,more than 1 year
+122,2,30,1,,GPE,the United States
+123,2,30,2,,GPE,United States
+124,2,30,3,,ORG,the Supreme Court
+125,2,30,4,,GPE,the United States
+126,2,32,1,,LAW,Constitution
+127,2,33,1,,CARDINAL,1
+128,2,37,1,,CARDINAL,13
+129,3,39,1,,DATE,2017
+130,3,40,1,,ORG,the Federal Government
+131,3,40,2,,ORG,The Federal Government
+132,4,42,1,,DATE,2017
+133,4,43,1,,LAW,section 8
+134,4,43,2,,ACT,the Fair Labor Standards Act
+135,4,43,3,,DATE,1938
+136,4,43,4,,MONEY,29 U.S.C. 201
+137,4,44,1,,ORG,Findings Congress
+138,4,46,1,,MONEY,29 U.S.C. 206
+139,4,47,1,,CARDINAL,29
+140,4,47,2,,CARDINAL,6(d
+141,4,47,3,,CARDINAL,6
+142,4,48,1,,DATE,Section 15(a
+143,4,48,2,,CARDINAL,29
+144,4,50,1,,LAW,Section 16(b
+145,4,50,2,,CARDINAL,29
+146,4,51,1,,LAW,Section 16(c
+147,4,51,2,,CARDINAL,29
+148,4,52,1,,LAW,section 6(h
+149,4,52,2,,LAW,the Federal Rules of Civil Procedure
+150,4,54,1,,CARDINAL,29
+151,4,55,1,,LAW,Section 11(c
+152,4,57,1,,LAW,Section 11(c
+153,4,58,1,,LAW,Section 4(d
+154,4,58,2,,CARDINAL,29
+155,4,61,1,,DATE,1995
+156,4,61,2,,DATE,2 U.S.C.
+157,4,61,3,,CARDINAL,1313(a)(1
+158,4,61,4,,CARDINAL,6
+159,4,61,5,,CARDINAL,6
+160,4,61,6,,CARDINAL,206
+161,4,61,7,,CARDINAL,206
+162,4,62,1,,DATE,2 U.S.C.
+163,4,62,2,,DATE,1313(b
+164,4,62,3,,LAW,section 16(f
+165,4,62,4,,CARDINAL,29
+166,4,64,1,,CARDINAL,3
+167,4,64,2,,ORG,United States Code
+168,4,64,3,,CARDINAL,2(a
+169,4,64,4,,ACT,the Presidential and Executive Office Accountability Act ( Public Law
+170,4,64,5,,CARDINAL,6
+171,4,64,6,,CARDINAL,6
+172,4,65,1,,LAW,section 16(f
+173,4,65,2,,ACT,Act
+174,4,66,1,,DATE,1 year
+175,5,67,1,,ACT,the  Research to Accelerate Cures and Equity for Children Act RACE
+176,5,69,1,,LAW,Section 505B
+177,5,69,2,,ORG,"the Federal Food, Drug"
+178,5,71,1,,LAW,section 505B(e)(2)(C
+179,5,71,2,,ORG,"the Federal Food, Drug"
+180,5,71,3,,CARDINAL,21
+181,5,71,4,,CARDINAL,1
+182,5,71,5,,CARDINAL,21
+183,5,71,6,,ORG,Federal Regulations
+184,5,71,7,,DATE,30 days
+185,5,71,8,,DATE,later than 90 calendar days
+186,5,71,9,,ORG,a)(4
+187,5,72,1,,ORG,"the Federal Food, Drug"
+188,5,72,2,,CARDINAL,21
+189,5,72,3,,CARDINAL,2
+190,5,72,4,,CARDINAL,3
+191,5,72,5,,CARDINAL,2)(C)(i
+192,5,72,6,,CARDINAL,2)(C)(i)(II
+193,5,73,1,,GPE,Orphan
+194,5,73,2,,ORG,"the Federal Food, Drug"
+195,5,73,3,,MONEY,21 U.S.C.
+196,5,73,4,,CARDINAL,355c(k
+197,5,74,1,,DATE,later than 1 year
+198,5,74,2,,ORG,Health and Human Services
+199,5,74,3,,ORG,"the Federal Food, Drug"
+200,5,75,1,,CARDINAL,505
+201,5,75,2,,ORG,"the Federal Food, Drug"
+202,5,75,3,,CARDINAL,262
+203,5,76,1,,ORG,Congress Section
+204,5,76,2,,ACT,the FDA Safety and Innovation Act
+205,5,76,3,,CARDINAL,21
+206,5,77,1,,ORG,Health and Human Services
+207,5,77,2,,LAW,section 505A
+208,5,77,3,,ORG,"the Federal Food, Drug"
+209,5,77,4,,MONEY,21 U.S.C. 355a
+210,5,79,1,,ORG,Section
+211,5,79,2,,ORG,"the Federal Food, Drug"
+212,5,79,3,,MONEY,21 U.S.C.
+213,5,80,1,,CARDINAL,1
+214,5,81,1,,LAW,Section 505A(d
+215,5,81,2,,ORG,"the Federal Food, Drug"
+216,5,81,3,,CARDINAL,21
+217,5,82,1,,DATE,120 days
+218,5,83,1,,ORG,Health and Human Services
+219,5,83,2,,ORG,"the Federal Food, Drug"
+220,5,84,1,,CARDINAL,6(d
+221,5,84,2,,ACT,the Best Pharmaceuticals for Children Act
+222,5,84,3,,CARDINAL,21
+223,5,84,4,,DATE,the 5 year
+224,6,85,1,,ORG,the  Protect American Families
+225,6,85,2,,ORG,Unnecessary Registration and Deportation
+226,6,85,3,,DATE,2017
+227,6,87,1,,CARDINAL,263
+228,6,87,2,,CARDINAL,265
+229,6,87,3,,CARDINAL,266
+230,6,87,4,,DATE,1303
+231,7,89,1,,ACT,the  Research to Accelerate Cures and Equity for Children Act RACE
+232,7,91,1,,LAW,Section 505B
+233,7,91,2,,ORG,"the Federal Food, Drug"
+234,7,93,1,,LAW,section 505B(e)(2)(C
+235,7,93,2,,ORG,"the Federal Food, Drug"
+236,7,93,3,,CARDINAL,21
+237,7,93,4,,CARDINAL,1
+238,7,93,5,,CARDINAL,21
+239,7,93,6,,ORG,Federal Regulations
+240,7,93,7,,DATE,30 days
+241,7,93,8,,DATE,later than 90 calendar days
+242,7,93,9,,ORG,a)(4
+243,7,94,1,,ORG,"the Federal Food, Drug"
+244,7,94,2,,CARDINAL,21
+245,7,94,3,,CARDINAL,2
+246,7,94,4,,CARDINAL,3
+247,7,94,5,,CARDINAL,2)(C)(i
+248,7,94,6,,CARDINAL,2)(C)(i)(II
+249,7,95,1,,GPE,Orphan
+250,7,95,2,,ORG,"the Federal Food, Drug"
+251,7,95,3,,MONEY,21 U.S.C.
+252,7,95,4,,CARDINAL,355c(k
+253,7,96,1,,DATE,later than 1 year
+254,7,96,2,,ORG,Health and Human Services
+255,7,96,3,,ORG,"the Federal Food, Drug"
+256,7,97,1,,CARDINAL,505
+257,7,97,2,,ORG,"the Federal Food, Drug"
+258,7,97,3,,CARDINAL,262
+259,7,98,1,,ORG,Congress Section
+260,7,98,2,,ACT,the FDA Safety and Innovation Act
+261,7,98,3,,CARDINAL,21
+262,7,99,1,,ORG,Health and Human Services
+263,7,99,2,,LAW,section 505A
+264,7,99,3,,ORG,"the Federal Food, Drug"
+265,7,99,4,,MONEY,21 U.S.C. 355a
+266,7,101,1,,ORG,Section
+267,7,101,2,,ORG,"the Federal Food, Drug"
+268,7,101,3,,MONEY,21 U.S.C.
+269,7,102,1,,CARDINAL,1
+270,7,103,1,,LAW,Section 505A(d
+271,7,103,2,,ORG,"the Federal Food, Drug"
+272,7,103,3,,CARDINAL,21
+273,7,104,1,,DATE,120 days
+274,7,105,1,,ORG,Health and Human Services
+275,7,105,2,,ORG,"the Federal Food, Drug"
+276,7,106,1,,CARDINAL,6(d
+277,7,106,2,,ACT,the Best Pharmaceuticals for Children Act
+278,7,106,3,,CARDINAL,21
+279,7,106,4,,DATE,the 5 year
+280,8,107,1,,DATE,2017
+281,8,107,2,,ACT,Housing Fairness Act
+282,8,107,3,,DATE,2017
+283,8,109,1,,ORG,Housing and Urban Development
+284,8,110,1,,ORG,Housing and Urban Development
+285,8,110,2,,CARDINAL,561
+286,8,110,3,,ACT,the Housing and Community Development Act
+287,8,110,4,,DATE,1987
+288,8,110,5,,MONEY,42 U.S.C. 3616a(h
+289,8,112,1,,ORG,Housing and Urban Development
+290,8,112,2,,ORG,Congress
+291,8,113,1,,ORG,State
+292,8,113,2,,ACT,the Housing and Community Development Act
+293,8,113,3,,DATE,1987
+294,8,113,4,,CARDINAL,42
+295,8,115,1,,MONEY,42 U.S.C. 3602
+296,8,116,1,,MONEY,42 U.S.C. 3602
+297,8,117,1,,DATE,15 U.S.C. 1601
+298,8,118,1,,DATE,the 180 day
+299,8,118,2,,ORG,Housing and Urban Development
+300,8,118,3,,LAW,section 553
+301,8,118,4,,CARDINAL,5
+302,8,118,5,,ORG,United States Code
+303,8,119,1,,ORG,Authorization of Appropriations
+304,8,119,2,,MONEY,"15,000,000"
+305,8,119,3,,DATE,each of fiscal years 2018
+306,8,119,4,,DATE,2022
+307,8,120,1,,ORG,the Fair Housing Initiatives Program
+308,8,121,1,,CARDINAL,561
+309,8,121,2,,ACT,the Housing and Community Development Act
+310,8,121,3,,DATE,1987
+311,8,121,4,,CARDINAL,42
+312,8,122,1,,ORG,Authorization of Appropriations
+313,8,123,1,,MONEY,"42,500,000"
+314,8,123,2,,DATE,each of fiscal years 2015 through 2019
+315,8,123,3,,PERCENT,less than 75 percent
+316,8,123,4,,PERCENT,more than 10 percent
+317,8,125,1,,DATE,the 180 day
+318,8,125,2,,ORG,Housing and Urban Development
+319,8,125,3,,DATE,any of fiscal years 2015 through 2019
+320,8,125,4,,LAW,section 553
+321,8,125,5,,CARDINAL,5
+322,8,125,6,,ORG,United States Code
+323,8,126,1,,ORG,Congress
+324,8,126,2,,ORG,Congress
+325,8,126,3,,ORG,Housing and Urban Development
+326,8,128,1,,ORG,Housing and Urban Development
+327,8,130,1,,ORG,Housing and Urban Development
+328,8,130,2,,ORG,Congress
+329,8,130,3,,CARDINAL,2
+330,8,130,4,,CARDINAL,6
+331,8,130,5,,ACT,the Fair Housing Act
+332,8,131,1,,ORG,Authorization of Appropriations
+333,8,131,2,,MONEY,"5,000,000"
+334,8,131,3,,DATE,each of fiscal years 2018
+335,8,131,4,,DATE,2022
+336,8,132,1,,ACT,this Act
+337,8,132,2,,ORG,the Office of Management and Budget
+338,8,132,3,,ORG,Non Profit Organizations
+339,9,133,1,,ACT,Science Success Act
+340,9,133,2,,DATE,2018
+341,9,134,1,,ORG,Congress
+342,9,135,1,,ORG,Findings Congress
+343,9,136,1,,ORG,Congress
+344,9,136,2,,ORG,Congress
+345,9,136,3,,GPE,the United States
+346,9,136,4,,GPE,United States
+347,9,138,1,,ORG,the Small Business Administration
+348,9,138,2,,ORG,Commerce for Intellectual Property
+349,9,138,3,,ORG,the United States Patent and Trademark Office
+350,9,139,1,,DATE,later than 6 months
+351,9,139,2,,ORG,the Small Business Administration
+352,9,139,3,,ORG,the Committee on Small Business of the House of Representatives
+353,9,139,4,,ORG,the Committee on Small Business and Entrepreneurship
+354,9,139,5,,ORG,Senate
+355,9,141,1,,CARDINAL,15
+356,9,142,1,,MONEY,15 U.S.C.
+357,9,143,1,,MONEY,15 U.S.C.
+358,9,144,1,,CARDINAL,15
+359,10,146,1,,ORG,Findings Congress
+360,10,148,1,,ORG,the House of Representatives
+361,10,148,2,,ORG,Senate
+362,10,148,3,,ORG,Congress
+363,10,148,4,,CARDINAL,4
+364,10,149,1,,ORG,Treasury
+365,10,151,1,,ORG,Smithsonian Institution
+366,10,152,1,,PERSON,Dorothy Vaughan
+367,10,152,2,,ORG,the Smithsonian Institution
+368,10,153,1,,ORG,Congress
+369,10,153,2,,ORG,Congress
+370,10,153,3,,ORG,the Smithsonian Institution
+371,10,153,4,,ORG,the National Museum of African American History and Culture
+372,10,154,1,,PERSON,Mary Jackson
+373,10,154,2,,ORG,a)(3)(B
+374,10,155,1,,ACT,this Act
+375,10,157,1,,CARDINAL,51
+376,10,158,1,,DATE,5134
+377,10,158,2,,CARDINAL,5136
+378,10,158,3,,CARDINAL,31
+379,10,158,4,,ORG,United States Code
+380,10,160,1,,ORG,the United States Mint Public Enterprise Fund
+381,10,160,2,,ACT,this Act
+382,10,161,1,,LAW,section 4
+383,10,161,2,,GPE,the United States Mint Public Enterprise Fund
+384,15,163,1,,ORG,Findings Congress
+385,15,164,1,,ORG,Congressional Gold Medals
+386,15,165,1,,ORG,the House of Representatives
+387,15,165,2,,ORG,Senate
+388,15,165,3,,ORG,Congress
+389,15,165,4,,CARDINAL,5
+390,15,166,1,,ORG,Treasury
+391,15,168,1,,ORG,Smithsonian Institution
+392,15,169,1,,PERSON,Dorothy Vaughan
+393,15,169,2,,ORG,the Smithsonian Institution
+394,15,170,1,,ORG,Congress
+395,15,170,2,,ORG,Congress
+396,15,170,3,,ORG,the Smithsonian Institution
+397,15,170,4,,ORG,the National Museum of African American History and Culture
+398,15,171,1,,PERSON,Mary Jackson
+399,15,171,2,,ORG,a)(3)(B
+400,15,171,3,,PERSON,Wanda Jackson
+401,15,172,1,,ACT,this Act
+402,15,174,1,,CARDINAL,51
+403,15,175,1,,DATE,5134
+404,15,175,2,,CARDINAL,5136
+405,15,175,3,,CARDINAL,31
+406,15,175,4,,ORG,United States Code
+407,15,177,1,,ORG,the United States Mint Public Enterprise Fund
+408,15,177,2,,ACT,this Act
+409,15,178,1,,LAW,section 4
+410,15,178,2,,GPE,the United States Mint Public Enterprise Fund
+411,16,180,1,,ORG,Findings Congress
+412,16,181,1,,ORG,Congressional Gold Medals
+413,16,182,1,,ORG,the House of Representatives
+414,16,182,2,,ORG,Senate
+415,16,182,3,,ORG,Congress
+416,16,182,4,,CARDINAL,5
+417,16,183,1,,ORG,Treasury
+418,16,185,1,,ORG,Smithsonian Institution
+419,16,186,1,,PERSON,Dorothy Vaughan
+420,16,186,2,,ORG,the Smithsonian Institution
+421,16,187,1,,ORG,Congress
+422,16,187,2,,ORG,Congress
+423,16,187,3,,ORG,the Smithsonian Institution
+424,16,187,4,,ORG,the National Museum of African American History and Culture
+425,16,188,1,,PERSON,Mary Jackson
+426,16,188,2,,ORG,a)(3)(B
+427,16,188,3,,PERSON,Wanda Jackson
+428,16,189,1,,ACT,this Act
+429,16,191,1,,CARDINAL,51
+430,16,192,1,,DATE,5134
+431,16,192,2,,CARDINAL,5136
+432,16,192,3,,CARDINAL,31
+433,16,192,4,,ORG,United States Code
+434,16,194,1,,ORG,the United States Mint Public Enterprise Fund
+435,16,194,2,,ACT,this Act
+436,16,195,1,,LAW,section 4
+437,16,195,2,,GPE,the United States Mint Public Enterprise Fund
+438,21,197,1,,GPE,Notwithstanding
+439,21,197,2,,LAW,Constitution
+440,21,197,3,,GPE,the United States
+441,21,198,1,,LAW,Title I of the Omnibus Crime Control
+442,21,198,2,,DATE,1968
+443,21,198,3,,CARDINAL,34
+444,21,198,4,,DATE,10101
+445,21,201,1,,ORG,Grants
+446,21,202,1,,ORG,State
+447,21,203,1,,ORG,National Pretrial Reporting Program The
+448,21,203,2,,GPE,States
+449,21,205,1,,DATE,annual
+450,21,205,2,,GPE,States
+451,21,206,1,,ORDINAL,first
+452,21,207,1,,CARDINAL,1
+453,21,208,1,,TIME,48 hours
+454,21,208,2,,DATE,monthly
+455,21,209,1,,DATE,each fiscal year
+456,21,209,2,,ORG,State
+457,21,209,3,,NORP,Indian
+458,21,211,1,,DATE,fiscal year 2018
+459,21,212,1,,NORP,Indian
+460,21,214,1,,CARDINAL,505
+461,21,214,2,,ORG,the Omnibus Crime Control
+462,21,214,3,,DATE,1968
+463,21,214,4,,DATE,34 U.S.C.
+464,21,215,1,,DATE,the third fiscal year beginning
+465,21,215,2,,ACT,the  No Money Bail Act
+466,21,217,1,,GPE,Notwithstanding
+467,21,217,2,,CARDINAL,1
+468,21,217,3,,ORG,State
+469,21,217,4,,ORG,State
+470,21,217,5,,ORG,State
+471,21,217,6,,GPE,States
+472,21,217,7,,GPE,States
+473,21,218,1,,ORG,GAO
+474,21,218,2,,DATE,later than 3 years
+475,21,218,3,,ORG,the Comptroller General
+476,21,218,4,,GPE,the United States
+477,21,218,5,,GPE,States
+478,22,220,1,,PERSON,Findings
+479,22,221,1,,ORG,Findings Congress
+480,22,224,1,,LAW,Section 201
+481,22,224,2,,ACT,the Civil Rights Act
+482,22,224,3,,DATE,1964
+483,22,224,4,,DATE,42 U.S.C.
+484,22,224,5,,DATE,2000a
+485,22,225,1,,LAW,Section 202
+486,22,225,2,,MONEY,42 U.S.C. 2000a–1
+487,22,226,1,,PRODUCT,Title II
+488,22,228,1,,ACT,the Civil Rights Act
+489,22,228,2,,DATE,1964
+490,22,228,3,,CARDINAL,42
+491,22,230,1,,ACT,the Civil Rights Act
+492,22,230,2,,DATE,1964
+493,22,230,3,,MONEY,42 U.S.C. 2000c(b
+494,22,231,1,,MONEY,42 U.S.C. 2000c–6
+495,22,232,1,,CARDINAL,410
+496,22,233,1,,ACT,the Civil Rights Act
+497,22,233,2,,DATE,1964
+498,22,233,3,,DATE,42 U.S.C.
+499,22,233,4,,DATE,2000d
+500,22,235,1,,LAW,Title VII of
+501,22,235,2,,ACT,the Civil Rights Act
+502,22,235,3,,DATE,1964
+503,22,235,4,,LAW,section 701
+504,22,235,5,,DATE,2000e
+505,22,236,1,,LAW,Section 1106
+506,22,237,1,,LAW,Section 703 of
+507,22,237,2,,ACT,the Civil Rights Act
+508,22,237,3,,DATE,1964
+509,22,237,4,,MONEY,42 U.S.C.
+510,22,238,1,,ORG,Section 704(b
+511,22,238,2,,ACT,the Civil Rights Act
+512,22,238,3,,DATE,1964
+513,22,238,4,,CARDINAL,2000e–3(b
+514,22,239,1,,ACT,the Civil Rights Act
+515,22,239,2,,DATE,1964
+516,22,239,3,,CARDINAL,2000e–5(g)(2)(A
+517,22,240,1,,ORG,Federal Government Section
+518,22,240,2,,ACT,the Civil Rights Act
+519,22,240,3,,DATE,1964
+520,22,240,4,,MONEY,42 U.S.C. 2000e–16
+521,22,241,1,,DATE,1991
+522,22,241,2,,DATE,1991
+523,22,241,3,,MONEY,42 U.S.C.
+524,22,242,1,,DATE,1106
+525,22,242,2,,DATE,1107
+526,22,242,3,,ACT,the Civil Rights Act
+527,22,242,4,,DATE,1964
+528,22,242,5,,DATE,1106
+529,22,243,1,,DATE,1995
+530,22,243,2,,DATE,1995
+531,22,243,3,,CARDINAL,2
+532,22,243,4,,DATE,1301
+533,22,244,1,,DATE,1106
+534,22,244,2,,DATE,1107
+535,22,244,3,,ACT,the Civil Rights Act
+536,22,244,4,,DATE,1964
+537,22,244,5,,LAW,section 201
+538,22,244,6,,LAW,section 201
+539,22,244,7,,DATE,1106
+540,22,245,1,,DATE,1978
+541,22,245,2,,LAW,Chapter 23
+542,22,246,1,,DATE,1106
+543,22,246,2,,DATE,1107
+544,22,246,3,,ACT,the Civil Rights Act
+545,22,246,4,,DATE,1964
+546,22,246,5,,DATE,1106
+547,22,247,1,,ACT,the Civil Rights Act
+548,22,247,2,,DATE,1964
+549,22,247,3,,MONEY,42 U.S.C. 2000h–2
+550,22,248,1,,PERSON,Miscellaneous Title XI
+551,22,248,2,,ACT,the Civil Rights Act
+552,22,248,3,,DATE,1964
+553,22,250,1,,ORG,II
+554,22,250,2,,ORG,III
+555,22,250,3,,ORG,VI
+556,22,250,4,,DATE,1106
+557,22,250,5,,DATE,1107
+558,22,258,1,,DATE,1101
+559,22,259,1,,DATE,1101
+560,22,259,2,,DATE,1979
+561,22,259,3,,DATE,1980
+562,22,259,4,,PRODUCT,the Revised Statutes
+563,22,259,5,,DATE,42 U.S.C.
+564,22,259,6,,DATE,1983
+565,22,260,1,,DATE,1101
+566,22,261,1,,DATE,1993
+567,22,261,2,,CARDINAL,42
+568,22,264,1,,GPE,Sections
+569,22,264,2,,DATE,1106
+570,22,264,3,,ACT,the Civil Rights Act
+571,22,264,4,,DATE,1964
+572,22,264,5,,LAW,section 901
+573,22,264,6,,DATE,1106
+574,22,264,7,,CARDINAL,901
+575,22,265,1,,ACT,the Civil Rights Act
+576,22,265,2,,DATE,1964
+577,22,265,3,,LAW,section 901
+578,22,265,4,,DATE,1107
+579,22,265,5,,CARDINAL,901
+580,22,266,1,,LAW,Section 901
+581,22,266,2,,ACT,the Civil Rights Act
+582,22,266,3,,DATE,1968
+583,22,266,4,,MONEY,42 U.S.C. 3631
+584,22,266,5,,ACT,section 802 of this Act
+585,22,266,6,,ACT,section 802 of this Act
+586,22,268,1,,LAW,Section 701(a)(1
+587,22,268,2,,ACT,the Equal Credit Opportunity Act
+588,22,268,3,,CARDINAL,15
+589,22,268,4,,CARDINAL,1691(a)(1
+590,22,269,1,,CARDINAL,702
+591,22,269,2,,ACT,the Equal Credit Opportunity Act
+592,22,269,3,,DATE,15 U.S.C.
+593,22,269,4,,DATE,1691a
+594,22,270,1,,ORG,Section
+595,22,270,2,,ACT,the Equal Credit Opportunity Act
+596,22,270,3,,CARDINAL,15
+597,22,271,1,,ACT,the Equal Credit Opportunity Act
+598,22,271,2,,DATE,1691e
+599,22,271,3,,ACT,the Civil Rights Act
+600,22,271,4,,DATE,1964
+601,22,273,1,,LAW,Chapter 121
+602,22,274,1,,DATE,1106
+603,22,274,2,,DATE,1107
+604,22,274,3,,ACT,the Civil Rights Act
+605,22,274,4,,DATE,1964
+606,22,275,1,,LAW,chapter 121
+607,23,276,1,,ORG,the  National Opposition to Hate
+608,23,276,2,,ORG,Assault
+609,23,276,3,,NORP,Threats
+610,23,276,4,,DATE,2017
+611,23,277,1,,ORG,Findings Congress
+612,23,281,1,,GPE,States
+613,23,281,2,,ORG,State
+614,23,281,3,,ORG,the National Incident Based Reporting System
+615,23,281,4,,EVENT,the National Incident Based Reporting System
+616,23,282,1,,CARDINAL,1
+617,23,282,2,,GPE,States
+618,23,285,1,,DATE,each fiscal year beginning
+619,23,285,2,,DATE,3 years
+620,23,285,3,,ORG,State
+621,23,285,4,,ORDINAL,first
+622,23,285,5,,ORG,State
+623,23,285,6,,ORG,the Uniform Crime Reporting
+624,23,285,7,,DATE,the preceding fiscal year
+625,23,286,1,,ORG,Extensions
+626,23,286,2,,DATE,120 day
+627,23,286,3,,ORG,State
+628,23,286,4,,ORG,State
+629,23,286,5,,ORG,State
+630,23,286,6,,ORG,State
+631,23,287,1,,ORG,State
+632,23,287,2,,CARDINAL,1
+633,23,287,3,,ORG,State
+634,23,290,1,,ORG,Grants
+635,23,291,1,,GPE,States
+636,23,291,2,,ORG,State
+637,23,292,1,,CARDINAL,1
+638,23,292,2,,DATE,more than 5 years
+639,23,293,1,,ORG,Hotline
+640,23,293,2,,ORG,State
+641,23,294,1,,GPE,States
+642,23,297,1,,ORG,Congress
+643,23,297,2,,LAW,section 2 of the Thirteenth Amendment to the Constitution of
+644,23,297,3,,GPE,the United States
+645,23,297,4,,LAW,Constitution
+646,23,298,1,,GPE,the United States
+647,23,299,1,,ORG,State
+648,23,302,1,,DATE,later than 3 years
+649,23,304,1,,GPE,the United States
+650,23,304,2,,ORG,State
+651,23,308,1,,ORG,Congress
+652,23,308,2,,CARDINAL,3
+653,23,308,3,,CARDINAL,8
+654,23,308,4,,LAW,Constitution
+655,23,308,5,,GPE,the United States
+656,23,308,6,,ORG,the  Commerce Clause
+657,23,309,1,,GPE,the United States
+658,23,311,1,,ORG,State
+659,23,311,2,,CARDINAL,2
+660,23,311,3,,GPE,the United States
+661,23,312,1,,CARDINAL,1
+662,23,312,2,,CARDINAL,1
+663,23,312,3,,ORG,State
+664,23,312,4,,CARDINAL,1
+665,23,312,5,,CARDINAL,1
+666,23,312,6,,CARDINAL,1
+667,23,315,1,,DATE,later than 3 years
+668,23,317,1,,GPE,the United States
+669,23,317,2,,ORG,State
+670,23,319,1,,LAW,Section 249
+671,23,319,2,,CARDINAL,18
+672,23,319,3,,ORG,United States Code
+673,24,322,1,,PERSON,Findings
+674,24,323,1,,ORG,Findings Congress
+675,24,326,1,,LAW,Section 201
+676,24,326,2,,ACT,the Civil Rights Act
+677,24,326,3,,DATE,1964
+678,24,326,4,,DATE,42 U.S.C.
+679,24,326,5,,DATE,2000a
+680,24,327,1,,LAW,Section 202
+681,24,327,2,,MONEY,42 U.S.C. 2000a–1
+682,24,328,1,,PRODUCT,Title II
+683,24,330,1,,ACT,the Civil Rights Act
+684,24,330,2,,DATE,1964
+685,24,330,3,,CARDINAL,42
+686,24,332,1,,ACT,the Civil Rights Act
+687,24,332,2,,DATE,1964
+688,24,332,3,,MONEY,42 U.S.C. 2000c(b
+689,24,333,1,,MONEY,42 U.S.C. 2000c–6
+690,24,334,1,,CARDINAL,410
+691,24,335,1,,ACT,the Civil Rights Act
+692,24,335,2,,DATE,1964
+693,24,335,3,,DATE,42 U.S.C.
+694,24,335,4,,DATE,2000d
+695,24,337,1,,LAW,Title VII of
+696,24,337,2,,ACT,the Civil Rights Act
+697,24,337,3,,DATE,1964
+698,24,337,4,,LAW,section 701
+699,24,337,5,,DATE,2000e
+700,24,338,1,,LAW,Section 1106
+701,24,339,1,,LAW,Section 703 of
+702,24,339,2,,ACT,the Civil Rights Act
+703,24,339,3,,DATE,1964
+704,24,339,4,,MONEY,42 U.S.C.
+705,24,340,1,,ORG,Section 704(b
+706,24,340,2,,ACT,the Civil Rights Act
+707,24,340,3,,DATE,1964
+708,24,340,4,,CARDINAL,2000e–3(b
+709,24,341,1,,ACT,the Civil Rights Act
+710,24,341,2,,DATE,1964
+711,24,341,3,,CARDINAL,2000e–5(g)(2)(A
+712,24,342,1,,ORG,Federal Government Section
+713,24,342,2,,ACT,the Civil Rights Act
+714,24,342,3,,DATE,1964
+715,24,342,4,,MONEY,42 U.S.C. 2000e–16
+716,24,343,1,,DATE,1991
+717,24,343,2,,DATE,1991
+718,24,343,3,,MONEY,42 U.S.C.
+719,24,344,1,,DATE,1106
+720,24,344,2,,DATE,1107
+721,24,344,3,,ACT,the Civil Rights Act
+722,24,344,4,,DATE,1964
+723,24,344,5,,DATE,1106
+724,24,345,1,,DATE,1995
+725,24,345,2,,DATE,1995
+726,24,345,3,,CARDINAL,2
+727,24,345,4,,DATE,1301
+728,24,346,1,,DATE,1106
+729,24,346,2,,DATE,1107
+730,24,346,3,,ACT,the Civil Rights Act
+731,24,346,4,,DATE,1964
+732,24,346,5,,LAW,section 201
+733,24,346,6,,LAW,section 201
+734,24,346,7,,DATE,1106
+735,24,347,1,,DATE,1978
+736,24,347,2,,LAW,Chapter 23
+737,24,348,1,,DATE,1106
+738,24,348,2,,DATE,1107
+739,24,348,3,,ACT,the Civil Rights Act
+740,24,348,4,,DATE,1964
+741,24,348,5,,DATE,1106
+742,24,349,1,,ACT,the Civil Rights Act
+743,24,349,2,,DATE,1964
+744,24,349,3,,MONEY,42 U.S.C. 2000h–2
+745,24,350,1,,PERSON,Miscellaneous Title XI
+746,24,350,2,,ACT,the Civil Rights Act
+747,24,350,3,,DATE,1964
+748,24,352,1,,ORG,II
+749,24,352,2,,ORG,III
+750,24,352,3,,ORG,VI
+751,24,352,4,,DATE,1106
+752,24,352,5,,DATE,1107
+753,24,360,1,,DATE,1101
+754,24,361,1,,DATE,1101
+755,24,361,2,,DATE,1979
+756,24,361,3,,DATE,1980
+757,24,361,4,,PRODUCT,the Revised Statutes
+758,24,361,5,,DATE,42 U.S.C.
+759,24,361,6,,DATE,1983
+760,24,362,1,,DATE,1101
+761,24,363,1,,DATE,1993
+762,24,363,2,,CARDINAL,42
+763,24,366,1,,GPE,Sections
+764,24,366,2,,DATE,1106
+765,24,366,3,,ACT,the Civil Rights Act
+766,24,366,4,,DATE,1964
+767,24,366,5,,LAW,section 901
+768,24,366,6,,DATE,1106
+769,24,366,7,,CARDINAL,901
+770,24,367,1,,ACT,the Civil Rights Act
+771,24,367,2,,DATE,1964
+772,24,367,3,,LAW,section 901
+773,24,367,4,,DATE,1107
+774,24,367,5,,CARDINAL,901
+775,24,368,1,,LAW,Section 901
+776,24,368,2,,ACT,the Civil Rights Act
+777,24,368,3,,DATE,1968
+778,24,368,4,,MONEY,42 U.S.C. 3631
+779,24,368,5,,ACT,section 802 of this Act
+780,24,368,6,,ACT,section 802 of this Act
+781,24,370,1,,LAW,Section 701(a)(1
+782,24,370,2,,ACT,the Equal Credit Opportunity Act
+783,24,370,3,,CARDINAL,15
+784,24,370,4,,CARDINAL,1691(a)(1
+785,24,371,1,,CARDINAL,702
+786,24,371,2,,ACT,the Equal Credit Opportunity Act
+787,24,371,3,,DATE,15 U.S.C.
+788,24,371,4,,DATE,1691a
+789,24,372,1,,ORG,Section
+790,24,372,2,,ACT,the Equal Credit Opportunity Act
+791,24,372,3,,CARDINAL,15
+792,24,373,1,,ACT,the Equal Credit Opportunity Act
+793,24,373,2,,DATE,1691e
+794,24,373,3,,ACT,the Civil Rights Act
+795,24,373,4,,DATE,1964
+796,24,375,1,,LAW,Chapter 121
+797,24,376,1,,DATE,1106
+798,24,376,2,,DATE,1107
+799,24,376,3,,ACT,the Civil Rights Act
+800,24,376,4,,DATE,1964
+801,24,377,1,,CARDINAL,121
+802,25,378,1,,ORG,the  National Opposition to Hate
+803,25,378,2,,ORG,Assault
+804,25,378,3,,NORP,Threats
+805,25,378,4,,DATE,2017
+806,25,379,1,,ORG,Findings Congress
+807,25,383,1,,GPE,States
+808,25,383,2,,ORG,State
+809,25,383,3,,ORG,the National Incident Based Reporting System
+810,25,383,4,,EVENT,the National Incident Based Reporting System
+811,25,384,1,,CARDINAL,1
+812,25,384,2,,GPE,States
+813,25,387,1,,DATE,each fiscal year beginning
+814,25,387,2,,DATE,3 years
+815,25,387,3,,ORG,State
+816,25,387,4,,ORDINAL,first
+817,25,387,5,,ORG,State
+818,25,387,6,,ORG,the Uniform Crime Reporting
+819,25,387,7,,DATE,the preceding fiscal year
+820,25,388,1,,ORG,Extensions
+821,25,388,2,,DATE,120 day
+822,25,388,3,,ORG,State
+823,25,388,4,,ORG,State
+824,25,388,5,,ORG,State
+825,25,388,6,,ORG,State
+826,25,389,1,,ORG,State
+827,25,389,2,,CARDINAL,1
+828,25,389,3,,ORG,State
+829,25,392,1,,ORG,Grants
+830,25,393,1,,GPE,States
+831,25,393,2,,ORG,State
+832,25,394,1,,CARDINAL,1
+833,25,394,2,,DATE,more than 5 years
+834,25,395,1,,ORG,Hotline
+835,25,395,2,,ORG,State
+836,25,396,1,,GPE,States
+837,25,399,1,,ORG,Congress
+838,25,399,2,,LAW,section 2 of the Thirteenth Amendment to the Constitution of
+839,25,399,3,,GPE,the United States
+840,25,399,4,,LAW,Constitution
+841,25,400,1,,GPE,the United States
+842,25,401,1,,ORG,State
+843,25,404,1,,DATE,later than 3 years
+844,25,406,1,,GPE,the United States
+845,25,406,2,,ORG,State
+846,25,410,1,,ORG,Congress
+847,25,410,2,,CARDINAL,3
+848,25,410,3,,CARDINAL,8
+849,25,410,4,,LAW,Constitution
+850,25,410,5,,GPE,the United States
+851,25,410,6,,ORG,the  Commerce Clause
+852,25,411,1,,GPE,the United States
+853,25,413,1,,ORG,State
+854,25,413,2,,CARDINAL,2
+855,25,413,3,,GPE,the United States
+856,25,414,1,,CARDINAL,1
+857,25,414,2,,CARDINAL,1
+858,25,414,3,,ORG,State
+859,25,414,4,,CARDINAL,1
+860,25,414,5,,CARDINAL,1
+861,25,414,6,,CARDINAL,1
+862,25,417,1,,DATE,later than 3 years
+863,25,419,1,,GPE,the United States
+864,25,419,2,,ORG,State
+865,25,421,1,,LAW,Section 249
+866,25,421,2,,CARDINAL,18
+867,25,421,3,,ORG,United States Code
+868,26,423,1,,GPE,the United States
+869,26,423,2,,GPE,the United States
+870,26,423,3,,PERSON,Donald John Trump
+871,26,423,4,,NORP,Americans
+872,26,423,5,,GPE,the United States
+873,26,423,6,,GPE,the United States
+874,26,423,7,,GPE,the United States
+875,26,423,8,,NORP,Nazism
+876,26,423,9,,CARDINAL,one
+877,26,423,10,,DATE,"August 15, 2017"
+878,26,423,11,,PERSON,Donald John Trump
+879,26,423,12,,NORP,Semites
+880,26,423,13,,PERSON,Ku Klux Klansmen
+881,26,423,14,,GPE,Charlottesville
+882,26,423,15,,GPE,Virginia
+883,26,423,16,,DATE,"August 7, 2017"
+884,26,423,17,,GPE,Charlottesville
+885,26,423,18,,GPE,Virginia
+886,26,423,19,,PERSON,Robert E. Lee
+887,26,423,20,,ORG,Confederate
+888,26,423,21,,DATE,"November 29, 2017"
+889,26,423,22,,PERSON,Donald John Trump
+890,26,423,23,,CARDINAL,3
+891,26,423,24,,NORP,British
+892,26,423,25,,NORP,Muslims
+893,26,423,26,,NORP,Muslim
+894,26,423,27,,NORP,Dutch
+895,26,423,28,,WORK_OF_ART,Muslim Destroys a Statue of Virgin Mary
+896,26,423,29,,NORP,Islamist
+897,26,423,30,,NORP,Muslim
+898,26,423,31,,CARDINAL,"43,800,000"
+899,26,423,32,,PRODUCT,Twitter
+900,26,423,33,,PERSON,Donald John Trump’s
+901,26,423,34,,NORP,American
+902,26,423,35,,PERSON,Donald John Trump
+903,26,423,36,,GPE,the United States
+904,26,423,37,,GPE,the United States
+905,26,423,38,,GPE,the United States
+906,26,423,39,,PERSON,Donald John Trump
+907,26,423,40,,GPE,the United States
+908,26,424,1,,LAW,Article II
+909,26,424,2,,GPE,the United States
+910,26,424,3,,GPE,the United States
+911,26,424,4,,PERSON,Donald John Trump
+912,26,424,5,,NORP,Americans
+913,26,424,6,,NORP,American
+914,26,424,7,,GPE,the United States
+915,26,424,8,,CARDINAL,one
+916,26,424,9,,DATE,"January 27, 2017"
+917,26,424,10,,PERSON,Donald John Trump
+918,26,424,11,,NORP,Muslim
+919,26,424,12,,PERSON,DONALD J. TRUMP STATEMENT ON
+920,26,424,13,,GPE,New York
+921,26,424,14,,GPE,NY
+922,26,424,15,,DATE,"December 7th, 2015"
+923,26,424,16,,PERSON,Donald J. Trump
+924,26,424,17,,NORP,Muslims
+925,26,424,18,,GPE,the United States
+926,26,424,19,,DATE,"July 26, 2017"
+927,26,424,20,,PERSON,Donald John Trump
+928,26,424,21,,ORG,the United States Government
+929,26,424,22,,ORG,Transgender
+930,26,424,23,,ORG,the U.S. Military
+931,26,424,24,,DATE,"September 23, 2017"
+932,26,424,25,,PERSON,Donald John Trump
+933,26,424,26,,ORG,NFL
+934,26,424,27,,DATE,"September 30, 2017"
+935,26,424,28,,PERSON,Donald John Trump
+936,26,424,29,,DATE,"October 3, 2017"
+937,26,424,30,,PERSON,Donald John Trump
+938,26,424,31,,GPE,Puerto Rico
+939,26,424,32,,GPE,Puerto Rico
+940,26,424,33,,DATE,"October 19, 2017"
+941,26,424,34,,PERSON,Donald John Trump
+942,26,424,35,,WORK_OF_ART,The Fake News
+943,26,424,36,,PERSON,Wilson
+944,26,424,37,,ORG,SECRETLY
+945,26,424,38,,DATE,"October 21, 2017"
+946,26,424,39,,PERSON,Donald John Trump
+947,26,424,40,,PERSON,Wacky Congresswoman
+948,26,424,41,,PERSON,Wilson
+949,26,424,42,,ORG,the Democrat Party
+950,26,424,43,,DATE,"October 22, 2017"
+951,26,424,44,,PERSON,Donald John Trump
+952,26,424,45,,PERSON,Wilson
+953,26,424,46,,ORG,the Republican Party
+954,26,424,47,,NORP,Dems
+955,26,424,48,,PERSON,Donald John Trump
+956,26,424,49,,GPE,the United States
+957,26,424,50,,GPE,the United States
+958,26,424,51,,GPE,the United States
+959,26,424,52,,GPE,the United States
+960,26,424,53,,PERSON,Donald John Trump
+961,26,424,54,,GPE,the United States
+962,27,427,1,,LAW,Section 201
+963,27,427,2,,ACT,the Civil Rights Act
+964,27,427,3,,DATE,1964
+965,27,427,4,,DATE,42 U.S.C.
+966,27,427,5,,DATE,2000a
+967,27,428,1,,LAW,Section 202
+968,27,428,2,,MONEY,42 U.S.C. 2000a–1
+969,27,429,1,,PRODUCT,Title II
+970,27,429,2,,DATE,42 U.S.C. 2000a
+971,27,439,1,,DATE,1979
+972,27,439,2,,DATE,1980
+973,27,439,3,,PRODUCT,the Revised Statutes
+974,27,439,4,,DATE,42 U.S.C.
+975,27,439,5,,DATE,1983
+976,27,442,1,,DATE,1993
+977,27,442,2,,CARDINAL,42
+978,28,443,1,,DATE,2017
+979,28,446,1,,GPE,the United States
+980,28,447,1,,ORG,State Immunity A State
+981,28,447,2,,LAW,Constitution
+982,28,447,3,,GPE,the United States
+983,28,447,4,,GPE,the United States
+984,28,447,5,,ORG,State
+985,28,447,6,,ORG,State
+986,28,449,1,,CARDINAL,42
+987,28,450,1,,CARDINAL,701
+988,28,450,2,,ACT,the Civil Rights Act
+989,28,450,3,,DATE,1964
+990,28,450,4,,DATE,42 U.S.C.
+991,28,450,5,,CARDINAL,11
+992,28,450,6,,ORG,the Age Discrimination
+993,28,450,7,,DATE,1967
+994,28,450,8,,MONEY,29 U.S.C.
+995,28,450,9,,CARDINAL,630
+996,28,450,10,,NORP,Americans
+997,28,450,11,,DATE,1990
+998,28,453,1,,CARDINAL,701
+999,28,453,2,,ACT,the Civil Rights Act
+1000,28,453,3,,DATE,1964
+1001,28,453,4,,DATE,42 U.S.C.
+1002,28,453,5,,CARDINAL,11
+1003,28,453,6,,ORG,the Age Discrimination
+1004,28,453,7,,DATE,1967
+1005,28,453,8,,MONEY,29 U.S.C.
+1006,28,453,9,,NORP,Americans
+1007,28,453,10,,DATE,1990
+1008,28,453,11,,DATE,12103
+1009,29,454,1,,DATE,2017
+1010,29,457,1,,LAW,Section 901
+1011,29,457,2,,ACT,the Civil Rights Act
+1012,29,457,3,,DATE,1968
+1013,29,457,4,,MONEY,42 U.S.C. 3631
+1014,29,457,5,,ACT,section 802 of this Act
+1015,30,458,1,,DATE,2017
+1016,30,460,1,,ACT,the Voting Rights Act
+1017,30,460,2,,DATE,1965
+1018,30,460,3,,DATE,the 14th or 15th
+1019,30,460,4,,CARDINAL,2(a
+1020,30,460,5,,ORG,"Federal, State"
+1021,30,461,1,,CARDINAL,52
+1022,30,461,2,,DATE,the 14th or 15th
+1023,30,462,1,,GPE,States
+1024,30,463,1,,ORG,Determination of States and Political Subdivisions Subject to Section 4
+1025,30,464,1,,LAW,Section 4(b
+1026,30,464,2,,ACT,the Voting Rights Act
+1027,30,464,3,,DATE,1965
+1028,30,464,4,,DATE,52 U.S.C.
+1029,30,465,1,,ORG,Determination of States and Political Subdivisions Subject to Requirements
+1030,30,466,1,,DATE,previous 15 years
+1031,30,467,1,,ORG,State
+1032,30,467,2,,ORG,State
+1033,30,467,3,,DATE,a calendar year
+1034,30,467,4,,CARDINAL,5
+1035,30,467,5,,ORG,State
+1036,30,467,6,,DATE,the previous 15 calendar years
+1037,30,467,7,,CARDINAL,at least one
+1038,30,467,8,,ORG,State
+1039,30,467,9,,ORG,State
+1040,30,468,1,,DATE,a calendar year
+1041,30,468,2,,CARDINAL,3
+1042,30,468,3,,DATE,the previous 15 calendar years
+1043,30,468,4,,CARDINAL,1
+1044,30,468,5,,DATE,the previous 15 calendar years
+1045,30,470,1,,CARDINAL,1
+1046,30,470,2,,ORG,State
+1047,30,470,3,,DATE,a calendar year
+1048,30,470,4,,DATE,January 1 of the year
+1049,30,470,5,,CARDINAL,1
+1050,30,470,6,,DATE,10 years
+1051,30,470,7,,DATE,January 1 of the year
+1052,30,470,8,,ORG,State
+1053,30,472,1,,ORG,State
+1054,30,472,2,,ORG,State
+1055,30,473,1,,CARDINAL,1
+1056,30,473,2,,DATE,1)(B
+1057,30,473,3,,CARDINAL,1)(B)(ii
+1058,30,474,1,,CARDINAL,1
+1059,30,474,2,,ORG,State
+1060,30,474,3,,GPE,the United States
+1061,30,474,4,,GPE,the United States
+1062,30,474,5,,DATE,the 14th or 15th
+1063,30,474,6,,ORG,State
+1064,30,474,7,,GPE,the United States
+1065,30,474,8,,ORG,State
+1066,30,474,9,,GPE,the United States
+1067,30,474,10,,LAW,section 2
+1068,30,474,11,,GPE,the United States
+1069,30,474,12,,ORG,State
+1070,30,474,13,,LAW,section 3(c
+1071,30,474,14,,LAW,section 5
+1072,30,474,15,,ORG,State
+1073,30,474,16,,LAW,section 3(c
+1074,30,474,17,,LAW,section 5
+1075,30,474,18,,ORG,State
+1076,30,474,19,,ORG,"Federal, State"
+1077,30,475,1,,CARDINAL,1)(B)(ii
+1078,30,475,2,,DATE,the previous 15 calendar years
+1079,30,475,3,,ORG,State
+1080,30,475,4,,ORG,State
+1081,30,475,5,,CARDINAL,more than 10
+1082,30,475,6,,DATE,the previous 15 calendar years
+1083,30,475,7,,ORG,State
+1084,30,475,8,,ORG,State
+1085,30,475,9,,CARDINAL,more than 10
+1086,30,475,10,,ORG,State
+1087,30,477,1,,DATE,each calendar year
+1088,30,477,2,,ORG,State
+1089,30,477,3,,DATE,the previous calendar year
+1090,30,478,1,,DATE,the previous year
+1091,30,478,2,,ORG,State
+1092,30,478,3,,ORG,State
+1093,30,479,1,,ORG,Federal Register
+1094,30,479,2,,CARDINAL,13
+1095,30,479,3,,ORG,the Federal Register
+1096,30,480,1,,NORP,Hispanic
+1097,30,480,2,,PERSON,Latino
+1098,30,480,3,,CARDINAL,2
+1099,30,480,4,,NORP,Hispanic
+1100,30,480,5,,PERSON,Latino
+1101,30,480,6,,ORG,White
+1102,30,480,7,,GPE,the United States
+1103,30,480,8,,DATE,18 years of age or
+1104,30,480,9,,GPE,the United States
+1105,30,480,10,,DATE,18 years of age or
+1106,30,481,1,,CARDINAL,52
+1107,30,481,2,,CARDINAL,1
+1108,30,481,3,,ORDINAL,first
+1109,30,481,4,,ORG,State
+1110,30,481,5,,ORG,State
+1111,30,481,6,,ORG,State
+1112,30,481,7,,CARDINAL,1
+1113,30,481,8,,ORDINAL,second
+1114,30,481,9,,ORG,State
+1115,30,481,10,,ORDINAL,second
+1116,30,481,11,,ORG,State
+1117,30,481,12,,ORDINAL,second
+1118,30,481,13,,CARDINAL,3
+1119,30,481,14,,ORG,State
+1120,30,481,15,,ORDINAL,second
+1121,30,481,16,,CARDINAL,5
+1122,30,481,17,,ORG,State
+1123,30,481,18,,ORDINAL,second
+1124,30,481,19,,CARDINAL,7
+1125,30,481,20,,CARDINAL,8)
+1126,30,482,1,,ORG,Language Minority Groups Section
+1127,30,482,2,,CARDINAL,52
+1128,30,482,3,,CARDINAL,10303(a)(1
+1129,30,483,1,,MONEY,52 U.S.C. 10303(a)(5
+1130,30,484,1,,ACT,the Voting Rights Act
+1131,30,486,1,,ACT,The Voting Rights Act
+1132,30,486,2,,DATE,1965
+1133,30,486,3,,DATE,52 U.S.C. 10301
+1134,30,488,1,,ORG,Notice of Enacted Changes
+1135,30,489,1,,ORG,Notice of Changes
+1136,30,489,2,,ORG,State
+1137,30,489,3,,DATE,180 days
+1138,30,489,4,,ORG,State
+1139,30,490,1,,ORG,State
+1140,30,490,2,,CARDINAL,1
+1141,30,490,3,,TIME,later than 48 hours
+1142,30,492,1,,DATE,the 30th day
+1143,30,492,2,,ORG,State
+1144,30,492,3,,CARDINAL,2
+1145,30,493,1,,TIME,hours
+1146,30,494,1,,ORG,State
+1147,30,494,2,,CARDINAL,2
+1148,30,494,3,,ORG,State
+1149,30,494,4,,TIME,later than 48 hours
+1150,30,494,5,,TIME,fewer than 48 hours
+1151,30,496,1,,DATE,later than 10 days
+1152,30,496,2,,ORG,"Federal, State"
+1153,30,496,3,,ORG,"Federal, State"
+1154,30,496,4,,ORG,State
+1155,30,496,5,,CARDINAL,3
+1156,30,496,6,,CARDINAL,2
+1157,30,497,1,,ORG,State
+1158,30,498,1,,CARDINAL,2
+1159,30,498,2,,ORG,State
+1160,30,498,3,,GPE,the United States
+1161,30,498,4,,DATE,18 years of age or older
+1162,30,498,5,,ORG,State
+1163,30,498,6,,ORG,State
+1164,30,498,7,,DATE,the 5 year
+1165,30,499,1,,ORG,State
+1166,30,499,2,,CARDINAL,"greater than 10,000"
+1167,30,499,3,,CARDINAL,"greater than 10,000"
+1168,30,500,1,,GPE,States
+1169,30,501,1,,ORG,State
+1170,30,501,2,,ORG,State
+1171,30,503,1,,DATE,52 U.S.C.
+1172,30,503,2,,CARDINAL,6
+1173,30,504,1,,DATE,60 day
+1174,30,506,1,,ORG,Clarification of Authority
+1175,30,506,2,,ACT,the Voting Rights Act
+1176,30,506,3,,DATE,1965
+1177,30,506,4,,CARDINAL,52
+1178,30,506,5,,DATE,the 14th or 15th Amendment
+1179,30,506,6,,GPE,the United States
+1180,30,506,7,,GPE,the United States
+1181,30,507,1,,CARDINAL,52
+1182,30,507,2,,DATE,10305(a
+1183,30,509,1,,ACT,the Voting Rights Act
+1184,30,509,2,,DATE,1965
+1185,30,509,3,,CARDINAL,52
+1186,30,510,1,,CARDINAL,52
+1187,30,512,1,,ACT,the Voting Rights Act
+1188,30,512,2,,DATE,1965
+1189,30,513,1,,ORG,Language Minority Groups Section 4(f
+1190,30,513,2,,DATE,52 U.S.C.
+1191,30,514,1,,DATE,52 U.S.C.
+1192,30,514,2,,DATE,10304
+1193,31,515,1,,DATE,2017
+1194,31,518,1,,LAW,Section 901
+1195,31,518,2,,ACT,the Civil Rights Act
+1196,31,518,3,,DATE,1968
+1197,31,518,4,,MONEY,42 U.S.C. 3631
+1198,31,518,5,,ACT,section 802 of this Act
+1199,31,518,6,,ACT,section 802 of this Act
+1200,32,519,1,,DATE,2017
+1201,32,520,1,,CARDINAL,701
+1202,32,520,2,,ACT,the Equal Credit Opportunity Act
+1203,32,520,3,,MONEY,15 U.S.C. 1691
+1204,32,521,1,,CARDINAL,702
+1205,32,521,2,,ACT,the Equal Credit Opportunity Act
+1206,32,521,3,,DATE,15 U.S.C.
+1207,32,521,4,,DATE,1691a
+1208,32,522,1,,ORG,Section
+1209,32,522,2,,ACT,the Equal Credit Opportunity Act
+1210,32,522,3,,CARDINAL,15
+1211,33,523,1,,DATE,2017
+1212,33,524,1,,CARDINAL,701
+1213,33,524,2,,ACT,the Equal Credit Opportunity Act
+1214,33,524,3,,MONEY,15 U.S.C. 1691
+1215,33,525,1,,CARDINAL,702
+1216,33,525,2,,ACT,the Equal Credit Opportunity Act
+1217,33,525,3,,DATE,15 U.S.C.
+1218,33,525,4,,DATE,1691a
+1219,33,526,1,,ORG,Section
+1220,33,526,2,,ACT,the Equal Credit Opportunity Act
+1221,33,526,3,,CARDINAL,15
+1222,34,527,1,,ACT,the  Pretrial Integrity and Safety Act
+1223,34,527,2,,DATE,2017
+1224,34,529,1,,GPE,States
+1225,34,529,2,,NORP,Indian
+1226,34,530,1,,ORG,Findings Congress
+1227,34,531,1,,ORG,the Omnibus Crime Control
+1228,34,531,2,,DATE,1968
+1229,34,535,1,,ORG,Grants
+1230,34,536,1,,ORG,State
+1231,34,537,1,,ORG,National Pretrial Reporting Program The
+1232,34,537,2,,GPE,States
+1233,34,539,1,,DATE,3 fiscal years
+1234,34,541,1,,CARDINAL,more than 6
+1235,34,541,2,,ORG,State
+1236,34,541,3,,DATE,each fiscal year
+1237,34,541,4,,MONEY,"more than $10,000,000"
+1238,34,541,5,,DATE,each fiscal year
+1239,34,541,6,,MONEY,"more than $6,500,000"
+1240,34,541,7,,ORG,State
+1241,34,541,8,,MONEY,"more than $3,500,000"
+1242,34,542,1,,ORG,National Pretrial Reporting Program The
+1243,34,542,2,,MONEY,"more than $5,000,000"
+1244,34,542,3,,DATE,each fiscal year
+1245,34,544,1,,CARDINAL,2
+1246,34,545,1,,ORG,State
+1247,34,545,2,,ORDINAL,first
+1248,34,545,3,,ORG,State
+1249,34,545,4,,NORP,Indian
+1250,34,545,5,,ORG,State
+1251,34,545,6,,NORP,Indian
+1252,34,546,1,,PERCENT,less than 95 percent
+1253,34,546,2,,PERCENT,more than 10 percent
+1254,34,546,3,,PERCENT,less than 85 percent
+1255,34,546,4,,PERCENT,100 percent
+1256,34,546,5,,ORDINAL,first
+1257,34,546,6,,DATE,later than 3 days
+1258,34,546,7,,PERCENT,100 percent
+1259,34,546,8,,DATE,later than 7 days
+1260,34,548,1,,DATE,Annual
+1261,34,549,1,,DATE,each fiscal year
+1262,34,549,2,,ORG,State
+1263,34,549,3,,NORP,Indian
+1264,34,550,1,,ORG,State
+1265,34,552,1,,DATE,fiscal year 2018
+1266,34,552,2,,MONEY,"15,000,000"
+1267,34,553,1,,ORG,Limitations
+1268,34,554,1,,DATE,any fiscal year
+1269,34,554,2,,PERCENT,more than 2 percent
+1270,34,554,3,,PERCENT,more than 25 percent
+1271,34,555,1,,NORP,Indian
+1272,35,557,1,,ACT,the  Pretrial Integrity and Safety Act
+1273,35,557,2,,DATE,2017
+1274,35,559,1,,GPE,States
+1275,35,559,2,,NORP,Indian
+1276,35,560,1,,ORG,Findings Congress
+1277,35,561,1,,ORG,the Omnibus Crime Control
+1278,35,561,2,,DATE,1968
+1279,35,565,1,,ORG,Grants
+1280,35,566,1,,ORG,State
+1281,35,567,1,,ORG,National Pretrial Reporting Program The
+1282,35,567,2,,GPE,States
+1283,35,569,1,,DATE,3 fiscal years
+1284,35,571,1,,CARDINAL,more than 6
+1285,35,571,2,,ORG,State
+1286,35,571,3,,DATE,each fiscal year
+1287,35,571,4,,MONEY,"more than $10,000,000"
+1288,35,571,5,,DATE,each fiscal year
+1289,35,571,6,,MONEY,"more than $6,500,000"
+1290,35,571,7,,ORG,State
+1291,35,571,8,,MONEY,"more than $3,500,000"
+1292,35,572,1,,ORG,National Pretrial Reporting Program The
+1293,35,572,2,,MONEY,"more than $5,000,000"
+1294,35,572,3,,DATE,each fiscal year
+1295,35,574,1,,CARDINAL,2
+1296,35,575,1,,ORG,State
+1297,35,575,2,,ORDINAL,first
+1298,35,575,3,,ORG,State
+1299,35,575,4,,NORP,Indian
+1300,35,575,5,,ORG,State
+1301,35,575,6,,NORP,Indian
+1302,35,576,1,,PERCENT,less than 95 percent
+1303,35,576,2,,PERCENT,more than 10 percent
+1304,35,576,3,,PERCENT,less than 85 percent
+1305,35,576,4,,PERCENT,100 percent
+1306,35,576,5,,ORDINAL,first
+1307,35,576,6,,DATE,later than 3 days
+1308,35,576,7,,PERCENT,100 percent
+1309,35,576,8,,DATE,later than 7 days
+1310,35,578,1,,DATE,Annual
+1311,35,579,1,,DATE,each fiscal year
+1312,35,579,2,,ORG,State
+1313,35,579,3,,NORP,Indian
+1314,35,580,1,,ORG,State
+1315,35,582,1,,DATE,fiscal year 2018
+1316,35,582,2,,MONEY,"15,000,000"
+1317,35,583,1,,ORG,Limitations
+1318,35,584,1,,DATE,any fiscal year
+1319,35,584,2,,PERCENT,more than 2 percent
+1320,35,584,3,,PERCENT,more than 25 percent
+1321,35,585,1,,NORP,Indian
+1322,37,587,1,,ACT,the  Coast Guard Academy Improvement Act
+1323,37,588,1,,ORG,the Coast Guard Academy
+1324,37,589,1,,GPE,the United States Coast Guard Academy
+1325,37,590,1,,PERSON,Subtitle H
+1326,37,590,2,,DATE,2002
+1327,37,590,3,,MONEY,6 U.S.C. 451
+1328,37,591,1,,ORG,Coast Guard Academy
+1329,37,592,1,,DATE,30 days
+1330,37,592,2,,ACT,the Coast Guard Academy Improvement Act
+1331,37,592,3,,ORG,Academy
+1332,37,592,4,,ORG,Academy
+1333,37,594,1,,CARDINAL,11
+1334,37,594,2,,DATE,later than 60 days
+1335,37,594,3,,ACT,the Coast Guard Academy Improvement Act
+1336,37,595,1,,NORP,Chair
+1337,37,596,1,,DATE,later than 30 days
+1338,37,596,2,,DATE,later than 90 days
+1339,37,596,3,,ACT,the  Coast Guard Academy Improvement Act
+1340,37,597,1,,ACT,the Federal Advisory Committee Act
+1341,37,597,2,,MONEY,5 U.S.C. App
+1342,37,598,1,,DATE,later than 180 days
+1343,37,598,2,,ORDINAL,first
+1344,37,598,3,,ORG,Academy
+1345,37,598,4,,ORG,the Coast Guard Academy
+1346,37,599,1,,DATE,later than 90 days
+1347,37,599,2,,ORG,Commandant
+1348,37,599,3,,ORG,the Committees on Homeland Security
+1349,37,599,4,,ORG,the House of Representatives
+1350,37,599,5,,ORG,the Committees on Homeland Security
+1351,37,599,6,,ORG,Governmental Affairs and Commerce
+1352,37,599,7,,ORG,Science
+1353,37,599,8,,ORG,Senate
+1354,37,599,9,,CARDINAL,one
+1355,37,600,1,,DATE,an additional year
+1356,37,601,1,,ORG,the Coast Guard Academy
+1357,37,602,1,,DATE,one year
+1358,37,602,2,,ACT,the Coast Guard Academy Improvement Act
+1359,37,602,3,,ORG,the Chief Human Capital Officer
+1360,37,602,4,,ORG,the Coast Guard
+1361,37,603,1,,ORG,the Coast Guard
+1362,37,603,2,,ORG,Academy
+1363,37,603,3,,LAW,section 182
+1364,37,603,4,,CARDINAL,14
+1365,37,603,5,,ORG,United States Code
+1366,37,603,6,,ORG,the Chief Human Capital Officer
+1367,37,603,7,,ORG,section 890B
+1368,37,604,1,,EVENT,Beginning
+1369,37,604,2,,DATE,2021
+1370,37,604,3,,DATE,annually
+1371,37,604,4,,DATE,2031
+1372,37,604,5,,ORG,the Coast Guard
+1373,37,604,6,,ORG,the Chief Human Capital Officer
+1374,37,604,7,,ORG,the Committees on Homeland Security
+1375,37,604,8,,ORG,the House of Representatives
+1376,37,604,9,,ORG,the Committees on Homeland Security
+1377,37,604,10,,ORG,Governmental Affairs and Commerce
+1378,37,604,11,,ORG,Science
+1379,37,604,12,,ORG,Senate
+1380,37,605,1,,ORG,Coast Guard Academy
+1381,37,606,1,,ORG,the Coast Guard Academy
+1382,37,607,1,,DATE,90 days
+1383,37,607,2,,ACT,the Coast Guard Academy Improvement Act
+1384,37,607,3,,ORG,the Coast Guard
+1385,37,607,4,,ORG,the Coast Guard Academy
+1386,37,607,5,,ORG,Academy
+1387,37,607,6,,ORG,the Coast Guard
+1388,37,608,1,,ORG,Commandant
+1389,37,608,2,,DATE,annual
+1390,37,608,3,,CARDINAL,890C.
+1391,37,609,1,,LAW,section 1(b
+1392,37,609,2,,ACT,Act
+1393,37,610,1,,DATE,later than one year
+1394,37,610,2,,DATE,2002
+1395,37,610,3,,ORG,the Comptroller General
+1396,37,610,4,,GPE,the United States
+1397,37,610,5,,ORG,the Committees on Homeland Security
+1398,37,610,6,,ORG,the House of Representatives
+1399,37,610,7,,ORG,the Committees on Homeland Security
+1400,37,610,8,,ORG,Governmental Affairs and Commerce
+1401,37,610,9,,ORG,Science
+1402,37,610,10,,ORG,Senate
+1403,37,611,1,,ORG,the Coast Guard Academy
+1404,37,612,1,,PERSON,Subtitle E
+1405,37,612,2,,DATE,2002
+1406,37,612,3,,MONEY,6 U.S.C. 411
+1407,37,613,1,,ORG,Department
+1408,37,614,1,,LAW,section 1(b
+1409,37,614,2,,ACT,Act
+1410,37,615,1,,ORG,the Coast Guard Academy
+1411,37,616,1,,ORG,Academy
+1412,37,617,1,,LAW,section 182
+1413,37,617,2,,CARDINAL,14
+1414,37,617,3,,ORG,United States Code
+1415,37,620,1,,CARDINAL,Half
+1416,37,620,2,,ORG,Academy
+1417,37,620,3,,ORG,Senate
+1418,37,620,4,,ORG,the House of Representatives
+1419,37,620,5,,ORG,Congress
+1420,37,620,6,,GPE,the District of Columbia
+1421,37,620,7,,ORG,Congress
+1422,37,620,8,,GPE,the United States Virgin Islands
+1423,37,620,9,,ORG,Resident
+1424,37,620,10,,GPE,Puerto Rico
+1425,37,620,11,,ORG,Congress
+1426,37,620,12,,GPE,Guam
+1427,37,620,13,,ORG,Congress
+1428,37,620,14,,ORG,American Samoa
+1429,37,620,15,,ORG,Congress
+1430,37,621,1,,ORG,the House of Representatives
+1431,37,621,2,,ORG,Congress
+1432,37,621,3,,PERSON,Resident Commissioner
+1433,37,621,4,,DATE,each year
+1434,37,622,1,,ORG,Academy
+1435,37,622,2,,GPE,the United States
+1436,37,623,1,,ORG,Commandant
+1437,37,623,2,,ORG,the Coast Guard Academy
+1438,37,623,3,,ORG,Congress
+1439,37,623,4,,ORG,Congress
+1440,37,623,5,,ORG,Academy
+1441,37,625,1,,DATE,later than 90 days
+1442,37,625,2,,ORG,the Coast Guard
+1443,37,625,3,,ORG,the Coast Guard Academy
+1444,37,625,4,,ORG,Congress
+1445,37,627,1,,PERSON,Nominations Notwithstanding
+1446,37,627,2,,LAW,section 182
+1447,37,627,3,,CARDINAL,14
+1448,37,627,4,,ORG,United States Code
+1449,37,627,5,,ORG,the Coast Guard Academy
+1450,37,627,6,,DATE,2021
+1451,37,627,7,,PERCENT,less than 25 percent
+1452,37,627,8,,CARDINAL,182
+1453,37,628,1,,DATE,later than 60 days
+1454,37,628,2,,ORG,Homeland Security
+1455,37,628,3,,ORG,the Coast Guard
+1456,37,628,4,,ORG,Congress
+1457,37,629,1,,ORG,the Coast Guard
+1458,37,630,1,,ORG,Coast Guard College Student Pre Commissioning Initiative
+1459,37,631,1,,LAW,Chapter 9
+1460,37,633,1,,ORG,the Coast Guard the College Student Pre Commissioning Initiative
+1461,37,634,1,,ACT,the Coast Guard Academy Improvement Act
+1462,37,635,1,,WORK_OF_ART,The Commandant of the Coast Guard
+1463,37,635,2,,ORDINAL,first
+1464,37,635,3,,ORG,Officer Candidate School
+1465,37,635,4,,ACT,the Coast Guard Academy Improvement Act
+1466,37,636,1,,DATE,later than 90 days
+1467,37,636,2,,DATE,each academic year
+1468,37,636,3,,ORDINAL,first
+1469,37,636,4,,ACT,Coast Guard Academy Improvement Act
+1470,37,636,5,,ORG,Coast Guard
+1471,37,636,6,,ORG,the Committees on Homeland Security
+1472,37,636,7,,ORG,the House of Representatives
+1473,37,636,8,,ORG,the Committees on Homeland Security
+1474,37,636,9,,ORG,Governmental Affairs and Commerce
+1475,37,636,10,,ORG,Science
+1476,37,636,11,,ORG,Senate
+1477,37,636,12,,ORG,the College Student Pre Commissioning Initiative
+1478,38,638,1,,DATE,2017
+1479,38,639,1,,NORP,Indian
+1480,38,639,2,,ACT,the Voting Rights Act
+1481,38,639,3,,DATE,1965
+1482,38,639,4,,DATE,42 U.S.C. 1973
+1483,38,640,1,,NORP,Indian
+1484,38,641,1,,ORG,Tribal
+1485,38,642,1,,NORP,Indian
+1486,38,642,2,,CARDINAL,one
+1487,38,642,3,,NORP,Indian
+1488,38,642,4,,NORP,Indian
+1489,38,642,5,,ORG,State
+1490,38,642,6,,DATE,at least 6 months
+1491,38,643,1,,ORG,State
+1492,38,643,2,,NORP,Indian
+1493,38,643,3,,NORP,Indian
+1494,38,643,4,,ORG,State
+1495,38,643,5,,NORP,Indian
+1496,38,643,6,,ORG,State
+1497,38,644,1,,ORG,State
+1498,38,644,2,,NORP,Indian
+1499,38,644,3,,DATE,less than 6 months
+1500,38,646,1,,DATE,the same days
+1501,38,646,2,,TIME,hours
+1502,38,646,3,,NORP,Indian
+1503,38,646,4,,ORG,State
+1504,38,647,1,,NORP,Indian
+1505,38,648,1,,NORP,Indian
+1506,38,648,2,,ORG,Indian Health Service
+1507,38,648,3,,ORG,Bureau of Indian Affairs
+1508,38,648,4,,ORG,State
+1509,38,648,5,,ORG,State
+1510,38,648,6,,ORG,State
+1511,38,650,1,,NORP,Indian
+1512,38,650,2,,NORP,Indian
+1513,38,650,3,,ORG,State
+1514,38,650,4,,NORP,Indian
+1515,38,650,5,,NORP,Indian
+1516,38,650,6,,NORP,Indian
+1517,38,650,7,,ORG,State
+1518,38,650,8,,NORP,Indian
+1519,38,650,9,,ORG,State
+1520,38,651,1,,NORP,Indian
+1521,38,651,2,,NORP,Indian
+1522,38,651,3,,NORP,Indian
+1523,38,651,4,,LAW,section 203
+1524,38,652,1,,ORG,Tribal
+1525,38,652,2,,NORP,Indian
+1526,38,652,3,,ACT,the National Voter Registration Act
+1527,38,652,4,,DATE,1993
+1528,38,652,5,,DATE,52 U.S.C. 20506
+1529,38,654,1,,ACT,the Voting Rights Act
+1530,38,654,2,,DATE,1965
+1531,38,654,3,,DATE,the 14th or 15th
+1532,38,655,1,,CARDINAL,52
+1533,38,655,2,,DATE,the 14th or 15th
+1534,38,656,1,,GPE,States
+1535,38,657,1,,ORG,Determination of States and Political Subdivisions Subject to Section 4
+1536,38,658,1,,LAW,Section 4(b
+1537,38,658,2,,ACT,the Voting Rights Act
+1538,38,658,3,,DATE,1965
+1539,38,658,4,,DATE,52 U.S.C.
+1540,38,659,1,,ORG,Determination of States and Political Subdivisions Subject to Requirements
+1541,38,660,1,,DATE,previous 25 years
+1542,38,661,1,,ORG,State
+1543,38,661,2,,ORG,State
+1544,38,661,3,,DATE,a calendar year
+1545,38,661,4,,CARDINAL,15
+1546,38,661,5,,ORG,State
+1547,38,661,6,,DATE,the previous 25 calendar years
+1548,38,661,7,,CARDINAL,10
+1549,38,661,8,,ORG,State
+1550,38,661,9,,DATE,the previous 25 calendar years
+1551,38,661,10,,CARDINAL,at least one
+1552,38,661,11,,ORG,State
+1553,38,661,12,,ORG,State
+1554,38,662,1,,DATE,a calendar year
+1555,38,662,2,,CARDINAL,3
+1556,38,662,3,,DATE,the previous 25 calendar years
+1557,38,664,1,,CARDINAL,1
+1558,38,664,2,,ORG,State
+1559,38,664,3,,DATE,a calendar year
+1560,38,664,4,,DATE,January 1 of the year
+1561,38,664,5,,DATE,10 years
+1562,38,666,1,,ORG,State
+1563,38,666,2,,ORG,State
+1564,38,667,1,,CARDINAL,1
+1565,38,667,2,,DATE,1)(B
+1566,38,668,1,,CARDINAL,1
+1567,38,668,2,,ORG,State
+1568,38,669,1,,DATE,the 14th or 15th
+1569,38,669,2,,GPE,the United States
+1570,38,669,3,,GPE,the United States
+1571,38,669,4,,DATE,the 14th or 15th
+1572,38,669,5,,ORG,State
+1573,38,670,1,,GPE,the United States
+1574,38,670,2,,ORG,State
+1575,38,670,3,,GPE,the United States
+1576,38,670,4,,CARDINAL,2
+1577,38,670,5,,CARDINAL,203
+1578,38,671,1,,GPE,the United States
+1579,38,671,2,,ORG,State
+1580,38,671,3,,LAW,section 3(c
+1581,38,671,4,,LAW,section 5
+1582,38,671,5,,ORG,State
+1583,38,672,1,,LAW,section 3(c
+1584,38,672,2,,LAW,section 5
+1585,38,672,3,,ORG,State
+1586,38,673,1,,GPE,the United States
+1587,38,673,2,,CARDINAL,2
+1588,38,673,3,,CARDINAL,203
+1589,38,673,4,,DATE,the 14th or 15th
+1590,38,675,1,,DATE,each calendar year
+1591,38,675,2,,ORG,State
+1592,38,675,3,,DATE,the previous calendar year
+1593,38,676,1,,ORG,Federal Register
+1594,38,676,2,,CARDINAL,13
+1595,38,676,3,,ORG,the Federal Register
+1596,38,677,1,,CARDINAL,52
+1597,38,677,2,,CARDINAL,1
+1598,38,677,3,,ORDINAL,first
+1599,38,677,4,,ORG,State
+1600,38,677,5,,ORG,State
+1601,38,677,6,,ORG,State
+1602,38,677,7,,CARDINAL,1
+1603,38,677,8,,ORDINAL,second
+1604,38,677,9,,ORG,State
+1605,38,677,10,,ORDINAL,second
+1606,38,677,11,,ORG,State
+1607,38,677,12,,ORDINAL,second
+1608,38,677,13,,CARDINAL,3
+1609,38,677,14,,ORG,State
+1610,38,677,15,,ORDINAL,second
+1611,38,677,16,,CARDINAL,5
+1612,38,677,17,,ORG,State
+1613,38,677,18,,ORDINAL,second
+1614,38,677,19,,CARDINAL,7
+1615,38,677,20,,CARDINAL,8)
+1616,38,677,21,,CARDINAL,9
+1617,38,677,22,,CARDINAL,7
+1618,38,678,1,,ORG,Language Minority Groups Section
+1619,38,678,2,,CARDINAL,52
+1620,38,678,3,,CARDINAL,10303(a)(1
+1621,38,679,1,,ORG,Determination of States and Political Subdivisions Subject to Preclearance for Covered Practices
+1622,38,679,2,,ACT,The Voting Rights Act
+1623,38,679,3,,DATE,1965
+1624,38,679,4,,DATE,52 U.S.C. 10301
+1625,38,680,1,,ORG,Determination of States and Political Subdivisions Subject to Preclearance for Covered Practices
+1626,38,682,1,,ORG,State
+1627,38,684,1,,DATE,each calendar year
+1628,38,684,2,,ORG,the Bureau of the Census
+1629,38,684,3,,GPE,States
+1630,38,685,1,,ORG,the Federal Register
+1631,38,685,2,,ORG,the Federal Register
+1632,38,686,1,,GPE,the United States
+1633,38,686,2,,ORG,State
+1634,38,687,1,,ORG,State
+1635,38,687,2,,CARDINAL,2
+1636,38,687,3,,PERCENT,20 percent
+1637,38,687,4,,PERCENT,20 percent
+1638,38,687,5,,NORP,Indian
+1639,38,687,6,,CARDINAL,one
+1640,38,687,7,,CARDINAL,one
+1641,38,687,8,,ORG,State
+1642,38,687,9,,CARDINAL,2
+1643,38,687,10,,PERCENT,20 percent
+1644,38,687,11,,PERCENT,20 percent
+1645,38,687,12,,NORP,Indian
+1646,38,688,1,,DATE,a year
+1647,38,688,2,,CARDINAL,3
+1648,38,688,3,,ORG,State
+1649,38,688,4,,CARDINAL,2
+1650,38,688,5,,PERCENT,20 percent
+1651,38,688,6,,PERCENT,20 percent
+1652,38,688,7,,NORP,Indian
+1653,38,689,1,,ORG,State
+1654,38,689,2,,DATE,the preceding decade
+1655,38,689,3,,ORG,the Bureau of the Census
+1656,38,689,4,,CARDINAL,"10,000"
+1657,38,689,5,,PERCENT,20 percent
+1658,38,689,6,,ORG,State
+1659,38,690,1,,DATE,2002
+1660,38,690,2,,MONEY,52 U.S.C. 21083(b
+1661,38,690,3,,DATE,2017
+1662,38,691,1,,LANGUAGE,English
+1663,38,692,1,,DATE,election day
+1664,38,692,2,,CARDINAL,1
+1665,38,692,3,,CARDINAL,2
+1666,38,692,4,,PERCENT,20 percent
+1667,38,692,5,,NORP,Indian
+1668,38,692,6,,PERCENT,at least 20 percent
+1669,38,694,1,,ORG,State
+1670,38,694,2,,GPE,the United States District Court
+1671,38,694,3,,DATE,60 days
+1672,38,694,4,,DATE,60 days
+1673,38,694,5,,DATE,the 60 day
+1674,38,694,6,,DATE,60 day
+1675,38,694,7,,CARDINAL,three
+1676,38,694,8,,LAW,section 2284
+1677,38,694,9,,CARDINAL,28
+1678,38,694,10,,ORG,United States Code
+1679,38,694,11,,ORG,the Supreme Court
+1680,38,695,1,,GPE,the United States
+1681,38,695,2,,CARDINAL,1
+1682,38,696,1,,ORG,Purpose
+1683,38,697,1,,CARDINAL,2
+1684,38,697,2,,CARDINAL,2
+1685,38,698,1,,ORG,State
+1686,38,698,2,,CARDINAL,3
+1687,38,698,3,,LAW,section 2284
+1688,38,698,4,,CARDINAL,28
+1689,38,698,5,,ORG,United States Code
+1690,38,699,1,,ORG,the Federal Register
+1691,38,699,2,,DATE,"February 9, 2011"
+1692,38,699,3,,CARDINAL,76
+1693,38,699,4,,ORG,Fed
+1694,38,700,1,,ORG,the Bureau of the Census
+1695,38,702,1,,ACT,the Voting Rights Act
+1696,38,704,1,,ACT,The Voting Rights Act
+1697,38,704,2,,DATE,1965
+1698,38,704,3,,DATE,52 U.S.C. 10301
+1699,38,707,1,,ORG,Notice of Changes
+1700,38,707,2,,ORG,State
+1701,38,707,3,,DATE,180 days
+1702,38,707,4,,ORG,State
+1703,38,708,1,,ORG,State
+1704,38,708,2,,CARDINAL,1
+1705,38,708,3,,TIME,later than 48 hours
+1706,38,710,1,,DATE,the 30th day
+1707,38,710,2,,ORG,State
+1708,38,710,3,,CARDINAL,2
+1709,38,711,1,,TIME,hours
+1710,38,712,1,,ORG,State
+1711,38,712,2,,CARDINAL,2
+1712,38,712,3,,ORG,State
+1713,38,712,4,,TIME,later than 48 hours
+1714,38,712,5,,TIME,fewer than 48 hours
+1715,38,714,1,,DATE,later than 10 days
+1716,38,714,2,,ORG,"Federal, State"
+1717,38,714,3,,ORG,"Federal, State"
+1718,38,714,4,,ORG,State
+1719,38,714,5,,CARDINAL,3
+1720,38,714,6,,CARDINAL,2
+1721,38,715,1,,ORG,State
+1722,38,716,1,,CARDINAL,2
+1723,38,716,2,,ORG,State
+1724,38,716,3,,GPE,the United States
+1725,38,716,4,,DATE,18 years of age or older
+1726,38,716,5,,ORG,State
+1727,38,716,6,,ORG,State
+1728,38,716,7,,ORG,State
+1729,38,716,8,,DATE,the 5 year
+1730,38,716,9,,DATE,the 5 year
+1731,38,717,1,,ORG,State
+1732,38,717,2,,CARDINAL,"greater than 10,000"
+1733,38,717,3,,ORG,the Bureau of the Census
+1734,38,717,4,,CARDINAL,"greater than 10,000"
+1735,38,717,5,,ORG,the Bureau of the Census
+1736,38,718,1,,GPE,States
+1737,38,719,1,,ORG,State
+1738,38,719,2,,ORG,State
+1739,38,721,1,,DATE,52 U.S.C.
+1740,38,721,2,,CARDINAL,6
+1741,38,722,1,,DATE,60 day
+1742,38,724,1,,ORG,Clarification of Authority
+1743,38,724,2,,ACT,the Voting Rights Act
+1744,38,724,3,,DATE,1965
+1745,38,724,4,,CARDINAL,52
+1746,38,724,5,,DATE,the 14th or 15th Amendment
+1747,38,724,6,,GPE,the United States
+1748,38,725,1,,CARDINAL,52
+1749,38,725,2,,DATE,10305(a
+1750,38,727,1,,ACT,the Voting Rights Act
+1751,38,727,2,,DATE,1965
+1752,38,727,3,,CARDINAL,52
+1753,38,728,1,,CARDINAL,52
+1754,38,729,1,,ACT,the Voting Rights Act
+1755,38,729,2,,DATE,1965
+1756,38,731,1,,NORP,Indian
+1757,38,731,2,,NORP,Indian
+1758,38,731,3,,NORP,Indian
+1759,38,731,4,,NORP,Indian
+1760,38,731,5,,DATE,section 1151
+1761,38,731,6,,CARDINAL,18
+1762,38,731,7,,ORG,United States Code
+1763,38,731,8,,GPE,Alaska
+1764,38,731,9,,ACT,the Alaska Native Claims Settlement Act
+1765,38,731,10,,DATE,43 U.S.C.
+1766,38,731,11,,NORP,Indian
+1767,38,731,12,,NORP,Indian
+1768,38,731,13,,GPE,Alaska Native
+1769,38,731,14,,ORG,the Bureau of the Census for the
+1770,38,732,1,,NORP,Indian
+1771,38,732,2,,NORP,Indian
+1772,38,732,3,,MONEY,25 U.S.C. 5130
+1773,38,734,1,,ACT,the Voting Rights Act
+1774,38,734,2,,DATE,1965
+1775,38,734,3,,DATE,52 U.S.C.
+1776,38,734,4,,DATE,10503(c
+1777,38,736,1,,ACT,the Voting Rights Act
+1778,38,736,2,,DATE,1965
+1779,38,737,1,,ORG,Language Minority Groups Section 4(f
+1780,38,737,2,,DATE,52 U.S.C.
+1781,38,738,1,,DATE,52 U.S.C.
+1782,38,738,2,,DATE,10304
+1783,38,739,1,,ORG,Tribal
+1784,38,739,2,,DATE,annually
+1785,38,739,3,,NORP,Indian
+1786,38,739,4,,LAW,section 21
+1787,38,739,5,,ACT,the Voting Rights Act
+1788,38,739,6,,DATE,1965
+1789,38,739,7,,ACT,section 9 of this Act
+1790,39,740,1,,DATE,2017
+1791,39,741,1,,NORP,Indian
+1792,39,741,2,,ACT,the Voting Rights Act
+1793,39,741,3,,DATE,1965
+1794,39,741,4,,DATE,42 U.S.C. 1973
+1795,39,742,1,,NORP,Indian
+1796,39,743,1,,ORG,Tribal
+1797,39,744,1,,NORP,Indian
+1798,39,744,2,,CARDINAL,one
+1799,39,744,3,,NORP,Indian
+1800,39,744,4,,NORP,Indian
+1801,39,744,5,,ORG,State
+1802,39,744,6,,DATE,at least 6 months
+1803,39,745,1,,ORG,State
+1804,39,745,2,,CARDINAL,1
+1805,39,745,3,,NORP,Indian
+1806,39,745,4,,NORP,Indian
+1807,39,745,5,,ORG,State
+1808,39,745,6,,NORP,Indian
+1809,39,745,7,,ORG,State
+1810,39,746,1,,ORG,State
+1811,39,746,2,,NORP,Indian
+1812,39,746,3,,DATE,less than 6 months
+1813,39,748,1,,DATE,the same days
+1814,39,748,2,,TIME,hours
+1815,39,748,3,,NORP,Indian
+1816,39,748,4,,ORG,State
+1817,39,749,1,,NORP,Indian
+1818,39,750,1,,NORP,Indian
+1819,39,750,2,,ORG,Indian Health Service
+1820,39,750,3,,ORG,Bureau of Indian Affairs
+1821,39,750,4,,ORG,State
+1822,39,750,5,,ORG,State
+1823,39,750,6,,ORG,State
+1824,39,752,1,,NORP,Indian
+1825,39,752,2,,NORP,Indian
+1826,39,752,3,,ORG,State
+1827,39,752,4,,NORP,Indian
+1828,39,752,5,,NORP,Indian
+1829,39,752,6,,NORP,Indian
+1830,39,752,7,,ORG,State
+1831,39,752,8,,NORP,Indian
+1832,39,752,9,,ORG,State
+1833,39,753,1,,NORP,Indian
+1834,39,753,2,,NORP,Indian
+1835,39,753,3,,NORP,Indian
+1836,39,753,4,,LAW,section 203
+1837,39,754,1,,ORG,Tribal
+1838,39,754,2,,NORP,Indian
+1839,39,754,3,,ACT,the National Voter Registration Act
+1840,39,754,4,,DATE,1993
+1841,39,754,5,,DATE,52 U.S.C. 20506
+1842,39,756,1,,ACT,the Voting Rights Act
+1843,39,756,2,,DATE,1965
+1844,39,756,3,,DATE,the 14th or 15th
+1845,39,757,1,,CARDINAL,52
+1846,39,757,2,,DATE,the 14th or 15th
+1847,39,758,1,,GPE,States
+1848,39,759,1,,ORG,Determination of States and Political Subdivisions Subject to Section 4
+1849,39,760,1,,LAW,Section 4(b
+1850,39,760,2,,ACT,the Voting Rights Act
+1851,39,760,3,,DATE,1965
+1852,39,760,4,,DATE,52 U.S.C.
+1853,39,761,1,,ORG,Determination of States and Political Subdivisions Subject to Requirements
+1854,39,762,1,,DATE,previous 25 years
+1855,39,763,1,,ORG,State
+1856,39,763,2,,ORG,State
+1857,39,763,3,,DATE,a calendar year
+1858,39,763,4,,CARDINAL,15
+1859,39,763,5,,ORG,State
+1860,39,763,6,,DATE,the previous 25 calendar years
+1861,39,763,7,,CARDINAL,10
+1862,39,763,8,,ORG,State
+1863,39,763,9,,DATE,the previous 25 calendar years
+1864,39,763,10,,CARDINAL,at least one
+1865,39,763,11,,ORG,State
+1866,39,763,12,,ORG,State
+1867,39,764,1,,DATE,a calendar year
+1868,39,764,2,,CARDINAL,3
+1869,39,764,3,,DATE,the previous 25 calendar years
+1870,39,766,1,,CARDINAL,1
+1871,39,766,2,,ORG,State
+1872,39,766,3,,DATE,a calendar year
+1873,39,766,4,,DATE,January 1 of the year
+1874,39,766,5,,DATE,10 years
+1875,39,768,1,,ORG,State
+1876,39,768,2,,ORG,State
+1877,39,769,1,,CARDINAL,1
+1878,39,769,2,,DATE,1)(B
+1879,39,770,1,,CARDINAL,1
+1880,39,770,2,,ORG,State
+1881,39,771,1,,DATE,the 14th or 15th
+1882,39,771,2,,GPE,the United States
+1883,39,771,3,,GPE,the United States
+1884,39,771,4,,DATE,the 14th or 15th
+1885,39,771,5,,ORG,State
+1886,39,772,1,,GPE,the United States
+1887,39,772,2,,ORG,State
+1888,39,772,3,,GPE,the United States
+1889,39,772,4,,CARDINAL,2
+1890,39,772,5,,CARDINAL,203
+1891,39,773,1,,GPE,the United States
+1892,39,773,2,,ORG,State
+1893,39,773,3,,LAW,section 3(c
+1894,39,773,4,,LAW,section 5
+1895,39,773,5,,ORG,State
+1896,39,774,1,,LAW,section 3(c
+1897,39,774,2,,LAW,section 5
+1898,39,774,3,,ORG,State
+1899,39,775,1,,GPE,the United States
+1900,39,775,2,,CARDINAL,2
+1901,39,775,3,,CARDINAL,203
+1902,39,775,4,,DATE,the 14th or 15th
+1903,39,777,1,,DATE,each calendar year
+1904,39,777,2,,ORG,State
+1905,39,777,3,,DATE,the previous calendar year
+1906,39,778,1,,ORG,Federal Register
+1907,39,778,2,,CARDINAL,13
+1908,39,778,3,,ORG,the Federal Register
+1909,39,779,1,,CARDINAL,52
+1910,39,779,2,,CARDINAL,1
+1911,39,779,3,,ORDINAL,first
+1912,39,779,4,,ORG,State
+1913,39,779,5,,ORG,State
+1914,39,779,6,,ORG,State
+1915,39,779,7,,CARDINAL,1
+1916,39,779,8,,ORDINAL,second
+1917,39,779,9,,ORG,State
+1918,39,779,10,,ORDINAL,second
+1919,39,779,11,,ORG,State
+1920,39,779,12,,ORDINAL,second
+1921,39,779,13,,CARDINAL,3
+1922,39,779,14,,ORG,State
+1923,39,779,15,,ORDINAL,second
+1924,39,779,16,,CARDINAL,5
+1925,39,779,17,,ORG,State
+1926,39,779,18,,ORDINAL,second
+1927,39,779,19,,CARDINAL,7
+1928,39,779,20,,CARDINAL,8)
+1929,39,779,21,,CARDINAL,9
+1930,39,779,22,,CARDINAL,7
+1931,39,780,1,,ORG,Language Minority Groups Section
+1932,39,780,2,,CARDINAL,52
+1933,39,780,3,,CARDINAL,10303(a)(1
+1934,39,781,1,,ORG,Determination of States and Political Subdivisions Subject to Preclearance for Covered Practices
+1935,39,781,2,,ACT,The Voting Rights Act
+1936,39,781,3,,DATE,1965
+1937,39,781,4,,DATE,52 U.S.C. 10301
+1938,39,782,1,,ORG,Determination of States and Political Subdivisions Subject to Preclearance for Covered Practices
+1939,39,784,1,,ORG,State
+1940,39,786,1,,DATE,each calendar year
+1941,39,786,2,,ORG,the Bureau of the Census
+1942,39,786,3,,GPE,States
+1943,39,787,1,,ORG,the Federal Register
+1944,39,787,2,,ORG,the Federal Register
+1945,39,788,1,,GPE,the United States
+1946,39,788,2,,ORG,State
+1947,39,789,1,,ORG,State
+1948,39,789,2,,CARDINAL,2
+1949,39,789,3,,PERCENT,20 percent
+1950,39,789,4,,PERCENT,20 percent
+1951,39,789,5,,NORP,Indian
+1952,39,789,6,,CARDINAL,one
+1953,39,789,7,,CARDINAL,one
+1954,39,789,8,,ORG,State
+1955,39,789,9,,CARDINAL,2
+1956,39,789,10,,PERCENT,20 percent
+1957,39,789,11,,PERCENT,20 percent
+1958,39,789,12,,NORP,Indian
+1959,39,790,1,,DATE,a year
+1960,39,790,2,,CARDINAL,3
+1961,39,790,3,,ORG,State
+1962,39,790,4,,CARDINAL,2
+1963,39,790,5,,PERCENT,20 percent
+1964,39,790,6,,PERCENT,20 percent
+1965,39,790,7,,NORP,Indian
+1966,39,791,1,,ORG,State
+1967,39,791,2,,DATE,the preceding decade
+1968,39,791,3,,ORG,the Bureau of the Census
+1969,39,791,4,,CARDINAL,"10,000"
+1970,39,791,5,,PERCENT,20 percent
+1971,39,791,6,,ORG,State
+1972,39,792,1,,DATE,2002
+1973,39,792,2,,MONEY,52 U.S.C. 21083(b
+1974,39,792,3,,DATE,2017
+1975,39,793,1,,LANGUAGE,English
+1976,39,794,1,,DATE,election day
+1977,39,794,2,,CARDINAL,1
+1978,39,794,3,,CARDINAL,2
+1979,39,794,4,,PERCENT,20 percent
+1980,39,794,5,,NORP,Indian
+1981,39,794,6,,PERCENT,at least 20 percent
+1982,39,796,1,,ORG,State
+1983,39,796,2,,GPE,the United States District Court
+1984,39,796,3,,DATE,60 days
+1985,39,796,4,,DATE,60 days
+1986,39,796,5,,DATE,the 60 day
+1987,39,796,6,,DATE,60 day
+1988,39,796,7,,CARDINAL,three
+1989,39,796,8,,LAW,section 2284
+1990,39,796,9,,CARDINAL,28
+1991,39,796,10,,ORG,United States Code
+1992,39,796,11,,ORG,the Supreme Court
+1993,39,797,1,,GPE,the United States
+1994,39,797,2,,CARDINAL,1
+1995,39,798,1,,ORG,Purpose
+1996,39,799,1,,CARDINAL,2
+1997,39,799,2,,CARDINAL,2
+1998,39,800,1,,ORG,State
+1999,39,800,2,,CARDINAL,3
+2000,39,800,3,,LAW,section 2284
+2001,39,800,4,,CARDINAL,28
+2002,39,800,5,,ORG,United States Code
+2003,39,801,1,,ORG,the Federal Register
+2004,39,801,2,,DATE,"February 9, 2011"
+2005,39,801,3,,CARDINAL,76
+2006,39,801,4,,ORG,Fed
+2007,39,802,1,,ORG,the Bureau of the Census
+2008,39,804,1,,ACT,the Voting Rights Act
+2009,39,806,1,,ACT,The Voting Rights Act
+2010,39,806,2,,DATE,1965
+2011,39,806,3,,DATE,52 U.S.C. 10301
+2012,39,809,1,,ORG,Notice of Changes
+2013,39,809,2,,ORG,State
+2014,39,809,3,,DATE,180 days
+2015,39,809,4,,ORG,State
+2016,39,810,1,,ORG,State
+2017,39,810,2,,CARDINAL,1
+2018,39,810,3,,TIME,later than 48 hours
+2019,39,812,1,,DATE,the 30th day
+2020,39,812,2,,ORG,State
+2021,39,812,3,,CARDINAL,2
+2022,39,813,1,,TIME,hours
+2023,39,814,1,,ORG,State
+2024,39,814,2,,CARDINAL,2
+2025,39,814,3,,ORG,State
+2026,39,814,4,,TIME,later than 48 hours
+2027,39,814,5,,TIME,fewer than 48 hours
+2028,39,816,1,,DATE,later than 10 days
+2029,39,816,2,,ORG,"Federal, State"
+2030,39,816,3,,ORG,"Federal, State"
+2031,39,816,4,,ORG,State
+2032,39,816,5,,CARDINAL,3
+2033,39,816,6,,CARDINAL,2
+2034,39,817,1,,ORG,State
+2035,39,818,1,,CARDINAL,2
+2036,39,818,2,,ORG,State
+2037,39,818,3,,GPE,the United States
+2038,39,818,4,,DATE,18 years of age or older
+2039,39,818,5,,ORG,State
+2040,39,818,6,,ORG,State
+2041,39,818,7,,ORG,State
+2042,39,818,8,,DATE,the 5 year
+2043,39,818,9,,DATE,the 5 year
+2044,39,819,1,,ORG,State
+2045,39,819,2,,CARDINAL,"greater than 10,000"
+2046,39,819,3,,ORG,the Bureau of the Census
+2047,39,819,4,,CARDINAL,"greater than 10,000"
+2048,39,819,5,,ORG,the Bureau of the Census
+2049,39,820,1,,GPE,States
+2050,39,821,1,,ORG,State
+2051,39,821,2,,ORG,State
+2052,39,823,1,,DATE,52 U.S.C.
+2053,39,823,2,,CARDINAL,6
+2054,39,824,1,,DATE,60 day
+2055,39,826,1,,ORG,Clarification of Authority
+2056,39,826,2,,ACT,the Voting Rights Act
+2057,39,826,3,,DATE,1965
+2058,39,826,4,,CARDINAL,52
+2059,39,826,5,,DATE,the 14th or 15th Amendment
+2060,39,826,6,,GPE,the United States
+2061,39,827,1,,CARDINAL,52
+2062,39,827,2,,DATE,10305(a
+2063,39,829,1,,ACT,the Voting Rights Act
+2064,39,829,2,,DATE,1965
+2065,39,829,3,,CARDINAL,52
+2066,39,830,1,,CARDINAL,52
+2067,39,831,1,,ACT,the Voting Rights Act
+2068,39,831,2,,DATE,1965
+2069,39,831,3,,DATE,52 U.S.C. 10301
+2070,39,833,1,,NORP,Indian
+2071,39,833,2,,NORP,Indian
+2072,39,833,3,,NORP,Indian
+2073,39,833,4,,NORP,Indian
+2074,39,833,5,,DATE,section 1151
+2075,39,833,6,,CARDINAL,18
+2076,39,833,7,,ORG,United States Code
+2077,39,833,8,,GPE,Alaska
+2078,39,833,9,,ACT,the Alaska Native Claims Settlement Act
+2079,39,833,10,,DATE,43 U.S.C.
+2080,39,833,11,,NORP,Indian
+2081,39,833,12,,NORP,Indian
+2082,39,833,13,,GPE,Alaska Native
+2083,39,833,14,,ORG,the Bureau of the Census for the
+2084,39,834,1,,NORP,Indian
+2085,39,834,2,,NORP,Indian
+2086,39,834,3,,CARDINAL,25
+2087,39,836,1,,ACT,the Voting Rights Act
+2088,39,836,2,,DATE,1965
+2089,39,836,3,,DATE,52 U.S.C.
+2090,39,836,4,,DATE,10503(c
+2091,39,836,5,,NORP,Alaskan
+2092,39,836,6,,ORG,American Indians
+2093,39,838,1,,ACT,the Voting Rights Act
+2094,39,838,2,,DATE,1965
+2095,39,839,1,,ORG,Language Minority Groups Section 4(f
+2096,39,839,2,,DATE,52 U.S.C.
+2097,39,840,1,,DATE,52 U.S.C.
+2098,39,840,2,,DATE,10304
+2099,39,841,1,,ORG,Tribal
+2100,39,841,2,,DATE,annually
+2101,39,841,3,,NORP,Indian
+2102,39,841,4,,LAW,section 21
+2103,39,841,5,,ACT,the Voting Rights Act
+2104,39,841,6,,DATE,1965
+2105,39,841,7,,ACT,section 9 of this Act
+2106,41,842,1,,DATE,2018
+2107,41,843,1,,ORG,Findings Congress
+2108,41,845,1,,ACT,the Civil Rights Act
+2109,41,845,2,,DATE,1964
+2110,41,845,3,,ACT,the Civil Rights Act
+2111,41,845,4,,DATE,1964
+2112,41,845,5,,DATE,42 U.S.C.
+2113,41,845,6,,DATE,2000d
+2114,41,846,1,,ACT,the Civil Rights Act
+2115,41,846,2,,DATE,1964
+2116,41,846,3,,DATE,42 U.S.C.
+2117,41,846,4,,ORG,U.S.C.
+2118,41,846,5,,DATE,1681
+2119,41,846,6,,ORG,Title VI
+2120,41,846,7,,LAW,Title IX Religious Discrimination in Schools and Colleges
+2121,41,849,1,,LAW,the First Amendment to the Constitution of the United States
+2122,42,850,1,,DATE,2018
+2123,42,852,1,,ORG,Findings Congress
+2124,42,855,1,,CARDINAL,22
+2125,42,855,2,,MONEY,211a
+2126,42,856,1,,GPE,United States
+2127,42,856,2,,ORG,State
+2128,42,858,1,,GPE,United States
+2129,42,859,1,,CARDINAL,1
+2130,42,859,2,,GPE,United States
+2131,42,860,1,,CARDINAL,1
+2132,42,862,1,,LAW,section 360
+2133,42,862,2,,DATE,8 U.S.C.
+2134,42,862,3,,DATE,1503
+2135,42,863,1,,CARDINAL,1
+2136,42,864,1,,GPE,United States
+2137,42,865,1,,ORG,State
+2138,42,865,2,,GPE,United States
+2139,42,865,3,,GPE,United States
+2140,42,865,4,,GPE,the United States
+2141,42,865,5,,GPE,United States
+2142,43,866,1,,DATE,2018
+2143,43,867,1,,ORG,Findings Congress
+2144,43,869,1,,ACT,the Civil Rights Act
+2145,43,869,2,,DATE,1964
+2146,43,869,3,,ACT,the Civil Rights Act
+2147,43,869,4,,DATE,1964
+2148,43,869,5,,DATE,42 U.S.C.
+2149,43,869,6,,DATE,2000d
+2150,43,870,1,,ACT,the Civil Rights Act
+2151,43,870,2,,DATE,1964
+2152,43,870,3,,DATE,42 U.S.C.
+2153,43,870,4,,ORG,U.S.C.
+2154,43,870,5,,DATE,1681
+2155,43,870,6,,ORG,Title VI
+2156,43,870,7,,LAW,Title IX Religious Discrimination in Schools and Colleges
+2157,43,873,1,,LAW,the First Amendment to the Constitution of the United States
+2158,44,874,1,,ORG,the  Stop Harmful
+2159,44,874,2,,DATE,2017
+2160,44,874,3,,DATE,2017
+2161,44,876,1,,DATE,later than 1 year
+2162,44,876,2,,DATE,every 5 years
+2163,44,876,3,,ORG,Commerce for Communications and Information
+2164,44,876,4,,ACT,the Hate Crime Statistics Act
+2165,44,876,5,,MONEY,34 U.S.C. 41305
+2166,45,879,1,,ORG,Threatened
+2167,45,880,1,,ORG,Findings Congress
+2168,45,881,1,,DATE,1965
+2169,45,887,1,,PERSON,a)(1)(F
+2170,45,888,1,,DATE,the 30 day
+2171,45,888,2,,DATE,the 45 day
+2172,45,888,3,,DATE,45 day
+2173,45,896,1,,DATE,fiscal year 2018
+2174,45,896,2,,CARDINAL,5
+2175,45,896,3,,DATE,fiscal years
+2176,45,898,1,,ACT,the Higher Education Act
+2177,45,898,2,,DATE,1965
+2178,45,898,3,,CARDINAL,20
+2179,45,899,1,,LAW,Section 487(a
+2180,45,899,2,,ACT,the Higher Education Act
+2181,45,899,3,,DATE,1965
+2182,45,899,4,,DATE,20 U.S.C. 1094(a
+2183,45,900,1,,CARDINAL,496(a)(5
+2184,45,900,2,,ACT,the Higher Education Act
+2185,45,900,3,,DATE,1965
+2186,45,900,4,,CARDINAL,20
+2187,46,901,1,,DATE,2017
+2188,46,902,1,,ORG,Findings Congress
+2189,46,903,1,,MONEY,28 U.S.C.
+2190,46,903,2,,CARDINAL,994
+2191,46,904,1,,LAW,Section 245
+2192,46,904,2,,CARDINAL,18
+2193,46,904,3,,ORG,United States Code
+2194,46,906,1,,LAW,section 994
+2195,46,906,2,,CARDINAL,28
+2196,46,906,3,,ORG,United States Code
+2197,46,906,4,,GPE,the United States Sentencing Commission
+2198,46,907,1,,GPE,the United States Sentencing Commission
+2199,46,909,1,,WORK_OF_ART,The Administrator of the Office of Juvenile Justice and Delinquency Prevention
+2200,46,909,2,,ORG,the Department of Justice
+2201,46,909,3,,ORG,State
+2202,46,909,4,,GPE,juveniles
+2203,46,911,1,,ORG,State
+2204,46,911,2,,ORG,the Department of the Treasury
+2205,46,911,3,,ORG,the Department of Justice
+2206,46,911,4,,ORG,the Community Relations Service
+2207,46,911,5,,DATE,"fiscal years 2017, 2018"
+2208,46,911,6,,DATE,2019
+2209,46,911,7,,CARDINAL,245
+2210,46,911,8,,CARDINAL,18
+2211,46,911,9,,ORG,United States Code
+2212,49,912,1,,ACT,Women’s Health Act
+2213,49,912,2,,DATE,2018
+2214,49,913,1,,GPE,ovarian
+2215,49,914,1,,ORG,Findings Congress
+2216,49,916,1,,ACT,the Public Health Service Act
+2217,49,916,2,,MONEY,42 U.S.C. 243
+2218,49,918,1,,ORG,the Preventive Services Guidelines of
+2219,49,918,2,,ORG,the Health Resources and Service Administration
+2220,49,918,3,,DATE,"October 30, 2017"
+2221,49,919,1,,MONEY,"200,000,000"
+2222,49,919,2,,DATE,each of fiscal years 2019
+2223,49,919,3,,DATE,2022
+2224,49,920,1,,CARDINAL,300
+2225,49,921,1,,ACT,the Public Health Service Act
+2226,49,921,2,,MONEY,42 U.S.C. 243
+2227,49,926,1,,ORG,Congress
+2228,49,927,1,,ORG,Health and Human Services
+2229,51,929,1,,ACT,the  Foundation of the Federal Bar Association Charter Amendments Act
+2230,51,929,2,,DATE,2017
+2231,51,930,1,,CARDINAL,36
+2232,51,930,2,,ORG,United States Code
+2233,51,931,1,,CARDINAL,36
+2234,51,931,2,,ORG,United States Code
+2235,51,934,1,,LAW,Section 70504
+2236,51,934,2,,CARDINAL,36
+2237,51,934,3,,ORG,United States Code
+2238,51,939,1,,CARDINAL,36
+2239,51,939,2,,ORG,United States Code
+2240,51,946,1,,ORG,the United States Government
+2241,51,947,1,,CARDINAL,70508
+2242,51,947,2,,CARDINAL,36
+2243,51,947,3,,ORG,United States Code
+2244,51,947,4,,GPE,United States
+2245,51,948,1,,LAW,Section 70510
+2246,51,948,2,,CARDINAL,36
+2247,51,948,3,,ORG,United States Code
+2248,51,949,1,,ORG,State
+2249,51,950,1,,LAW,Section 70512
+2250,51,950,2,,CARDINAL,36
+2251,51,950,3,,ORG,United States Code
+2252,52,952,1,,ACT,the  Foundation of the Federal Bar Association Charter Amendments Act
+2253,52,952,2,,DATE,2017
+2254,52,953,1,,CARDINAL,36
+2255,52,953,2,,ORG,United States Code
+2256,52,954,1,,CARDINAL,36
+2257,52,954,2,,ORG,United States Code
+2258,52,957,1,,LAW,Section 70504
+2259,52,957,2,,CARDINAL,36
+2260,52,957,3,,ORG,United States Code
+2261,52,962,1,,CARDINAL,36
+2262,52,962,2,,ORG,United States Code
+2263,52,969,1,,ORG,the United States Government
+2264,52,970,1,,CARDINAL,70508
+2265,52,970,2,,CARDINAL,36
+2266,52,970,3,,ORG,United States Code
+2267,52,970,4,,GPE,United States
+2268,52,971,1,,LAW,Section 70510
+2269,52,971,2,,CARDINAL,36
+2270,52,971,3,,ORG,United States Code
+2271,52,972,1,,ORG,State
+2272,52,973,1,,LAW,Section 70512
+2273,52,973,2,,CARDINAL,36
+2274,52,973,3,,ORG,United States Code
+2275,53,975,1,,DATE,2017
+2276,53,976,1,,ORG,Findings Congress
+2277,53,977,1,,LAW,Section 4001
+2278,53,977,2,,CARDINAL,18
+2279,53,977,3,,ORG,United States Code
+2280,55,981,1,,DATE,2017
+2281,55,982,1,,ORG,Findings Congress
+2282,55,983,1,,LAW,Section 4001
+2283,55,983,2,,CARDINAL,18
+2284,55,983,3,,ORG,United States Code
+2285,56,987,1,,DATE,2017
+2286,56,988,1,,NORP,Congressional
+2287,56,988,2,,ORG,Representatives
+2288,56,989,1,,PERSON,Declaratory Judgment
+2289,56,989,2,,ORG,State
+2290,56,989,3,,NORP,Congressional
+2291,56,989,4,,ORDINAL,fifteenth
+2292,56,989,5,,ORG,Congress
+2293,56,990,1,,NORP,Congressional
+2294,56,991,1,,DATE,1965
+2295,56,991,2,,ACT,the Voting Rights Act
+2296,56,991,3,,DATE,1965
+2297,56,991,4,,LAW,section 5
+2298,56,991,5,,DATE,52 U.S.C.
+2299,56,991,6,,DATE,10304
+2300,56,992,1,,LAW,Section 1
+2301,56,992,2,,NORP,Congressional
+2302,56,992,3,,CARDINAL,1(a
+2303,56,992,4,,ORG,State
+2304,56,992,5,,LAW,Constitution
+2305,56,992,6,,DATE,10301
+2306,57,993,1,,ORG,Finding of Constitutional Authority
+2307,57,994,1,,DATE,2017
+2308,57,995,1,,GPE,States
+2309,57,995,2,,NORP,Congressional
+2310,57,995,3,,ORG,the House of Representatives
+2311,57,998,1,,GPE,Notwithstanding
+2312,57,998,2,,NORP,Congressional
+2313,57,998,3,,ORG,State
+2314,57,998,4,,NORP,Congressional
+2315,57,998,5,,ORG,State
+2316,57,998,6,,LAW,section 3
+2317,57,998,7,,LAW,section 4
+2318,57,998,8,,LAW,section 5
+2319,57,998,9,,NORP,Congressional
+2320,57,998,10,,CARDINAL,6
+2321,57,998,11,,NORP,Congressional
+2322,57,998,12,,ORG,State
+2323,57,999,1,,ORG,State
+2324,57,999,2,,NORP,Congressional
+2325,57,999,3,,ORG,State
+2326,57,1000,1,,ORG,State
+2327,57,1000,2,,ORG,State
+2328,57,1000,3,,ORG,State
+2329,57,1000,4,,ORG,State
+2330,57,1001,1,,ACT,An Act
+2331,57,1001,2,,ORDINAL,fifteenth
+2332,57,1001,3,,ORG,Congress
+2333,57,1001,4,,DATE,"June 18, 1929"
+2334,57,1001,5,,DATE,2 U.S.C.
+2335,57,1004,1,,NORP,Congressional
+2336,57,1004,2,,ORG,State
+2337,57,1004,3,,TIME,later than 72 hours
+2338,57,1006,1,,ACT,An Act
+2339,57,1006,2,,ORDINAL,fifteenth
+2340,57,1006,3,,ORG,Congress
+2341,57,1006,4,,DATE,"June 18, 1929"
+2342,57,1007,1,,DATE,60 day
+2343,57,1007,2,,ORG,State
+2344,57,1007,3,,CARDINAL,3(d
+2345,57,1007,4,,ORG,State
+2346,57,1007,5,,NORP,Congressional
+2347,57,1007,6,,ORG,State
+2348,57,1009,1,,DATE,later than 10 days
+2349,57,1009,2,,NORP,Congressional
+2350,57,1009,3,,ORG,State
+2351,57,1009,4,,ORG,State
+2352,57,1009,5,,ORG,State
+2353,57,1010,1,,DATE,later than 7 days
+2354,57,1010,2,,NORP,Congressional
+2355,57,1010,3,,ORG,State
+2356,57,1010,4,,ORG,State
+2357,57,1010,5,,CARDINAL,at least one
+2358,57,1010,6,,LAW,section 3
+2359,57,1011,1,,ORG,State
+2360,57,1011,2,,NORP,Congressional
+2361,57,1011,3,,NORP,Congressional
+2362,57,1011,4,,ORDINAL,first
+2363,57,1011,5,,ORG,State
+2364,57,1011,6,,NORP,Congressional
+2365,57,1011,7,,ORG,State
+2366,57,1012,1,,ORG,Notice of Final Adopted Congressional Redistricting Plan Not
+2367,57,1012,2,,DATE,later than 7 days
+2368,57,1012,3,,ORG,State
+2369,57,1012,4,,NORP,Congressional
+2370,57,1012,5,,ORG,State
+2371,57,1012,6,,ORG,State
+2372,57,1013,1,,NORP,Congressional
+2373,57,1013,2,,DATE,2020
+2374,58,1014,1,,ACT,the  Foundation of the Federal Bar Association Charter Amendments Act
+2375,58,1014,2,,DATE,2017
+2376,58,1015,1,,CARDINAL,36
+2377,58,1015,2,,ORG,United States Code
+2378,58,1016,1,,CARDINAL,36
+2379,58,1016,2,,ORG,United States Code
+2380,58,1019,1,,LAW,Section 70504
+2381,58,1019,2,,CARDINAL,36
+2382,58,1019,3,,ORG,United States Code
+2383,58,1024,1,,CARDINAL,36
+2384,58,1024,2,,ORG,United States Code
+2385,58,1031,1,,ORG,the United States Government
+2386,58,1032,1,,CARDINAL,70508
+2387,58,1032,2,,CARDINAL,36
+2388,58,1032,3,,ORG,United States Code
+2389,58,1032,4,,GPE,United States
+2390,58,1033,1,,LAW,Section 70510
+2391,58,1033,2,,CARDINAL,36
+2392,58,1033,3,,ORG,United States Code
+2393,58,1034,1,,ORG,State
+2394,58,1035,1,,LAW,Section 70512
+2395,58,1035,2,,CARDINAL,36
+2396,58,1035,3,,ORG,United States Code
+2397,61,1037,1,,DATE,2017
+2398,61,1038,1,,GPE,ovarian
+2399,61,1039,1,,ORG,Findings Congress
+2400,61,1041,1,,ACT,the Public Health Service Act
+2401,61,1041,2,,MONEY,42 U.S.C. 243
+2402,61,1043,1,,ORG,the Preventive Services Guidelines of
+2403,61,1043,2,,ORG,the Health Resources and Service Administration
+2404,61,1043,3,,DATE,"January 1, 2017"
+2405,61,1044,1,,MONEY,"200,000,000"
+2406,61,1044,2,,DATE,each of fiscal years 2017
+2407,61,1044,3,,DATE,2020
+2408,61,1045,1,,CARDINAL,300
+2409,61,1046,1,,ACT,the Public Health Service Act
+2410,61,1046,2,,MONEY,42 U.S.C. 243
+2411,61,1051,1,,ORG,Congress
+2412,61,1052,1,,ORG,Health and Human Services
+2413,63,1054,1,,DATE,2018
+2414,63,1055,1,,ORG,Findings Congress
+2415,63,1057,1,,PERSON,Title IV
+2416,63,1057,2,,DATE,1965
+2417,63,1062,1,,ORG,State
+2418,63,1063,1,,ORG,"State
+ "
+2419,63,1063,2,,ORG,State
+2420,63,1063,3,,ORG,State
+2421,63,1065,1,,ORG,"Biennial
+ "
+2422,63,1065,2,,DATE,section 4702
+2423,63,1066,1,,GPE,States
+2424,63,1066,2,,DATE,section 4702
+2425,63,1067,1,,ORG,"Biennial
+ "
+2426,63,1067,2,,DATE,"later than January 1, 2019"
+2427,63,1067,3,,DATE,2 years
+2428,63,1067,4,,ORG,Congress
+2429,63,1067,5,,GPE,States
+2430,63,1067,6,,LAW,section 4703
+2431,63,1069,1,,ORG,State
+2432,63,1069,2,,ORG,State
+2433,63,1069,3,,ACT,the Civil Rights Act
+2434,63,1069,4,,DATE,1964
+2435,63,1069,5,,DATE,42 U.S.C.
+2436,63,1071,1,,ORG,State
+2437,63,1072,1,,LAW,section 2
+2438,63,1072,2,,DATE,1965
+2439,66,1073,1,,ACT,the  Intern Protection Act
+2440,66,1076,1,,DATE,section 701(h
+2441,66,1076,2,,ACT,the Civil Rights Act
+2442,66,1076,3,,DATE,1964
+2443,66,1076,4,,MONEY,42 U.S.C. 2000e(h
+2444,66,1076,5,,LAW,section 302(a)(1
+2445,66,1076,6,,DATE,1991
+2446,66,1076,7,,LAW,section 101
+2447,66,1076,8,,DATE,1995
+2448,66,1076,9,,CARDINAL,3
+2449,66,1076,10,,ORG,United States Code
+2450,66,1076,11,,ACT,the Civil Rights Act
+2451,66,1076,12,,DATE,1964
+2452,66,1083,1,,MONEY,42 U.S.C.
+2453,66,1089,1,,DATE,at least 40 years of age
+2454,66,1093,1,,DATE,1995
+2455,66,1093,2,,CARDINAL,1311(a)(1
+2456,66,1094,1,,GPE,Notwithstanding
+2457,66,1094,2,,LAW,section 4(a
+2458,66,1094,3,,CARDINAL,4
+2459,66,1094,4,,GPE,the United States
+2460,66,1094,5,,ORG,Commission
+2461,66,1094,6,,GPE,the United States
+2462,66,1097,1,,ORG,Congress
+2463,66,1097,2,,ORG,Congress
+2464,66,1097,3,,ORG,the Library of Congress
+2465,66,1098,1,,ORG,Board The Board
+2466,66,1098,2,,DATE,10(a)(3
+2467,66,1098,3,,CARDINAL,304
+2468,66,1098,4,,DATE,1995
+2469,66,1098,5,,DATE,1301
+2470,66,1099,1,,CARDINAL,3
+2471,66,1099,2,,ORG,United States Code
+2472,66,1100,1,,ORG,State
+2473,66,1100,2,,ORG,State
+2474,67,1101,1,,DATE,2017
+2475,67,1102,1,,ORG,Findings Congress
+2476,67,1104,1,,PERSON,Title IV
+2477,67,1104,2,,DATE,1965
+2478,67,1109,1,,ORG,State
+2479,67,1110,1,,ORG,State
+2480,67,1110,2,,ORG,State
+2481,67,1112,1,,DATE,section 4702
+2482,67,1113,1,,GPE,States
+2483,67,1113,2,,DATE,section 4702
+2484,67,1114,1,,DATE,"later than January 1, 2019"
+2485,67,1114,2,,DATE,2 years
+2486,67,1114,3,,ORG,Congress
+2487,67,1114,4,,GPE,States
+2488,67,1114,5,,LAW,section 4703
+2489,67,1116,1,,ORG,State
+2490,67,1116,2,,ORG,State
+2491,67,1116,3,,ACT,the Civil Rights Act
+2492,67,1116,4,,DATE,1964
+2493,67,1116,5,,DATE,42 U.S.C.
+2494,67,1118,1,,ORG,State
+2495,67,1119,1,,LAW,section 2
+2496,67,1119,2,,DATE,1965
+2497,70,1120,1,,DATE,Tomorrow
+2498,70,1120,2,,DATE,2018
+2499,70,1121,1,,ORG,Findings Congress
+2500,70,1123,1,,CARDINAL,3
+2501,70,1124,1,,CARDINAL,29
+2502,70,1127,1,,ORG,State
+2503,70,1128,1,,ORG,State
+2504,70,1128,2,,MONEY,29 U.S.C. 3102
+2505,70,1131,1,,ORG,GAO
+2506,70,1133,1,,ORG,The Comptroller General
+2507,70,1133,2,,GPE,the United States
+2508,70,1134,1,,GPE,the United States
+2509,70,1134,2,,DATE,annual
+2510,70,1134,3,,GPE,the United States
+2511,70,1134,4,,DATE,annual
+2512,70,1134,5,,ORG,State
+2513,70,1135,1,,ORG,the Comptroller General
+2514,70,1135,2,,GPE,the United States
+2515,70,1135,3,,ORG,Congress
+2516,70,1137,1,,ORG,Grants
+2517,70,1138,1,,ORG,Labor
+2518,70,1139,1,,DATE,3 years
+2519,70,1142,1,,CARDINAL,1
+2520,70,1144,1,,CARDINAL,1
+2521,70,1145,1,,DATE,later than 1 year
+2522,70,1146,1,,LAW,section 181
+2523,70,1146,2,,CARDINAL,29
+2524,70,1147,1,,DATE,the first 5 full fiscal years
+2525,70,1149,1,,LAW,Section 134(d)(1)(A
+2526,70,1149,2,,ORG,the Workforce Innovation
+2527,70,1149,3,,MONEY,29 U.S.C.
+2528,70,1150,1,,LAW,Section 170
+2529,70,1151,1,,LAW,section 132(a)(2)(A
+2530,70,1151,2,,MONEY,"40,000,000"
+2531,70,1151,3,,DATE,each of fiscal years 2018
+2532,70,1151,4,,DATE,2020
+2533,71,1153,1,,DATE,later than December 1 of each year
+2534,71,1153,2,,GPE,the United States
+2535,71,1153,3,,ORG,Congress
+2536,71,1154,1,,ORG,the Federal Bureau of Investigation
+2537,71,1154,2,,GPE,the United States
+2538,72,1156,1,,LOC,Career
+2539,72,1156,2,,ACT,Technical Education Act
+2540,72,1156,3,,DATE,2018
+2541,72,1157,1,,FAC,the Carl D. Perkins Career
+2542,72,1157,2,,ACT,Technical Education Act
+2543,72,1157,3,,DATE,2006
+2544,72,1159,1,,GPE,the United States
+2545,72,1159,2,,GPE,the United States
+2546,72,1163,1,,LAW,Section 9
+2547,72,1163,2,,DATE,2023
+2548,72,1164,1,,PERSON,Subparagraph
+2549,72,1164,2,,LAW,section 112(a)(2
+2550,72,1164,3,,MONEY,"less than $100,000"
+2551,72,1165,1,,DATE,20 U.S.C.
+2552,72,1166,1,,LAW,Section 114(d
+2553,72,1166,2,,MONEY,20 U.S.C. 2324(d
+2554,72,1167,1,,CARDINAL,20
+2555,72,1168,1,,MONEY,20 U.S.C. 2342(c
+2556,72,1169,1,,LAW,Section 123
+2557,72,1169,2,,DATE,20 U.S.C. 2343
+2558,72,1170,1,,LAW,section 124(b)(10
+2559,72,1170,2,,DATE,the first program year
+2560,72,1170,3,,CARDINAL,1
+2561,72,1170,4,,CARDINAL,113(c)(2)(A
+2562,72,1170,5,,DATE,3 consecutive years
+2563,72,1171,1,,PERCENT,less than 10 percent
+2564,72,1171,2,,LAW,section 131
+2565,72,1171,3,,CARDINAL,132
+2566,72,1171,4,,LAW,section 135(b)(9
+2567,72,1171,5,,DATE,the first program year
+2568,72,1171,6,,CARDINAL,1
+2569,72,1171,7,,CARDINAL,113(c)(2)(A
+2570,72,1171,8,,DATE,3 consecutive years
+2571,72,1172,1,,LAW,Section 124(b
+2572,72,1172,2,,CARDINAL,20
+2573,72,1173,1,,LAW,Section 134(b
+2574,72,1173,2,,CARDINAL,20
+2575,72,1174,1,,MONEY,20 U.S.C. 2355(b
+2576,73,1175,1,,ACT,Act
+2577,73,1175,2,,DATE,2017
+2578,73,1181,1,,CARDINAL,17
+2579,73,1181,2,,ORG,Principles of Environmental Justice
+2580,73,1181,3,,ORG,the First National People of Color Environmental Leadership Summit
+2581,73,1181,4,,DATE,October 24
+2582,73,1181,5,,DATE,"27, 1991"
+2583,73,1181,6,,GPE,Washington
+2584,73,1181,7,,GPE,DC
+2585,73,1182,1,,ORG,the Working Group
+2586,73,1184,1,,LANGUAGE,English
+2587,73,1184,2,,ORG,Executive Order
+2588,73,1184,3,,CARDINAL,65
+2589,73,1184,4,,ORG,Fed
+2590,73,1184,5,,DATE,50121
+2591,73,1184,6,,DATE,"August 16, 2000"
+2592,73,1185,1,,ORG,Working Group
+2593,73,1185,2,,ORG,Working Group
+2594,73,1185,3,,DATE,4321
+2595,73,1186,1,,ORG,Federal Working Group on Environmental Justice
+2596,73,1187,1,,DATE,later than 90 days
+2597,73,1187,2,,ORG,the Working Group
+2598,73,1189,1,,ORG,Composition The Working Group
+2599,73,1189,2,,ORG,Agriculture
+2600,73,1189,3,,ORG,Commerce
+2601,73,1189,4,,ORG,Defense
+2602,73,1189,5,,ORG,Energy
+2603,73,1189,6,,ORG,Health and Human Services
+2604,73,1189,7,,ORG,Homeland Security
+2605,73,1189,8,,ORG,Housing and Urban Development
+2606,73,1189,9,,ORG,Interior
+2607,73,1189,10,,ORG,Labor
+2608,73,1189,11,,ORG,Transportation
+2609,73,1189,12,,ORG,the Office of Environmental Justice
+2610,73,1189,13,,ORG,the Consumer Product Safety Commission
+2611,73,1189,14,,ORG,the Chemical Safety Board
+2612,73,1189,15,,ORG,the Office of Management and Budget
+2613,73,1189,16,,ORG,the Office of Science and Technology Policy
+2614,73,1189,17,,ORG,the Council on Environmental Quality
+2615,73,1189,18,,ORG,Domestic Policy
+2616,73,1189,19,,ORG,the National Economic Council
+2617,73,1189,20,,ORG,the Council of Economic Advisers
+2618,73,1190,1,,ORG,Working Group
+2619,73,1190,2,,ORG,the Council on Environmental Quality
+2620,73,1190,3,,PERSON,Domestic Policy
+2621,73,1190,4,,ACT,this Act
+2622,73,1190,5,,ORG,the Environmental Protection Agency
+2623,73,1190,6,,ORG,the Department of Health and Human Services
+2624,73,1190,7,,ORG,the Department of Housing and Urban Development
+2625,73,1190,8,,CARDINAL,3
+2626,73,1191,1,,ORG,The Working Group
+2627,73,1195,1,,ORG,the Federal agency
+2628,73,1195,2,,GPE,the United States
+2629,73,1195,3,,GPE,the United States
+2630,73,1195,4,,GPE,the District of Columbia
+2631,73,1196,1,,ORG,Nondiscrimination Each Federal
+2632,73,1198,1,,DATE,annually
+2633,73,1198,2,,ORG,the Federal agency
+2634,73,1198,3,,DATE,1969
+2635,73,1198,4,,DATE,42 U.S.C. 4321
+2636,73,1198,5,,ACT,the Civil Rights Act
+2637,73,1198,6,,DATE,1964
+2638,73,1198,7,,MONEY,42 U.S.C. 5121
+2639,73,1202,1,,DATE,later than 1 year
+2640,73,1202,2,,ORG,Congress
+2641,73,1202,3,,ORG,the Working Group
+2642,73,1202,4,,ORG,the Federal agency
+2643,73,1202,5,,ORG,the Federal agency
+2644,73,1202,6,,ORG,the Federal agency
+2645,73,1204,1,,ORG,the Federal agency
+2646,73,1204,2,,LANGUAGE,English
+2647,73,1206,1,,ORG,Council on Environmental Quality Notwithstanding
+2648,73,1206,2,,ORG,II
+2649,73,1206,3,,ORG,the Council on Environmental Quality
+2650,73,1206,4,,ACT,the National Environmental Policy Act
+2651,73,1207,1,,ORG,the Environmental Protection Agency
+2652,73,1209,1,,ORG,Research Each Federal
+2653,73,1210,1,,PRODUCT,552a
+2654,73,1210,2,,CARDINAL,5
+2655,73,1210,3,,ORG,United States Code
+2656,73,1210,4,,ORG,the Federal agency
+2657,73,1212,1,,ORG,the Emergency Planning and Community Right
+2658,73,1212,2,,DATE,1986
+2659,73,1212,3,,DATE,4321
+2660,73,1214,1,,ORG,the Federal agency
+2661,73,1215,1,,CARDINAL,1
+2662,73,1216,1,,ORG,EJScreen
+2663,73,1218,1,,ORG,State
+2664,73,1218,2,,ORG,Tribal
+2665,73,1219,1,,ORG,National Environmental Justice Advisory Council
+2666,73,1220,1,,DATE,"September 30, 1993"
+2667,73,1220,2,,ORG,the  Advisory Council
+2668,73,1221,1,,ORG,the Advisory Council
+2669,73,1221,2,,DATE,the day before the date
+2670,73,1222,1,,ORG,Advisory Council
+2671,73,1223,1,,ORG,the Office of Environmental Justice
+2672,73,1223,2,,ORG,the Environmental Protection Agency
+2673,73,1225,1,,ORG,Advisory Council
+2674,73,1225,2,,CARDINAL,3
+2675,73,1225,3,,DATE,each calendar year
+2676,73,1226,1,,ORG,Advisory Council
+2677,73,1227,1,,ORG,the Advisory Council
+2678,73,1227,2,,ORG,the Advisory Council
+2679,73,1227,3,,ORG,the Working Group
+2680,73,1227,4,,ORG,the Environmental Protection Agency
+2681,73,1227,5,,ORG,the Advisory Council
+2682,73,1227,6,,GPE,States
+2683,73,1227,7,,ORG,State
+2684,73,1229,1,,ORG,the Advisory Council
+2685,73,1229,2,,DATE,later than 120 days
+2686,73,1230,1,,ORG,Advisory Council The Administrator
+2687,73,1230,2,,ORG,the Advisory Council
+2688,73,1230,3,,DATE,later than 120 days
+2689,73,1231,1,,ORG,the Advisory Council
+2690,73,1231,2,,ORG,the Advisory Council
+2691,73,1232,1,,ORG,Duration The Advisory Council
+2692,73,1234,1,,ORG,the Environmental Justice Small Grants Program
+2693,73,1234,2,,ORG,the Environmental Justice Collaborative Problem Solving Cooperative Agreement Program
+2694,73,1235,1,,ACT,the Community Action
+2695,73,1235,2,,ORG,II
+2696,73,1235,3,,DATE,"January 1, 2012"
+2697,73,1236,1,,MONEY,"10,000,000"
+2698,73,1236,2,,DATE,each of fiscal years 2018
+2699,73,1236,3,,DATE,2027
+2700,73,1238,1,,ACT,Federal Water Pollution Control Act Section
+2701,73,1238,2,,ACT,the Federal Water Pollution Control Act
+2702,73,1238,3,,DATE,33 U.S.C.
+2703,73,1238,4,,DATE,1342
+2704,73,1242,1,,ACT,Clean Air Act
+2705,73,1243,1,,ACT,the Clean Air Act
+2706,73,1243,2,,CARDINAL,1
+2707,73,1243,3,,CARDINAL,2
+2708,73,1243,4,,CARDINAL,3
+2709,73,1243,5,,CARDINAL,4
+2710,73,1243,6,,CARDINAL,3
+2711,73,1243,7,,CARDINAL,5
+2712,73,1243,8,,CARDINAL,4
+2713,73,1243,9,,CARDINAL,1
+2714,73,1245,1,,ACT,the Clean Air Act
+2715,73,1245,2,,MONEY,42 U.S.C.
+2716,73,1245,3,,CARDINAL,5
+2717,73,1245,4,,ORG,Tribal
+2718,73,1245,5,,ORG,the Bureau of the Census
+2719,73,1245,6,,CARDINAL,9
+2720,73,1245,7,,ORDINAL,fourth
+2721,73,1246,1,,ORDINAL,third
+2722,73,1247,1,,ORDINAL,second
+2723,73,1251,1,,LAW,section 503(b)(3
+2724,73,1251,2,,ORG,Tribal
+2725,73,1251,3,,ORG,the Bureau of the Census
+2726,73,1251,4,,DATE,later than 180 days
+2727,73,1251,5,,DATE,2017
+2728,73,1251,6,,ORG,III
+2729,73,1251,7,,ORG,V)(bb
+2730,73,1251,8,,DATE,3 years
+2731,73,1252,1,,ACT,the Clean Air Act
+2732,73,1252,2,,MONEY,42 U.S.C. 7661b(b
+2733,73,1253,1,,ORG,Tribal
+2734,73,1253,2,,ORG,the Bureau of the Census
+2735,73,1253,3,,LAW,section 108 or
+2736,73,1253,4,,CARDINAL,112
+2737,73,1254,1,,CARDINAL,505
+2738,73,1254,2,,ACT,the Federal Water Pollution Control Act
+2739,73,1254,3,,DATE,33 U.S.C. 1365
+2740,73,1257,1,,ACT,Act this Act
+2741,73,1257,2,,ACT,the Surface Mining Control and Reclamation Act
+2742,73,1257,3,,DATE,1977
+2743,73,1257,4,,ORG,the Marine Protection
+2744,73,1257,5,,DATE,1972
+2745,73,1257,6,,DATE,33 U.S.C. 1401
+2746,73,1257,7,,MONEY,300f
+2747,73,1257,8,,ACT,the Clean Air Act
+2748,73,1258,1,,ACT,Act
+2749,73,1259,1,,PRODUCT,the Revised Statutes
+2750,73,1259,2,,DATE,42 U.S.C. 1983
+2751,73,1259,3,,ACT,Act
+2752,73,1260,1,,ACT,Act
+2753,73,1262,1,,LAW,Section 602
+2754,74,1266,1,,ACT,the  National Security Diversity and Inclusion Workforce Act
+2755,74,1266,2,,DATE,2018
+2756,74,1267,1,,ORG,Findings Congress
+2757,74,1268,1,,GPE,the United States
+2758,74,1271,1,,ORG,the Committee on Foreign Relations
+2759,74,1271,2,,ORG,the Committee on Armed Services
+2760,74,1271,3,,ORG,the Committee on Homeland Security
+2761,74,1271,4,,ORG,Governmental Affairs
+2762,74,1271,5,,ORG,the Select Committee on Intelligence
+2763,74,1271,6,,ORG,the Committee on Appropriations of the Senate
+2764,74,1271,7,,ORG,the Committee on Foreign Affairs
+2765,74,1271,8,,ORG,the Committee on Armed Services
+2766,74,1271,9,,ORG,the Committee on Homeland Security
+2767,74,1271,10,,ORG,the Permanent Select Committee on Intelligence
+2768,74,1271,11,,ORG,the Committee on Appropriations of the House of Representatives
+2769,74,1275,1,,ORG,the Department of State
+2770,74,1275,2,,GPE,the United States Agency
+2771,74,1275,3,,ORG,International Development
+2772,74,1275,4,,ORG,the Department of Defense
+2773,74,1275,5,,ORG,the Armed Forces
+2774,74,1275,6,,ORG,the Office of International Affairs
+2775,74,1275,7,,ORG,the Office of Critical Infrastructure Protection of the Department of the Treasury
+2776,74,1275,8,,ORG,the National Security Division of
+2777,74,1275,9,,ORG,the Department of Justice
+2778,74,1275,10,,ORG,the Federal Bureau of Investigation
+2779,74,1275,11,,ORG,the Department of Homeland Security
+2780,74,1275,12,,ORG,the Foreign Agricultural Service of the Department of Agriculture
+2781,74,1276,1,,ORG,the Foreign Service
+2782,74,1276,2,,ORG,the Foreign Service
+2783,74,1277,1,,LAW,section 2101
+2784,74,1277,2,,CARDINAL,5
+2785,74,1277,3,,ORG,United States
+2786,74,1277,4,,ORG,the Foreign Service
+2787,74,1280,1,,DATE,later than 180 days
+2788,74,1280,2,,CARDINAL,3
+2789,74,1281,1,,CARDINAL,1
+2790,74,1281,2,,ORG,the national security agency
+2791,74,1281,3,,ORG,the New Inclusion Quotient
+2792,74,1281,4,,ORG,the national security agency
+2793,74,1283,1,,DATE,annually
+2794,74,1285,1,,ORG,the national security agency
+2795,74,1286,1,,ORG,the national security agency
+2796,74,1288,1,,ORG,the Office of Management and Budget
+2797,74,1288,2,,ORG,the national security agency
+2798,74,1288,3,,ORG,the Office of Management and Budget
+2799,74,1288,4,,ORG,Presenting Federal Data
+2800,74,1288,5,,ORG,Ethnicity
+2801,74,1289,1,,CARDINAL,1
+2802,74,1289,2,,ORG,the Federal Government
+2803,74,1293,1,,ORG,the national security agency
+2804,74,1294,1,,CARDINAL,1
+2805,74,1294,2,,CARDINAL,2
+2806,74,1294,3,,LAW,section 5
+2807,74,1296,1,,ORG,the national security agency
+2808,74,1296,2,,ORG,State
+2809,74,1296,3,,ORG,the Federal Government
+2810,74,1298,1,,ORG,Senior Executive Service
+2811,74,1299,1,,ORG,the national security agency
+2812,74,1299,2,,CARDINAL,412
+2813,74,1299,3,,CARDINAL,5
+2814,74,1299,4,,ORG,Federal Regulations
+2815,74,1299,5,,ORG,the national security agency
+2816,74,1300,1,,DATE,annual
+2817,74,1302,1,,CARDINAL,147
+2818,74,1302,2,,CARDINAL,32
+2819,74,1303,1,,CARDINAL,1
+2820,74,1308,1,,ORG,Congress
+2821,74,1310,1,,ORG,the national security agency
+2822,74,1311,1,,CARDINAL,1
+2823,74,1312,1,,ORG,the New Inclusion Quotient
+2824,74,1312,2,,DATE,a period of
+2825,74,1312,3,,DATE,3 years
+2826,74,1320,1,,GPE,the United States
+2827,75,1321,1,,PERSON,Mary Jo Lawyer Spano Mesothelioma
+2828,75,1321,2,,DATE,2017
+2829,75,1322,1,,ORG,mesothelioma data collection and
+2830,75,1322,2,,PRODUCT,Title III
+2831,75,1322,3,,ACT,the Public Health Service Act
+2832,75,1323,1,,ORG,mesothelioma data collection
+2833,75,1324,1,,ORG,the Administrator of the Agency
+2834,75,1324,2,,ORG,Toxic Substances and Disease Registry
+2835,75,1324,3,,GPE,the United States
+2836,75,1328,1,,ORG,the National Institutes of Health
+2837,75,1328,2,,ORG,the Food and Drug Administration
+2838,75,1328,3,,ORG,the Centers for Medicare & Medicaid Services
+2839,75,1328,4,,ORG,Healthcare Research and Quality
+2840,75,1328,5,,ORG,the Department of Veterans Affairs
+2841,75,1328,6,,ORG,the Department of Defense
+2842,75,1330,1,,DATE,3009
+2843,75,1331,1,,ORG,Congress
+2844,75,1332,1,,DATE,later than 18 months
+2845,75,1332,2,,PERSON,Mary Jo Lawyer Spano Mesothelioma
+2846,75,1332,3,,DATE,2017
+2847,75,1333,1,,DATE,later than 4 years
+2848,75,1333,2,,PERSON,Mary Jo Lawyer Spano Mesothelioma
+2849,75,1333,3,,DATE,2017
+2850,76,1334,1,,DATE,2017
+2851,76,1337,1,,DATE,each fiscal year
+2852,76,1337,2,,ORG,State
+2853,76,1337,3,,ORG,State
+2854,76,1337,4,,DATE,annual
+2855,76,1340,1,,DATE,any fiscal year beginning
+2856,76,1340,2,,ORG,State
+2857,76,1340,3,,PERCENT,10 percent
+2858,76,1340,4,,DATE,that fiscal year
+2859,76,1340,5,,ORG,State
+2860,76,1340,6,,CARDINAL,1
+2861,76,1340,7,,ORG,the Omnibus Crime Control
+2862,76,1340,8,,DATE,1968
+2863,76,1341,1,,CARDINAL,1
+2864,76,1341,2,,ORG,State
+2865,76,1341,3,,GPE,States
+2866,76,1342,1,,LAW,Section 1701
+2867,76,1342,2,,ORG,the Omnibus Crime Control
+2868,76,1342,3,,DATE,1968
+2869,76,1342,4,,MONEY,42 U.S.C.
+2870,76,1344,1,,DATE,the first fiscal year beginning
+2871,76,1344,2,,DATE,the 3 fiscal years
+2872,76,1344,3,,ORG,State
+2873,76,1344,4,,CARDINAL,3(a
+2874,76,1344,5,,DATE,2017
+2875,76,1345,1,,WORK_OF_ART,Beginning in the fifth fiscal year beginning
+2876,76,1345,2,,ORG,State
+2877,76,1345,3,,CARDINAL,3(a
+2878,76,1345,4,,DATE,2017
+2879,76,1346,1,,ORG,State
+2880,76,1346,2,,CARDINAL,3(a
+2881,76,1346,3,,DATE,2017
+2882,76,1347,1,,DATE,later than 1 year
+2883,76,1347,2,,DATE,each year
+2884,76,1347,3,,ORG,State
+2885,76,1347,4,,ORG,the Omnibus Crime Control
+2886,76,1347,5,,DATE,1968
+2887,76,1347,6,,CARDINAL,42
+2888,76,1347,7,,LAW,3796dd
+2889,76,1349,1,,DATE,later than 1 year
+2890,76,1349,2,,DATE,each year
+2891,76,1350,1,,PRODUCT,552a
+2892,76,1350,2,,CARDINAL,5
+2893,76,1350,3,,ORG,United States Code
+2894,76,1350,4,,DATE,1974
+2895,76,1351,1,,DATE,later than 180 days
+2896,76,1351,2,,ORG,the Federal Bureau of Investigation
+2897,78,1352,1,,ACT,Act
+2898,78,1352,2,,DATE,2017
+2899,78,1358,1,,CARDINAL,17
+2900,78,1358,2,,ORG,Principles of Environmental Justice
+2901,78,1358,3,,ORG,the First National People of Color Environmental Leadership Summit
+2902,78,1358,4,,DATE,October 24
+2903,78,1358,5,,DATE,"27, 1991"
+2904,78,1358,6,,GPE,Washington
+2905,78,1358,7,,GPE,DC
+2906,78,1359,1,,ORG,the Working Group
+2907,78,1361,1,,LANGUAGE,English
+2908,78,1361,2,,ORG,Executive Order
+2909,78,1361,3,,CARDINAL,65
+2910,78,1361,4,,ORG,Fed
+2911,78,1361,5,,DATE,50121
+2912,78,1361,6,,DATE,"August 16, 2000"
+2913,78,1362,1,,ORG,Working Group
+2914,78,1362,2,,ORG,Working Group
+2915,78,1362,3,,DATE,4321
+2916,78,1363,1,,ORG,Federal Working Group on Environmental Justice
+2917,78,1364,1,,DATE,later than 90 days
+2918,78,1364,2,,ORG,the Working Group
+2919,78,1366,1,,ORG,Composition The Working Group
+2920,78,1366,2,,ORG,Agriculture
+2921,78,1366,3,,ORG,Commerce
+2922,78,1366,4,,ORG,Defense
+2923,78,1366,5,,ORG,Energy
+2924,78,1366,6,,ORG,Health and Human Services
+2925,78,1366,7,,ORG,Homeland Security
+2926,78,1366,8,,ORG,Housing and Urban Development
+2927,78,1366,9,,ORG,Interior
+2928,78,1366,10,,ORG,Labor
+2929,78,1366,11,,ORG,Transportation
+2930,78,1366,12,,ORG,the Office of Environmental Justice
+2931,78,1366,13,,ORG,the Consumer Product Safety Commission
+2932,78,1366,14,,ORG,the Chemical Safety Board
+2933,78,1366,15,,ORG,the Office of Management and Budget
+2934,78,1366,16,,ORG,the Office of Science and Technology Policy
+2935,78,1366,17,,ORG,the Council on Environmental Quality
+2936,78,1366,18,,ORG,Domestic Policy
+2937,78,1366,19,,ORG,the National Economic Council
+2938,78,1366,20,,ORG,the Council of Economic Advisers
+2939,78,1367,1,,ORG,Working Group
+2940,78,1367,2,,ORG,the Council on Environmental Quality
+2941,78,1367,3,,PERSON,Domestic Policy
+2942,78,1367,4,,ACT,this Act
+2943,78,1367,5,,ORG,the Environmental Protection Agency
+2944,78,1367,6,,ORG,the Department of Health and Human Services
+2945,78,1367,7,,ORG,the Department of Housing and Urban Development
+2946,78,1367,8,,CARDINAL,3
+2947,78,1368,1,,ORG,The Working Group
+2948,78,1372,1,,ORG,the Federal agency
+2949,78,1372,2,,GPE,the United States
+2950,78,1372,3,,GPE,the United States
+2951,78,1372,4,,GPE,the District of Columbia
+2952,78,1373,1,,ORG,Nondiscrimination Each Federal
+2953,78,1375,1,,DATE,annually
+2954,78,1375,2,,ORG,the Federal agency
+2955,78,1375,3,,DATE,1969
+2956,78,1375,4,,DATE,42 U.S.C. 4321
+2957,78,1375,5,,ACT,the Civil Rights Act
+2958,78,1375,6,,DATE,1964
+2959,78,1375,7,,MONEY,42 U.S.C. 5121
+2960,78,1379,1,,DATE,later than 1 year
+2961,78,1379,2,,ORG,Congress
+2962,78,1379,3,,ORG,the Working Group
+2963,78,1379,4,,ORG,the Federal agency
+2964,78,1379,5,,ORG,the Federal agency
+2965,78,1379,6,,ORG,the Federal agency
+2966,78,1381,1,,ORG,the Federal agency
+2967,78,1381,2,,LANGUAGE,English
+2968,78,1383,1,,ORG,Council on Environmental Quality Notwithstanding
+2969,78,1383,2,,ORG,II
+2970,78,1383,3,,ORG,the Council on Environmental Quality
+2971,78,1383,4,,ACT,the National Environmental Policy Act
+2972,78,1384,1,,ORG,the Environmental Protection Agency
+2973,78,1386,1,,ORG,Research Each Federal
+2974,78,1387,1,,PRODUCT,552a
+2975,78,1387,2,,CARDINAL,5
+2976,78,1387,3,,ORG,United States Code
+2977,78,1387,4,,ORG,the Federal agency
+2978,78,1389,1,,ORG,the Emergency Planning and Community Right
+2979,78,1389,2,,DATE,1986
+2980,78,1389,3,,DATE,4321
+2981,78,1391,1,,ORG,the Federal agency
+2982,78,1392,1,,CARDINAL,1
+2983,78,1393,1,,ORG,EJScreen
+2984,78,1395,1,,ORG,State
+2985,78,1395,2,,ORG,Tribal
+2986,78,1396,1,,ORG,National Environmental Justice Advisory Council
+2987,78,1397,1,,DATE,"September 30, 1993"
+2988,78,1397,2,,ORG,the  Advisory Council
+2989,78,1398,1,,ORG,the Advisory Council
+2990,78,1398,2,,DATE,the day before the date
+2991,78,1399,1,,ORG,Advisory Council
+2992,78,1400,1,,ORG,the Office of Environmental Justice
+2993,78,1400,2,,ORG,the Environmental Protection Agency
+2994,78,1402,1,,ORG,Advisory Council
+2995,78,1402,2,,CARDINAL,3
+2996,78,1402,3,,DATE,each calendar year
+2997,78,1403,1,,ORG,Advisory Council
+2998,78,1404,1,,ORG,the Advisory Council
+2999,78,1404,2,,ORG,the Advisory Council
+3000,78,1404,3,,ORG,the Working Group
+3001,78,1404,4,,ORG,the Environmental Protection Agency
+3002,78,1404,5,,ORG,the Advisory Council
+3003,78,1404,6,,GPE,States
+3004,78,1404,7,,ORG,State
+3005,78,1406,1,,ORG,the Advisory Council
+3006,78,1406,2,,DATE,later than 120 days
+3007,78,1407,1,,ORG,Advisory Council The Administrator
+3008,78,1407,2,,ORG,the Advisory Council
+3009,78,1407,3,,DATE,later than 120 days
+3010,78,1408,1,,ORG,"Travel
+ "
+3011,78,1408,2,,ORG,the Advisory Council
+3012,78,1408,3,,ORG,the Advisory Council
+3013,78,1409,1,,ORG,Duration The Advisory Council
+3014,78,1411,1,,ORG,the Environmental Justice Small Grants Program
+3015,78,1411,2,,ORG,the Environmental Justice Collaborative Problem Solving Cooperative Agreement Program
+3016,78,1412,1,,ACT,the Community Action
+3017,78,1412,2,,ORG,II
+3018,78,1412,3,,DATE,"January 1, 2012"
+3019,78,1413,1,,MONEY,"10,000,000"
+3020,78,1413,2,,DATE,each of fiscal years 2018
+3021,78,1413,3,,DATE,2027
+3022,78,1415,1,,ACT,Federal Water Pollution Control Act Section
+3023,78,1415,2,,ACT,the Federal Water Pollution Control Act
+3024,78,1415,3,,DATE,33 U.S.C.
+3025,78,1415,4,,DATE,1342
+3026,78,1419,1,,ACT,Clean Air Act
+3027,78,1420,1,,ACT,the Clean Air Act
+3028,78,1420,2,,CARDINAL,1
+3029,78,1420,3,,CARDINAL,2
+3030,78,1420,4,,CARDINAL,3
+3031,78,1420,5,,CARDINAL,4
+3032,78,1420,6,,CARDINAL,3
+3033,78,1420,7,,CARDINAL,5
+3034,78,1420,8,,CARDINAL,4
+3035,78,1420,9,,CARDINAL,1
+3036,78,1422,1,,ACT,the Clean Air Act
+3037,78,1422,2,,MONEY,42 U.S.C.
+3038,78,1422,3,,CARDINAL,5
+3039,78,1422,4,,ORG,Tribal
+3040,78,1422,5,,ORG,the Bureau of the Census
+3041,78,1422,6,,CARDINAL,9
+3042,78,1422,7,,ORDINAL,fourth
+3043,78,1423,1,,ORDINAL,third
+3044,78,1424,1,,ORDINAL,second
+3045,78,1428,1,,LAW,section 503(b)(3
+3046,78,1428,2,,ORG,Tribal
+3047,78,1428,3,,ORG,the Bureau of the Census
+3048,78,1428,4,,DATE,later than 180 days
+3049,78,1428,5,,DATE,2017
+3050,78,1428,6,,ORG,III
+3051,78,1428,7,,ORG,V)(bb
+3052,78,1428,8,,DATE,3 years
+3053,78,1429,1,,ACT,the Clean Air Act
+3054,78,1429,2,,MONEY,42 U.S.C. 7661b(b
+3055,78,1430,1,,ORG,Tribal
+3056,78,1430,2,,ORG,the Bureau of the Census
+3057,78,1430,3,,LAW,section 108 or
+3058,78,1430,4,,CARDINAL,112
+3059,78,1431,1,,CARDINAL,505
+3060,78,1431,2,,ACT,the Federal Water Pollution Control Act
+3061,78,1431,3,,DATE,33 U.S.C. 1365
+3062,78,1434,1,,ACT,Act this Act
+3063,78,1434,2,,ACT,the Surface Mining Control and Reclamation Act
+3064,78,1434,3,,DATE,1977
+3065,78,1434,4,,ORG,the Marine Protection
+3066,78,1434,5,,DATE,1972
+3067,78,1434,6,,DATE,33 U.S.C. 1401
+3068,78,1434,7,,MONEY,300f
+3069,78,1434,8,,ACT,the Clean Air Act
+3070,78,1435,1,,ACT,Act
+3071,78,1436,1,,PRODUCT,the Revised Statutes
+3072,78,1436,2,,DATE,42 U.S.C. 1983
+3073,78,1436,3,,ACT,Act
+3074,78,1437,1,,ACT,Act
+3075,78,1439,1,,LAW,Section 602
+3076,79,1443,1,,ORG,Findings Congress
+3077,79,1443,2,,DATE,"September 24, 2017"
+3078,79,1444,1,,ORG,Homeland Security
+3079,79,1444,2,,ACT,Act
+3080,79,1444,3,,DATE,any fiscal year
+3081,79,1444,4,,DATE,"March 6, 2017"
+3082,79,1444,5,,DATE,"September 24, 2017"
+3083,80,1445,1,,ORG,Findings Congress
+3084,80,1446,1,,ORG,Homeland Security
+3085,80,1446,2,,ACT,Act
+3086,80,1446,3,,DATE,any fiscal year
+3087,80,1446,4,,GPE,the United States
+3088,81,1449,1,,ORG,Findings Congress
+3089,81,1451,1,,GPE,Nicaragua
+3090,81,1451,2,,WORK_OF_ART,Termination of the Designation of Nicaragua for Temporary Protected Status
+3091,81,1452,1,,GPE,Haiti
+3092,81,1452,2,,WORK_OF_ART,Termination of the Designation of Haiti for Temporary Protected Status
+3093,81,1453,1,,GPE,El Salvador
+3094,81,1453,2,,WORK_OF_ART,Termination of the Designation of El Salvador for Temporary Protected Status
+3095,82,1454,1,,ACT,the  Missing Children’s Assistance Amendment Act
+3096,82,1454,2,,DATE,2017
+3097,82,1455,1,,ACT,the Juvenile Justice and Delinquency Prevention Act
+3098,82,1455,2,,DATE,1974
+3099,83,1456,1,,ORG,Findings Congress
+3100,83,1456,2,,DATE,"September 24, 2017"
+3101,83,1457,1,,ORG,Homeland Security
+3102,83,1457,2,,ACT,Act
+3103,83,1457,3,,DATE,any fiscal year
+3104,83,1457,4,,DATE,"March 6, 2017"
+3105,83,1457,5,,DATE,"September 24, 2017"
+3106,84,1458,1,,ORG,Findings Congress
+3107,84,1459,1,,ORG,Homeland Security
+3108,84,1459,2,,ACT,Act
+3109,84,1459,3,,DATE,any fiscal year
+3110,84,1459,4,,ORG,the Executive Order
+3111,84,1459,5,,GPE,the United States
+3112,85,1460,1,,ACT,the  National Security Diversity and Inclusion Workforce Act
+3113,85,1460,2,,DATE,2017
+3114,85,1461,1,,ORG,Findings Congress
+3115,85,1462,1,,GPE,the United States
+3116,85,1465,1,,ORG,the Committee on Foreign Relations
+3117,85,1465,2,,ORG,the Committee on Armed Services
+3118,85,1465,3,,ORG,the Committee on Homeland Security
+3119,85,1465,4,,ORG,Governmental Affairs
+3120,85,1465,5,,ORG,the Select Committee on Intelligence
+3121,85,1465,6,,ORG,the Committee on Appropriations of the Senate
+3122,85,1465,7,,ORG,the Committee on Foreign Affairs
+3123,85,1465,8,,ORG,the Committee on Armed Services
+3124,85,1465,9,,ORG,the Committee on Homeland Security
+3125,85,1465,10,,ORG,the Permanent Select Committee on Intelligence
+3126,85,1465,11,,ORG,the Committee on Appropriations of the House of Representatives
+3127,85,1469,1,,ORG,the Department of State
+3128,85,1469,2,,GPE,the United States Agency
+3129,85,1469,3,,ORG,International Development
+3130,85,1469,4,,ORG,the Department of Defense
+3131,85,1469,5,,ORG,the Armed Forces
+3132,85,1469,6,,ORG,the Office of International Affairs
+3133,85,1469,7,,ORG,the Office of Critical Infrastructure Protection of the Department of the Treasury
+3134,85,1469,8,,ORG,the National Security Division of
+3135,85,1469,9,,ORG,the Department of Justice
+3136,85,1469,10,,ORG,the Federal Bureau of Investigation
+3137,85,1469,11,,ORG,the Department of Homeland Security
+3138,85,1469,12,,ORG,the Foreign Agricultural Service of the Department of Agriculture
+3139,85,1470,1,,ORG,the Foreign Service
+3140,85,1470,2,,ORG,the Foreign Service
+3141,85,1471,1,,LAW,section 2101
+3142,85,1471,2,,CARDINAL,5
+3143,85,1471,3,,ORG,United States
+3144,85,1471,4,,ORG,the Foreign Service
+3145,85,1474,1,,DATE,later than 180 days
+3146,85,1474,2,,CARDINAL,3
+3147,85,1475,1,,CARDINAL,1
+3148,85,1475,2,,ORG,the national security agency
+3149,85,1475,3,,ORG,the New Inclusion Quotient
+3150,85,1475,4,,ORG,the national security agency
+3151,85,1477,1,,DATE,annually
+3152,85,1479,1,,ORG,the national security agency
+3153,85,1480,1,,ORG,the national security agency
+3154,85,1482,1,,ORG,the Office of Management and Budget
+3155,85,1482,2,,ORG,the national security agency
+3156,85,1482,3,,ORG,the Office of Management and Budget
+3157,85,1482,4,,ORG,Presenting Federal Data
+3158,85,1482,5,,ORG,Ethnicity
+3159,85,1483,1,,CARDINAL,1
+3160,85,1483,2,,ORG,the Federal Government
+3161,85,1487,1,,ORG,the national security agency
+3162,85,1488,1,,CARDINAL,1
+3163,85,1488,2,,CARDINAL,2
+3164,85,1488,3,,LAW,section 5
+3165,85,1490,1,,ORG,the national security agency
+3166,85,1490,2,,ORG,State
+3167,85,1490,3,,ORG,the Federal Government
+3168,85,1492,1,,ORG,Senior Executive Service
+3169,85,1493,1,,ORG,the national security agency
+3170,85,1493,2,,CARDINAL,412
+3171,85,1493,3,,CARDINAL,5
+3172,85,1493,4,,ORG,Federal Regulations
+3173,85,1493,5,,ORG,the national security agency
+3174,85,1494,1,,DATE,annual
+3175,85,1496,1,,CARDINAL,147
+3176,85,1496,2,,CARDINAL,32
+3177,85,1497,1,,CARDINAL,1
+3178,85,1502,1,,ORG,Congress
+3179,85,1504,1,,ORG,the national security agency
+3180,85,1505,1,,CARDINAL,1
+3181,85,1506,1,,ORG,the New Inclusion Quotient
+3182,85,1506,2,,DATE,a period of
+3183,85,1506,3,,DATE,3 years
+3184,85,1514,1,,GPE,the United States
+3185,87,1515,1,,ORG,the  Protecting Youth
+3186,87,1516,1,,PERSON,Juveniles
+3187,87,1516,2,,LAW,Section 5039
+3188,87,1516,3,,CARDINAL,18
+3189,87,1516,4,,ORG,United States Code
+3190,88,1517,1,,DATE,2017
+3191,88,1518,1,,ORG,Findings Congress
+3192,88,1519,1,,LAW,Title I of the Omnibus Crime Control
+3193,88,1519,2,,DATE,1968
+3194,88,1522,1,,GPE,States
+3195,88,1524,1,,CARDINAL,2
+3196,88,1525,1,,TIME,24 hour
+3197,88,1525,2,,GPE,the United States
+3198,88,1526,1,,CARDINAL,1
+3199,88,1532,1,,MONEY,"20,000,000"
+3200,88,1532,2,,DATE,fiscal year 2018
+3201,88,1532,3,,DATE,fiscal year
+3202,88,1533,1,,PERCENT,less than 10 percent
+3203,88,1535,1,,ORG,State
+3204,88,1535,2,,DATE,a fiscal year
+3205,88,1536,1,,PRODUCT,Title
+3206,88,1540,1,,GPE,States
+3207,88,1540,2,,CARDINAL,2
+3208,88,1541,1,,ORG,State
+3209,88,1542,1,,ORG,State
+3210,88,1542,2,,ACT,the Hate Crimes Statistics Act
+3211,88,1542,3,,MONEY,28 U.S.C. 534
+3212,88,1544,1,,ORG,the Bureau of the Census
+3213,88,1544,2,,ACT,the Hate Crimes Statistics Act
+3214,88,1549,1,,ORG,State
+3215,88,1550,1,,MONEY,"15,000,000"
+3216,88,1550,2,,DATE,the fiscal year 2018
+3217,88,1550,3,,DATE,fiscal year
+3218,88,1551,1,,ORG,State
+3219,88,1551,2,,DATE,a fiscal year
+3220,88,1553,1,,ORG,the Office for Victims of Crime
+3221,88,1553,2,,ORG,the Office of Justice Programs
+3222,88,1553,3,,LAW,section 3
+3223,88,1554,1,,CARDINAL,3
+3224,88,1555,1,,MONEY,"15,000,000"
+3225,88,1555,2,,DATE,the fiscal year 2018
+3226,88,1555,3,,DATE,fiscal year
+3227,88,1557,1,,DATE,1 year
+3228,88,1557,2,,DATE,annually
+3229,88,1557,3,,ORG,State
+3230,88,1557,4,,DATE,annual
+3231,88,1557,5,,ORG,the Omnibus Crime Control
+3232,88,1557,6,,DATE,1968
+3233,88,1557,7,,MONEY,42 U.S.C. 3711
+3234,88,1560,1,,DATE,the first 180 days
+3235,88,1560,2,,ACT,Act
+3236,88,1560,3,,ORG,the Federal Government
+3237,89,1562,1,,ORG,Congress
+3238,89,1563,1,,ORG,Prince Hall Freemasonry
+3239,89,1564,1,,ORG,Prince Hall Freemasonry
+3240,89,1564,2,,FAC,Prince Hall Freemasonry
+3241,91,1567,1,,DATE,2018
+3242,91,1569,1,,LAW,Chapter 11
+3243,91,1574,1,,DATE,later than January 31 of each year
+3244,91,1574,2,,DATE,the previous year
+3245,91,1574,3,,DATE,the previous year
+3246,91,1575,1,,CARDINAL,1
+3247,91,1576,1,,CARDINAL,1
+3248,91,1577,1,,LAW,chapter 11
+3249,93,1580,1,,ORG,Education
+3250,93,1582,1,,ORG,the Institute of Education Sciences
+3251,93,1583,1,,MONEY,"10,000,000"
+3252,93,1583,2,,DATE,each of fiscal years 2019
+3253,93,1583,3,,DATE,2021
+3254,93,1585,1,,CARDINAL,20
+3255,93,1586,1,,PERSON,Bias
+3256,94,1588,1,,ACT,Mothers and Offspring Mortality and Morbidity Awareness Act MOMMA’s
+3257,94,1589,1,,ORG,Findings Congress
+3258,94,1590,1,,ORG,Improving Federal
+3259,94,1591,1,,GPE,States
+3260,94,1591,2,,DATE,later than one year
+3261,94,1591,3,,ORG,the Centers for Disease Control and Prevention
+3262,94,1592,1,,DATE,later than one year
+3263,94,1592,2,,ORG,State
+3264,94,1592,3,,GPE,States
+3265,94,1593,1,,ORG,Alliance for Innovation on Maternal Health Grant Program
+3266,94,1594,1,,DATE,later than one year
+3267,94,1594,2,,ORG,Health and Human Services
+3268,94,1594,3,,ORG,the Associate Administrator of the Maternal and Child Health Bureau of the Health Resources and Services Administration
+3269,94,1594,4,,ORG,the Alliance for Innovation on Maternal Health Grant Program
+3270,94,1594,5,,ORG,AIM
+3271,94,1595,1,,CARDINAL,1
+3272,94,1595,2,,GPE,the United States
+3273,94,1596,1,,CARDINAL,1
+3274,94,1596,2,,GPE,States
+3275,94,1596,3,,ORG,State
+3276,94,1596,4,,ORG,State
+3277,94,1596,5,,ORG,State
+3278,94,1596,6,,ORG,State
+3279,94,1598,1,,MONEY,"5,000,000"
+3280,94,1598,2,,DATE,each of fiscal years 2019
+3281,94,1598,3,,DATE,2023
+3282,94,1599,1,,ORG,CHIP
+3283,94,1600,1,,ORG,Medicaid
+3284,94,1600,2,,LAW,Section 1902
+3285,94,1600,3,,DATE,42 U.S.C. 1396a
+3286,94,1600,4,,CARDINAL,5
+3287,94,1600,5,,DATE,60 day one year
+3288,94,1600,6,,CARDINAL,6
+3289,94,1600,7,,DATE,60 day one year
+3290,94,1600,8,,DATE,60 day one year
+3291,94,1601,1,,ORG,Medicaid
+3292,94,1601,2,,LAW,Section 1903(v)(4)(A
+3293,94,1601,3,,ACT,the Social Security Act
+3294,94,1601,4,,DATE,60 day one year
+3295,94,1602,1,,LAW,Section 2112(d)(2)(A
+3296,94,1602,2,,DATE,60 day one year
+3297,94,1604,1,,ORG,Medicaid Section
+3298,94,1604,2,,ACT,the Social Security Act
+3299,94,1604,3,,CARDINAL,42
+3300,94,1604,4,,CARDINAL,1396a(l
+3301,94,1605,1,,ACT,the Social Security Act
+3302,94,1605,2,,MONEY,42 U.S.C. 1397ee(d
+3303,94,1606,1,,DATE,five years
+3304,94,1606,2,,ORG,State
+3305,94,1606,3,,LAW,section 1903(v)(4)(A)(i
+3306,94,1606,4,,LAW,section 2107(e)(1
+3307,94,1606,5,,ORG,State
+3308,94,1608,1,,ORG,State
+3309,94,1608,2,,ORG,State
+3310,94,1608,3,,DATE,one year
+3311,94,1609,1,,ORG,State
+3312,94,1609,2,,ORG,State
+3313,94,1609,3,,ORG,Health and Human Services
+3314,94,1609,4,,ORG,State
+3315,94,1609,5,,DATE,the first day
+3316,94,1609,6,,DATE,quarter
+3317,94,1609,7,,ORDINAL,first
+3318,94,1609,8,,ORG,State
+3319,94,1609,9,,ORG,State
+3320,94,1609,10,,DATE,2 year
+3321,94,1609,11,,DATE,each year
+3322,94,1609,12,,ORG,State
+3323,94,1610,1,,ACT,the Public Health Service Act
+3324,94,1612,1,,DATE,later than one year
+3325,94,1616,1,,ORG,the Department of Health and Human Services
+3326,94,1619,1,,MONEY,"5,000,000"
+3327,94,1619,2,,DATE,each of fiscal years 2019
+3328,94,1619,3,,DATE,2023
+3329,97,1623,1,,DATE,2017
+3330,101,1630,1,,ORG,the House of Representatives
+3331,101,1630,2,,ORG,Congress
+3332,101,1632,1,,ORG,the House of Representatives
+3333,101,1633,1,,ORG,the House of Representatives
+3334,101,1634,1,,ORG,the House of Representatives
+3335,101,1635,1,,ACT,the Voting Rights Act
+3336,101,1635,2,,ORG,the House of Representatives
+3337,101,1636,1,,ORG,the House of Representatives
+3338,101,1638,1,,ORG,the House of Representatives
+3339,101,1639,1,,ORG,the House of Representatives
+3340,101,1640,1,,ORG,the Office of Government Ethics
+3341,101,1640,2,,ORG,the House of Representatives
+3342,101,1641,1,,ORG,the House of Representatives
+3343,101,1642,1,,ORG,the House of Representatives
+3344,101,1644,1,,ORG,the House of Representatives
+3345,101,1645,1,,ORG,the House of Representatives
+3346,101,1646,1,,LAW,Constitution
+3347,101,1646,2,,ORG,Congress
+3348,101,1646,3,,GPE,Citizens United
+3349,101,1646,4,,ORG,the House of Representatives
+3350,101,1647,1,,ORG,the House of Representatives
+3351,101,1648,1,,ORG,the Federal Election Commission
+3352,101,1648,2,,ORG,the House of Representatives
+3353,101,1649,1,,ORG,the House of Representatives
+3354,102,1651,1,,GPE,Vietnam
+3355,102,1652,1,,DATE,later than 120 days
+3356,102,1652,2,,ORG,Veterans Affairs
+3357,102,1652,3,,ORG,the Centers of Disease Control and Prevention of the Department of Health and Human Services
+3358,102,1652,4,,GPE,Vietnam
+3359,102,1652,5,,ORG,the Veterans Affairs Central Cancer Registry
+3360,102,1652,6,,ORG,the National Program of Cancer Registries
+3361,102,1653,1,,ORG,Congress
+3362,102,1653,2,,DATE,later than one year
+3363,102,1653,3,,ORG,Congress
+3364,102,1654,1,,GPE,Vietnam
+3365,102,1654,2,,GPE,Vietnam
+3366,102,1654,3,,ORG,the Veterans Affairs Central Cancer Registry
+3367,102,1654,4,,ORG,Congress
+3368,102,1655,1,,ORG,Congress
+3369,103,1657,1,,DATE,2018
+3370,103,1662,1,,CARDINAL,1
+3371,103,1662,2,,GPE,the United States
+3372,103,1662,3,,ORG,"Federal, State"
+3373,103,1662,4,,ORDINAL,third
+3374,103,1663,1,,DATE,later than 1 year
+3375,103,1663,2,,ORG,Congress
+3376,103,1664,1,,ORG,Applicability of Federal law Notwithstanding
+3377,103,1664,2,,ORG,State
+3378,104,1665,1,,ORG,the  Protecting Newborns
+3379,104,1666,1,,PRODUCT,Title III
+3380,104,1666,2,,ACT,the Public Health Service Act
+3381,104,1668,1,,ORG,the Centers for Disease Control and Prevention
+3382,104,1669,1,,ORG,NAS
+3383,104,1670,1,,GPE,States
+3384,104,1670,2,,ORG,State
+3385,104,1670,3,,GPE,States
+3386,104,1670,4,,GPE,States
+3387,104,1670,5,,ORG,the Centers for Disease Control and Prevention
+3388,104,1670,6,,ORG,State
+3389,104,1671,1,,ORG,CDC
+3390,104,1671,2,,GPE,States
+3391,104,1672,1,,ORG,NAS
+3392,104,1673,1,,DATE,each of fiscal years 2019
+3393,104,1673,2,,DATE,2023
+3394,105,1674,1,,DATE,2018
+3395,105,1675,1,,ORG,Programs
+3396,105,1675,2,,ORG,Statistics
+3397,105,1676,1,,ORG,the Safe and Drug Free Schools
+3398,105,1676,2,,CARDINAL,20
+3399,105,1677,1,,ORG,State Application Section
+3400,105,1678,1,,MONEY,20 U.S.C. 7114(d
+3401,105,1679,1,,CARDINAL,20
+3402,105,1680,1,,CARDINAL,20
+3403,105,1681,1,,DATE,7132
+3404,105,1683,1,,LAW,section 4151
+3405,105,1683,2,,DATE,20 U.S.C. 7151
+3406,105,1684,1,,CARDINAL,6
+3407,105,1685,1,,ORG,Risk Factor Paragraph
+3408,105,1685,2,,CARDINAL,7
+3409,105,1686,1,,GPE,Bullying
+3410,105,1688,1,,CARDINAL,one
+3411,105,1694,1,,CARDINAL,one
+3412,105,1699,1,,ORG,Federal and State Nondiscrimination Laws Nothing
+3413,105,1699,2,,ORG,State
+3414,105,1699,3,,ACT,the Civil Rights Act
+3415,105,1699,4,,DATE,1964
+3416,105,1699,5,,DATE,42 U.S.C.
+3417,105,1701,1,,ACT,the Elementary and Secondary Education Act
+3418,105,1701,2,,DATE,1965
+3419,105,1701,3,,DATE,20 U.S.C. 6301
+3420,106,1703,1,,TIME,longer than 4 hours
+3421,106,1703,2,,DATE,section 4(1
+3422,106,1706,1,,ORG,the Department of Homeland Security
+3423,106,1706,2,,GPE,United States
+3424,106,1707,1,,ORG,the Department of Homeland Security
+3425,106,1708,1,,ORG,the Department of Homeland Security
+3426,106,1709,1,,ORG,the Federal Rules of Criminal Procedure
+3427,106,1709,2,,ORG,State
+3428,106,1709,3,,ORG,State
+3429,106,1712,1,,ORG,the Department of Homeland Security
+3430,106,1715,1,,ORG,the Department of Homeland Security
+3431,106,1715,2,,ORG,the Department of Homeland Security
+3432,106,1715,3,,CARDINAL,3
+3433,106,1715,4,,TIME,4 hours
+3434,106,1716,1,,ORG,the Department of Homeland Security
+3435,106,1716,2,,DATE,later than 5 days
+3436,106,1716,3,,CARDINAL,3
+3437,106,1716,4,,ORG,Department
+3438,106,1716,5,,ORG,Department
+3439,106,1716,6,,DATE,later than 10 days
+3440,106,1719,1,,TIME,later than 48 hours
+3441,106,1719,2,,ORG,the Department of Homeland Security
+3442,106,1719,3,,ORG,Department
+3443,106,1719,4,,ORG,the Federal Rules of Criminal Procedure
+3444,106,1719,5,,ORG,State
+3445,106,1719,6,,ORG,State
+3446,106,1720,1,,ORG,the Department of Homeland Security
+3447,106,1722,1,,ORG,Homeland Security
+3448,106,1722,2,,DATE,annual
+3449,107,1724,1,,ACT,the  Women Inventor Development and Equality Act
+3450,107,1726,1,,LAW,Chapter 11
+3451,107,1731,1,,DATE,later than January 31 of each year
+3452,107,1731,2,,DATE,the previous year
+3453,107,1731,3,,DATE,the previous year
+3454,107,1732,1,,CARDINAL,1
+3455,107,1733,1,,CARDINAL,1
+3456,107,1734,1,,LAW,chapter 11
+3457,108,1735,1,,ACT,the  African American Civil Rights Network Act
+3458,108,1735,2,,DATE,2017
+3459,108,1737,1,,ORG,Findings Congress
+3460,108,1739,1,,ORG,U.S. Civil Rights Network Program
+3461,108,1740,1,,ORG,Subdivision 1 of Division B
+3462,108,1740,2,,ORG,III
+3463,108,1740,3,,CARDINAL,54
+3464,108,1740,4,,ORG,United States Code
+3465,108,1740,5,,LAW,chapter 3083
+3466,108,1741,1,,ORG,U.S. Civil Rights Network
+3467,108,1743,1,,ORG,U.S. Civil Rights Network
+3468,108,1744,1,,ORG,Service
+3469,108,1744,2,,ORG,the  U.S. Civil Rights Network
+3470,108,1745,1,,ORG,Network
+3471,108,1747,1,,ORG,Network
+3472,108,1747,2,,DATE,section 308402(c
+3473,108,1747,3,,ORG,Service
+3474,108,1747,4,,GPE,States
+3475,108,1748,1,,CARDINAL,54
+3476,108,1748,2,,ORG,United States Code
+3477,108,1748,3,,CARDINAL,chapter 3083
+3478,114,1749,1,,DATE,2018
+3479,114,1750,1,,ORG,Findings Congress
+3480,114,1752,1,,ORG,Offense
+3481,114,1752,2,,LAW,Chapter 13
+3482,114,1755,1,,CARDINAL,2
+3483,114,1755,2,,DATE,more than 10 years
+3484,114,1755,3,,DATE,any term of years
+3485,114,1757,1,,CARDINAL,2
+3486,114,1757,2,,DATE,more than 10 years
+3487,114,1757,3,,DATE,any term of years
+3488,114,1758,1,,ORG,State
+3489,114,1758,2,,GPE,the United States
+3490,114,1759,1,,GPE,the united states
+3491,114,1759,2,,GPE,the United States
+3492,114,1759,3,,CARDINAL,1
+3493,114,1761,1,,CARDINAL,2
+3494,114,1761,2,,CARDINAL,1
+3495,114,1763,1,,GPE,the United States
+3496,114,1763,2,,ORG,State
+3497,114,1763,3,,ORG,State
+3498,114,1763,4,,ORG,the Federal Government
+3499,114,1763,5,,GPE,the United States
+3500,114,1765,1,,LAW,chapter 13
+3501,114,1765,2,,CARDINAL,249
+3502,115,1767,1,,ORG,Findings Congress
+3503,115,1768,1,,ORG,State
+3504,115,1768,2,,PERSON,marijuana programs
+3505,115,1769,1,,ORG,Health and Human Services
+3506,115,1769,2,,ORG,the Department of Justice
+3507,115,1769,3,,ORG,the Department of Labor
+3508,115,1769,4,,ORG,State
+3509,115,1769,5,,GPE,States
+3510,115,1769,6,,DATE,10 year
+3511,115,1769,7,,ORG,the National Academy of Sciences
+3512,115,1770,1,,ORG,State
+3513,115,1770,2,,PERSON,marijuana programs
+3514,115,1770,3,,DATE,yearly
+3515,115,1771,1,,ORG,State
+3516,115,1771,2,,ORG,State
+3517,115,1773,1,,CARDINAL,one
+3518,115,1774,1,,ORG,State
+3519,115,1774,2,,ORG,State
+3520,115,1774,3,,ORG,the Federal and State
+3521,115,1774,4,,ORG,State
+3522,115,1775,1,,ORG,State
+3523,115,1775,2,,DATE,the next 5 years
+3524,115,1775,3,,DATE,the next 10 years
+3525,115,1775,4,,ORG,State
+3526,115,1778,1,,GPE,States
+3527,117,1780,1,,ORG,Findings Congress
+3528,117,1781,1,,LAW,Section 104(e)(3
+3529,117,1781,2,,ACT,the Child Abuse Prevention and Treatment Act
+3530,117,1781,3,,CARDINAL,5105(e)(3
+3531,117,1785,1,,ORG,State
+3532,117,1785,2,,NORP,Indian
+3533,117,1787,1,,CARDINAL,up to 5
+3534,117,1789,1,,PERCENT,up to 30 percent
+3535,117,1789,2,,ORDINAL,third
+3536,117,1789,3,,ORDINAL,third
+3537,117,1790,1,,ORDINAL,third
+3538,117,1792,1,,DATE,later than 1 year
+3539,117,1792,2,,ORG,"the Committee on Health, Education"
+3540,117,1792,3,,ORG,Labor
+3541,117,1792,4,,NORP,Pensions
+3542,117,1792,5,,ORG,Senate
+3543,117,1792,6,,ORG,the Committee on Education
+3544,117,1792,7,,ORG,the House of Representatives
+3545,117,1793,1,,DATE,later than 6 months
+3546,117,1793,2,,ORG,"the Committee on Health, Education"
+3547,117,1793,3,,ORG,Labor
+3548,117,1793,4,,NORP,Pensions
+3549,117,1793,5,,ORG,Senate
+3550,117,1793,6,,ORG,the Committee on Education
+3551,117,1793,7,,ORG,the House of Representatives
+3552,117,1793,8,,ORG,State
+3553,117,1794,1,,LAW,section 112
+3554,117,1794,2,,DATE,fiscal year 2018
+3555,117,1794,3,,MONEY,"10,000,000"
+3556,117,1794,4,,DATE,the end of fiscal year 2022
+3557,117,1795,1,,DATE,the day
+3558,117,1795,2,,ORG,"the Committee on Health, Education"
+3559,117,1795,3,,ORG,Labor
+3560,117,1795,4,,NORP,Pensions
+3561,117,1795,5,,ORG,Senate
+3562,117,1795,6,,ORG,the Committee on Education
+3563,117,1795,7,,ORG,the House of Representatives
+3564,118,1796,1,,NORP,American
+3565,118,1796,2,,DATE,2017
+3566,118,1796,3,,ACT,USA Values Act
+3567,118,1796,4,,DATE,2017
+3568,118,1797,1,,ORG,Congress
+3569,118,1798,1,,ORG,Prohibition No Executive
+3570,118,1798,2,,NORP,Executive
+3571,118,1799,1,,ORG,Homeland Security
+3572,118,1799,2,,DATE,any fiscal year
+3573,118,1799,3,,NORP,Executive
+3574,118,1799,4,,GPE,the United States
+3575,119,1800,1,,ORG,the  Department of Homeland Security Accountability
+3576,119,1803,1,,GPE,United States
+3577,119,1803,2,,GPE,the United States
+3578,119,1804,1,,ORG,U.S. Customs and Border Protection
+3579,119,1804,2,,ORG,U.S. Immigration and Customs Enforcement
+3580,119,1804,3,,ORG,State
+3581,119,1804,4,,ORG,State
+3582,119,1804,5,,ACT,the Immigration and Nationality Act
+3583,119,1804,6,,ACT,the Tariff Act
+3584,119,1804,7,,DATE,1930
+3585,119,1804,8,,DATE,19 U.S.C. 1401
+3586,119,1804,9,,ORG,the Department of Homeland Security
+3587,119,1808,1,,GPE,United States
+3588,119,1810,1,,ORG,U.S. Customs
+3589,119,1810,2,,ORG,Border Protection
+3590,119,1810,3,,ORG,U.S. Customs
+3591,119,1811,1,,DATE,later than 180 days
+3592,119,1811,2,,ORG,Homeland Security
+3593,119,1813,1,,ORG,Homeland Security
+3594,119,1813,2,,ORG,U.S. Immigration and Customs Enforcement
+3595,119,1813,3,,ORG,U.S. Customs and Border Protection
+3596,119,1813,4,,ORG,U.S. Customs
+3597,119,1813,5,,ORG,the Department of Homeland Security’s Office of Inspector General
+3598,119,1813,6,,ORG,U.S. Customs and Border Protection’s Office of Professional Responsibility
+3599,119,1813,7,,ORG,U.S. Immigration and Customs Enforcement’s Office of Professional Responsibility
+3600,119,1814,1,,CARDINAL,1
+3601,119,1814,2,,ORG,Homeland Security
+3602,119,1815,1,,ORG,Homeland Security
+3603,119,1816,1,,DATE,later than 1 year
+3604,119,1816,2,,ORG,the Comptroller General
+3605,119,1816,3,,GPE,the United States
+3606,119,1817,1,,DATE,Annual
+3607,119,1818,1,,DATE,later than 1 year
+3608,119,1818,2,,DATE,annually
+3609,119,1818,3,,ORG,Homeland Security
+3610,119,1818,4,,ORG,Congress
+3611,119,1818,5,,LAW,section 3(d
+3612,119,1818,6,,DATE,the previous year
+3613,119,1821,1,,LAW,section 3(d
+3614,120,1822,1,,ORG,the  Department of Homeland Security Accountability
+3615,120,1825,1,,GPE,United States
+3616,120,1825,2,,GPE,the United States
+3617,120,1826,1,,ORG,U.S. Customs and Border Protection
+3618,120,1826,2,,ORG,U.S. Immigration and Customs Enforcement
+3619,120,1826,3,,ORG,State
+3620,120,1826,4,,ORG,State
+3621,120,1826,5,,ACT,the Immigration and Nationality Act
+3622,120,1826,6,,ACT,the Tariff Act
+3623,120,1826,7,,DATE,1930
+3624,120,1826,8,,DATE,19 U.S.C. 1401
+3625,120,1826,9,,ORG,the Department of Homeland Security
+3626,120,1830,1,,GPE,United States
+3627,120,1832,1,,ORG,U.S. Customs
+3628,120,1832,2,,ORG,Border Protection
+3629,120,1832,3,,ORG,U.S. Customs
+3630,120,1833,1,,DATE,later than 180 days
+3631,120,1833,2,,ORG,Homeland Security
+3632,120,1835,1,,ORG,Department of Homeland Security
+3633,120,1835,2,,ORG,Homeland Security
+3634,120,1835,3,,ORG,U.S. Immigration and Customs Enforcement
+3635,120,1835,4,,ORG,U.S. Customs and Border Protection
+3636,120,1835,5,,ORG,U.S. Customs
+3637,120,1835,6,,ORG,the Department of Homeland Security’s Office of Inspector General
+3638,120,1835,7,,ORG,U.S. Customs and Border Protection’s Office of Professional Responsibility
+3639,120,1835,8,,ORG,U.S. Immigration and Customs Enforcement’s Office of Professional Responsibility
+3640,120,1836,1,,CARDINAL,1
+3641,120,1836,2,,ORG,Homeland Security
+3642,120,1837,1,,ORG,Homeland Security
+3643,120,1838,1,,DATE,later than 1 year
+3644,120,1838,2,,ORG,the Comptroller General
+3645,120,1838,3,,GPE,the United States
+3646,120,1839,1,,DATE,Annual
+3647,120,1840,1,,DATE,later than 1 year
+3648,120,1840,2,,DATE,annually
+3649,120,1840,3,,ORG,Homeland Security
+3650,120,1840,4,,ORG,Congress
+3651,120,1840,5,,LAW,section 3(d
+3652,120,1840,6,,DATE,the previous year
+3653,120,1843,1,,LAW,section 3(d
+3654,121,1844,1,,DATE,2017
+3655,121,1845,1,,LAW,Section 399V–2 of
+3656,121,1845,2,,ACT,the Public Health Service Act
+3657,121,1845,3,,MONEY,42 U.S.C.
+3658,121,1849,1,,CARDINAL,one
+3659,121,1849,2,,ORG,Congress
+3660,121,1849,3,,ORG,CHD
+3661,121,1849,4,,ORG,CHD
+3662,121,1849,5,,ORG,CHD
+3663,121,1849,6,,ORG,CHD
+3664,121,1850,1,,ORG,CHD
+3665,121,1850,2,,ORG,CHD
+3666,121,1850,3,,ORG,CHD
+3667,121,1851,1,,ORG,CHD
+3668,121,1851,2,,CARDINAL,4
+3669,121,1851,3,,CARDINAL,4
+3670,121,1852,1,,ORG,the Health Insurance Portability
+3671,121,1852,2,,DATE,1996
+3672,121,1854,1,,MONEY,"4,000,000"
+3673,121,1854,2,,DATE,each of fiscal years 2018
+3674,121,1854,3,,DATE,2022
+3675,121,1855,1,,LAW,Section 425 of
+3676,121,1855,2,,ACT,the Public Health Service Act
+3677,121,1857,1,,ORG,Institute
+3678,121,1858,1,,ORG,Institute
+3679,121,1859,1,,ORG,Institute
+3680,121,1860,1,,ORG,NIH
+3681,121,1860,2,,DATE,later than 1 year
+3682,121,1860,3,,ACT,the  Congenital Heart Futures Reauthorization Act
+3683,121,1860,4,,DATE,2017
+3684,121,1861,1,,DATE,2017
+3685,121,1862,1,,LAW,Section 399V–2
+3686,121,1862,2,,ACT,the Public Health Service Act
+3687,121,1866,1,,GPE,the United States
+3688,121,1870,1,,ORG,State
+3689,121,1872,1,,DATE,each of fiscal years 2019
+3690,121,1872,2,,DATE,2023
+3691,121,1873,1,,DATE,later than 3 years
+3692,121,1873,2,,ACT,the  Congenital Heart Futures Reauthorization Act
+3693,121,1873,3,,DATE,2017
+3694,125,1876,1,,ACT,The Department of Education Organization Act
+3695,125,1877,1,,DATE,"later than January 1, 2019"
+3696,125,1877,2,,ORG,the Inspector General of
+3697,125,1877,3,,ORG,the Department of Education
+3698,125,1877,4,,ORG,Congress
+3699,125,1877,5,,CARDINAL,3
+3700,125,1877,6,,CARDINAL,4
+3701,125,1877,7,,ACT,the Department of Education Organization Act
+3702,125,1877,8,,DATE,20 U.S.C. 3413(b
+3703,125,1877,9,,CARDINAL,20
+3704,125,1878,1,,ORG,Levy Fines Section
+3705,125,1878,2,,ACT,the Department of Education Organization Act
+3706,125,1879,1,,CARDINAL,1
+3707,125,1879,2,,ACT,the Higher Education Act
+3708,125,1879,3,,DATE,1965
+3709,125,1879,4,,CARDINAL,20
+3710,125,1879,5,,DATE,"October 1, 2020"
+3711,125,1879,6,,DATE,"later than April 1, 2019"
+3712,125,1879,7,,DATE,2 years
+3713,125,1879,8,,ORG,the Centers for Disease Control of
+3714,125,1879,9,,ORG,the Department of Health and Human Services
+3715,125,1879,10,,ORG,the National Intimate Partner and Sexual Violence Survey
+3716,125,1879,11,,ORG,the National Center for Injury Prevention
+3717,125,1879,12,,ORG,the Centers for Disease Control and Prevention
+3718,125,1879,13,,DATE,the preceding calendar year
+3719,125,1879,14,,ORG,LGBTQ
+3720,125,1879,15,,ORG,the Education Amendments of
+3721,125,1879,16,,DATE,1972
+3722,125,1880,1,,LAW,Section 485(f)(14
+3723,125,1880,2,,ACT,the Higher Education Act
+3724,125,1880,3,,DATE,1965
+3725,125,1881,1,,LAW,Section 485(f)(13
+3726,125,1881,2,,ACT,the Higher Education Act
+3727,125,1881,3,,DATE,1965
+3728,125,1881,4,,DATE,20 U.S.C. 1092(f)(13
+3729,125,1883,1,,CARDINAL,8)
+3730,125,1883,2,,ACT,the Higher Education Act
+3731,125,1883,3,,DATE,1965
+3732,125,1883,4,,CARDINAL,20
+3733,125,1883,5,,DATE,annual
+3734,125,1884,1,,ORG,Comptroller General Review
+3735,125,1884,2,,DATE,"later than August 1, 2020"
+3736,125,1884,3,,ORG,the Committee on Education
+3737,125,1884,4,,ORG,the House of Representatives
+3738,125,1884,5,,ORG,"the Committee on Health, Education"
+3739,125,1884,6,,ORG,Labor
+3740,125,1884,7,,NORP,Pensions
+3741,125,1884,8,,ORG,Senate
+3742,125,1886,1,,DATE,"later than September 1, 2020"
+3743,125,1886,2,,ORG,Education
+3744,125,1886,3,,ORG,Health and Human Services
+3745,125,1888,1,,ACT,the Violence Against Women Act of 1994
+3746,125,1889,1,,CARDINAL,1
+3747,125,1889,2,,DATE,more than 3 years
+3748,125,1890,1,,DATE,later than 90 days
+3749,125,1890,2,,ORG,the Campus Sexual Violence Task Force
+3750,125,1890,3,,PRODUCT,Task Force
+3751,125,1890,4,,ORG,Congress
+3752,125,1890,5,,ORG,the Department of Education
+3753,125,1890,6,,ORG,the Education Amendments of
+3754,125,1890,7,,DATE,1972
+3755,125,1890,8,,DATE,20 U.S.C. 1681
+3756,125,1890,9,,CARDINAL,20
+3757,125,1890,10,,ORG,U.S.C.
+3758,125,1891,1,,DATE,Annual
+3759,125,1891,2,,WORK_OF_ART,The Campus Sexual Violence Task Force
+3760,125,1891,3,,ORG,Congress
+3761,125,1891,4,,DATE,annual
+3762,125,1891,5,,ORG,the Department of Education
+3763,125,1893,1,,ORG,the Education Amendments of
+3764,125,1893,2,,DATE,1972
+3765,125,1893,3,,ORG,the Education Amendments of
+3766,125,1893,4,,DATE,1972
+3767,125,1893,5,,DATE,20 U.S.C.
+3768,125,1893,6,,DATE,1681
+3769,125,1894,1,,ACT,the Higher Education Act
+3770,125,1894,2,,DATE,1965
+3771,125,1894,3,,CARDINAL,20
+3772,125,1896,1,,ACT,the Higher Education Act
+3773,125,1896,2,,DATE,1965
+3774,125,1896,3,,CARDINAL,20
+3775,129,1898,1,,LAW,Section 13
+3776,129,1898,2,,ACT,the Securities Exchange Act
+3777,129,1898,3,,DATE,1934
+3778,129,1898,4,,CARDINAL,15
+3779,129,1900,1,,ACT,the Civil Rights Act
+3780,129,1900,2,,DATE,1964
+3781,129,1900,3,,MONEY,42 U.S.C. 2000e–3(a
+3782,129,1900,4,,LAW,section 4(d
+3783,129,1900,5,,ORG,the Age Discrimination
+3784,129,1900,6,,DATE,1967
+3785,129,1900,7,,MONEY,29 U.S.C.
+3786,129,1900,8,,CARDINAL,503
+3787,129,1900,9,,NORP,Americans
+3788,129,1900,10,,DATE,1990
+3789,129,1900,11,,MONEY,42 U.S.C.
+3790,129,1900,12,,ACT,the Genetic Information Nondiscrimination Act
+3791,129,1900,13,,DATE,2008
+3792,129,1900,14,,CARDINAL,42
+3793,129,1900,15,,LAW,section 4311(b
+3794,129,1900,16,,CARDINAL,38
+3795,129,1900,17,,ORG,United States Code
+3796,129,1900,18,,LAW,section 40002(b)(13)(A
+3797,129,1900,19,,ACT,the Violence Against Women Act
+3798,129,1900,20,,DATE,1994
+3799,129,1900,21,,MONEY,34 U.S.C. 12291(b)(13)(A
+3800,129,1900,22,,ORG,B)(vi)(II
+3801,129,1900,23,,ACT,the Civil Rights Act
+3802,129,1900,24,,DATE,1964
+3803,129,1900,25,,DATE,2000e
+3804,129,1900,26,,ACT,the Age Discrimination in Employment Act of 1967
+3805,129,1900,27,,CARDINAL,29
+3806,129,1900,28,,NORP,Americans
+3807,129,1900,29,,DATE,1990
+3808,129,1900,30,,CARDINAL,501
+3809,129,1900,31,,ACT,the Rehabilitation Act of 1973
+3810,129,1900,32,,CARDINAL,29
+3811,129,1900,33,,ACT,the Genetic Information Nondiscrimination Act
+3812,129,1900,34,,DATE,2008
+3813,129,1900,35,,TIME,42 U.S.C. 2000ff
+3814,129,1900,36,,LAW,section 4311(a
+3815,129,1900,37,,CARDINAL,38
+3816,129,1900,38,,ORG,United States Code
+3817,129,1900,39,,ACT,the Civil Rights Act
+3818,129,1900,40,,DATE,1964
+3819,129,1900,41,,DATE,42 U.S.C.
+3820,129,1900,42,,DATE,2000e
+3821,129,1900,43,,ACT,the Violence Against Women Act
+3822,129,1900,44,,DATE,1994
+3823,129,1900,45,,MONEY,34 U.S.C. 12291(b)(13)(A
+3824,129,1902,1,,DATE,the first fiscal year
+3825,129,1902,2,,DATE,annually
+3826,129,1902,3,,DATE,the previous year
+3827,129,1902,4,,ORG,III
+3828,129,1903,1,,ORG,III
+3829,129,1903,2,,ORG,A)(i
+3830,129,1903,3,,ORG,II
+3831,129,1903,4,,ORG,A)(i
+3832,129,1906,1,,ORG,A)(i
+3833,129,1908,1,,ORG,the Commission The Commission
+3834,129,1910,1,,ORG,Commission
+3835,129,1910,2,,CARDINAL,2
+3836,134,1911,1,,DATE,2017
+3837,134,1913,1,,ORG,Findings Congress
+3838,134,1914,1,,ORG,Congress
+3839,134,1914,2,,ORG,Congress
+3840,134,1915,1,,LAW,Chapter 81
+3841,134,1916,1,,DATE,"1253, 1254"
+3842,134,1916,2,,ORG,the Supreme Court
+3843,134,1916,3,,CARDINAL,1
+3844,134,1916,4,,CARDINAL,2
+3845,134,1916,5,,CARDINAL,81
+3846,134,1917,1,,LAW,Chapter 85
+3847,134,1918,1,,ORG,the Supreme Court
+3848,134,1918,2,,DATE,1261
+3849,134,1918,3,,CARDINAL,85
+3850,135,1921,1,,DATE,2017
+3851,135,1924,1,,ORG,Congress
+3852,135,1926,1,,PRODUCT,Title III
+3853,135,1926,2,,ACT,the Public Health Service Act
+3854,135,1928,1,,ORG,Health and Human Services
+3855,135,1928,2,,ORG,the Centers for Disease Control and Prevention
+3856,135,1928,3,,ORG,Federal data collection efforts
+3857,135,1930,1,,ACT,the Public Health Service Act
+3858,135,1931,1,,DATE,later than 1 year
+3859,135,1931,2,,ACT,the  Concussion Awareness and Education Act
+3860,135,1931,3,,DATE,2017
+3861,135,1933,1,,ORG,Health and Human Services
+3862,135,1933,2,,ORG,the Centers for Disease Control and Prevention
+3863,135,1934,1,,CARDINAL,1
+3864,135,1934,2,,ORG,"Federal, State"
+3865,135,1935,1,,ORG,Concussion Research Commission
+3866,135,1936,1,,ORG,a Concussion Research Commission
+3867,135,1938,1,,CARDINAL,nine
+3868,135,1938,2,,CARDINAL,Five
+3869,135,1938,3,,CARDINAL,One
+3870,135,1938,4,,ORG,the House of Representatives
+3871,135,1938,5,,CARDINAL,One
+3872,135,1938,6,,ORG,the House of Representatives
+3873,135,1938,7,,CARDINAL,One
+3874,135,1938,8,,ORG,Senate
+3875,135,1938,9,,CARDINAL,One
+3876,135,1938,10,,ORG,Senate
+3877,135,1939,1,,CARDINAL,1
+3878,135,1939,2,,CARDINAL,one
+3879,135,1941,1,,ORG,Vacancies
+3880,135,1942,1,,ORG,Commission
+3881,135,1942,2,,GPE,the United States
+3882,135,1942,3,,ORG,Congress
+3883,135,1943,1,,LAW,chapter 57
+3884,135,1944,1,,ORG,Commission
+3885,135,1945,1,,CARDINAL,at least 4
+3886,135,1945,2,,DATE,each year
+3887,135,1946,1,,ORG,Commission
+3888,135,1946,2,,ORG,Federal department
+3889,135,1946,3,,ORG,Commission
+3890,135,1950,1,,DATE,6 months
+3891,135,1950,2,,ORG,Commission
+3892,135,1950,3,,ORG,Congress
+3893,135,1950,4,,ORG,Commission
+3894,135,1951,1,,DATE,later than 36 months
+3895,135,1951,2,,ORG,Congress
+3896,135,1951,3,,ORG,Commission
+3897,135,1952,1,,ORG,Termination The Commission
+3898,135,1952,2,,ORG,Health and Human Services
+3899,141,1953,1,,DATE,2017
+3900,141,1954,1,,LAW,Section 399V–2
+3901,141,1954,2,,ACT,the Public Health Service Act
+3902,141,1954,3,,MONEY,42 U.S.C.
+3903,141,1958,1,,GPE,the United States
+3904,141,1962,1,,ORG,State
+3905,141,1964,1,,MONEY,"10,000,000"
+3906,141,1964,2,,DATE,each of fiscal years 2020
+3907,141,1964,3,,DATE,2024
+3908,141,1965,1,,DATE,later than 3 years
+3909,141,1965,2,,ACT,the  Congenital Heart Futures Reauthorization Act
+3910,141,1965,3,,DATE,2017
+3911,142,1966,1,,ACT,the  Law Enforcement Inclusion Act
+3912,142,1966,2,,DATE,2016
+3913,142,1967,1,,ORG,Findings Congress
+3914,142,1968,1,,ORG,the Omnibus Crime Control
+3915,142,1968,2,,DATE,1968
+3916,142,1968,3,,MONEY,42 U.S.C. 3796dd(b
+3917,143,1970,1,,LAW,Section 13
+3918,143,1970,2,,ACT,the Securities Exchange Act
+3919,143,1970,3,,DATE,1934
+3920,143,1970,4,,CARDINAL,15
+3921,143,1972,1,,ACT,the Civil Rights Act
+3922,143,1972,2,,DATE,1964
+3923,143,1972,3,,MONEY,42 U.S.C. 2000e–3(a
+3924,143,1972,4,,LAW,section 4(d
+3925,143,1972,5,,ORG,the Age Discrimination
+3926,143,1972,6,,DATE,1967
+3927,143,1972,7,,MONEY,29 U.S.C.
+3928,143,1972,8,,CARDINAL,503
+3929,143,1972,9,,NORP,Americans
+3930,143,1972,10,,DATE,1990
+3931,143,1972,11,,MONEY,42 U.S.C.
+3932,143,1972,12,,ACT,the Genetic Information Nondiscrimination Act
+3933,143,1972,13,,DATE,2008
+3934,143,1972,14,,CARDINAL,42
+3935,143,1972,15,,LAW,section 4311(b
+3936,143,1972,16,,CARDINAL,38
+3937,143,1972,17,,ORG,United States Code
+3938,143,1972,18,,LAW,section 40002(b)(13)(A
+3939,143,1972,19,,ACT,the Violence Against Women Act
+3940,143,1972,20,,DATE,1994
+3941,143,1972,21,,MONEY,34 U.S.C. 12291(b)(13)(A
+3942,143,1972,22,,ORG,B)(vi)(II
+3943,143,1972,23,,ACT,the Civil Rights Act
+3944,143,1972,24,,DATE,1964
+3945,143,1972,25,,DATE,2000e
+3946,143,1972,26,,ACT,the Age Discrimination in Employment Act of 1967
+3947,143,1972,27,,CARDINAL,29
+3948,143,1972,28,,NORP,Americans
+3949,143,1972,29,,DATE,1990
+3950,143,1972,30,,CARDINAL,501
+3951,143,1972,31,,ACT,the Rehabilitation Act of 1973
+3952,143,1972,32,,CARDINAL,29
+3953,143,1972,33,,ACT,the Genetic Information Nondiscrimination Act
+3954,143,1972,34,,DATE,2008
+3955,143,1972,35,,TIME,42 U.S.C. 2000ff
+3956,143,1972,36,,LAW,section 4311(a
+3957,143,1972,37,,CARDINAL,38
+3958,143,1972,38,,ORG,United States Code
+3959,143,1972,39,,ACT,the Civil Rights Act
+3960,143,1972,40,,DATE,1964
+3961,143,1972,41,,DATE,42 U.S.C.
+3962,143,1972,42,,DATE,2000e
+3963,143,1972,43,,ACT,the Violence Against Women Act
+3964,143,1972,44,,DATE,1994
+3965,143,1972,45,,MONEY,34 U.S.C. 12291(b)(13)(A
+3966,143,1974,1,,DATE,the first fiscal year
+3967,143,1974,2,,DATE,annually
+3968,143,1974,3,,DATE,the previous year
+3969,143,1974,4,,ORG,III
+3970,143,1975,1,,ORG,III
+3971,143,1975,2,,ORG,A)(i
+3972,143,1975,3,,ORG,II
+3973,143,1975,4,,ORG,A)(i
+3974,143,1978,1,,ORG,A)(i
+3975,143,1980,1,,ORG,the Commission The Commission
+3976,143,1982,1,,ORG,Commission
+3977,143,1982,2,,CARDINAL,2
+3978,145,1983,1,,ACT,the  Office of Biometric Identity Management Authorization Act
+3979,145,1983,2,,DATE,2018
+3980,145,1983,3,,ACT,OBIM Authorization Act
+3981,145,1983,4,,DATE,2018
+3982,145,1984,1,,ORG,the Office of Biometric Identity Management
+3983,145,1985,1,,LAW,Title VII of
+3984,145,1985,2,,DATE,2002
+3985,145,1985,3,,MONEY,6 U.S.C. 341
+3986,145,1986,1,,ORG,Office of Biometric Identity Management
+3987,145,1987,1,,ORG,the Management Directorate of the Department
+3988,145,1989,1,,ORG,The Office of Biometric Identity Management
+3989,145,1989,2,,ORG,the Office of Biometric Identity Management
+3990,145,1990,1,,ORG,Department
+3991,145,1990,2,,ORG,Department
+3992,145,1990,3,,ORG,Department
+3993,145,1990,4,,ORG,"Federal, State"
+3994,145,1990,5,,ORG,"Federal, State"
+3995,145,1990,6,,ORG,Department
+3996,145,1990,7,,ORG,Biometric Support Centers
+3997,145,1990,8,,ORG,Department
+3998,145,1990,9,,ORG,"Federal, State"
+3999,145,1990,10,,ORG,the Department’s Office of  
+4000,145,1990,11,,ORG,"Federal, State"
+4001,145,1990,12,,ORG,the Office of Biometric Identity Management
+4002,145,1990,13,,LAW,section 222
+4003,145,1990,14,,ORG,the Office for Civil Rights and Civil Liberties of the Department
+4004,145,1991,1,,ORG,the Office of Biometric Identity Management
+4005,145,1993,1,,ORG,the Office of Biometric Identity Management
+4006,145,1993,2,,ORG,Office
+4007,145,1994,1,,CARDINAL,1
+4008,145,1994,2,,ORG,the Committee on Homeland Security
+4009,145,1994,3,,ORG,the House of Representatives
+4010,145,1994,4,,ORG,the Committee on Homeland Security
+4011,145,1994,5,,ORG,Governmental Affairs
+4012,145,1994,6,,ORG,Senate
+4013,145,1994,7,,DATE,later than 30 days
+4014,145,1995,1,,LAW,section 1(b
+4015,145,1995,2,,DATE,2002
+4016,145,1995,3,,CARDINAL,709
+4017,147,2004,1,,DATE,later than 180 days
+4018,147,2007,1,,CARDINAL,2
+4019,148,2014,1,,ACT,the  Computer Science for All Act
+4020,148,2014,2,,DATE,2017
+4021,148,2015,1,,ORG,Findings Congress
+4022,148,2019,1,,ORG,Tribal
+4023,148,2019,2,,ORG,the Bureau of Indian Education
+4024,148,2019,3,,ACT,the Indian Self Determination and Education Assistance Act
+4025,148,2019,4,,MONEY,25 U.S.C.
+4026,148,2019,5,,ACT,the Tribally Controlled Schools Act
+4027,148,2019,6,,DATE,1988
+4028,148,2019,7,,MONEY,25 U.S.C. 2511
+4029,148,2020,1,,CARDINAL,20
+4030,148,2020,2,,DATE,1002
+4031,148,2021,1,,CARDINAL,20
+4032,148,2022,1,,CARDINAL,20
+4033,148,2027,1,,GPE,States
+4034,148,2027,2,,ORG,Tribal
+4035,148,2027,3,,ORG,State
+4036,148,2028,1,,ORG,State
+4037,148,2028,2,,ORG,Tribal
+4038,148,2028,3,,ORG,State
+4039,148,2029,1,,DATE,more than 5 years
+4040,148,2030,1,,ORG,State
+4041,148,2030,2,,ORG,Tribal
+4042,148,2032,1,,ORG,State
+4043,148,2032,2,,ORG,Tribal
+4044,148,2033,1,,ORG,State
+4045,148,2033,2,,ORG,Tribal
+4046,148,2033,3,,DATE,2 year
+4047,148,2033,4,,ORG,Historically Black Colleges
+4048,148,2033,5,,ORG,Universities
+4049,148,2033,6,,NORP,Hispanic
+4050,148,2033,7,,NORP,Asian
+4051,148,2033,8,,NORP,American
+4052,148,2033,9,,ORG,Native American Pacific Islander
+4053,148,2033,10,,ORG,American Indian Tribally
+4054,148,2033,11,,PERSON,Alaska Native
+4055,148,2033,12,,NORP,Native Hawaiian
+4056,148,2033,13,,ORG,Predominantly Black Institutions
+4057,148,2033,14,,NORP,Native American
+4058,148,2033,15,,PERSON,Nontribal
+4059,148,2034,1,,PERCENT,more than 15 percent
+4060,148,2035,1,,PERCENT,more than 2.5 percent
+4061,148,2036,1,,MONEY,"250,000,000"
+4062,148,2038,1,,ORG,State
+4063,148,2038,2,,ORG,Tribal
+4064,148,2038,3,,ACT,this Act
+4065,148,2038,4,,NORP,Asian
+4066,148,2038,5,,NORP,Native Hawaiian
+4067,148,2038,6,,PERSON,Richard B. Russell
+4068,148,2038,7,,DATE,1751
+4069,148,2039,1,,DATE,later than 5 years
+4070,148,2039,2,,ORDINAL,first
+4071,148,2039,3,,ACT,this Act
+4072,148,2039,4,,ORG,Congress
+4073,148,2039,5,,ACT,this Act
+4074,149,2041,1,,ORG,Findings Congress
+4075,149,2043,1,,DATE,2020
+4076,149,2044,1,,DATE,later than 90 days
+4077,149,2044,2,,ORG,the Bureau of the Census
+4078,149,2044,3,,ORG,the  Task Force
+4079,149,2045,1,,DATE,later than 90 days
+4080,149,2045,2,,ORG,the Task Force
+4081,149,2045,3,,PRODUCT,Task Force
+4082,149,2045,4,,ORG,Congress
+4083,149,2046,1,,WORK_OF_ART,The Task Force
+4084,149,2047,1,,WORK_OF_ART,The Task Force
+4085,150,2049,1,,DATE,2017
+4086,150,2050,1,,LAW,Section 399V–2
+4087,150,2050,2,,ACT,the Public Health Service Act
+4088,150,2050,3,,MONEY,42 U.S.C.
+4089,150,2054,1,,GPE,the United States
+4090,150,2058,1,,ORG,State
+4091,150,2060,1,,MONEY,"10,000,000"
+4092,150,2060,2,,DATE,each of fiscal years 2020
+4093,150,2060,3,,DATE,2024
+4094,150,2061,1,,DATE,later than 3 years
+4095,150,2061,2,,ACT,the  Congenital Heart Futures Reauthorization Act
+4096,150,2061,3,,DATE,2017
+4097,153,2062,1,,ORG,the  Protecting Older Workers Against Discrimination
+4098,153,2064,1,,ORG,Findings Congress
+4099,153,2067,1,,ACT,Act of
+4100,153,2067,2,,DATE,1967
+4101,153,2068,1,,LAW,Section 4 of
+4102,153,2068,2,,ORG,the Age Discrimination
+4103,153,2068,3,,DATE,1967
+4104,153,2068,4,,CARDINAL,29
+4105,153,2069,1,,CARDINAL,7
+4106,153,2069,2,,CARDINAL,29
+4107,153,2069,3,,ORDINAL,first
+4108,153,2069,4,,WORK_OF_ART,The (1
+4109,153,2069,5,,ORDINAL,third
+4110,153,2070,1,,CARDINAL,11
+4111,153,2070,2,,MONEY,29 U.S.C.
+4112,153,2071,1,,LAW,Section 15
+4113,153,2071,2,,PERCENT,"29 U.S.C. 633a 
+  "
+4114,153,2071,3,,CARDINAL,4(g
+4115,153,2071,4,,CARDINAL,7(b)(3
+4116,153,2071,5,,CARDINAL,4(g)(1
+4117,153,2072,1,,ACT,the Civil Rights Act
+4118,153,2072,2,,DATE,1964
+4119,153,2073,1,,LAW,Section 703 of
+4120,153,2073,2,,ACT,the Civil Rights Act
+4121,153,2073,3,,DATE,1964
+4122,153,2073,4,,MONEY,42 U.S.C. 2000e–2
+4123,153,2074,1,,MONEY,42 U.S.C. 2000e–16
+4124,153,2075,1,,NORP,Americans
+4125,153,2075,2,,DATE,1990
+4126,153,2076,1,,NORP,Americans
+4127,153,2076,2,,DATE,1990
+4128,153,2078,1,,LAW,Section 102
+4129,153,2078,2,,DATE,42 U.S.C. 12112
+4130,153,2080,1,,LAW,section 503
+4131,153,2081,1,,CARDINAL,1
+4132,153,2081,2,,ACT,this Act
+4133,153,2081,3,,LAW,section 503
+4134,153,2083,1,,CARDINAL,2
+4135,153,2084,1,,LAW,section 102(e)(1
+4136,153,2084,2,,ORG,I.
+4137,153,2085,1,,CARDINAL,107
+4138,153,2086,1,,LAW,section 102(e)(1
+4139,153,2087,1,,DATE,1973
+4140,153,2088,1,,PERSON,Sections
+4141,153,2088,2,,ACT,the Rehabilitation Act of 1973
+4142,153,2088,3,,CARDINAL,29
+4143,153,2088,4,,NORP,Americans
+4144,153,2088,5,,DATE,1990
+4145,153,2089,1,,CARDINAL,1
+4146,153,2089,2,,LAW,section 501
+4147,154,2091,1,,ORG,the  Protecting Older Workers Against Discrimination
+4148,154,2092,1,,PERSON,Findings
+4149,154,2093,1,,ORG,Findings Congress
+4150,154,2096,1,,ACT,Act of
+4151,154,2096,2,,DATE,1967
+4152,154,2097,1,,LAW,Section 4 of
+4153,154,2097,2,,ORG,the Age Discrimination
+4154,154,2097,3,,DATE,1967
+4155,154,2097,4,,CARDINAL,29
+4156,154,2098,1,,CARDINAL,7
+4157,154,2098,2,,CARDINAL,29
+4158,154,2098,3,,ORDINAL,first
+4159,154,2098,4,,WORK_OF_ART,The (1
+4160,154,2098,5,,ORDINAL,third
+4161,154,2099,1,,CARDINAL,11
+4162,154,2099,2,,MONEY,29 U.S.C.
+4163,154,2100,1,,ORG,"Federal
+ "
+4164,154,2100,2,,PERCENT,"29 U.S.C. 633a 
+  "
+4165,154,2100,3,,CARDINAL,4(g
+4166,154,2100,4,,CARDINAL,7(b)(3
+4167,154,2100,5,,CARDINAL,4(g)(1
+4168,154,2101,1,,ACT,the Civil Rights Act
+4169,154,2101,2,,DATE,1964
+4170,154,2102,1,,LAW,Section 703 of
+4171,154,2102,2,,ACT,the Civil Rights Act
+4172,154,2102,3,,DATE,1964
+4173,154,2102,4,,MONEY,42 U.S.C. 2000e–2
+4174,154,2103,1,,ORG,"Federal
+ "
+4175,154,2103,2,,MONEY,42 U.S.C. 2000e–16
+4176,154,2104,1,,NORP,Americans
+4177,154,2104,2,,DATE,1990
+4178,154,2105,1,,NORP,Americans
+4179,154,2105,2,,DATE,1990
+4180,154,2107,1,,LAW,Section 102
+4181,154,2107,2,,DATE,42 U.S.C. 12112
+4182,154,2109,1,,LAW,section 503
+4183,154,2110,1,,CARDINAL,1
+4184,154,2110,2,,ACT,this Act
+4185,154,2110,3,,LAW,section 503
+4186,154,2112,1,,CARDINAL,2
+4187,154,2113,1,,ORG,Section
+4188,154,2113,2,,LAW,section 102(e)(1
+4189,154,2113,3,,ORG,I.
+4190,154,2114,1,,CARDINAL,107
+4191,154,2114,2,,DATE,42 U.S.C. 12117
+4192,154,2115,1,,PERSON,"Discriminatory
+ "
+4193,154,2115,2,,LAW,section 102(e)(1
+4194,154,2116,1,,ACT,Act
+4195,154,2116,2,,DATE,1973
+4196,154,2117,1,,PERSON,Sections
+4197,154,2117,2,,ACT,the Rehabilitation Act of 1973
+4198,154,2117,3,,CARDINAL,29
+4199,154,2117,4,,NORP,Americans
+4200,154,2117,5,,DATE,1990
+4201,154,2118,1,,ORG,"Federal
+ "
+4202,154,2118,2,,CARDINAL,1
+4203,154,2118,3,,LAW,section 501
+4204,156,2120,1,,ORG,The House of Representatives
+4205,156,2121,1,,ORG,Black Maternal Health Week
+4206,156,2121,2,,ORG,The House of Representatives
+4207,156,2121,3,,ORG,Black Maternal Health Week
+4208,157,2122,1,,ACT,ALTO Act
+4209,157,2124,1,,ORG,Health and Human Services
+4210,157,2128,1,,ORG,the National Center for Complimentary
+4211,157,2128,2,,ORG,Integrative Health
+4212,157,2129,1,,DATE,annual
+4213,157,2129,2,,ORG,State
+4214,157,2130,1,,ORG,Congress
+4215,157,2130,2,,DATE,later than 1 year
+4216,157,2130,3,,ORG,Congress
+4217,157,2131,1,,MONEY,"10,000,000"
+4218,157,2131,2,,DATE,each of fiscal years 2019
+4219,157,2131,3,,DATE,2021
+4220,158,2133,1,,ORG,Department of Veterans Affairs
+4221,158,2134,1,,DATE,later than 18 months
+4222,158,2134,2,,ORG,Veterans Affairs
+4223,158,2134,3,,DATE,the five year
+4224,158,2135,1,,DATE,later than 30 days
+4225,159,2139,1,,GPE,the United States
+4226,159,2139,2,,GPE,the United States
+4227,159,2139,3,,GPE,Canada
+4228,159,2139,4,,GPE,Mexico
+4229,159,2140,1,,GPE,the United States
+4230,159,2140,2,,GPE,United States
+4231,159,2142,1,,ORG,Issuance Each Federal
+4232,159,2142,2,,CARDINAL,at least 1
+4233,159,2142,3,,ACT,the Immigration and Nationality Act
+4234,159,2142,4,,CARDINAL,1253(a)(1
+4235,159,2143,1,,ACT,the Immigration and Nationality Act
+4236,159,2145,1,,ORG,Homeland Security
+4237,159,2145,2,,ORG,U.S. Immigration and Customs Enforcement
+4238,159,2145,3,,ORG,the Federal Government
+4239,159,2148,1,,ORG,Homeland Security
+4240,159,2148,2,,ORG,U.S. Immigration and Customs Enforcement
+4241,159,2150,1,,ORG,Homeland Security
+4242,160,2151,1,,ACT,ALTO Act
+4243,160,2153,1,,ORG,Health and Human Services
+4244,160,2157,1,,ORG,the National Center for Complimentary
+4245,160,2157,2,,ORG,Integrative Health
+4246,160,2158,1,,DATE,annual
+4247,160,2158,2,,ORG,State
+4248,160,2159,1,,ORG,Congress
+4249,160,2159,2,,DATE,later than 1 year
+4250,160,2159,3,,ORG,Congress
+4251,160,2160,1,,MONEY,"10,000,000"
+4252,160,2160,2,,DATE,each of fiscal years 2019
+4253,160,2160,3,,DATE,2021
+4254,164,2163,1,,CARDINAL,200
+4255,164,2163,2,,DATE,1965
+4256,164,2165,1,,NORP,Valid
+4257,164,2165,2,,ORG,State
+4258,164,2165,3,,LAW,section 1111(b)(2
+4259,164,2165,4,,DATE,1965
+4260,164,2165,5,,ORG,State
+4261,164,2165,6,,CARDINAL,less than one
+4262,164,2165,7,,ORG,State
+4263,164,2166,1,,CARDINAL,"fewer than 10,000"
+4264,164,2166,2,,PERCENT,less than 20 percent
+4265,164,2166,3,,ORG,Rural School Achievement Program
+4266,164,2166,4,,LAW,section 5211(b
+4267,164,2166,5,,ACT,the Elementary and Secondary Education Act
+4268,164,2166,6,,DATE,1965
+4269,164,2166,7,,ORG,State
+4270,164,2166,8,,CARDINAL,one
+4271,164,2166,9,,CARDINAL,one
+4272,164,2167,1,,ORG,State
+4273,164,2168,1,,ORG,State
+4274,164,2168,2,,ORG,State
+4275,164,2168,3,,ORG,State
+4276,164,2168,4,,ORG,State
+4277,164,2168,5,,ORG,State
+4278,164,2169,1,,DATE,1 academic year
+4279,164,2169,2,,DATE,the year
+4280,164,2169,3,,ORG,State
+4281,164,2170,1,,LANGUAGE,English
+4282,164,2173,1,,LAW,Section 201
+4283,164,2173,2,,DATE,1965
+4284,164,2174,1,,CARDINAL,202
+4285,164,2174,2,,DATE,1965
+4286,164,2174,3,,DATE,20 U.S.C.
+4287,164,2174,4,,DATE,1022a
+4288,164,2178,1,,CARDINAL,2
+4289,164,2179,1,,CARDINAL,3
+4290,164,2181,1,,DATE,' first 2 years
+4291,164,2183,1,,DATE,4 year
+4292,164,2186,1,,GPE,Demonstrating
+4293,164,2186,2,,CARDINAL,one
+4294,164,2186,3,,DATE,' first 2 years
+4295,164,2188,1,,CARDINAL,12
+4296,164,2191,1,,DATE,1 year
+4297,164,2191,2,,DATE,the 1 year
+4298,164,2193,1,,CARDINAL,less than 3
+4299,164,2193,2,,DATE,the 1 year
+4300,164,2193,3,,DATE,each year or partial year
+4301,164,2196,1,,ORG,the Armed Forces of the United States
+4302,164,2199,1,,DATE,multiyear
+4303,164,2199,2,,DATE,the day before the date
+4304,164,2199,3,,ACT,the Educator Preparation Reform Act
+4305,164,2200,1,,LAW,Section 203
+4306,164,2200,2,,DATE,1965
+4307,164,2200,3,,DATE,20 U.S.C.
+4308,164,2200,4,,DATE,1022b
+4309,164,2201,1,,CARDINAL,more than 1
+4310,164,2201,2,,DATE,5 year
+4311,164,2201,3,,DATE,the 5 year
+4312,164,2201,4,,ORDINAL,first
+4313,164,2202,1,,ACT,the Higher Education Act
+4314,164,2202,2,,DATE,1965
+4315,164,2202,3,,DATE,20 U.S.C. 1022c(a
+4316,164,2204,1,,LAW,Section 205
+4317,164,2204,2,,DATE,1965
+4318,164,2204,3,,DATE,20 U.S.C.
+4319,164,2204,4,,DATE,1022d
+4320,164,2205,1,,ORG,State
+4321,164,2205,2,,DATE,annually
+4322,164,2205,3,,ORG,State
+4323,164,2206,1,,DATE,the most recent year
+4324,164,2206,2,,ORG,State
+4325,164,2206,3,,DATE,the two year
+4326,164,2209,1,,ORG,State
+4327,164,2210,1,,EVENT,the State Nothing
+4328,164,2210,2,,ORG,State
+4329,164,2210,3,,ORG,State
+4330,164,2211,1,,ACT,The Higher Education Act
+4331,164,2211,2,,DATE,1965
+4332,164,2211,3,,DATE,20 U.S.C.
+4333,164,2211,4,,DATE,1022e
+4334,164,2212,1,,DATE,1965
+4335,164,2212,2,,DATE,20 U.S.C.
+4336,164,2214,1,,ORG,State
+4337,164,2215,1,,DATE,1965
+4338,164,2215,2,,ORG,State
+4339,164,2215,3,,ORG,State
+4340,164,2216,1,,CARDINAL,1
+4341,164,2216,2,,DATE,annual
+4342,164,2216,3,,CARDINAL,1
+4343,164,2217,1,,CARDINAL,1
+4344,164,2217,2,,ORG,State
+4345,164,2217,3,,ORDINAL,12th
+4346,164,2217,4,,ORG,State
+4347,164,2217,5,,ORG,State
+4348,164,2217,6,,ORG,State
+4349,164,2217,7,,LAW,section 205
+4350,164,2218,1,,DATE,1965
+4351,164,2218,2,,ORG,State
+4352,164,2220,1,,ORG,State
+4353,164,2221,1,,ACT,the Higher Education Act
+4354,164,2221,2,,DATE,1965
+4355,164,2221,3,,MONEY,20 U.S.C. 1022g(a
+4356,164,2221,4,,CARDINAL,205
+4357,164,2221,5,,CARDINAL,206
+4358,164,2222,1,,LAW,Section 209
+4359,164,2222,2,,DATE,1965
+4360,164,2222,3,,DATE,20 U.S.C.
+4361,164,2222,4,,DATE,1022h
+4362,164,2224,1,,DATE,1965
+4363,164,2226,1,,DATE,1965
+4364,164,2226,2,,MONEY,20 U.S.C. 1070g–2
+4365,165,2229,1,,CARDINAL,200
+4366,165,2229,2,,DATE,1965
+4367,165,2231,1,,NORP,Valid
+4368,165,2231,2,,ORG,State
+4369,165,2231,3,,LAW,section 1111(b)(2
+4370,165,2231,4,,DATE,1965
+4371,165,2231,5,,ORG,State
+4372,165,2231,6,,CARDINAL,less than one
+4373,165,2231,7,,ORG,State
+4374,165,2232,1,,CARDINAL,"fewer than 10,000"
+4375,165,2232,2,,PERCENT,less than 20 percent
+4376,165,2232,3,,ORG,Rural School Achievement Program
+4377,165,2232,4,,LAW,section 5211(b
+4378,165,2232,5,,ACT,the Elementary and Secondary Education Act
+4379,165,2232,6,,DATE,1965
+4380,165,2232,7,,ORG,State
+4381,165,2232,8,,CARDINAL,one
+4382,165,2232,9,,CARDINAL,one
+4383,165,2233,1,,ORG,State
+4384,165,2234,1,,ORG,State
+4385,165,2234,2,,ORG,State
+4386,165,2234,3,,ORG,State
+4387,165,2234,4,,ORG,State
+4388,165,2234,5,,ORG,State
+4389,165,2235,1,,DATE,1 academic year
+4390,165,2235,2,,DATE,the year
+4391,165,2235,3,,ORG,State
+4392,165,2236,1,,LANGUAGE,English
+4393,165,2239,1,,LAW,Section 201
+4394,165,2239,2,,DATE,1965
+4395,165,2240,1,,CARDINAL,202
+4396,165,2240,2,,DATE,1965
+4397,165,2240,3,,DATE,20 U.S.C.
+4398,165,2240,4,,DATE,1022a
+4399,165,2244,1,,CARDINAL,2
+4400,165,2245,1,,CARDINAL,3
+4401,165,2247,1,,DATE,' first 2 years
+4402,165,2249,1,,DATE,4 year
+4403,165,2252,1,,GPE,Demonstrating
+4404,165,2252,2,,CARDINAL,one
+4405,165,2252,3,,DATE,' first 2 years
+4406,165,2254,1,,CARDINAL,12
+4407,165,2257,1,,DATE,1 year
+4408,165,2257,2,,DATE,the 1 year
+4409,165,2259,1,,CARDINAL,less than 3
+4410,165,2259,2,,DATE,the 1 year
+4411,165,2259,3,,DATE,each year or partial year
+4412,165,2262,1,,ORG,the Armed Forces of the United States
+4413,165,2265,1,,DATE,multiyear
+4414,165,2265,2,,DATE,the day before the date
+4415,165,2265,3,,ACT,the Educator Preparation Reform Act
+4416,165,2266,1,,LAW,Section 203
+4417,165,2266,2,,DATE,1965
+4418,165,2266,3,,DATE,20 U.S.C.
+4419,165,2266,4,,DATE,1022b
+4420,165,2267,1,,CARDINAL,more than 1
+4421,165,2267,2,,DATE,5 year
+4422,165,2267,3,,DATE,the 5 year
+4423,165,2267,4,,ORDINAL,first
+4424,165,2268,1,,ACT,the Higher Education Act
+4425,165,2268,2,,DATE,1965
+4426,165,2268,3,,DATE,20 U.S.C. 1022c(a
+4427,165,2270,1,,LAW,Section 205
+4428,165,2270,2,,DATE,1965
+4429,165,2270,3,,DATE,20 U.S.C.
+4430,165,2270,4,,DATE,1022d
+4431,165,2271,1,,ORG,State
+4432,165,2271,2,,DATE,annually
+4433,165,2271,3,,ORG,State
+4434,165,2272,1,,DATE,the most recent year
+4435,165,2272,2,,ORG,State
+4436,165,2272,3,,DATE,the two year
+4437,165,2275,1,,ORG,State
+4438,165,2276,1,,EVENT,the State Nothing
+4439,165,2276,2,,ORG,State
+4440,165,2276,3,,ORG,State
+4441,165,2277,1,,ACT,The Higher Education Act
+4442,165,2277,2,,DATE,1965
+4443,165,2277,3,,DATE,20 U.S.C.
+4444,165,2277,4,,DATE,1022e
+4445,165,2278,1,,DATE,1965
+4446,165,2278,2,,DATE,20 U.S.C.
+4447,165,2280,1,,ORG,State
+4448,165,2281,1,,DATE,1965
+4449,165,2281,2,,ORG,State
+4450,165,2281,3,,ORG,State
+4451,165,2282,1,,CARDINAL,1
+4452,165,2282,2,,DATE,annual
+4453,165,2282,3,,CARDINAL,1
+4454,165,2283,1,,CARDINAL,1
+4455,165,2283,2,,ORG,State
+4456,165,2283,3,,ORDINAL,12th
+4457,165,2283,4,,ORG,State
+4458,165,2283,5,,ORG,State
+4459,165,2283,6,,ORG,State
+4460,165,2283,7,,LAW,section 205
+4461,165,2284,1,,DATE,1965
+4462,165,2284,2,,ORG,State
+4463,165,2286,1,,ORG,State
+4464,165,2287,1,,ACT,the Higher Education Act
+4465,165,2287,2,,DATE,1965
+4466,165,2287,3,,MONEY,20 U.S.C. 1022g(a
+4467,165,2287,4,,CARDINAL,205
+4468,165,2287,5,,CARDINAL,206
+4469,165,2288,1,,LAW,Section 209
+4470,165,2288,2,,DATE,1965
+4471,165,2288,3,,DATE,20 U.S.C.
+4472,165,2288,4,,DATE,1022h
+4473,165,2290,1,,DATE,1965
+4474,165,2292,1,,DATE,1965
+4475,165,2292,2,,MONEY,20 U.S.C. 1070g–2
+4476,166,2293,1,,ACT,the  Ending Maternal Mortality Act
+4477,166,2293,2,,DATE,2018
+4478,166,2294,1,,ORG,Congress
+4479,166,2295,1,,ACT,The Public Health Service Act
+4480,166,2295,2,,LAW,section 229
+4481,166,2297,1,,DATE,later than 1 year
+4482,166,2297,2,,ACT,the  Ending Maternal Mortality Act
+4483,166,2297,3,,DATE,2018
+4484,166,2300,1,,ORG,Congress
+4485,166,2300,2,,ORG,the Department of Health and Human Services
+4486,168,2303,1,,DATE,2017
+4487,168,2304,1,,LAW,Section 399V–2 of
+4488,168,2304,2,,ACT,the Public Health Service Act
+4489,168,2304,3,,MONEY,42 U.S.C.
+4490,168,2308,1,,CARDINAL,one
+4491,168,2308,2,,ORG,Congress
+4492,168,2308,3,,ORG,CHD
+4493,168,2308,4,,ORG,CHD
+4494,168,2308,5,,ORG,CHD
+4495,168,2308,6,,ORG,CHD
+4496,168,2309,1,,ORG,CHD
+4497,168,2309,2,,ORG,CHD
+4498,168,2309,3,,ORG,CHD
+4499,168,2310,1,,ORG,CHD
+4500,168,2310,2,,CARDINAL,4
+4501,168,2310,3,,CARDINAL,4
+4502,168,2311,1,,ORG,the Health Insurance Portability
+4503,168,2311,2,,DATE,1996
+4504,168,2313,1,,MONEY,"4,000,000"
+4505,168,2313,2,,DATE,each of fiscal years 2018
+4506,168,2313,3,,DATE,2022
+4507,168,2314,1,,LAW,Section 425 of
+4508,168,2314,2,,ACT,the Public Health Service Act
+4509,168,2316,1,,ORG,Institute
+4510,168,2317,1,,ORG,Institute
+4511,168,2318,1,,ORG,Institute
+4512,168,2319,1,,ORG,NIH
+4513,168,2319,2,,DATE,later than 1 year
+4514,168,2319,3,,ACT,the  Congenital Heart Futures Reauthorization Act
+4515,168,2319,4,,DATE,2017
+4516,169,2320,1,,DATE,2017
+4517,169,2321,1,,LAW,Section 399V–2 of
+4518,169,2321,2,,ACT,the Public Health Service Act
+4519,169,2321,3,,DATE,42 U.S.C.
+4520,169,2325,1,,CARDINAL,one
+4521,169,2325,2,,ORG,Congress
+4522,169,2325,3,,ORG,CHD
+4523,169,2325,4,,ORG,CHD
+4524,169,2325,5,,ORG,CHD
+4525,169,2325,6,,ORG,CHD
+4526,169,2326,1,,ORG,CHD
+4527,169,2326,2,,ORG,CHD
+4528,169,2326,3,,ORG,CHD
+4529,169,2327,1,,ORG,CHD
+4530,169,2327,2,,CARDINAL,4
+4531,169,2327,3,,CARDINAL,4
+4532,169,2328,1,,ORG,the Health Insurance Portability
+4533,169,2328,2,,DATE,1996
+4534,169,2330,1,,MONEY,"4,000,000"
+4535,169,2330,2,,DATE,each of fiscal years 2018
+4536,169,2330,3,,DATE,2022
+4537,169,2331,1,,LAW,Section 425 of
+4538,169,2331,2,,ACT,the Public Health Service Act
+4539,169,2333,1,,ORG,Institute
+4540,169,2334,1,,ORG,Institute
+4541,169,2335,1,,ORG,Institute
+4542,169,2336,1,,ORG,NIH
+4543,169,2336,2,,DATE,later than 1 year
+4544,169,2336,3,,ACT,the  Congenital Heart Futures Reauthorization Act
+4545,169,2336,4,,DATE,2017
+4546,170,2337,1,,ACT,the  VA Personnel Equity Act
+4547,170,2337,2,,DATE,2018
+4548,170,2338,1,,ORG,Department of Veterans Affairs
+4549,170,2340,1,,LAW,Title 38 Section 714
+4550,170,2340,2,,CARDINAL,38
+4551,170,2340,3,,ORG,United States Code
+4552,170,2340,4,,CARDINAL,3
+4553,170,2340,5,,CARDINAL,4
+4554,170,2340,6,,CARDINAL,5
+4555,170,2340,7,,CARDINAL,6
+4556,170,2340,8,,CARDINAL,3
+4557,170,2340,9,,CARDINAL,4
+4558,170,2341,1,,LAW,Title 5 Section 4303(f
+4559,170,2341,2,,CARDINAL,5
+4560,170,2341,3,,ORG,United States Code
+4561,170,2341,4,,CARDINAL,2
+4562,170,2341,5,,CARDINAL,3
+4563,170,2341,6,,CARDINAL,4
+4564,170,2342,1,,LAW,Chapter 7
+4565,170,2343,1,,ORG,"the Veterans Health
+ Administration"
+4566,170,2343,2,,CARDINAL,38
+4567,170,2343,3,,ORG,United States Code
+4568,170,2343,4,,DATE,the day before the date
+4569,170,2343,5,,ORG,the Department of Veterans Affairs Accountability
+4570,170,2343,6,,DATE,2017
+4571,170,2344,1,,GPE,the United States
+4572,170,2344,2,,ORG,Department of Veterans Affairs
+4573,170,2345,1,,DATE,later than 180 days
+4574,170,2345,2,,ORG,the Comptroller General
+4575,170,2345,3,,GPE,the United States
+4576,170,2345,4,,ORG,Congress
+4577,170,2345,5,,ORG,the Department of Veterans Affairs
+4578,171,2348,1,,ORG,Findings Congress
+4579,171,2349,1,,ACT,"the Civil Rights
+ Act"
+4580,171,2349,2,,DATE,1964
+4581,171,2349,3,,EVENT,Title VI
+4582,171,2349,4,,ACT,the Civil Rights Act
+4583,171,2349,5,,DATE,1964
+4584,171,2349,6,,PERCENT,42 U.S.C.
+4585,171,2349,7,,DATE,2000d
+4586,171,2349,8,,CARDINAL,602
+4587,171,2349,9,,CARDINAL,601
+4588,171,2350,1,,ACT,the Civil Rights Act
+4589,171,2350,2,,DATE,1964
+4590,171,2350,3,,EVENT,Title VI
+4591,171,2350,4,,ACT,the Civil Rights Act
+4592,171,2350,5,,DATE,1964
+4593,171,2350,6,,DATE,42 U.S.C.
+4594,171,2350,7,,DATE,2000d
+4595,171,2351,1,,ORG,Section
+4596,171,2351,2,,ACT,the Department of Education Organization Act
+4597,171,2351,3,,MONEY,20 U.S.C. 3412(b
+4598,178,2352,1,,DATE,2018
+4599,178,2354,1,,DATE,later than 60 days
+4600,178,2355,1,,DATE,later than 90 days
+4601,178,2355,2,,ORG,all Transportation Security Officers
+4602,178,2358,1,,DATE,later than 180 days
+4603,178,2359,1,,DATE,later than 180 days
+4604,178,2359,2,,ORG,the Committee on Homeland Security
+4605,178,2359,3,,ORG,the House of Representatives
+4606,178,2359,4,,ORG,"the Committee on Commerce, Science"
+4607,178,2359,5,,ORG,Senate
+4608,178,2359,6,,ORG,the Comptroller General
+4609,178,2359,7,,GPE,the United States
+4610,178,2361,1,,DATE,later than 180 days
+4611,178,2361,2,,DATE,2010
+4612,178,2362,1,,DATE,later than 180 days
+4613,178,2362,2,,ORG,the Committee on Homeland Security
+4614,178,2362,3,,ORG,the House of Representatives
+4615,178,2362,4,,ORG,"the Committee on Commerce, Science"
+4616,178,2362,5,,ORG,Senate
+4617,178,2365,1,,MONEY,49 U.S.C. 44901(l)(1)(A
+4618,179,2367,1,,ORG,the  Original Black History Month Resolution
+4619,179,2367,2,,DATE,2017
+4620,179,2368,1,,PERSON,Black History Month
+4621,179,2368,2,,ORG,The House of Representatives
+4622,182,2369,1,,DATE,2017
+4623,182,2370,1,,ORG,Congress
+4624,182,2372,1,,ORG,Congress
+4625,182,2373,1,,ORG,Congress
+4626,182,2373,2,,ORG,Congress
+4627,182,2375,1,,ORG,"the Family and Youth Services Bureau of the Administration on Children, Youth"
+4628,182,2375,2,,ORG,Families of the Department of Health and Human Services
+4629,182,2375,3,,ORG,the Office of Adolescent Health
+4630,182,2375,4,,ORG,the Division of Adolescent and School Health
+4631,182,2375,5,,ORG,the Centers for Disease Control and Prevention
+4632,182,2375,6,,ORG,Education
+4633,182,2376,1,,DATE,5 years
+4634,182,2378,1,,CARDINAL,6
+4635,182,2382,1,,ORDINAL,first
+4636,182,2384,1,,ORG,Education
+4637,182,2385,1,,DATE,5 years
+4638,182,2386,1,,CARDINAL,6
+4639,182,2389,1,,CARDINAL,one
+4640,182,2390,1,,LAW,section 3(f
+4641,182,2392,1,,ORG,the Centers for Disease Control and Prevention
+4642,182,2392,2,,ORG,Education
+4643,182,2393,1,,DATE,5 years
+4644,182,2395,1,,CARDINAL,6
+4645,182,2399,1,,ORG,State
+4646,182,2402,1,,DATE,later than 6 months
+4647,182,2402,2,,DATE,"3, 4"
+4648,182,2402,3,,CARDINAL,5
+4649,182,2402,4,,ORG,Congress
+4650,182,2403,1,,CARDINAL,3
+4651,182,2403,2,,DATE,4
+4652,182,2403,3,,CARDINAL,5
+4653,182,2403,4,,TIME,hours
+4654,182,2403,5,,ORDINAL,first
+4655,182,2403,6,,ORDINAL,first
+4656,182,2404,1,,DATE,later than 6 years
+4657,182,2404,2,,ORG,Congress
+4658,182,2404,3,,ORG,the Department of Health and Human Services
+4659,182,2405,1,,ORG,Congress
+4660,182,2405,2,,DATE,later than 1 year
+4661,182,2405,3,,DATE,annually
+4662,182,2405,4,,DATE,5 years
+4663,182,2405,5,,ORG,Congress
+4664,182,2405,6,,ACT,this Act
+4665,182,2405,7,,ORG,Congress
+4666,182,2406,1,,ORG,Nondiscrimination Programs
+4667,182,2406,2,,ORG,State
+4668,182,2406,3,,ORG,State
+4669,182,2406,4,,ACT,the Civil Rights Act
+4670,182,2406,5,,DATE,1964
+4671,182,2406,6,,DATE,42 U.S.C.
+4672,182,2406,7,,DATE,18116
+4673,182,2407,1,,ORG,Limitation No Federal
+4674,182,2409,1,,ACT,the Public Health Service Act Section 2500
+4675,182,2409,2,,ACT,the Public Health Service Act
+4676,182,2411,1,,LAW,Section 8526
+4677,182,2411,2,,DATE,1965
+4678,182,2411,3,,CARDINAL,20
+4679,182,2415,1,,ORG,congress
+4680,182,2415,2,,ORG,Congress
+4681,182,2421,1,,ORG,Gender
+4682,182,2422,1,,LAW,section 7
+4683,182,2424,1,,CARDINAL,20
+4684,182,2424,2,,DATE,1001
+4685,182,2428,1,,LAW,section 7
+4686,182,2431,1,,CARDINAL,"75,000,000"
+4687,182,2431,2,,DATE,each fiscal years 2017
+4688,182,2431,3,,DATE,2022
+4689,182,2433,1,,PERCENT,3 percent
+4690,182,2433,2,,DATE,each fiscal year
+4691,182,2434,1,,CARDINAL,510
+4692,182,2434,2,,MONEY,42 U.S.C.
+4693,182,2434,3,,PRODUCT,710
+4694,182,2435,1,,LAW,Section 510
+4695,182,2435,2,,MONEY,42 U.S.C.
+4696,182,2435,3,,PRODUCT,710
+4697,183,2436,1,,ACT,Home CARE Act
+4698,183,2437,1,,ORG,Findings Congress
+4699,183,2439,1,,ACT,the Public Health Service Act
+4700,183,2439,2,,MONEY,42 U.S.C.
+4701,183,2439,3,,CARDINAL,255
+4702,183,2441,1,,ORG,the Administrator of the Administration for Community Living
+4703,183,2441,2,,DATE,3 year
+4704,183,2453,1,,DATE,later than 2 years
+4705,183,2453,2,,DATE,annually
+4706,183,2454,1,,ORG,Optional
+4707,183,2454,2,,CARDINAL,1
+4708,183,2455,1,,DATE,later than 1 year
+4709,183,2455,2,,ORG,Congress
+4710,186,2457,1,,PERSON,Ellie Helton
+4711,186,2457,2,,PERSON,Lisa Colagrossi
+4712,186,2457,3,,PERSON,Anne Lawrence
+4713,186,2457,4,,PERSON,Jennifer Sedney Focused
+4714,186,2458,1,,ORG,Congress
+4715,186,2460,1,,ORG,the National Institute of Neurological Disorders
+4716,186,2460,2,,MONEY,"5,000,000"
+4717,186,2460,3,,DATE,each of fiscal years 2018
+4718,186,2460,4,,DATE,2022
+4719,186,2460,5,,DATE,"September 30, 2026"
+4720,187,2464,1,,DATE,later than 180 days
+4721,187,2467,1,,CARDINAL,2
+4722,189,2481,1,,DATE,2017
+4723,189,2482,1,,DATE,Annual
+4724,189,2483,1,,LAW,Section 207(a)(2
+4725,189,2483,2,,ACT,the Immigration and Nationality Act
+4726,189,2483,3,,DATE,8 U.S.C.
+4727,189,2483,4,,CARDINAL,"50,000"
+4728,189,2483,5,,ORG,Congress
+4729,189,2483,6,,DATE,later than 6 months
+4730,189,2483,7,,DATE,fiscal year
+4731,189,2484,1,,ACT,the Immigration and Nationality Act
+4732,189,2485,1,,ORG,Section
+4733,189,2485,2,,ACT,the Immigration and Nationality Act
+4734,189,2485,3,,MONEY,8 U.S.C. 1157(c
+4735,189,2486,1,,ORG,Section
+4736,189,2486,2,,ACT,the Immigration and Nationality Act
+4737,189,2486,3,,MONEY,8 U.S.C. 1157(c
+4738,189,2487,1,,LAW,Section 207(c)(3
+4739,189,2487,2,,ACT,the Immigration and Nationality Act
+4740,189,2487,3,,DATE,8 U.S.C.
+4741,189,2487,4,,CARDINAL,3
+4742,189,2487,5,,CARDINAL,1
+4743,189,2488,1,,LAW,Section 207
+4744,189,2488,2,,DATE,1157
+4745,189,2489,1,,GPE,Background
+4746,189,2489,2,,LAW,section 209
+4747,189,2490,1,,LAW,Section 209(a)(1
+4748,189,2490,2,,ACT,the Immigration and Nationality Act
+4749,189,2490,3,,CARDINAL,1159(a)(1
+4750,189,2492,1,,ACT,the Immigration and Nationality Act
+4751,189,2492,2,,DATE,8 U.S.C. 1159(c
+4752,189,2492,3,,CARDINAL,3
+4753,189,2492,4,,CARDINAL,1
+4754,189,2493,1,,GPE,Person
+4755,189,2493,2,,LAW,Section 209 of
+4756,189,2494,1,,LAW,section 237
+4757,189,2495,1,,ORG,Homeland Security
+4758,189,2495,2,,LAW,section 101(a)(42
+4759,189,2496,1,,DATE,5 years
+4760,189,2496,2,,ORG,the Department of Homeland Security
+4761,189,2496,3,,GPE,the United States
+4762,189,2496,4,,CARDINAL,235
+4763,189,2496,5,,CARDINAL,240
+4764,189,2496,6,,CARDINAL,241
+4765,189,2497,1,,ACT,Section 412 of the Immigration and Nationality Act
+4766,189,2498,1,,DATE,a fiscal year
+4767,189,2499,1,,DATE,later than 540 days
+4768,189,2499,2,,ORG,the Fraud Detection
+4769,189,2499,3,,ORG,National Security Directorate
+4770,189,2500,1,,DATE,later than 2 years
+4771,189,2500,2,,ORG,Homeland Security
+4772,189,2501,1,,ORG,Interviews to Protect Refugees and Prevent Fraud
+4773,189,2502,1,,ORG,Homeland Security
+4774,189,2502,2,,LAW,section 207
+4775,189,2502,3,,ORG,the U.S. Citizenship and Immigration Services
+4776,189,2503,1,,PERCENT,20 percent
+4777,189,2505,1,,LAW,Section 101(a)(42
+4778,189,2505,2,,ACT,the Immigration and Nationality Act
+4779,189,2505,3,,DATE,8 U.S.C. 1101(a)(42
+4780,189,2506,1,,GPE,the United States
+4781,189,2506,2,,LAW,section 207
+4782,189,2506,3,,DATE,8 U.S.C.
+4783,189,2506,4,,DATE,1157
+4784,189,2507,1,,ORG,GAO
+4785,189,2507,2,,DATE,later than 180 days
+4786,189,2507,3,,ORG,State
+4787,189,2507,4,,ORG,Homeland Security
+4788,189,2507,5,,ORG,State Department
+4789,189,2507,6,,ORG,DHS
+4790,189,2508,1,,ORG,GAO
+4791,189,2508,2,,ORG,U.S. Refugee Admissions Program
+4792,189,2508,3,,DATE,later than 18 months
+4793,189,2508,4,,ORG,the Comptroller General
+4794,189,2508,5,,GPE,the United States
+4795,189,2508,6,,ORG,Congress
+4796,190,2509,1,,PERSON,Ellie Helton
+4797,190,2509,2,,PERSON,Lisa Colagrossi
+4798,190,2509,3,,PERSON,Anne Lawrence
+4799,190,2509,4,,PERSON,Jennifer Sedney Focused
+4800,190,2510,1,,ORG,Findings Congress
+4801,190,2512,1,,ORG,the National Institute of Neurological Disorders
+4802,190,2512,2,,MONEY,"5,000,000"
+4803,190,2512,3,,DATE,each of fiscal years 2018
+4804,190,2512,4,,DATE,2022
+4805,190,2512,5,,DATE,"September 30, 2026"
+4806,192,2514,1,,ACT,the  Desert Community Lands Act
+4807,192,2517,1,,WORK_OF_ART,Town
+4808,192,2520,1,,DATE,later than 5 years
+4809,192,2520,2,,ORG,Town
+4810,192,2520,3,,GPE,the United States
+4811,192,2520,4,,QUANTITY,"approximately 4,630 acres"
+4812,192,2520,5,,ORG,Apple Valley Apple Valley Off Highway Vehicle Recreation Area
+4813,192,2523,1,,CARDINAL,2
+4814,192,2523,2,,DATE,"June 14, 1926"
+4815,192,2523,3,,ACT,the Recreation and Public Purposes Act
+4816,192,2524,1,,PRODUCT,Town
+4817,192,2524,2,,ORG,the Federal Government
+4818,192,2524,3,,ORG,the State of California
+4819,192,2526,1,,ORG,the Apple Valley Off Highway Vehicle Recreation Area
+4820,192,2527,1,,ORG,Twentynine Palms
+4821,192,2527,2,,GPE,California
+4822,192,2528,1,,DATE,later than 1 year
+4823,192,2528,2,,ORG,Twentynine Palms
+4824,192,2528,3,,GPE,California
+4825,192,2528,4,,GPE,the United States
+4826,192,2530,1,,GPE,Barstow
+4827,192,2530,2,,GPE,California
+4828,192,2531,1,,DATE,later than 1 year
+4829,192,2531,2,,GPE,Barstow
+4830,192,2531,3,,GPE,California
+4831,192,2531,4,,GPE,the United States
+4832,192,2531,5,,GPE,the City of Barstow
+4833,192,2533,1,,GPE,Victorville
+4834,192,2533,2,,GPE,California
+4835,192,2534,1,,DATE,later than one year
+4836,192,2534,2,,GPE,the City of
+4837,192,2534,3,,GPE,Victorville
+4838,192,2534,4,,GPE,California
+4839,192,2534,5,,GPE,the United States
+4840,192,2534,6,,GPE,the City of
+4841,192,2534,7,,GPE,Victorville
+4842,193,2536,1,,ACT,Mothers and Offspring Mortality and Morbidity Awareness Act MOMMA’s
+4843,193,2537,1,,ORG,Findings Congress
+4844,193,2538,1,,ORG,Improving Federal
+4845,193,2539,1,,GPE,States
+4846,193,2539,2,,DATE,later than one year
+4847,193,2539,3,,ORG,the Centers for Disease Control and Prevention
+4848,193,2541,1,,DATE,later than one year
+4849,193,2541,2,,ORG,State
+4850,193,2541,3,,GPE,States
+4851,193,2541,4,,ORG,the Health Resources and Services Administration
+4852,193,2542,1,,MONEY,"5,000,000"
+4853,193,2542,2,,DATE,each of fiscal years 2019
+4854,193,2542,3,,DATE,2023
+4855,193,2543,1,,ORG,Alliance for Innovation on Maternal Health Grant Program
+4856,193,2544,1,,DATE,later than one year
+4857,193,2544,2,,ORG,Health and Human Services
+4858,193,2544,3,,ORG,the Associate Administrator of the Maternal and Child Health Bureau of the Health Resources and Services Administration
+4859,193,2544,4,,ORG,the Alliance for Innovation on Maternal Health Grant Program
+4860,193,2544,5,,ORG,State
+4861,193,2544,6,,ORG,State
+4862,193,2544,7,,GPE,the United States
+4863,193,2545,1,,CARDINAL,1
+4864,193,2545,2,,GPE,the United States
+4865,193,2546,1,,CARDINAL,1
+4866,193,2546,2,,GPE,States
+4867,193,2546,3,,ORG,State
+4868,193,2546,4,,ORG,State
+4869,193,2546,5,,ORG,State
+4870,193,2546,6,,ORG,State
+4871,193,2548,1,,MONEY,"10,000,000"
+4872,193,2548,2,,DATE,each of fiscal years 2019
+4873,193,2548,3,,DATE,2023
+4874,193,2549,1,,ORG,CHIP
+4875,193,2551,1,,DATE,42 U.S.C. 1396d
+4876,193,2551,2,,ORG,a)(4
+4877,193,2554,1,,ORG,State
+4878,193,2554,2,,ORG,the American Academy of Pediatric Dentistry
+4879,193,2554,3,,ORG,the American College of Obstetricians
+4880,193,2554,4,,NORP,Gynecologists
+4881,193,2556,1,,ORG,Medicaid
+4882,193,2556,2,,LAW,Section 1902
+4883,193,2556,3,,DATE,42 U.S.C. 1396a
+4884,193,2556,4,,CARDINAL,5
+4885,193,2556,5,,CARDINAL,1905(ee
+4886,193,2556,6,,DATE,60 day 1 year
+4887,193,2556,7,,CARDINAL,6
+4888,193,2556,8,,DATE,60 day 1 year
+4889,193,2556,9,,DATE,60 day 1 year
+4890,193,2557,1,,ORG,Medicaid
+4891,193,2557,2,,LAW,Section 1903(v)(4)(A
+4892,193,2557,3,,ACT,the Social Security Act
+4893,193,2557,4,,DATE,60 day 1 year
+4894,193,2558,1,,LAW,Section 2112(d)(2)(A
+4895,193,2558,2,,DATE,60 day 1 year
+4896,193,2560,1,,ORG,Medicaid Section
+4897,193,2560,2,,ACT,the Social Security Act
+4898,193,2560,3,,CARDINAL,42
+4899,193,2560,4,,CARDINAL,1396a(l
+4900,193,2561,1,,ACT,the Social Security Act
+4901,193,2561,2,,MONEY,42 U.S.C.
+4902,193,2562,1,,DATE,five years
+4903,193,2562,2,,ORG,State
+4904,193,2562,3,,LAW,section 1902(v)(4)(A)(i
+4905,193,2562,4,,LAW,section 2107(e)(1
+4906,193,2562,5,,ORG,State
+4907,193,2563,1,,ORG,Health and Human Services
+4908,193,2563,2,,ORG,the Department of Health and Human Services
+4909,193,2563,3,,ORG,Medicaid
+4910,193,2563,4,,ORG,the Children's Health Insurance Program
+4911,193,2563,5,,GPE,States
+4912,193,2563,6,,GPE,States
+4913,193,2564,1,,ORG,Medicaid
+4914,193,2564,2,,ORG,CHIP
+4915,193,2565,1,,DATE,42 U.S.C. 1396d
+4916,193,2566,1,,ORG,State
+4917,193,2566,2,,DATE,the 305 day
+4918,193,2566,3,,DATE,the 60th day
+4919,193,2566,4,,DATE,the last day
+4920,193,2566,5,,DATE,the month
+4921,193,2567,1,,ACT,the Social Security Act
+4922,193,2567,2,,CARDINAL,1397ee(c
+4923,193,2568,1,,GPE,Notwithstanding
+4924,193,2568,2,,GPE,FMAP
+4925,193,2568,3,,ORG,State
+4926,193,2568,4,,LAW,section 1902(v)(4)(A)(i
+4927,193,2568,5,,LAW,section 2107(e)(1
+4928,193,2568,6,,DATE,the 305 day
+4929,193,2568,7,,DATE,the 60th day
+4930,193,2568,8,,DATE,the last day
+4931,193,2568,9,,DATE,the month
+4932,193,2568,10,,PERCENT,100 percent
+4933,193,2568,11,,DATE,the first 20 calendar quarters
+4934,193,2568,12,,PERCENT,90 percent
+4935,193,2568,13,,DATE,calendar quarters
+4936,193,2570,1,,DATE,the first day
+4937,193,2570,2,,DATE,one year
+4938,193,2571,1,,ORG,State
+4939,193,2571,2,,ORG,State
+4940,193,2571,3,,ORG,Health and Human Services
+4941,193,2571,4,,ORG,State
+4942,193,2571,5,,DATE,the first day
+4943,193,2571,6,,DATE,quarter
+4944,193,2571,7,,ORDINAL,first
+4945,193,2571,8,,ORG,State
+4946,193,2571,9,,ORG,State
+4947,193,2571,10,,DATE,2 year
+4948,193,2571,11,,DATE,each year
+4949,193,2571,12,,ORG,State
+4950,193,2572,1,,ACT,the Public Health Service Act
+4951,193,2574,1,,DATE,later than one year
+4952,193,2578,1,,ORG,the Department of Health and Human Services
+4953,193,2580,1,,ORG,State
+4954,193,2580,2,,ORG,State
+4955,193,2580,3,,ORG,State
+4956,193,2582,1,,MONEY,"5,000,000"
+4957,193,2582,2,,DATE,each of fiscal years 2019
+4958,193,2582,3,,DATE,2023
+4959,193,2583,1,,LAW,Section 17(d)(3)(A)(ii
+4960,193,2583,2,,ACT,the Child Nutrition Act of 1966
+4961,193,2583,3,,DATE,42 U.S.C.
+4962,193,2585,1,,ORG,State
+4963,193,2586,1,,NORP,Postpartum
+4964,193,2586,2,,ORG,State
+4965,193,2586,3,,DATE,2 years
+4966,193,2591,1,,MONEY,$24.78 $49.56
+4967,193,2592,1,,ORG,Section
+4968,193,2592,2,,MONEY,$2.8311 cents
+4969,193,2592,3,,MONEY,49.56
+4970,193,2594,1,,MONEY,100.66
+4971,193,2594,2,,CARDINAL,thousand
+4972,193,2596,1,,CARDINAL,1
+4973,193,2596,2,,MONEY,$50.33 $
+4974,193,2596,3,,MONEY,100.66
+4975,193,2598,1,,PERSON,Paragraph
+4976,193,2598,2,,CARDINAL,2
+4977,193,2598,3,,PERCENT,52.75 percent
+4978,193,2598,4,,MONEY,49.56
+4979,193,2598,5,,MONEY,less than
+4980,193,2598,6,,MONEY,10.066 cents
+4981,193,2599,1,,ORG,Treasury
+4982,193,2599,2,,CARDINAL,5701(a)(2
+4983,193,2602,1,,LAW,Section 5701
+4984,193,2603,1,,ORG,the Food and Drug Administration
+4985,193,2603,2,,ORG,the Family Smoking Prevention and Tobacco Control
+4986,193,2608,1,,CARDINAL,section 5702
+4987,193,2610,1,,CARDINAL,5701(b)(1
+4988,193,2610,2,,MONEY,50.33
+4989,193,2610,3,,MONEY,100.66
+4990,193,2611,1,,LAW,Section 5701(b)(2
+4991,193,2611,2,,MONEY,105.69
+4992,193,2611,3,,MONEY,211.38
+4993,193,2612,1,,LAW,Section 5701
+4994,193,2614,1,,DATE,2018
+4995,193,2614,2,,LAW,section 1(f)(3
+4996,193,2614,3,,DATE,the calendar year
+4997,193,2614,4,,DATE,year 2017
+4998,193,2615,1,,CARDINAL,1
+4999,193,2615,2,,MONEY,0.01
+5000,193,2615,3,,MONEY,0.01
+5001,193,2617,1,,GPE,the United States
+5002,193,2617,2,,LAW,section 5701
+5003,193,2618,1,,CARDINAL,1
+5004,193,2618,2,,MONEY,500
+5005,193,2618,3,,CARDINAL,1
+5006,193,2620,1,,CARDINAL,1
+5007,193,2621,1,,CARDINAL,1
+5008,193,2622,1,,CARDINAL,1
+5009,193,2622,2,,DATE,120 days
+5010,193,2623,1,,DATE,"June 18, 1934"
+5011,193,2623,2,,ACT,the Foreign Trade Zone Act
+5012,193,2623,3,,CARDINAL,48
+5013,193,2623,4,,CARDINAL,998
+5014,193,2623,5,,CARDINAL,19
+5015,193,2623,6,,ORDINAL,1st
+5016,193,2623,7,,LAW,section 3(a
+5017,193,2623,8,,ORG,the United States Customs and Border Protection of the Department of Homeland Security
+5018,193,2623,9,,CARDINAL,2d
+5019,193,2623,10,,LAW,section 3(a
+5020,193,2625,1,,CARDINAL,5702
+5021,193,2628,1,,LAW,section 5061(e)(3
+5022,193,2629,1,,LAW,section 5701
+5023,193,2629,2,,CARDINAL,1
+5024,193,2629,3,,LAW,section 5701
+5025,193,2629,4,,CARDINAL,1
+5026,193,2631,1,,CARDINAL,2
+5027,193,2631,2,,CARDINAL,4
+5028,193,2633,1,,DATE,"December 31, 2019"
+5029,193,2634,1,,DATE,the last day of the month
+5030,193,2634,2,,ORG,Treasury
+5031,193,2634,3,,ORG,Treasury
+5032,195,2635,1,,ACT,the  Suicide Prevention Analytics Act
+5033,195,2635,2,,DATE,2018
+5034,195,2636,1,,ORG,Self Harm Behaviors and
+5035,195,2636,2,,ORG,Suicidal Ideation Program
+5036,195,2636,3,,ACT,the Public Health Service Act
+5037,195,2637,1,,ORG,Self Harm Behaviors and
+5038,195,2637,2,,ORG,Suicidal Ideation Program
+5039,195,2638,1,,ORG,the Centers for Disease Control and Prevention
+5040,195,2638,2,,ORG,the Syndromic Surveillance of Self Harm Behaviors and
+5041,195,2638,3,,ORG,Suicidal Ideation Program
+5042,195,2640,1,,ORG,State
+5043,195,2640,2,,ORG,State
+5044,195,2641,1,,ORG,State
+5045,195,2641,2,,DATE,less than 2 years
+5046,195,2642,1,,ORG,HHS Subject
+5047,195,2643,1,,ORG,State
+5048,195,2643,2,,ORG,the Centers for Disease Control and Prevention
+5049,195,2644,1,,PRODUCT,552a
+5050,195,2644,2,,CARDINAL,5
+5051,195,2644,3,,ORG,United States Code
+5052,195,2646,1,,DATE,later than April 30th
+5053,195,2646,2,,DATE,years 2020
+5054,195,2646,3,,DATE,2024
+5055,195,2646,4,,ORG,Congress
+5056,195,2646,5,,DATE,the previous calendar year
+5057,195,2647,1,,CARDINAL,1
+5058,195,2647,2,,ORG,State
+5059,195,2647,3,,DATE,their first year

@@ -1,0 +1,1301 @@
+billid,date,Column2,billstage,chambername,legistype
+2,3-Jan-2017,,Introduced,Senate,A BILL
+8,3-Jan-2017,,Introduced,House,A BILL
+56,3-Jan-2017,,Introduced,House,A BILL
+89,3-Jan-2017,,Resolved,,RESOLUTION
+100,3-Jan-2017,,Resolved,,RESOLUTION
+310,3-Jan-2017,,Reported,House,A BILL
+409,3-Jan-2017,,Introduced,House,A BILL
+459,3-Jan-2017,,Introduced,Senate,A BILL
+552,3-Jan-2017,,Introduced,Senate,A BILL
+2,3-Jan-2017,,Introduced,Senate,A BILL
+8,3-Jan-2017,,Introduced,House,A BILL
+56,3-Jan-2017,,Introduced,House,A BILL
+89,3-Jan-2017,,Resolved,,RESOLUTION
+100,3-Jan-2017,,Resolved,,RESOLUTION
+310,3-Jan-2017,,Reported,House,A BILL
+409,3-Jan-2017,,Introduced,House,A BILL
+459,3-Jan-2017,,Introduced,Senate,A BILL
+552,3-Jan-2017,,Introduced,Senate,A BILL
+142,4-Jan-2017,,Introduced,Senate,A BILL
+551,4-Jan-2017,,Introduced,House,A BILL
+142,4-Jan-2017,,Introduced,Senate,A BILL
+551,4-Jan-2017,,Introduced,House,A BILL
+6,5-Jan-2017,,Introduced,House,A BILL
+167,5-Jan-2017,,Referred,Senate,AN ACT
+6,5-Jan-2017,,Introduced,House,A BILL
+167,5-Jan-2017,,Referred,Senate,AN ACT
+454,6-Jan-2017,,Introduced,House,A BILL
+454,6-Jan-2017,,Introduced,House,A BILL
+158,10-Jan-2017,,Introduced,Senate,A BILL
+339,10-Jan-2017,,Introduced,Senate,A BILL
+158,10-Jan-2017,,Introduced,Senate,A BILL
+339,10-Jan-2017,,Introduced,Senate,A BILL
+323,12-Jan-2017,,Introduced,House,A BILL
+359,12-Jan-2017,,Introduced,House,A BILL
+323,12-Jan-2017,,Introduced,House,A BILL
+359,12-Jan-2017,,Introduced,House,A BILL
+215,13-Jan-2017,,Resolved,,CONCURRENT RESOLUTION
+255,13-Jan-2017,,Referred,House,AN ACT
+394,13-Jan-2017,,Introduced,House,A BILL
+215,13-Jan-2017,,Resolved,,CONCURRENT RESOLUTION
+255,13-Jan-2017,,Referred,House,AN ACT
+394,13-Jan-2017,,Introduced,House,A BILL
+248,17-Jan-2017,,Introduced,House,A BILL
+380,17-Jan-2017,,Introduced,Senate,A BILL
+500,17-Jan-2017,,Introduced,Senate,A BILL
+248,17-Jan-2017,,Introduced,House,A BILL
+380,17-Jan-2017,,Introduced,Senate,A BILL
+500,17-Jan-2017,,Introduced,Senate,A BILL
+379,23-Jan-2017,,Introduced,Senate,A BILL
+379,23-Jan-2017,,Introduced,Senate,A BILL
+28,24-Jan-2017,,Introduced,House,A BILL
+97,24-Jan-2017,,Resolved,,RESOLUTION
+210,24-Jan-2017,,Reported,House,A BILL
+251,24-Jan-2017,,Introduced,House,A BILL
+254,24-Jan-2017,,Introduced,House,A BILL
+260,24-Jan-2017,,Engrossed,Senate,AN ACT
+358,24-Jan-2017,,Introduced,House,A BILL
+28,24-Jan-2017,,Introduced,House,A BILL
+97,24-Jan-2017,,Resolved,,RESOLUTION
+210,24-Jan-2017,,Reported,House,A BILL
+251,24-Jan-2017,,Introduced,House,A BILL
+254,24-Jan-2017,,Introduced,House,A BILL
+260,24-Jan-2017,,Engrossed,Senate,AN ACT
+358,24-Jan-2017,,Introduced,House,A BILL
+57,27-Jan-2017,,Introduced,House,A BILL
+437,27-Jan-2017,,Introduced,Senate,A BILL
+449,27-Jan-2017,,Introduced,Senate,A BILL
+57,27-Jan-2017,,Introduced,House,A BILL
+437,27-Jan-2017,,Introduced,Senate,A BILL
+449,27-Jan-2017,,Introduced,Senate,A BILL
+80,30-Jan-2017,,Introduced,House,A BILL
+118,30-Jan-2017,,Introduced,House,A BILL
+80,30-Jan-2017,,Introduced,House,A BILL
+118,30-Jan-2017,,Introduced,House,A BILL
+146,1-Feb-2017,,Introduced,Senate,A BILL
+179,1-Feb-2017,,Resolved,,RESOLUTION
+253,1-Feb-2017,,Introduced,Senate,A BILL
+307,1-Feb-2017,,Introduced,Senate,A BILL
+146,1-Feb-2017,,Introduced,Senate,A BILL
+179,1-Feb-2017,,Resolved,,RESOLUTION
+253,1-Feb-2017,,Introduced,Senate,A BILL
+307,1-Feb-2017,,Introduced,Senate,A BILL
+446,2-Feb-2017,,Introduced,Senate,A BILL
+469,2-Feb-2017,,Introduced,Senate,A BILL
+470,2-Feb-2017,,Introduced,House,A BILL
+446,2-Feb-2017,,Introduced,Senate,A BILL
+469,2-Feb-2017,,Introduced,Senate,A BILL
+470,2-Feb-2017,,Introduced,House,A BILL
+198,3-Feb-2017,,Introduced,House,A BILL
+207,3-Feb-2017,,Introduced,House,A BILL
+198,3-Feb-2017,,Introduced,House,A BILL
+207,3-Feb-2017,,Introduced,House,A BILL
+110,6-Feb-2017,,Resolved,,RESOLUTION
+378,6-Feb-2017,,Introduced,Senate,A BILL
+110,6-Feb-2017,,Resolved,,RESOLUTION
+378,6-Feb-2017,,Introduced,Senate,A BILL
+249,7-Feb-2017,,Resolved,,RESOLUTION
+267,7-Feb-2017,,Introduced,House,A BILL
+403,7-Feb-2017,,Introduced,Senate,A BILL
+511,7-Feb-2017,,Introduced,House,A BILL
+249,7-Feb-2017,,Resolved,,RESOLUTION
+267,7-Feb-2017,,Introduced,House,A BILL
+403,7-Feb-2017,,Introduced,Senate,A BILL
+511,7-Feb-2017,,Introduced,House,A BILL
+512,9-Feb-2017,,Placed_on_Calendar ,Calendar,A BILL
+512,9-Feb-2017,,Placed_on_Calendar ,Calendar,A BILL
+198,10-Feb-2017,,Introduced,House,A BILL
+198,10-Feb-2017,,Introduced,House,A BILL
+357,13-Feb-2017,,Introduced,House,A BILL
+357,13-Feb-2017,,Introduced,House,A BILL
+126,15-Feb-2017,,Resolved,,RESOLUTION
+197,15-Feb-2017,,Resolved,,RESOLUTION
+484,15-Feb-2017,,Introduced,House,A BILL
+126,15-Feb-2017,,Resolved,,RESOLUTION
+197,15-Feb-2017,,Resolved,,RESOLUTION
+484,15-Feb-2017,,Introduced,House,A BILL
+20,16-Feb-2017,,Introduced,Senate,A BILL
+174,16-Feb-2017,,Resolved,,RESOLUTION
+209,16-Feb-2017,,Introduced,House,A BILL
+217,16-Feb-2017,,Introduced,House,A BILL
+306,16-Feb-2017,,Introduced,House,A BILL
+495,16-Feb-2017,,Reported,House,A BILL
+497,16-Feb-2017,,Introduced,Senate,A BILL
+20,16-Feb-2017,,Introduced,Senate,A BILL
+174,16-Feb-2017,,Resolved,,RESOLUTION
+209,16-Feb-2017,,Introduced,House,A BILL
+217,16-Feb-2017,,Introduced,House,A BILL
+306,16-Feb-2017,,Introduced,House,A BILL
+495,16-Feb-2017,,Reported,House,A BILL
+497,16-Feb-2017,,Introduced,Senate,A BILL
+5,27-Feb-2017,,Introduced,Senate,A BILL
+7,27-Feb-2017,,Introduced,House,A BILL
+14,27-Feb-2017,,Referred,House,AN ACT
+154,27-Feb-2017,,Resolved,,JOINT RESOLUTION
+220,27-Feb-2017,,Introduced,House,A BILL
+229,27-Feb-2017,,Reported,House,A BILL
+230,27-Feb-2017,,Introduced,House,A BILL
+236,27-Feb-2017,,Introduced,Senate,A BILL
+5,27-Feb-2017,,Introduced,Senate,A BILL
+7,27-Feb-2017,,Introduced,House,A BILL
+14,27-Feb-2017,,Referred,House,AN ACT
+154,27-Feb-2017,,Resolved,,JOINT RESOLUTION
+220,27-Feb-2017,,Introduced,House,A BILL
+229,27-Feb-2017,,Reported,House,A BILL
+230,27-Feb-2017,,Introduced,House,A BILL
+236,27-Feb-2017,,Introduced,Senate,A BILL
+137,28-Feb-2017,,Resolved,,RESOLUTION
+139,28-Feb-2017,,Resolved,,RESOLUTION
+237,28-Feb-2017,,Introduced,Senate,A BILL
+137,28-Feb-2017,,Resolved,,RESOLUTION
+139,28-Feb-2017,,Resolved,,RESOLUTION
+237,28-Feb-2017,,Introduced,Senate,A BILL
+184,1-Mar-2017,,Resolved,,RESOLUTION
+184,1-Mar-2017,,Resolved,,RESOLUTION
+327,2-Mar-2017,,Introduced,House,A BILL
+438,2-Mar-2017,,Introduced,House,A BILL
+327,2-Mar-2017,,Introduced,House,A BILL
+438,2-Mar-2017,,Introduced,House,A BILL
+84,7-Mar-2017,,Introduced,Senate,A BILL
+163,7-Mar-2017,,Introduced,House,A BILL
+245,7-Mar-2017,,Engrossed,House,AN ACT
+271,7-Mar-2017,,Introduced,House,A BILL
+84,7-Mar-2017,,Introduced,Senate,A BILL
+163,7-Mar-2017,,Introduced,House,A BILL
+245,7-Mar-2017,,Engrossed,House,AN ACT
+271,7-Mar-2017,,Introduced,House,A BILL
+29,9-Mar-2017,,Introduced,House,A BILL
+458,9-Mar-2017,,Introduced,House,A BILL
+29,9-Mar-2017,,Introduced,House,A BILL
+458,9-Mar-2017,,Introduced,House,A BILL
+196,10-Mar-2017,,Resolved,,CONCURRENT RESOLUTION
+395,10-Mar-2017,,Engrossed,House,AN ACT
+196,10-Mar-2017,,Resolved,,CONCURRENT RESOLUTION
+395,10-Mar-2017,,Engrossed,House,AN ACT
+377,13-Mar-2017,,Introduced,House,A BILL
+377,13-Mar-2017,,Introduced,House,A BILL
+25,15-Mar-2017,,Resolved,,RESOLUTION
+186,15-Mar-2017,,Introduced,House,A BILL
+266,15-Mar-2017,,Introduced,House,A BILL
+285,15-Mar-2017,,Introduced,Senate,A BILL
+366,15-Mar-2017,,Introduced,House,A BILL
+503,15-Mar-2017,,Introduced,Senate,A BILL
+25,15-Mar-2017,,Resolved,,RESOLUTION
+186,15-Mar-2017,,Introduced,House,A BILL
+266,15-Mar-2017,,Introduced,House,A BILL
+285,15-Mar-2017,,Introduced,Senate,A BILL
+366,15-Mar-2017,,Introduced,House,A BILL
+503,15-Mar-2017,,Introduced,Senate,A BILL
+23,16-Mar-2017,,Introduced,Senate,A BILL
+64,16-Mar-2017,,Resolved,,RESOLUTION
+75,16-Mar-2017,,Introduced,Senate,A BILL
+95,16-Mar-2017,,Resolved,,RESOLUTION
+326,16-Mar-2017,,Introduced,House,A BILL
+23,16-Mar-2017,,Introduced,Senate,A BILL
+64,16-Mar-2017,,Resolved,,RESOLUTION
+75,16-Mar-2017,,Introduced,Senate,A BILL
+95,16-Mar-2017,,Resolved,,RESOLUTION
+326,16-Mar-2017,,Introduced,House,A BILL
+436,20-Mar-2017,,Introduced,House,A BILL
+436,20-Mar-2017,,Introduced,House,A BILL
+61,21-Mar-2017,,Resolved,,RESOLUTION
+204,21-Mar-2017,,Introduced,Senate,A BILL
+399,21-Mar-2017,,Reported,Senate,A BILL
+404,21-Mar-2017,,Introduced,Senate,A BILL
+61,21-Mar-2017,,Resolved,,RESOLUTION
+204,21-Mar-2017,,Introduced,Senate,A BILL
+399,21-Mar-2017,,Reported,Senate,A BILL
+404,21-Mar-2017,,Introduced,Senate,A BILL
+407,22-Mar-2017,,Introduced,House,A BILL
+407,22-Mar-2017,,Introduced,House,A BILL
+282,28-Mar-2017,,Introduced,House,A BILL
+417,28-Mar-2017,,Introduced,House,A BILL
+540,28-Mar-2017,,Reported,House,A BILL
+282,28-Mar-2017,,Introduced,House,A BILL
+417,28-Mar-2017,,Introduced,House,A BILL
+540,28-Mar-2017,,Reported,House,A BILL
+234,29-Mar-2017,,Introduced,House,A BILL
+387,29-Mar-2017,,Introduced,Senate,A BILL
+388,29-Mar-2017,,Introduced,House,A BILL
+539,29-Mar-2017,,Introduced,House,A BILL
+234,29-Mar-2017,,Introduced,House,A BILL
+387,29-Mar-2017,,Introduced,Senate,A BILL
+388,29-Mar-2017,,Introduced,House,A BILL
+539,29-Mar-2017,,Introduced,House,A BILL
+295,30-Mar-2017,,Introduced,House,A BILL
+493,30-Mar-2017,,Engrossed,House,AN ACT
+496,30-Mar-2017,,Introduced,House,A BILL
+295,30-Mar-2017,,Introduced,House,A BILL
+493,30-Mar-2017,,Engrossed,House,AN ACT
+496,30-Mar-2017,,Introduced,House,A BILL
+240,3-Apr-2017,,Resolved,,RESOLUTION
+240,3-Apr-2017,,Resolved,,RESOLUTION
+213,4-Apr-2017,,Resolved,,RESOLUTION
+362,4-Apr-2017,,Introduced,House,A BILL
+439,4-Apr-2017,,Introduced,Senate,A BILL
+440,4-Apr-2017,,Introduced,House,A BILL
+451,4-Apr-2017,,Introduced,Senate,A BILL
+455,4-Apr-2017,,Introduced,House,A BILL
+213,4-Apr-2017,,Resolved,,RESOLUTION
+362,4-Apr-2017,,Introduced,House,A BILL
+439,4-Apr-2017,,Introduced,Senate,A BILL
+440,4-Apr-2017,,Introduced,House,A BILL
+451,4-Apr-2017,,Introduced,Senate,A BILL
+455,4-Apr-2017,,Introduced,House,A BILL
+67,5-Apr-2017,,Resolved,,RESOLUTION
+87,5-Apr-2017,,Introduced,House,A BILL
+108,5-Apr-2017,,Resolved,,RESOLUTION
+272,5-Apr-2017,,Introduced,Senate,A BILL
+334,5-Apr-2017,,Introduced,Senate,A BILL
+371,5-Apr-2017,,Introduced,Senate,A BILL
+376,5-Apr-2017,,Introduced,House,A BILL
+456,5-Apr-2017,,Enrolled,,AN ACT
+67,5-Apr-2017,,Resolved,,RESOLUTION
+87,5-Apr-2017,,Introduced,House,A BILL
+108,5-Apr-2017,,Resolved,,RESOLUTION
+272,5-Apr-2017,,Introduced,Senate,A BILL
+334,5-Apr-2017,,Introduced,Senate,A BILL
+371,5-Apr-2017,,Introduced,Senate,A BILL
+376,5-Apr-2017,,Introduced,House,A BILL
+456,5-Apr-2017,,Enrolled,,AN ACT
+46,6-Apr-2017,,Resolved,,RESOLUTION
+64,6-Apr-2017,,Resolved,,RESOLUTION
+64,6-Apr-2017,,Resolved,,RESOLUTION
+64,6-Apr-2017,,Resolved,,RESOLUTION
+155,6-Apr-2017,,Resolved,,RESOLUTION
+46,6-Apr-2017,,Resolved,,RESOLUTION
+64,6-Apr-2017,,Resolved,,RESOLUTION
+64,6-Apr-2017,,Resolved,,RESOLUTION
+64,6-Apr-2017,,Resolved,,RESOLUTION
+155,6-Apr-2017,,Resolved,,RESOLUTION
+131,7-Apr-2017,,Resolved,,RESOLUTION
+132,7-Apr-2017,,Resolved,,RESOLUTION
+180,7-Apr-2017,,Resolved,,RESOLUTION
+181,7-Apr-2017,,Introduced,Senate,A BILL
+131,7-Apr-2017,,Resolved,,RESOLUTION
+132,7-Apr-2017,,Resolved,,RESOLUTION
+180,7-Apr-2017,,Resolved,,RESOLUTION
+181,7-Apr-2017,,Introduced,Senate,A BILL
+4,14-Apr-2017,,Introduced,Senate,A BILL
+82,14-Apr-2017,,Introduced,Senate,A BILL
+4,14-Apr-2017,,Introduced,Senate,A BILL
+82,14-Apr-2017,,Introduced,Senate,A BILL
+85,24-Apr-2017,,Resolved,,RESOLUTION
+85,24-Apr-2017,,Resolved,,RESOLUTION
+131,25-Apr-2017,,Resolved,,RESOLUTION
+181,25-Apr-2017,,Introduced,Senate,A BILL
+131,25-Apr-2017,,Resolved,,RESOLUTION
+181,25-Apr-2017,,Introduced,Senate,A BILL
+279,26-Apr-2017,,Introduced,Senate,A BILL
+315,26-Apr-2017,,Introduced,Senate,A BILL
+279,26-Apr-2017,,Introduced,Senate,A BILL
+315,26-Apr-2017,,Introduced,Senate,A BILL
+12,27-Apr-2017,,Resolved,,RESOLUTION
+116,27-Apr-2017,,Introduced,Senate,A BILL
+316,27-Apr-2017,,Introduced,Senate,A BILL
+583,27-Apr-2017,,Introduced,Senate,A BILL
+12,27-Apr-2017,,Resolved,,RESOLUTION
+116,27-Apr-2017,,Introduced,Senate,A BILL
+316,27-Apr-2017,,Introduced,Senate,A BILL
+583,27-Apr-2017,,Introduced,Senate,A BILL
+130,28-Apr-2017,,Resolved,,RESOLUTION
+130,28-Apr-2017,,Resolved,,RESOLUTION
+317,1-May-2017,,Introduced,House,A BILL
+317,1-May-2017,,Introduced,House,A BILL
+22,2-May-2017,,Introduced,House,A BILL
+24,2-May-2017,,Introduced,Senate,A BILL
+22,2-May-2017,,Introduced,House,A BILL
+24,2-May-2017,,Introduced,Senate,A BILL
+269,3-May-2017,,Introduced,House,A BILL
+420,3-May-2017,,Introduced,Senate,A BILL
+269,3-May-2017,,Introduced,House,A BILL
+420,3-May-2017,,Introduced,Senate,A BILL
+135,4-May-2017,,Resolved,,RESOLUTION
+192,4-May-2017,,Introduced,Senate,A BILL
+211,4-May-2017,,Introduced,House,A BILL
+286,4-May-2017,,Resolved,,RESOLUTION
+296,4-May-2017,,Introduced,Senate,A BILL
+496,4-May-2017,,Introduced,House,A BILL
+496,4-May-2017,,Introduced,House,A BILL
+496,4-May-2017,,Introduced,House,A BILL
+135,4-May-2017,,Resolved,,RESOLUTION
+192,4-May-2017,,Introduced,Senate,A BILL
+211,4-May-2017,,Introduced,House,A BILL
+286,4-May-2017,,Resolved,,RESOLUTION
+296,4-May-2017,,Introduced,Senate,A BILL
+496,4-May-2017,,Introduced,House,A BILL
+496,4-May-2017,,Introduced,House,A BILL
+496,4-May-2017,,Introduced,House,A BILL
+335,11-May-2017,,Introduced,House,A BILL
+400,11-May-2017,,Reported,Senate,A BILL
+335,11-May-2017,,Introduced,House,A BILL
+400,11-May-2017,,Reported,Senate,A BILL
+412,15-May-2017,,Referred,Senate,AN ACT
+412,15-May-2017,,Referred,Senate,AN ACT
+425,16-May-2017,,Referred,House,AN ACT
+425,16-May-2017,,Referred,House,AN ACT
+32,17-May-2017,,Introduced,House,A BILL
+33,17-May-2017,,Introduced,House,A BILL
+171,17-May-2017,,Resolved,,RESOLUTION
+442,17-May-2017,,Introduced,House,A BILL
+32,17-May-2017,,Introduced,House,A BILL
+33,17-May-2017,,Introduced,House,A BILL
+171,17-May-2017,,Resolved,,RESOLUTION
+442,17-May-2017,,Introduced,House,A BILL
+66,18-May-2017,,Introduced,House,A BILL
+397,18-May-2017,,Introduced,Senate,A BILL
+537,18-May-2017,,Introduced,Senate,A BILL
+66,18-May-2017,,Introduced,House,A BILL
+397,18-May-2017,,Introduced,Senate,A BILL
+537,18-May-2017,,Introduced,Senate,A BILL
+148,22-May-2017,,Introduced,House,A BILL
+148,22-May-2017,,Introduced,House,A BILL
+355,24-May-2017,,Introduced,Senate,A BILL
+491,24-May-2017,,Placed_on_Calendar ,Calendar,AN ACT
+492,24-May-2017,,Introduced,House,A BILL
+355,24-May-2017,,Introduced,Senate,A BILL
+491,24-May-2017,,Placed_on_Calendar ,Calendar,AN ACT
+492,24-May-2017,,Introduced,House,A BILL
+153,25-May-2017,,Introduced,Senate,A BILL
+303,25-May-2017,,Referred,Senate,AN ACT
+312,25-May-2017,,Introduced,House,A BILL
+313,25-May-2017,,Introduced,House,A BILL
+320,25-May-2017,,Introduced,Senate,A BILL
+322,25-May-2017,,Introduced,Senate,A BILL
+361,25-May-2017,,Resolved,,RESOLUTION
+153,25-May-2017,,Introduced,Senate,A BILL
+303,25-May-2017,,Referred,Senate,AN ACT
+312,25-May-2017,,Introduced,House,A BILL
+313,25-May-2017,,Introduced,House,A BILL
+320,25-May-2017,,Introduced,Senate,A BILL
+322,25-May-2017,,Introduced,Senate,A BILL
+361,25-May-2017,,Resolved,,RESOLUTION
+435,26-May-2017,,Introduced,House,A BILL
+435,26-May-2017,,Introduced,House,A BILL
+332,7-Jun-2017,,Resolved,,RESOLUTION
+401,7-Jun-2017,,Introduced,House,A BILL
+588,7-Jun-2017,,Placed_on_Calendar ,Calendar,AN ACT
+332,7-Jun-2017,,Resolved,,RESOLUTION
+401,7-Jun-2017,,Introduced,House,A BILL
+588,7-Jun-2017,,Placed_on_Calendar ,Calendar,AN ACT
+31,8-Jun-2017,,Introduced,Senate,A BILL
+189,8-Jun-2017,,Introduced,Senate,A BILL
+232,8-Jun-2017,,Introduced,House,A BILL
+235,8-Jun-2017,,Resolved,,RESOLUTION
+354,8-Jun-2017,,Referred,Senate,AN ACT
+592,8-Jun-2017,,Enrolled,,AN ACT
+31,8-Jun-2017,,Introduced,Senate,A BILL
+189,8-Jun-2017,,Introduced,Senate,A BILL
+232,8-Jun-2017,,Introduced,House,A BILL
+235,8-Jun-2017,,Resolved,,RESOLUTION
+354,8-Jun-2017,,Referred,Senate,AN ACT
+592,8-Jun-2017,,Enrolled,,AN ACT
+54,12-Jun-2017,,Introduced,House,A BILL
+54,12-Jun-2017,,Introduced,House,A BILL
+124,15-Jun-2017,,Introduced,House,A BILL
+124,15-Jun-2017,,Introduced,House,A BILL
+367,20-Jun-2017,,Introduced,House,A BILL
+453,20-Jun-2017,,Introduced,House,A BILL
+367,20-Jun-2017,,Introduced,House,A BILL
+453,20-Jun-2017,,Introduced,House,A BILL
+39,21-Jun-2017,,Resolved,,CONCURRENT RESOLUTION
+39,21-Jun-2017,,Resolved,,CONCURRENT RESOLUTION
+38,22-Jun-2017,,Introduced,House,A BILL
+441,22-Jun-2017,,Introduced,House,A BILL
+445,22-Jun-2017,,Reported,Senate,A BILL
+550,22-Jun-2017,,Introduced,House,A BILL
+557,22-Jun-2017,,Engrossed,House,AN ACT
+576,22-Jun-2017,,Engrossed,House,AN ACT
+584,22-Jun-2017,,Introduced,Senate,A BILL
+38,22-Jun-2017,,Introduced,House,A BILL
+441,22-Jun-2017,,Introduced,House,A BILL
+445,22-Jun-2017,,Reported,Senate,A BILL
+550,22-Jun-2017,,Introduced,House,A BILL
+557,22-Jun-2017,,Engrossed,House,AN ACT
+576,22-Jun-2017,,Engrossed,House,AN ACT
+584,22-Jun-2017,,Introduced,Senate,A BILL
+499,23-Jun-2017,,Introduced,Senate,A BILL
+499,23-Jun-2017,,Introduced,Senate,A BILL
+161,26-Jun-2017,,Resolved,,RESOLUTION
+498,26-Jun-2017,,Introduced,House,A BILL
+533,26-Jun-2017,,Engrossed,Senate,AN ACT
+161,26-Jun-2017,,Resolved,,RESOLUTION
+498,26-Jun-2017,,Introduced,House,A BILL
+533,26-Jun-2017,,Engrossed,Senate,AN ACT
+399,28-Jun-2017,,Reported,Senate,A BILL
+399,28-Jun-2017,,Reported,Senate,A BILL
+592,28-Jun-2017,,Enrolled,,AN ACT
+592,28-Jun-2017,,Enrolled,,AN ACT
+592,28-Jun-2017,,Enrolled,,AN ACT
+399,28-Jun-2017,,Reported,Senate,A BILL
+399,28-Jun-2017,,Reported,Senate,A BILL
+592,28-Jun-2017,,Enrolled,,AN ACT
+592,28-Jun-2017,,Enrolled,,AN ACT
+592,28-Jun-2017,,Enrolled,,AN ACT
+128,29-Jun-2017,,Introduced,House,A BILL
+138,29-Jun-2017,,Resolved,,RESOLUTION
+140,29-Jun-2017,,Enrolled,,AN ACT
+241,29-Jun-2017,,Introduced,House,A BILL
+242,29-Jun-2017,,Resolved,,RESOLUTION
+349,29-Jun-2017,,Introduced,Senate,A BILL
+547,29-Jun-2017,,Introduced,House,A BILL
+128,29-Jun-2017,,Introduced,House,A BILL
+138,29-Jun-2017,,Resolved,,RESOLUTION
+140,29-Jun-2017,,Enrolled,,AN ACT
+241,29-Jun-2017,,Introduced,House,A BILL
+242,29-Jun-2017,,Resolved,,RESOLUTION
+349,29-Jun-2017,,Introduced,Senate,A BILL
+547,29-Jun-2017,,Introduced,House,A BILL
+588,6-Jul-2017,,Placed_on_Calendar ,Calendar,AN ACT
+588,6-Jul-2017,,Placed_on_Calendar ,Calendar,AN ACT
+588,6-Jul-2017,,Placed_on_Calendar ,Calendar,AN ACT
+588,6-Jul-2017,,Placed_on_Calendar ,Calendar,AN ACT
+30,13-Jul-2017,,Introduced,Senate,A BILL
+30,13-Jul-2017,,Introduced,Senate,A BILL
+402,14-Jul-2017,,Introduced,House,A BILL
+402,14-Jul-2017,,Introduced,House,A BILL
+36,17-Jul-2017,,Introduced,House,A BILL
+147,17-Jul-2017,,Introduced,House,A BILL
+187,17-Jul-2017,,Resolved,,RESOLUTION
+36,17-Jul-2017,,Introduced,House,A BILL
+147,17-Jul-2017,,Introduced,House,A BILL
+187,17-Jul-2017,,Resolved,,RESOLUTION
+594,18-Jul-2017,,Engrossed,House,AN ACT
+594,18-Jul-2017,,Engrossed,House,AN ACT
+594,18-Jul-2017,,Engrossed,House,AN ACT
+594,18-Jul-2017,,Engrossed,House,AN ACT
+347,19-Jul-2017,,Introduced,House,A BILL
+580,19-Jul-2017,,Enrolled,,AN ACT
+347,19-Jul-2017,,Introduced,House,A BILL
+580,19-Jul-2017,,Enrolled,,AN ACT
+3,20-Jul-2017,,Introduced,House,A BILL
+35,20-Jul-2017,,Resolved,,RESOLUTION
+76,20-Jul-2017,,Resolved,,RESOLUTION
+90,20-Jul-2017,,Introduced,House,A BILL
+92,20-Jul-2017,,Introduced,House,A BILL
+183,20-Jul-2017,,Resolved,,RESOLUTION
+202,20-Jul-2017,,Resolved,,RESOLUTION
+480,20-Jul-2017,,Enrolled,,AN ACT
+590,20-Jul-2017,,Engrossed,House,AN ACT
+596,20-Jul-2017,,Engrossed,House,AN ACT
+3,20-Jul-2017,,Introduced,House,A BILL
+35,20-Jul-2017,,Resolved,,RESOLUTION
+76,20-Jul-2017,,Resolved,,RESOLUTION
+90,20-Jul-2017,,Introduced,House,A BILL
+92,20-Jul-2017,,Introduced,House,A BILL
+183,20-Jul-2017,,Resolved,,RESOLUTION
+202,20-Jul-2017,,Resolved,,RESOLUTION
+480,20-Jul-2017,,Enrolled,,AN ACT
+590,20-Jul-2017,,Engrossed,House,AN ACT
+596,20-Jul-2017,,Engrossed,House,AN ACT
+546,21-Jul-2017,,Introduced,House,A BILL
+546,21-Jul-2017,,Introduced,House,A BILL
+546,21-Jul-2017,,Introduced,House,A BILL
+546,21-Jul-2017,,Introduced,House,A BILL
+572,24-Jul-2017,,Enrolled,,AN ACT
+572,24-Jul-2017,,Enrolled,,AN ACT
+572,24-Jul-2017,,Enrolled,,AN ACT
+572,24-Jul-2017,,Enrolled,,AN ACT
+350,25-Jul-2017,,Engrossed,House,AN ACT
+353,25-Jul-2017,,Introduced,House,A BILL
+501,25-Jul-2017,,Introduced,House,A BILL
+506,25-Jul-2017,,Introduced,House,A BILL
+350,25-Jul-2017,,Engrossed,House,AN ACT
+353,25-Jul-2017,,Introduced,House,A BILL
+501,25-Jul-2017,,Introduced,House,A BILL
+506,25-Jul-2017,,Introduced,House,A BILL
+479,26-Jul-2017,,Introduced,Senate,A BILL
+479,26-Jul-2017,,Introduced,Senate,A BILL
+27,27-Jul-2017,,Introduced,House,A BILL
+107,27-Jul-2017,,Introduced,House,A BILL
+182,27-Jul-2017,,Introduced,Senate,A BILL
+219,27-Jul-2017,,Resolved,,RESOLUTION
+341,27-Jul-2017,,Introduced,Senate,A BILL
+382,27-Jul-2017,,Introduced,House,A BILL
+509,27-Jul-2017,,Introduced,House,A BILL
+549,27-Jul-2017,,Introduced,House,A BILL
+549,27-Jul-2017,,Introduced,House,A BILL
+27,27-Jul-2017,,Introduced,House,A BILL
+107,27-Jul-2017,,Introduced,House,A BILL
+182,27-Jul-2017,,Introduced,Senate,A BILL
+219,27-Jul-2017,,Resolved,,RESOLUTION
+341,27-Jul-2017,,Introduced,Senate,A BILL
+382,27-Jul-2017,,Introduced,House,A BILL
+509,27-Jul-2017,,Introduced,House,A BILL
+549,27-Jul-2017,,Introduced,House,A BILL
+549,27-Jul-2017,,Introduced,House,A BILL
+208,28-Jul-2017,,Introduced,Senate,A BILL
+218,28-Jul-2017,,Resolved,,CONCURRENT RESOLUTION
+579,28-Jul-2017,,Introduced,House,A BILL
+208,28-Jul-2017,,Introduced,Senate,A BILL
+218,28-Jul-2017,,Resolved,,CONCURRENT RESOLUTION
+579,28-Jul-2017,,Introduced,House,A BILL
+416,31-Jul-2017,,Introduced,Senate,A BILL
+416,31-Jul-2017,,Introduced,Senate,A BILL
+128,1-Aug-2017,,Introduced,House,A BILL
+164,1-Aug-2017,,Introduced,Senate,A BILL
+165,1-Aug-2017,,Introduced,House,A BILL
+401,1-Aug-2017,,Introduced,House,A BILL
+401,1-Aug-2017,,Introduced,House,A BILL
+128,1-Aug-2017,,Introduced,House,A BILL
+164,1-Aug-2017,,Introduced,Senate,A BILL
+165,1-Aug-2017,,Introduced,House,A BILL
+401,1-Aug-2017,,Introduced,House,A BILL
+401,1-Aug-2017,,Introduced,House,A BILL
+92,2-Aug-2017,,Introduced,House,A BILL
+92,2-Aug-2017,,Introduced,House,A BILL
+199,18-Aug-2017,,Introduced,Senate,A BILL
+199,18-Aug-2017,,Introduced,Senate,A BILL
+502,1-Sep-2017,,Introduced,House,A BILL
+502,1-Sep-2017,,Introduced,House,A BILL
+134,5-Sep-2017,,Introduced,House,A BILL
+134,5-Sep-2017,,Introduced,House,A BILL
+506,6-Sep-2017,,Introduced,House,A BILL
+506,6-Sep-2017,,Introduced,House,A BILL
+557,6-Sep-2017,,Engrossed,House,AN ACT
+557,6-Sep-2017,,Engrossed,House,AN ACT
+557,6-Sep-2017,,Engrossed,House,AN ACT
+506,6-Sep-2017,,Introduced,House,A BILL
+506,6-Sep-2017,,Introduced,House,A BILL
+557,6-Sep-2017,,Engrossed,House,AN ACT
+557,6-Sep-2017,,Engrossed,House,AN ACT
+557,6-Sep-2017,,Engrossed,House,AN ACT
+571,7-Sep-2017,,Reported,House,A BILL
+571,7-Sep-2017,,Reported,House,A BILL
+587,7-Sep-2017,,Reported,House,A BILL
+587,7-Sep-2017,,Reported,House,A BILL
+571,7-Sep-2017,,Reported,House,A BILL
+571,7-Sep-2017,,Reported,House,A BILL
+587,7-Sep-2017,,Reported,House,A BILL
+587,7-Sep-2017,,Reported,House,A BILL
+48,8-Sep-2017,,Introduced,House,A BILL
+324,8-Sep-2017,,Introduced,House,A BILL
+48,8-Sep-2017,,Introduced,House,A BILL
+324,8-Sep-2017,,Introduced,House,A BILL
+40,12-Sep-2017,,Introduced,Senate,A BILL
+426,12-Sep-2017,,Introduced,Senate,A BILL
+40,12-Sep-2017,,Introduced,Senate,A BILL
+426,12-Sep-2017,,Introduced,Senate,A BILL
+356,13-Sep-2017,,Introduced,Senate,A BILL
+356,13-Sep-2017,,Introduced,Senate,A BILL
+406,14-Sep-2017,,Introduced,House,A BILL
+461,14-Sep-2017,,Placed_on_Calendar ,Calendar,A BILL
+464,14-Sep-2017,,Reported,Senate,A BILL
+406,14-Sep-2017,,Introduced,House,A BILL
+461,14-Sep-2017,,Placed_on_Calendar ,Calendar,A BILL
+464,14-Sep-2017,,Reported,Senate,A BILL
+230,25-Sep-2017,,Introduced,House,A BILL
+230,25-Sep-2017,,Introduced,House,A BILL
+230,25-Sep-2017,,Introduced,House,A BILL
+434,25-Sep-2017,,Introduced,House,A BILL
+465,25-Sep-2017,,Introduced,House,A BILL
+465,25-Sep-2017,,Introduced,House,A BILL
+487,25-Sep-2017,,Introduced,Senate,A BILL
+230,25-Sep-2017,,Introduced,House,A BILL
+230,25-Sep-2017,,Introduced,House,A BILL
+230,25-Sep-2017,,Introduced,House,A BILL
+434,25-Sep-2017,,Introduced,House,A BILL
+465,25-Sep-2017,,Introduced,House,A BILL
+465,25-Sep-2017,,Introduced,House,A BILL
+487,25-Sep-2017,,Introduced,Senate,A BILL
+263,26-Sep-2017,,Introduced,House,A BILL
+477,26-Sep-2017,,Introduced,Senate,A BILL
+263,26-Sep-2017,,Introduced,House,A BILL
+477,26-Sep-2017,,Introduced,Senate,A BILL
+582,27-Sep-2017,,Introduced,Senate,A BILL
+585,27-Sep-2017,,Amended,,HOUSE AMENDMENT TO SENATE AMENDMENT:
+582,27-Sep-2017,,Introduced,Senate,A BILL
+585,27-Sep-2017,,Amended,,HOUSE AMENDMENT TO SENATE AMENDMENT:
+343,4-Oct-2017,,Introduced,House,A BILL
+345,4-Oct-2017,,Introduced,House,A BILL
+532,4-Oct-2017,,Introduced,House,A BILL
+343,4-Oct-2017,,Introduced,House,A BILL
+345,4-Oct-2017,,Introduced,House,A BILL
+532,4-Oct-2017,,Introduced,House,A BILL
+151,5-Oct-2017,,Resolved,,RESOLUTION
+231,5-Oct-2017,,Introduced,Senate,A BILL
+301,5-Oct-2017,,Reported,Senate,A BILL
+302,5-Oct-2017,,Introduced,Senate,A BILL
+514,5-Oct-2017,,Introduced,House,A BILL
+151,5-Oct-2017,,Resolved,,RESOLUTION
+231,5-Oct-2017,,Introduced,Senate,A BILL
+301,5-Oct-2017,,Reported,Senate,A BILL
+302,5-Oct-2017,,Introduced,Senate,A BILL
+514,5-Oct-2017,,Introduced,House,A BILL
+287,10-Oct-2017,,Resolved,,RESOLUTION
+287,10-Oct-2017,,Resolved,,RESOLUTION
+34,11-Oct-2017,,Introduced,Senate,A BILL
+34,11-Oct-2017,,Introduced,Senate,A BILL
+88,12-Oct-2017,,Introduced,House,A BILL
+88,12-Oct-2017,,Introduced,House,A BILL
+535,16-Oct-2017,,Placed_on_Calendar ,Calendar,A BILL
+535,16-Oct-2017,,Placed_on_Calendar ,Calendar,A BILL
+83,18-Oct-2017,,Introduced,Senate,A BILL
+83,18-Oct-2017,,Introduced,Senate,A BILL
+45,23-Oct-2017,,Introduced,House,A BILL
+45,23-Oct-2017,,Introduced,House,A BILL
+58,24-Oct-2017,,Resolved,,RESOLUTION
+73,24-Oct-2017,,Introduced,House,A BILL
+78,24-Oct-2017,,Introduced,House,A BILL
+190,24-Oct-2017,,Resolved,,RESOLUTION
+58,24-Oct-2017,,Resolved,,RESOLUTION
+73,24-Oct-2017,,Introduced,House,A BILL
+78,24-Oct-2017,,Introduced,House,A BILL
+190,24-Oct-2017,,Resolved,,RESOLUTION
+278,25-Oct-2017,,Introduced,House,A BILL
+364,25-Oct-2017,,Introduced,House,A BILL
+278,25-Oct-2017,,Introduced,House,A BILL
+364,25-Oct-2017,,Introduced,House,A BILL
+290,26-Oct-2017,,Introduced,House,A BILL
+292,26-Oct-2017,,Resolved,,RESOLUTION
+290,26-Oct-2017,,Introduced,House,A BILL
+292,26-Oct-2017,,Resolved,,RESOLUTION
+277,31-Oct-2017,,Introduced,House,A BILL
+277,31-Oct-2017,,Introduced,House,A BILL
+424,6-Nov-2017,,Introduced,House,A BILL
+507,6-Nov-2017,,Introduced,Senate,A BILL
+424,6-Nov-2017,,Introduced,House,A BILL
+507,6-Nov-2017,,Introduced,Senate,A BILL
+79,7-Nov-2017,,Introduced,Senate,A BILL
+175,7-Nov-2017,,Resolved,,RESOLUTION
+79,7-Nov-2017,,Introduced,Senate,A BILL
+175,7-Nov-2017,,Resolved,,RESOLUTION
+346,8-Nov-2017,,Introduced,Senate,A BILL
+346,8-Nov-2017,,Introduced,Senate,A BILL
+393,15-Nov-2017,,Introduced,House,A BILL
+393,15-Nov-2017,,Introduced,House,A BILL
+352,16-Nov-2017,,Introduced,House,A BILL
+381,16-Nov-2017,,Introduced,House,A BILL
+504,16-Nov-2017,,Introduced,Senate,A BILL
+352,16-Nov-2017,,Introduced,House,A BILL
+381,16-Nov-2017,,Introduced,House,A BILL
+504,16-Nov-2017,,Introduced,Senate,A BILL
+308,28-Nov-2017,,Introduced,House,A BILL
+308,28-Nov-2017,,Introduced,House,A BILL
+309,29-Nov-2017,,Introduced,House,A BILL
+421,29-Nov-2017,,Introduced,Senate,A BILL
+428,29-Nov-2017,,Introduced,House,A BILL
+309,29-Nov-2017,,Introduced,House,A BILL
+421,29-Nov-2017,,Introduced,Senate,A BILL
+428,29-Nov-2017,,Introduced,House,A BILL
+44,1-Dec-2017,,Introduced,House,A BILL
+564,1-Dec-2017,,Enrolled,,AN ACT
+575,1-Dec-2017,,Reported,Senate,A BILL
+44,1-Dec-2017,,Introduced,House,A BILL
+564,1-Dec-2017,,Enrolled,,AN ACT
+575,1-Dec-2017,,Reported,Senate,A BILL
+432,5-Dec-2017,,Engrossed,Senate,AN ACT
+432,5-Dec-2017,,Engrossed,Senate,AN ACT
+26,6-Dec-2017,,Introduced,House,A BILL
+314,6-Dec-2017,,Introduced,House,A BILL
+513,6-Dec-2017,,Introduced,Senate,A BILL
+26,6-Dec-2017,,Introduced,House,A BILL
+314,6-Dec-2017,,Introduced,House,A BILL
+513,6-Dec-2017,,Introduced,Senate,A BILL
+429,7-Dec-2017,,Introduced,Senate,A BILL
+513,7-Dec-2017,,Introduced,Senate,A BILL
+513,7-Dec-2017,,Introduced,Senate,A BILL
+429,7-Dec-2017,,Introduced,Senate,A BILL
+513,7-Dec-2017,,Introduced,Senate,A BILL
+513,7-Dec-2017,,Introduced,Senate,A BILL
+109,12-Dec-2017,,Resolved,,RESOLUTION
+109,12-Dec-2017,,Resolved,,RESOLUTION
+448,14-Dec-2017,,Introduced,House,A BILL
+448,14-Dec-2017,,Introduced,House,A BILL
+53,19-Dec-2017,,Resolved,,RESOLUTION
+55,19-Dec-2017,,Introduced,House,A BILL
+53,19-Dec-2017,,Resolved,,RESOLUTION
+55,19-Dec-2017,,Introduced,House,A BILL
+284,21-Dec-2017,,Introduced,Senate,A BILL
+284,21-Dec-2017,,Introduced,Senate,A BILL
+258,3-Jan-2018,,Introduced,House,A BILL
+258,3-Jan-2018,,Introduced,House,A BILL
+569,11-Jan-2018,,Amended,,Amendment:
+569,11-Jan-2018,,Amended,,Amendment:
+515,16-Jan-2018,,Introduced,Senate,A BILL
+515,16-Jan-2018,,Introduced,Senate,A BILL
+96,18-Jan-2018,,Introduced,House,A BILL
+96,18-Jan-2018,,Introduced,House,A BILL
+17,19-Jan-2018,,Resolved,,RESOLUTION
+17,19-Jan-2018,,Resolved,,RESOLUTION
+19,25-Jan-2018,,Resolved,,RESOLUTION
+152,25-Jan-2018,,Introduced,House,A BILL
+19,25-Jan-2018,,Resolved,,RESOLUTION
+152,25-Jan-2018,,Introduced,House,A BILL
+136,30-Jan-2018,,Resolved,,RESOLUTION
+293,30-Jan-2018,,Introduced,House,A BILL
+136,30-Jan-2018,,Resolved,,RESOLUTION
+293,30-Jan-2018,,Introduced,House,A BILL
+344,2-Feb-2018,,Introduced,Senate,A BILL
+344,2-Feb-2018,,Introduced,Senate,A BILL
+81,5-Feb-2018,,Introduced,House,A BILL
+516,5-Feb-2018,,Reported,House,A BILL
+81,5-Feb-2018,,Introduced,House,A BILL
+516,5-Feb-2018,,Reported,House,A BILL
+492,6-Feb-2018,,Introduced,House,A BILL
+492,6-Feb-2018,,Introduced,House,A BILL
+586,6-Feb-2018,,Placed_on_Calendar ,Calendar,A BILL
+492,6-Feb-2018,,Introduced,House,A BILL
+492,6-Feb-2018,,Introduced,House,A BILL
+586,6-Feb-2018,,Placed_on_Calendar ,Calendar,A BILL
+60,7-Feb-2018,,Introduced,Senate,A BILL
+373,7-Feb-2018,,Introduced,Senate,A BILL
+374,7-Feb-2018,,Introduced,Senate,A BILL
+60,7-Feb-2018,,Introduced,Senate,A BILL
+373,7-Feb-2018,,Introduced,Senate,A BILL
+374,7-Feb-2018,,Introduced,Senate,A BILL
+289,8-Feb-2018,,Introduced,House,A BILL
+564,8-Feb-2018,,Enrolled,,AN ACT
+564,8-Feb-2018,,Enrolled,,AN ACT
+564,8-Feb-2018,,Enrolled,,AN ACT
+289,8-Feb-2018,,Introduced,House,A BILL
+564,8-Feb-2018,,Enrolled,,AN ACT
+564,8-Feb-2018,,Enrolled,,AN ACT
+564,8-Feb-2018,,Enrolled,,AN ACT
+177,12-Feb-2018,,Introduced,House,A BILL
+177,12-Feb-2018,,Introduced,House,A BILL
+270,13-Feb-2018,,Introduced,House,A BILL
+281,13-Feb-2018,,Introduced,House,A BILL
+288,13-Feb-2018,,Introduced,Senate,A BILL
+270,13-Feb-2018,,Introduced,House,A BILL
+281,13-Feb-2018,,Introduced,House,A BILL
+288,13-Feb-2018,,Introduced,Senate,A BILL
+129,14-Feb-2018,,Resolved,,RESOLUTION
+443,14-Feb-2018,,Introduced,House,A BILL
+129,14-Feb-2018,,Resolved,,RESOLUTION
+443,14-Feb-2018,,Introduced,House,A BILL
+203,15-Feb-2018,,Introduced,House,A BILL
+485,15-Feb-2018,,Engrossed,House,AN ACT
+203,15-Feb-2018,,Introduced,House,A BILL
+485,15-Feb-2018,,Engrossed,House,AN ACT
+252,20-Feb-2018,,Referred,Senate,AN ACT
+252,20-Feb-2018,,Referred,Senate,AN ACT
+176,26-Feb-2018,,Resolved,,RESOLUTION
+176,26-Feb-2018,,Resolved,,RESOLUTION
+106,27-Feb-2018,,Introduced,House,A BILL
+121,27-Feb-2018,,Resolved,,RESOLUTION
+143,27-Feb-2018,,Resolved,,RESOLUTION
+168,27-Feb-2018,,Engrossed,House,AN ACT
+191,27-Feb-2018,,Introduced,House,A BILL
+265,27-Feb-2018,,Introduced,House,A BILL
+106,27-Feb-2018,,Introduced,House,A BILL
+121,27-Feb-2018,,Resolved,,RESOLUTION
+143,27-Feb-2018,,Resolved,,RESOLUTION
+168,27-Feb-2018,,Engrossed,House,AN ACT
+191,27-Feb-2018,,Introduced,House,A BILL
+265,27-Feb-2018,,Introduced,House,A BILL
+281,28-Feb-2018,,Introduced,House,A BILL
+281,28-Feb-2018,,Introduced,House,A BILL
+336,1-Mar-2018,,Introduced,Senate,A BILL
+410,1-Mar-2018,,Introduced,Senate,A BILL
+336,1-Mar-2018,,Introduced,Senate,A BILL
+410,1-Mar-2018,,Introduced,Senate,A BILL
+510,5-Mar-2018,,Introduced,House,A BILL
+510,5-Mar-2018,,Introduced,House,A BILL
+74,7-Mar-2018,,Introduced,House,A BILL
+233,7-Mar-2018,,Resolved,,CONCURRENT RESOLUTION
+238,7-Mar-2018,,Resolved,,RESOLUTION
+247,7-Mar-2018,,Introduced,Senate,A BILL
+74,7-Mar-2018,,Introduced,House,A BILL
+233,7-Mar-2018,,Resolved,,CONCURRENT RESOLUTION
+238,7-Mar-2018,,Resolved,,RESOLUTION
+247,7-Mar-2018,,Introduced,Senate,A BILL
+446,12-Mar-2018,,Introduced,Senate,A BILL
+446,12-Mar-2018,,Introduced,Senate,A BILL
+446,12-Mar-2018,,Introduced,Senate,A BILL
+446,12-Mar-2018,,Introduced,Senate,A BILL
+149,15-Mar-2018,,Amended,,Amendment:
+149,15-Mar-2018,,Amended,,Amendment:
+162,19-Mar-2018,,Resolved,,RESOLUTION
+411,19-Mar-2018,,Introduced,Senate,A BILL
+162,19-Mar-2018,,Resolved,,RESOLUTION
+411,19-Mar-2018,,Introduced,Senate,A BILL
+63,20-Mar-2018,,Resolved,,RESOLUTION
+418,20-Mar-2018,,Introduced,House,A BILL
+63,20-Mar-2018,,Resolved,,RESOLUTION
+418,20-Mar-2018,,Introduced,House,A BILL
+365,21-Mar-2018,,Introduced,Senate,A BILL
+370,21-Mar-2018,,Introduced,House,A BILL
+529,21-Mar-2018,,Introduced,Senate,A BILL
+365,21-Mar-2018,,Introduced,Senate,A BILL
+370,21-Mar-2018,,Introduced,House,A BILL
+529,21-Mar-2018,,Introduced,Senate,A BILL
+227,22-Mar-2018,,Introduced,House,A BILL
+405,22-Mar-2018,,Introduced,House,A BILL
+408,22-Mar-2018,,Introduced,House,A BILL
+227,22-Mar-2018,,Introduced,House,A BILL
+405,22-Mar-2018,,Introduced,House,A BILL
+408,22-Mar-2018,,Introduced,House,A BILL
+391,26-Mar-2018,,Enrolled,,AN ACT
+391,26-Mar-2018,,Enrolled,,AN ACT
+216,10-Apr-2018,,Resolved,,RESOLUTION
+216,10-Apr-2018,,Resolved,,RESOLUTION
+13,11-Apr-2018,,Resolved,,RESOLUTION
+122,11-Apr-2018,,Resolved,,RESOLUTION
+156,11-Apr-2018,,Referred,Senate,AN ACT
+244,11-Apr-2018,,Introduced,Senate,A BILL
+13,11-Apr-2018,,Resolved,,RESOLUTION
+122,11-Apr-2018,,Resolved,,RESOLUTION
+156,11-Apr-2018,,Referred,Senate,AN ACT
+244,11-Apr-2018,,Introduced,Senate,A BILL
+104,12-Apr-2018,,Introduced,House,A BILL
+104,12-Apr-2018,,Introduced,House,A BILL
+223,13-Apr-2018,,Introduced,House,A BILL
+544,13-Apr-2018,,Introduced,Senate,A BILL
+223,13-Apr-2018,,Introduced,House,A BILL
+544,13-Apr-2018,,Introduced,Senate,A BILL
+553,16-Apr-2018,,Enrolled,,AN ACT
+559,16-Apr-2018,,Placed_on_Calendar ,Calendar,AN ACT
+590,16-Apr-2018,,Engrossed,House,AN ACT
+590,16-Apr-2018,,Engrossed,House,AN ACT
+553,16-Apr-2018,,Enrolled,,AN ACT
+559,16-Apr-2018,,Placed_on_Calendar ,Calendar,AN ACT
+590,16-Apr-2018,,Engrossed,House,AN ACT
+590,16-Apr-2018,,Engrossed,House,AN ACT
+450,17-Apr-2018,,Introduced,Senate,A BILL
+520,17-Apr-2018,,Introduced,House,A BILL
+450,17-Apr-2018,,Introduced,Senate,A BILL
+520,17-Apr-2018,,Introduced,House,A BILL
+466,18-Apr-2018,,Introduced,House,A BILL
+466,18-Apr-2018,,Introduced,House,A BILL
+321,19-Apr-2018,,Introduced,Senate,A BILL
+478,19-Apr-2018,,Introduced,House,A BILL
+321,19-Apr-2018,,Introduced,Senate,A BILL
+478,19-Apr-2018,,Introduced,House,A BILL
+489,24-Apr-2018,,Introduced,House,A BILL
+489,24-Apr-2018,,Introduced,House,A BILL
+225,25-Apr-2018,,Introduced,Senate,A BILL
+384,25-Apr-2018,,Enrolled,,AN ACT
+225,25-Apr-2018,,Introduced,Senate,A BILL
+384,25-Apr-2018,,Enrolled,,AN ACT
+62,26-Apr-2018,,Introduced,Senate,A BILL
+65,26-Apr-2018,,Introduced,House,A BILL
+62,26-Apr-2018,,Introduced,Senate,A BILL
+65,26-Apr-2018,,Introduced,House,A BILL
+214,27-Apr-2018,,Resolved,,CONCURRENT RESOLUTION
+214,27-Apr-2018,,Resolved,,CONCURRENT RESOLUTION
+201,3-May-2018,,Resolved,,RESOLUTION
+201,3-May-2018,,Resolved,,RESOLUTION
+524,7-May-2018,,Reported,House,A BILL
+525,7-May-2018,,Engrossed,House,AN ACT
+527,7-May-2018,,Introduced,House,A BILL
+559,7-May-2018,,Placed_on_Calendar ,Calendar,AN ACT
+559,7-May-2018,,Placed_on_Calendar ,Calendar,AN ACT
+560,7-May-2018,,Placed_on_Calendar ,Calendar,A BILL
+524,7-May-2018,,Reported,House,A BILL
+525,7-May-2018,,Engrossed,House,AN ACT
+527,7-May-2018,,Introduced,House,A BILL
+559,7-May-2018,,Placed_on_Calendar ,Calendar,AN ACT
+559,7-May-2018,,Placed_on_Calendar ,Calendar,AN ACT
+560,7-May-2018,,Placed_on_Calendar ,Calendar,A BILL
+383,8-May-2018,,Introduced,House,A BILL
+560,8-May-2018,,Placed_on_Calendar ,Calendar,A BILL
+560,8-May-2018,,Placed_on_Calendar ,Calendar,A BILL
+383,8-May-2018,,Introduced,House,A BILL
+560,8-May-2018,,Placed_on_Calendar ,Calendar,A BILL
+560,8-May-2018,,Placed_on_Calendar ,Calendar,A BILL
+576,9-May-2018,,Engrossed,House,AN ACT
+576,9-May-2018,,Engrossed,House,AN ACT
+576,9-May-2018,,Engrossed,House,AN ACT
+576,9-May-2018,,Engrossed,House,AN ACT
+120,10-May-2018,,Reported,Senate,AN ACT
+166,10-May-2018,,Resolved,,JOINT RESOLUTION
+330,10-May-2018,,Introduced,Senate,A BILL
+120,10-May-2018,,Reported,Senate,AN ACT
+166,10-May-2018,,Resolved,,JOINT RESOLUTION
+330,10-May-2018,,Introduced,Senate,A BILL
+415,11-May-2018,,Introduced,Senate,A BILL
+415,11-May-2018,,Introduced,Senate,A BILL
+144,15-May-2018,,Reported,Senate,AN ACT
+224,15-May-2018,,Introduced,Senate,A BILL
+226,15-May-2018,,Introduced,Senate,A BILL
+144,15-May-2018,,Reported,Senate,AN ACT
+224,15-May-2018,,Introduced,Senate,A BILL
+226,15-May-2018,,Introduced,Senate,A BILL
+518,16-May-2018,,Placed_on_Calendar ,Calendar,AN ACT
+518,16-May-2018,,Placed_on_Calendar ,Calendar,AN ACT
+18,17-May-2018,,Resolved,,RESOLUTION
+91,17-May-2018,,Resolved,,RESOLUTION
+18,17-May-2018,,Resolved,,RESOLUTION
+91,17-May-2018,,Resolved,,RESOLUTION
+467,18-May-2018,,Introduced,House,A BILL
+467,18-May-2018,,Introduced,House,A BILL
+468,21-May-2018,,Introduced,House,A BILL
+468,21-May-2018,,Introduced,House,A BILL
+525,22-May-2018,,Engrossed,House,AN ACT
+525,22-May-2018,,Engrossed,House,AN ACT
+525,22-May-2018,,Engrossed,House,AN ACT
+525,22-May-2018,,Engrossed,House,AN ACT
+525,22-May-2018,,Engrossed,House,AN ACT
+525,22-May-2018,,Engrossed,House,AN ACT
+41,23-May-2018,,Introduced,House,A BILL
+43,23-May-2018,,Introduced,House,A BILL
+291,23-May-2018,,Introduced,Senate,A BILL
+523,23-May-2018,,Introduced,House,A BILL
+41,23-May-2018,,Introduced,House,A BILL
+43,23-May-2018,,Introduced,House,A BILL
+291,23-May-2018,,Introduced,Senate,A BILL
+523,23-May-2018,,Introduced,House,A BILL
+338,24-May-2018,,Introduced,House,A BILL
+360,24-May-2018,,Introduced,House,A BILL
+338,24-May-2018,,Introduced,House,A BILL
+360,24-May-2018,,Introduced,House,A BILL
+94,25-May-2018,,Resolved,,RESOLUTION
+94,25-May-2018,,Resolved,,RESOLUTION
+119,1-Jun-2018,,Introduced,Senate,A BILL
+119,1-Jun-2018,,Introduced,Senate,A BILL
+372,4-Jun-2018,,Introduced,House,A BILL
+589,4-Jun-2018,,Reported,Senate,AN ACT
+372,4-Jun-2018,,Introduced,House,A BILL
+589,4-Jun-2018,,Reported,Senate,AN ACT
+447,5-Jun-2018,,Introduced,Senate,A BILL
+589,5-Jun-2018,,Reported,Senate,AN ACT
+589,5-Jun-2018,,Reported,Senate,AN ACT
+447,5-Jun-2018,,Introduced,Senate,A BILL
+589,5-Jun-2018,,Reported,Senate,AN ACT
+589,5-Jun-2018,,Reported,Senate,AN ACT
+127,6-Jun-2018,,Resolved,,RESOLUTION
+172,6-Jun-2018,,Resolved,,RESOLUTION
+200,6-Jun-2018,,Resolved,,RESOLUTION
+127,6-Jun-2018,,Resolved,,RESOLUTION
+172,6-Jun-2018,,Resolved,,RESOLUTION
+200,6-Jun-2018,,Resolved,,RESOLUTION
+117,7-Jun-2018,,Introduced,House,A BILL
+536,7-Jun-2018,,Introduced,House,A BILL
+536,7-Jun-2018,,Introduced,House,A BILL
+117,7-Jun-2018,,Introduced,House,A BILL
+536,7-Jun-2018,,Introduced,House,A BILL
+536,7-Jun-2018,,Introduced,House,A BILL
+47,12-Jun-2018,,Resolved,,RESOLUTION
+541,12-Jun-2018,,Received,Senate,AN ACT
+541,12-Jun-2018,,Received,Senate,AN ACT
+47,12-Jun-2018,,Resolved,,RESOLUTION
+541,12-Jun-2018,,Received,Senate,AN ACT
+541,12-Jun-2018,,Received,Senate,AN ACT
+98,13-Jun-2018,,Resolved,,RESOLUTION
+157,13-Jun-2018,,Introduced,House,A BILL
+98,13-Jun-2018,,Resolved,,RESOLUTION
+157,13-Jun-2018,,Introduced,House,A BILL
+113,14-Jun-2018,,Engrossed,Senate,AN ACT
+170,14-Jun-2018,,Introduced,House,A BILL
+185,14-Jun-2018,,Introduced,House,A BILL
+280,14-Jun-2018,,Resolved,,RESOLUTION
+294,14-Jun-2018,,Introduced,Senate,A BILL
+113,14-Jun-2018,,Engrossed,Senate,AN ACT
+170,14-Jun-2018,,Introduced,House,A BILL
+185,14-Jun-2018,,Introduced,House,A BILL
+280,14-Jun-2018,,Resolved,,RESOLUTION
+294,14-Jun-2018,,Introduced,Senate,A BILL
+205,18-Jun-2018,,Introduced,Senate,A BILL
+205,18-Jun-2018,,Introduced,Senate,A BILL
+112,19-Jun-2018,,Resolved,,RESOLUTION
+221,19-Jun-2018,,Introduced,House,A BILL
+521,19-Jun-2018,,Engrossed,House,AN ACT
+112,19-Jun-2018,,Resolved,,RESOLUTION
+221,19-Jun-2018,,Introduced,House,A BILL
+521,19-Jun-2018,,Engrossed,House,AN ACT
+86,20-Jun-2018,,Introduced,House,A BILL
+188,20-Jun-2018,,Introduced,House,A BILL
+86,20-Jun-2018,,Introduced,House,A BILL
+188,20-Jun-2018,,Introduced,House,A BILL
+300,21-Jun-2018,,Introduced,Senate,A BILL
+422,21-Jun-2018,,Introduced,House,A BILL
+423,21-Jun-2018,,Introduced,Senate,A BILL
+300,21-Jun-2018,,Introduced,Senate,A BILL
+422,21-Jun-2018,,Introduced,House,A BILL
+423,21-Jun-2018,,Introduced,Senate,A BILL
+528,22-Jun-2018,,Introduced,House,A BILL
+528,22-Jun-2018,,Introduced,House,A BILL
+72,25-Jun-2018,,Introduced,House,A BILL
+578,25-Jun-2018,,Introduced,House,A BILL
+72,25-Jun-2018,,Introduced,House,A BILL
+578,25-Jun-2018,,Introduced,House,A BILL
+145,26-Jun-2018,,Resolved,,RESOLUTION
+578,26-Jun-2018,,Introduced,House,A BILL
+578,26-Jun-2018,,Introduced,House,A BILL
+145,26-Jun-2018,,Resolved,,RESOLUTION
+578,26-Jun-2018,,Introduced,House,A BILL
+578,26-Jun-2018,,Introduced,House,A BILL
+519,27-Jun-2018,,Introduced,House,A BILL
+519,27-Jun-2018,,Introduced,House,A BILL
+519,27-Jun-2018,,Introduced,House,A BILL
+519,27-Jun-2018,,Introduced,House,A BILL
+101,28-Jun-2018,,Introduced,House,A BILL
+105,28-Jun-2018,,Introduced,Senate,A BILL
+239,28-Jun-2018,,Introduced,House,A BILL
+243,28-Jun-2018,,Resolved,,RESOLUTION
+250,28-Jun-2018,,Introduced,House,A BILL
+561,28-Jun-2018,,Introduced,House,A BILL
+561,28-Jun-2018,,Introduced,House,A BILL
+101,28-Jun-2018,,Introduced,House,A BILL
+105,28-Jun-2018,,Introduced,Senate,A BILL
+239,28-Jun-2018,,Introduced,House,A BILL
+243,28-Jun-2018,,Resolved,,RESOLUTION
+250,28-Jun-2018,,Introduced,House,A BILL
+561,28-Jun-2018,,Introduced,House,A BILL
+561,28-Jun-2018,,Introduced,House,A BILL
+49,6-Jul-2018,,Resolved,,RESOLUTION
+49,6-Jul-2018,,Resolved,,RESOLUTION
+173,9-Jul-2018,,Resolved,,RESOLUTION
+400,9-Jul-2018,,Reported,Senate,A BILL
+400,9-Jul-2018,,Reported,Senate,A BILL
+173,9-Jul-2018,,Resolved,,RESOLUTION
+400,9-Jul-2018,,Reported,Senate,A BILL
+400,9-Jul-2018,,Reported,Senate,A BILL
+262,11-Jul-2018,,Introduced,House,A BILL
+299,11-Jul-2018,,Introduced,Senate,A BILL
+262,11-Jul-2018,,Introduced,House,A BILL
+299,11-Jul-2018,,Introduced,Senate,A BILL
+71,12-Jul-2018,,Introduced,Senate,A BILL
+71,12-Jul-2018,,Introduced,Senate,A BILL
+311,13-Jul-2018,,Introduced,House,A BILL
+311,13-Jul-2018,,Introduced,House,A BILL
+9,16-Jul-2018,,Introduced,Senate,A BILL
+264,16-Jul-2018,,Introduced,House,A BILL
+542,16-Jul-2018,,Engrossed,House,AN ACT
+9,16-Jul-2018,,Introduced,Senate,A BILL
+264,16-Jul-2018,,Introduced,House,A BILL
+542,16-Jul-2018,,Engrossed,House,AN ACT
+398,17-Jul-2018,,Reported,Senate,A BILL
+472,17-Jul-2018,,Introduced,Senate,A BILL
+398,17-Jul-2018,,Reported,Senate,A BILL
+472,17-Jul-2018,,Introduced,Senate,A BILL
+123,18-Jul-2018,,Resolved,,RESOLUTION
+133,18-Jul-2018,,Introduced,House,A BILL
+340,18-Jul-2018,,Introduced,House,A BILL
+123,18-Jul-2018,,Resolved,,RESOLUTION
+133,18-Jul-2018,,Introduced,House,A BILL
+340,18-Jul-2018,,Introduced,House,A BILL
+194,19-Jul-2018,,Introduced,House,A BILL
+508,19-Jul-2018,,Introduced,House,A BILL
+194,19-Jul-2018,,Introduced,House,A BILL
+508,19-Jul-2018,,Introduced,House,A BILL
+125,23-Jul-2018,,Resolved,,RESOLUTION
+563,23-Jul-2018,,Reported,House,A BILL
+563,23-Jul-2018,,Reported,House,A BILL
+125,23-Jul-2018,,Resolved,,RESOLUTION
+563,23-Jul-2018,,Reported,House,A BILL
+563,23-Jul-2018,,Reported,House,A BILL
+52,24-Jul-2018,,Introduced,Senate,A BILL
+77,24-Jul-2018,,Introduced,Senate,A BILL
+115,24-Jul-2018,,Resolved,,RESOLUTION
+52,24-Jul-2018,,Introduced,Senate,A BILL
+77,24-Jul-2018,,Introduced,Senate,A BILL
+115,24-Jul-2018,,Resolved,,RESOLUTION
+21,25-Jul-2018,,Introduced,House,A BILL
+21,25-Jul-2018,,Introduced,House,A BILL
+102,26-Jul-2018,,Introduced,Senate,A BILL
+328,26-Jul-2018,,Introduced,House,A BILL
+419,26-Jul-2018,,Introduced,House,A BILL
+471,26-Jul-2018,,Introduced,House,A BILL
+548,26-Jul-2018,,Placed_on_Calendar ,Calendar,A BILL
+102,26-Jul-2018,,Introduced,Senate,A BILL
+328,26-Jul-2018,,Introduced,House,A BILL
+419,26-Jul-2018,,Introduced,House,A BILL
+471,26-Jul-2018,,Introduced,House,A BILL
+548,26-Jul-2018,,Placed_on_Calendar ,Calendar,A BILL
+206,31-Jul-2018,,Resolved,,RESOLUTION
+206,31-Jul-2018,,Resolved,,RESOLUTION
+10,1-Aug-2018,,Resolved,,RESOLUTION
+476,1-Aug-2018,,Introduced,House,A BILL
+10,1-Aug-2018,,Resolved,,RESOLUTION
+476,1-Aug-2018,,Introduced,House,A BILL
+178,7-Aug-2018,,Resolved,,RESOLUTION
+178,7-Aug-2018,,Resolved,,RESOLUTION
+333,10-Aug-2018,,Introduced,House,A BILL
+333,10-Aug-2018,,Introduced,House,A BILL
+369,14-Aug-2018,,Introduced,Senate,A BILL
+369,14-Aug-2018,,Introduced,Senate,A BILL
+121,15-Aug-2018,,Resolved,,RESOLUTION
+121,15-Aug-2018,,Resolved,,RESOLUTION
+121,15-Aug-2018,,Resolved,,RESOLUTION
+121,15-Aug-2018,,Resolved,,RESOLUTION
+567,21-Aug-2018,,Amended,,HOUSE AMENDMENT TO SENATE AMENDMENT:
+567,21-Aug-2018,,Amended,,HOUSE AMENDMENT TO SENATE AMENDMENT:
+297,22-Aug-2018,,Introduced,House,A BILL
+297,22-Aug-2018,,Introduced,House,A BILL
+159,23-Aug-2018,,Engrossed,House,AN ACT
+545,23-Aug-2018,,Reported,House,A BILL
+159,23-Aug-2018,,Engrossed,House,AN ACT
+545,23-Aug-2018,,Reported,House,A BILL
+368,24-Aug-2018,,Introduced,House,A BILL
+368,24-Aug-2018,,Introduced,House,A BILL
+283,4-Sep-2018,,Resolved,,RESOLUTION
+311,4-Sep-2018,,Introduced,House,A BILL
+311,4-Sep-2018,,Introduced,House,A BILL
+283,4-Sep-2018,,Resolved,,RESOLUTION
+311,4-Sep-2018,,Introduced,House,A BILL
+311,4-Sep-2018,,Introduced,House,A BILL
+42,5-Sep-2018,,Introduced,House,A BILL
+304,5-Sep-2018,,Engrossed,House,AN ACT
+42,5-Sep-2018,,Introduced,House,A BILL
+304,5-Sep-2018,,Engrossed,House,AN ACT
+413,6-Sep-2018,,Engrossed,House,AN ACT
+413,6-Sep-2018,,Engrossed,House,AN ACT
+93,10-Sep-2018,,Introduced,House,A BILL
+93,10-Sep-2018,,Introduced,House,A BILL
+69,12-Sep-2018,,Introduced,Senate,A BILL
+133,12-Sep-2018,,Introduced,House,A BILL
+517,12-Sep-2018,,Introduced,House,A BILL
+517,12-Sep-2018,,Introduced,House,A BILL
+69,12-Sep-2018,,Introduced,Senate,A BILL
+133,12-Sep-2018,,Introduced,House,A BILL
+517,12-Sep-2018,,Introduced,House,A BILL
+517,12-Sep-2018,,Introduced,House,A BILL
+68,13-Sep-2018,,Resolved,,RESOLUTION
+222,13-Sep-2018,,Introduced,House,A BILL
+431,13-Sep-2018,,Reported,House,A BILL
+68,13-Sep-2018,,Resolved,,RESOLUTION
+222,13-Sep-2018,,Introduced,House,A BILL
+431,13-Sep-2018,,Reported,House,A BILL
+256,17-Sep-2018,,Enrolled,,AN ACT
+256,17-Sep-2018,,Enrolled,,AN ACT
+488,18-Sep-2018,,Introduced,House,A BILL
+488,18-Sep-2018,,Introduced,House,A BILL
+59,20-Sep-2018,,Resolved,,RESOLUTION
+59,20-Sep-2018,,Resolved,,RESOLUTION
+452,25-Sep-2018,,Introduced,House,A BILL
+452,25-Sep-2018,,Introduced,House,A BILL
+37,26-Sep-2018,,Introduced,Senate,A BILL
+50,26-Sep-2018,,Engrossed,House,AN ACT
+298,26-Sep-2018,,Introduced,House,A BILL
+337,26-Sep-2018,,Introduced,Senate,A BILL
+555,26-Sep-2018,,Resolved,,RESOLUTION
+556,26-Sep-2018,,Reported,House,A BILL
+37,26-Sep-2018,,Introduced,Senate,A BILL
+50,26-Sep-2018,,Engrossed,House,AN ACT
+298,26-Sep-2018,,Introduced,House,A BILL
+337,26-Sep-2018,,Introduced,Senate,A BILL
+555,26-Sep-2018,,Resolved,,RESOLUTION
+556,26-Sep-2018,,Reported,House,A BILL
+444,27-Sep-2018,,Introduced,Senate,A BILL
+444,27-Sep-2018,,Introduced,Senate,A BILL
+475,28-Sep-2018,,Introduced,Senate,A BILL
+566,28-Sep-2018,,Introduced,Senate,A BILL
+568,28-Sep-2018,,Introduced,House,A BILL
+475,28-Sep-2018,,Introduced,Senate,A BILL
+566,28-Sep-2018,,Introduced,Senate,A BILL
+568,28-Sep-2018,,Introduced,House,A BILL
+268,5-Oct-2018,,Introduced,House,A BILL
+325,5-Oct-2018,,Introduced,House,A BILL
+268,5-Oct-2018,,Introduced,House,A BILL
+325,5-Oct-2018,,Introduced,House,A BILL
+375,11-Oct-2018,,Introduced,House,A BILL
+390,11-Oct-2018,,Referred,House,AN ACT
+530,11-Oct-2018,,Placed_on_Calendar ,Calendar,A BILL
+375,11-Oct-2018,,Introduced,House,A BILL
+390,11-Oct-2018,,Referred,House,AN ACT
+530,11-Oct-2018,,Placed_on_Calendar ,Calendar,A BILL
+111,12-Oct-2018,,Resolved,,RESOLUTION
+490,12-Oct-2018,,Received,Senate,AN ACT
+111,12-Oct-2018,,Resolved,,RESOLUTION
+490,12-Oct-2018,,Received,Senate,AN ACT
+389,16-Oct-2018,,Introduced,Senate,A BILL
+389,16-Oct-2018,,Introduced,Senate,A BILL
+195,30-Oct-2018,,Introduced,House,A BILL
+195,30-Oct-2018,,Introduced,House,A BILL
+211,9-Nov-2018,,Introduced,House,A BILL
+211,9-Nov-2018,,Introduced,House,A BILL
+211,9-Nov-2018,,Introduced,House,A BILL
+211,9-Nov-2018,,Introduced,House,A BILL
+348,14-Nov-2018,,Introduced,Senate,A BILL
+430,14-Nov-2018,,Introduced,House,A BILL
+348,14-Nov-2018,,Introduced,Senate,A BILL
+430,14-Nov-2018,,Introduced,House,A BILL
+103,15-Nov-2018,,Introduced,Senate,A BILL
+212,15-Nov-2018,,Resolved,,CONCURRENT RESOLUTION
+531,15-Nov-2018,,Introduced,Senate,A BILL
+103,15-Nov-2018,,Introduced,Senate,A BILL
+212,15-Nov-2018,,Resolved,,CONCURRENT RESOLUTION
+531,15-Nov-2018,,Introduced,Senate,A BILL
+363,16-Nov-2018,,Introduced,House,A BILL
+562,16-Nov-2018,,Reported,House,A BILL
+363,16-Nov-2018,,Introduced,House,A BILL
+562,16-Nov-2018,,Reported,House,A BILL
+15,20-Nov-2018,,Engrossed,Senate,AN ACT
+15,20-Nov-2018,,Engrossed,Senate,AN ACT
+531,26-Nov-2018,,Introduced,Senate,A BILL
+531,26-Nov-2018,,Introduced,Senate,A BILL
+531,26-Nov-2018,,Introduced,Senate,A BILL
+531,26-Nov-2018,,Introduced,Senate,A BILL
+274,27-Nov-2018,,Introduced,Senate,A BILL
+274,27-Nov-2018,,Introduced,Senate,A BILL
+1,28-Nov-2018,,Introduced,House,A BILL
+1,28-Nov-2018,,Introduced,House,A BILL
+259,3-Dec-2018,,Introduced,House,A BILL
+259,3-Dec-2018,,Introduced,House,A BILL
+145,4-Dec-2018,,Resolved,,RESOLUTION
+145,4-Dec-2018,,Resolved,,RESOLUTION
+302,4-Dec-2018,,Introduced,Senate,A BILL
+302,4-Dec-2018,,Introduced,Senate,A BILL
+145,4-Dec-2018,,Resolved,,RESOLUTION
+145,4-Dec-2018,,Resolved,,RESOLUTION
+302,4-Dec-2018,,Introduced,Senate,A BILL
+302,4-Dec-2018,,Introduced,Senate,A BILL
+329,11-Dec-2018,,Introduced,Senate,A BILL
+329,11-Dec-2018,,Introduced,Senate,A BILL
+462,12-Dec-2018,,Amended,Senate,Senate Amendment to House Amendment:
+462,12-Dec-2018,,Amended,Senate,Senate Amendment to House Amendment:
+318,13-Dec-2018,,Engrossed,Senate,AN ACT
+462,13-Dec-2018,,Amended,Senate,Senate Amendment to House Amendment:
+462,13-Dec-2018,,Amended,Senate,Senate Amendment to House Amendment:
+318,13-Dec-2018,,Engrossed,Senate,AN ACT
+462,13-Dec-2018,,Amended,Senate,Senate Amendment to House Amendment:
+462,13-Dec-2018,,Amended,Senate,Senate Amendment to House Amendment:
+228,17-Dec-2018,,Introduced,House,A BILL
+228,17-Dec-2018,,Introduced,House,A BILL
+193,18-Dec-2018,,Resolved,,RESOLUTION
+193,18-Dec-2018,,Resolved,,RESOLUTION
+70,19-Dec-2018,,Introduced,House,A BILL
+99,19-Dec-2018,,Resolved,,RESOLUTION
+276,19-Dec-2018,,Introduced,House,A BILL
+427,19-Dec-2018,,Introduced,House,A BILL
+70,19-Dec-2018,,Introduced,House,A BILL
+99,19-Dec-2018,,Resolved,,RESOLUTION
+276,19-Dec-2018,,Introduced,House,A BILL
+427,19-Dec-2018,,Introduced,House,A BILL
+473,20-Dec-2018,,Enrolled,,AN ACT
+473,20-Dec-2018,,Enrolled,,AN ACT
+432,22-Dec-2018,,Engrossed,Senate,AN ACT
+432,22-Dec-2018,,Engrossed,Senate,AN ACT
+432,28-Dec-2018,,Engrossed,Senate,AN ACT
+432,28-Dec-2018,,Engrossed,Senate,AN ACT
+432,28-Dec-2018,,Engrossed,Senate,AN ACT
+432,28-Dec-2018,,Engrossed,Senate,AN ACT
+432,28-Dec-2018,,Engrossed,Senate,AN ACT
+432,28-Dec-2018,,Engrossed,Senate,AN ACT
+11,7-Feb-2021,"legislative day, February 6), 2017",Resolved,,RESOLUTION
+275,7-Feb-2021,"legislative day, February 6), 2017",Introduced,House,A BILL
+505,7-Feb-2021,"legislative day, February 6), 2017",Reported,Senate,A BILL
+11,7-Feb-2017,"legislative day, February 6), 2017",Resolved,,RESOLUTION
+275,7-Feb-2021,"legislative day, February 6), 2017",Introduced,House,A BILL
+505,7-Feb-2021,"legislative day, February 6), 2017",Reported,Senate,A BILL
+273,5-Apr-2021,"legislative day, April 4), 2017",Introduced,Senate,A BILL
+331,5-Apr-2021,"legislative day, April 4), 2017",Introduced,Senate,A BILL
+460,5-Apr-2021,"legislative day, April 4), 2017",Introduced,House,A BILL
+465,5-Apr-2021,"legislative day, April 4), 2017",Introduced,House,A BILL
+538,5-Apr-2021,"legislative day, April 4), 2017",Introduced,Senate,A BILL
+273,5-Apr-2021,"legislative day, April 4), 2017",Introduced,Senate,A BILL
+331,5-Apr-2021,"legislative day, April 4), 2017",Introduced,Senate,A BILL
+460,5-Apr-2021,"legislative day, April 4), 2017",Introduced,House,A BILL
+465,5-Apr-2021,"legislative day, April 4), 2017",Introduced,House,A BILL
+538,5-Apr-2021,"legislative day, April 4), 2017",Introduced,Senate,A BILL
+483,1-Oct-2021,"legislative day, September 28), 2018",Introduced,House,A BILL
+483,1-Oct-2021,"legislative day, September 28), 2018",Introduced,House,A BILL
+483,2-Oct-2021,"legislative day, September 28), 2018",Introduced,House,A BILL
+483,2-Oct-2021,"legislative day, September 28), 2018",Introduced,House,A BILL
+483,2-Oct-2021,"legislative day, September 28), 2018",Introduced,House,A BILL
+483,2-Oct-2021,"legislative day, September 28), 2018",Introduced,House,A BILL
+342,3-Oct-2021,"legislative day, September 28), 2018",Introduced,House,A BILL
+342,3-Oct-2021,"legislative day, September 28), 2018",Introduced,House,A BILL
+574,23-Aug-2018,,Introduced,House,A BILL
+574,23-Aug-2018,,Introduced,House,A BILL
+482,11-Dec-2018,,Placed_on_Calendar ,Calendar,AN ACT
+482,11-Dec-2018,,Placed_on_Calendar ,Calendar,AN ACT
+150,12-Dec-2018,,Resolved,,RESOLUTION
+150,12-Dec-2018,,Resolved,,RESOLUTION
+463,18-Dec-2018,,Introduced,Senate,A BILL
+463,18-Dec-2018,,Introduced,Senate,A BILL
+570,17-Sep-2018,,Placed_on_Calendar ,Calendar,A BILL
+570,17-Sep-2018,,Placed_on_Calendar ,Calendar,A BILL

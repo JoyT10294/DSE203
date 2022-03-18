@@ -1,0 +1,1275 @@
+,WordText,WordTextLower,CategoryLabel
+0,the  Prevention of Arms Race Act,the  prevention of arms race act,ACT
+1,2018,2018,DATE
+2,Findings Congress,findings congress,ORG
+3,Senate,senate,ORG
+4,United States,united states,GPE
+5,"500 and 5,500 kilometers","500 and 5,500 kilometers",QUANTITY
+6,Defense,defense,ORG
+7,State,state,ORG
+8,National Intelligence,national intelligence,ORG
+9,Congress,congress,ORG
+10,the  Prenatal Nondiscrimination Act,the  prenatal nondiscrimination act,ACT
+11,2017,2017,DATE
+12,American,american,NORP
+13,CVS A,cvs a,WORK_OF_ART
+14,the United States,the united states,GPE
+15,46,46,CARDINAL
+16,March 2008,march 2008,DATE
+17,the National Academy of Sciences,the national academy of sciences,ORG
+18,Columbia University,columbia university,ORG
+19,Douglas Almond,douglas almond,PERSON
+20,Lena Edlund,lena edlund,PERSON
+21,March 2006,march 2006,DATE
+22,Zogby International,zogby international,ORG
+23,86 percent,86 percent,PERCENT
+24,Americans,americans,NORP
+25,only eight,only eight,CARDINAL
+26,States,states,NORP
+27,2012,2012,DATE
+28,the Charlotte Lozier Institute,the charlotte lozier institute,ORG
+29,77 percent,77 percent,PERCENT
+30,Congressional,congressional,NORP
+31,the  Communist Government of China,the  communist government of china,ORG
+32,1990,1990,DATE
+33,Harvard University,harvard university,ORG
+34,Amartya Sen,amartya sen,PERSON
+35,more than 100 million,more than 100 million,CARDINAL
+36,the Republic of India,the republic of india,GPE
+37,the United Kingdom,the united kingdom,GPE
+38,the People’s Republic of China,the people’s republic of china,ORG
+39,The American Congress of Obstetricians,the american congress of obstetricians,ORG
+40,Gynecologists,gynecologists,NORP
+41,one,one,CARDINAL
+42,first,first,ORDINAL
+43,the American Association of Pro Life Obstetricians,the american association of pro life obstetricians,ORG
+44,One third,one third,CARDINAL
+45,South Asian,south asian,NORP
+46,Walter Astrada,walter astrada,PERSON
+47,Indian,indian,NORP
+48,Forty percent,forty percent,PERCENT
+49,89 percent,89 percent,PERCENT
+50,100 percent,100 percent,PERCENT
+51,Tony Falconer,tony falconer,PERSON
+52,the Royal College of Obstetrics and Gynaecology,the royal college of obstetrics and gynaecology,ORG
+53,the University of California,the university of california,ORG
+54,two,two,CARDINAL
+55,three,three,CARDINAL
+56,four,four,CARDINAL
+57,the American Eugenics Society,the american eugenics society,ORG
+58,"450,000","450,000",CARDINAL
+59,Black Americans,black americans,NORP
+60,each year,each year,DATE
+61,the Alan Guttmacher Institute,the alan guttmacher institute,ORG
+62,Planned Parenthood,planned parenthood,ORG
+63,the National Vital Statistics,the national vital statistics,ORG
+64,annual,annual,DATE
+65,from year to year,from year to year,DATE
+66,2005,2005,DATE
+67,Only one,only one,CARDINAL
+68,Arizona,arizona,GPE
+69,African Americans,african americans,NORP
+70,Chapter 13,chapter 13,LAW
+71,VI of,vi of,PRODUCT
+72,the Civil Rights Act,the civil rights act,ACT
+73,1964,1964,DATE
+74,601,601,CARDINAL
+75,more than 1 year,more than 1 year,DATE
+76,the Supreme Court,the supreme court,ORG
+77,Constitution,constitution,LAW
+78,1,1,CARDINAL
+79,13,13,CARDINAL
+80,the Federal Government,the federal government,ORG
+81,section 8,section 8,LAW
+82,the Fair Labor Standards Act,the fair labor standards act,ACT
+83,1938,1938,DATE
+84,29 U.S.C. 201,29 u.s.c. 201,MONEY
+85,29 U.S.C. 206,29 u.s.c. 206,MONEY
+86,29,29,CARDINAL
+87,6(d,6(d,CARDINAL
+88,6,6,CARDINAL
+89,Section 15(a,section 15(a,DATE
+90,Section 16(b,section 16(b,LAW
+91,Section 16(c,section 16(c,LAW
+92,section 6(h,section 6(h,LAW
+93,the Federal Rules of Civil Procedure,the federal rules of civil procedure,LAW
+94,Section 11(c,section 11(c,LAW
+95,Section 4(d,section 4(d,LAW
+96,1995,1995,DATE
+97,2 U.S.C.,2 u.s.c.,DATE
+98,1313(a)(1,1313(a)(1,CARDINAL
+99,206,206,CARDINAL
+100,1313(b,1313(b,DATE
+101,section 16(f,section 16(f,LAW
+102,3,3,CARDINAL
+103,United States Code,united states code,ORG
+104,2(a,2(a,CARDINAL
+105,the Presidential and Executive Office Accountability Act ( Public Law,the presidential and executive office accountability act ( public law,ACT
+106,Act,act,ACT
+107,1 year,1 year,DATE
+108,the  Research to Accelerate Cures and Equity for Children Act RACE,the  research to accelerate cures and equity for children act race,ACT
+109,Section 505B,section 505b,LAW
+110,"the Federal Food, Drug","the federal food, drug",ORG
+111,section 505B(e)(2)(C,section 505b(e)(2)(c,LAW
+112,21,21,CARDINAL
+113,Federal Regulations,federal regulations,ORG
+114,30 days,30 days,DATE
+115,later than 90 calendar days,later than 90 calendar days,DATE
+116,a)(4,a)(4,ORG
+117,2,2,CARDINAL
+118,2)(C)(i,2)(c)(i,CARDINAL
+119,2)(C)(i)(II,2)(c)(i)(ii,CARDINAL
+120,Orphan,orphan,GPE
+121,21 U.S.C.,21 u.s.c.,MONEY
+122,355c(k,355c(k,CARDINAL
+123,later than 1 year,later than 1 year,DATE
+124,Health and Human Services,health and human services,ORG
+125,505,505,CARDINAL
+126,262,262,CARDINAL
+127,Congress Section,congress section,ORG
+128,the FDA Safety and Innovation Act,the fda safety and innovation act,ACT
+129,section 505A,section 505a,LAW
+130,21 U.S.C. 355a,21 u.s.c. 355a,MONEY
+131,Section,section,ORG
+132,Section 505A(d,section 505a(d,LAW
+133,120 days,120 days,DATE
+134,the Best Pharmaceuticals for Children Act,the best pharmaceuticals for children act,ACT
+135,the 5 year,the 5 year,DATE
+136,the  Protect American Families,the  protect american families,ORG
+137,Unnecessary Registration and Deportation,unnecessary registration and deportation,ORG
+138,263,263,CARDINAL
+139,265,265,CARDINAL
+140,266,266,CARDINAL
+141,1303,1303,DATE
+142,Housing Fairness Act,housing fairness act,ACT
+143,Housing and Urban Development,housing and urban development,ORG
+144,561,561,CARDINAL
+145,the Housing and Community Development Act,the housing and community development act,ACT
+146,1987,1987,DATE
+147,42 U.S.C. 3616a(h,42 u.s.c. 3616a(h,MONEY
+148,42,42,CARDINAL
+149,42 U.S.C. 3602,42 u.s.c. 3602,MONEY
+150,15 U.S.C. 1601,15 u.s.c. 1601,DATE
+151,the 180 day,the 180 day,DATE
+152,section 553,section 553,LAW
+153,5,5,CARDINAL
+154,Authorization of Appropriations,authorization of appropriations,ORG
+155,"15,000,000","15,000,000",MONEY
+156,each of fiscal years 2018,each of fiscal years 2018,DATE
+157,2022,2022,DATE
+158,the Fair Housing Initiatives Program,the fair housing initiatives program,ORG
+159,"42,500,000","42,500,000",MONEY
+160,each of fiscal years 2015 through 2019,each of fiscal years 2015 through 2019,DATE
+161,less than 75 percent,less than 75 percent,PERCENT
+162,more than 10 percent,more than 10 percent,PERCENT
+163,any of fiscal years 2015 through 2019,any of fiscal years 2015 through 2019,DATE
+164,the Fair Housing Act,the fair housing act,ACT
+165,"5,000,000","5,000,000",MONEY
+166,this Act,this act,ACT
+167,the Office of Management and Budget,the office of management and budget,ORG
+168,Non Profit Organizations,non profit organizations,ORG
+169,Science Success Act,science success act,ACT
+170,the Small Business Administration,the small business administration,ORG
+171,Commerce for Intellectual Property,commerce for intellectual property,ORG
+172,the United States Patent and Trademark Office,the united states patent and trademark office,ORG
+173,later than 6 months,later than 6 months,DATE
+174,the Committee on Small Business of the House of Representatives,the committee on small business of the house of representatives,ORG
+175,the Committee on Small Business and Entrepreneurship,the committee on small business and entrepreneurship,ORG
+176,15,15,CARDINAL
+177,15 U.S.C.,15 u.s.c.,MONEY
+178,the House of Representatives,the house of representatives,ORG
+179,4,4,CARDINAL
+180,Treasury,treasury,ORG
+181,Smithsonian Institution,smithsonian institution,ORG
+182,Dorothy Vaughan,dorothy vaughan,PERSON
+183,the Smithsonian Institution,the smithsonian institution,ORG
+184,the National Museum of African American History and Culture,the national museum of african american history and culture,ORG
+185,Mary Jackson,mary jackson,PERSON
+186,a)(3)(B,a)(3)(b,ORG
+187,51,51,CARDINAL
+188,5134,5134,DATE
+189,5136,5136,CARDINAL
+190,31,31,CARDINAL
+191,the United States Mint Public Enterprise Fund,the united states mint public enterprise fund,ORG
+192,section 4,section 4,LAW
+193,Congressional Gold Medals,congressional gold medals,ORG
+194,Wanda Jackson,wanda jackson,PERSON
+195,Notwithstanding,notwithstanding,GPE
+196,Title I of the Omnibus Crime Control,title i of the omnibus crime control,LAW
+197,1968,1968,DATE
+198,34,34,CARDINAL
+199,10101,10101,DATE
+200,Grants,grants,ORG
+201,National Pretrial Reporting Program The,national pretrial reporting program the,ORG
+202,48 hours,48 hours,TIME
+203,monthly,monthly,DATE
+204,each fiscal year,each fiscal year,DATE
+205,fiscal year 2018,fiscal year 2018,DATE
+206,the Omnibus Crime Control,the omnibus crime control,ORG
+207,34 U.S.C.,34 u.s.c.,DATE
+208,the third fiscal year beginning,the third fiscal year beginning,DATE
+209,the  No Money Bail Act,the  no money bail act,ACT
+210,GAO,gao,ORG
+211,later than 3 years,later than 3 years,DATE
+212,the Comptroller General,the comptroller general,ORG
+213,Findings,findings,PERSON
+214,Section 201,section 201,LAW
+215,42 U.S.C.,42 u.s.c.,DATE
+216,2000a,2000a,DATE
+217,Section 202,section 202,LAW
+218,42 U.S.C. 2000a–1,42 u.s.c. 2000a–1,MONEY
+219,Title II,title ii,PRODUCT
+220,42 U.S.C. 2000c(b,42 u.s.c. 2000c(b,MONEY
+221,42 U.S.C. 2000c–6,42 u.s.c. 2000c–6,MONEY
+222,410,410,CARDINAL
+223,2000d,2000d,DATE
+224,Title VII of,title vii of,LAW
+225,section 701,section 701,LAW
+226,2000e,2000e,DATE
+227,Section 1106,section 1106,LAW
+228,Section 703 of,section 703 of,LAW
+229,Section 704(b,section 704(b,ORG
+230,2000e–3(b,2000e–3(b,CARDINAL
+231,2000e–5(g)(2)(A,2000e–5(g)(2)(a,CARDINAL
+232,Federal Government Section,federal government section,ORG
+233,42 U.S.C. 2000e–16,42 u.s.c. 2000e–16,MONEY
+234,1991,1991,DATE
+235,1106,1106,DATE
+236,1107,1107,DATE
+237,1301,1301,DATE
+238,1978,1978,DATE
+239,Chapter 23,chapter 23,LAW
+240,42 U.S.C. 2000h–2,42 u.s.c. 2000h–2,MONEY
+241,Miscellaneous Title XI,miscellaneous title xi,PERSON
+242,II,ii,ORG
+243,III,iii,ORG
+244,VI,vi,ORG
+245,1101,1101,DATE
+246,1979,1979,DATE
+247,1980,1980,DATE
+248,the Revised Statutes,the revised statutes,PRODUCT
+249,1983,1983,DATE
+250,1993,1993,DATE
+251,Sections,sections,GPE
+252,section 901,section 901,LAW
+253,901,901,CARDINAL
+254,42 U.S.C. 3631,42 u.s.c. 3631,MONEY
+255,section 802 of this Act,section 802 of this act,ACT
+256,Section 701(a)(1,section 701(a)(1,LAW
+257,the Equal Credit Opportunity Act,the equal credit opportunity act,ACT
+258,1691(a)(1,1691(a)(1,CARDINAL
+259,702,702,CARDINAL
+260,1691a,1691a,DATE
+261,1691e,1691e,DATE
+262,Chapter 121,chapter 121,LAW
+263,the  National Opposition to Hate,the  national opposition to hate,ORG
+264,Assault,assault,ORG
+265,Threats,threats,NORP
+266,the National Incident Based Reporting System,the national incident based reporting system,ORG
+267,each fiscal year beginning,each fiscal year beginning,DATE
+268,3 years,3 years,DATE
+269,the Uniform Crime Reporting,the uniform crime reporting,ORG
+270,the preceding fiscal year,the preceding fiscal year,DATE
+271,Extensions,extensions,ORG
+272,120 day,120 day,DATE
+273,more than 5 years,more than 5 years,DATE
+274,Hotline,hotline,ORG
+275,section 2 of the Thirteenth Amendment to the Constitution of,section 2 of the thirteenth amendment to the constitution of,LAW
+276,8,8,CARDINAL
+277,the  Commerce Clause,the  commerce clause,ORG
+278,Section 249,section 249,LAW
+279,18,18,CARDINAL
+280,121,121,CARDINAL
+281,Donald John Trump,donald john trump,PERSON
+282,Nazism,nazism,NORP
+283,"August 15, 2017","august 15, 2017",DATE
+284,Semites,semites,NORP
+285,Ku Klux Klansmen,ku klux klansmen,PERSON
+286,Charlottesville,charlottesville,GPE
+287,Virginia,virginia,GPE
+288,"August 7, 2017","august 7, 2017",DATE
+289,Robert E. Lee,robert e. lee,PERSON
+290,Confederate,confederate,ORG
+291,"November 29, 2017","november 29, 2017",DATE
+292,British,british,NORP
+293,Muslims,muslims,NORP
+294,Muslim,muslim,NORP
+295,Dutch,dutch,NORP
+296,Muslim Destroys a Statue of Virgin Mary,muslim destroys a statue of virgin mary,WORK_OF_ART
+297,Islamist,islamist,NORP
+298,"43,800,000","43,800,000",CARDINAL
+299,Twitter,twitter,PRODUCT
+300,Donald John Trump’s,donald john trump’s,PERSON
+301,Article II,article ii,LAW
+302,"January 27, 2017","january 27, 2017",DATE
+303,DONALD J. TRUMP STATEMENT ON,donald j. trump statement on,PERSON
+304,New York,new york,GPE
+305,NY,ny,GPE
+306,"December 7th, 2015","december 7th, 2015",DATE
+307,Donald J. Trump,donald j. trump,PERSON
+308,"July 26, 2017","july 26, 2017",DATE
+309,the United States Government,the united states government,ORG
+310,Transgender,transgender,ORG
+311,the U.S. Military,the u.s. military,ORG
+312,"September 23, 2017","september 23, 2017",DATE
+313,NFL,nfl,ORG
+314,"September 30, 2017","september 30, 2017",DATE
+315,"October 3, 2017","october 3, 2017",DATE
+316,Puerto Rico,puerto rico,GPE
+317,"October 19, 2017","october 19, 2017",DATE
+318,The Fake News,the fake news,WORK_OF_ART
+319,Wilson,wilson,PERSON
+320,SECRETLY,secretly,ORG
+321,"October 21, 2017","october 21, 2017",DATE
+322,Wacky Congresswoman,wacky congresswoman,PERSON
+323,the Democrat Party,the democrat party,ORG
+324,"October 22, 2017","october 22, 2017",DATE
+325,the Republican Party,the republican party,ORG
+326,Dems,dems,NORP
+327,42 U.S.C. 2000a,42 u.s.c. 2000a,DATE
+328,State Immunity A State,state immunity a state,ORG
+329,701,701,CARDINAL
+330,11,11,CARDINAL
+331,the Age Discrimination,the age discrimination,ORG
+332,1967,1967,DATE
+333,29 U.S.C.,29 u.s.c.,MONEY
+334,630,630,CARDINAL
+335,12103,12103,DATE
+336,the Voting Rights Act,the voting rights act,ACT
+337,1965,1965,DATE
+338,the 14th or 15th,the 14th or 15th,DATE
+339,"Federal, State","federal, state",ORG
+340,52,52,CARDINAL
+341,Determination of States and Political Subdivisions Subject to Section 4,determination of states and political subdivisions subject to section 4,ORG
+342,Section 4(b,section 4(b,LAW
+343,52 U.S.C.,52 u.s.c.,DATE
+344,Determination of States and Political Subdivisions Subject to Requirements,determination of states and political subdivisions subject to requirements,ORG
+345,previous 15 years,previous 15 years,DATE
+346,a calendar year,a calendar year,DATE
+347,the previous 15 calendar years,the previous 15 calendar years,DATE
+348,at least one,at least one,CARDINAL
+349,January 1 of the year,january 1 of the year,DATE
+350,10 years,10 years,DATE
+351,1)(B,1)(b,DATE
+352,1)(B)(ii,1)(b)(ii,CARDINAL
+353,section 2,section 2,LAW
+354,section 3(c,section 3(c,LAW
+355,section 5,section 5,LAW
+356,more than 10,more than 10,CARDINAL
+357,each calendar year,each calendar year,DATE
+358,the previous calendar year,the previous calendar year,DATE
+359,the previous year,the previous year,DATE
+360,Federal Register,federal register,ORG
+361,the Federal Register,the federal register,ORG
+362,Hispanic,hispanic,NORP
+363,Latino,latino,PERSON
+364,White,white,ORG
+365,18 years of age or,18 years of age or,DATE
+366,second,second,ORDINAL
+367,7,7,CARDINAL
+368,8),8),CARDINAL
+369,Language Minority Groups Section,language minority groups section,ORG
+370,10303(a)(1,10303(a)(1,CARDINAL
+371,52 U.S.C. 10303(a)(5,52 u.s.c. 10303(a)(5,MONEY
+372,52 U.S.C. 10301,52 u.s.c. 10301,DATE
+373,Notice of Enacted Changes,notice of enacted changes,ORG
+374,Notice of Changes,notice of changes,ORG
+375,180 days,180 days,DATE
+376,later than 48 hours,later than 48 hours,TIME
+377,the 30th day,the 30th day,DATE
+378,hours,hours,TIME
+379,fewer than 48 hours,fewer than 48 hours,TIME
+380,later than 10 days,later than 10 days,DATE
+381,18 years of age or older,18 years of age or older,DATE
+382,"greater than 10,000","greater than 10,000",CARDINAL
+383,60 day,60 day,DATE
+384,Clarification of Authority,clarification of authority,ORG
+385,the 14th or 15th Amendment,the 14th or 15th amendment,DATE
+386,10305(a,10305(a,DATE
+387,Language Minority Groups Section 4(f,language minority groups section 4(f,ORG
+388,10304,10304,DATE
+389,15 U.S.C. 1691,15 u.s.c. 1691,MONEY
+390,the  Pretrial Integrity and Safety Act,the  pretrial integrity and safety act,ACT
+391,3 fiscal years,3 fiscal years,DATE
+392,more than 6,more than 6,CARDINAL
+393,"more than $10,000,000","more than $10,000,000",MONEY
+394,"more than $6,500,000","more than $6,500,000",MONEY
+395,"more than $3,500,000","more than $3,500,000",MONEY
+396,"more than $5,000,000","more than $5,000,000",MONEY
+397,less than 95 percent,less than 95 percent,PERCENT
+398,less than 85 percent,less than 85 percent,PERCENT
+399,later than 3 days,later than 3 days,DATE
+400,later than 7 days,later than 7 days,DATE
+401,Limitations,limitations,ORG
+402,any fiscal year,any fiscal year,DATE
+403,more than 2 percent,more than 2 percent,PERCENT
+404,more than 25 percent,more than 25 percent,PERCENT
+405,the  Coast Guard Academy Improvement Act,the  coast guard academy improvement act,ACT
+406,the Coast Guard Academy,the coast guard academy,ORG
+407,the United States Coast Guard Academy,the united states coast guard academy,GPE
+408,Subtitle H,subtitle h,PERSON
+409,2002,2002,DATE
+410,6 U.S.C. 451,6 u.s.c. 451,MONEY
+411,Coast Guard Academy,coast guard academy,ORG
+412,the Coast Guard Academy Improvement Act,the coast guard academy improvement act,ACT
+413,Academy,academy,ORG
+414,later than 60 days,later than 60 days,DATE
+415,Chair,chair,NORP
+416,later than 30 days,later than 30 days,DATE
+417,later than 90 days,later than 90 days,DATE
+418,the Federal Advisory Committee Act,the federal advisory committee act,ACT
+419,5 U.S.C. App,5 u.s.c. app,MONEY
+420,later than 180 days,later than 180 days,DATE
+421,Commandant,commandant,ORG
+422,the Committees on Homeland Security,the committees on homeland security,ORG
+423,Governmental Affairs and Commerce,governmental affairs and commerce,ORG
+424,Science,science,ORG
+425,an additional year,an additional year,DATE
+426,one year,one year,DATE
+427,the Chief Human Capital Officer,the chief human capital officer,ORG
+428,the Coast Guard,the coast guard,ORG
+429,section 182,section 182,LAW
+430,14,14,CARDINAL
+431,section 890B,section 890b,ORG
+432,Beginning,beginning,EVENT
+433,2021,2021,DATE
+434,annually,annually,DATE
+435,2031,2031,DATE
+436,90 days,90 days,DATE
+437,890C.,890c.,CARDINAL
+438,section 1(b,section 1(b,LAW
+439,later than one year,later than one year,DATE
+440,Subtitle E,subtitle e,PERSON
+441,6 U.S.C. 411,6 u.s.c. 411,MONEY
+442,Department,department,ORG
+443,Half,half,CARDINAL
+444,the District of Columbia,the district of columbia,GPE
+445,the United States Virgin Islands,the united states virgin islands,GPE
+446,Resident,resident,ORG
+447,Guam,guam,GPE
+448,American Samoa,american samoa,ORG
+449,Resident Commissioner,resident commissioner,PERSON
+450,Nominations Notwithstanding,nominations notwithstanding,PERSON
+451,less than 25 percent,less than 25 percent,PERCENT
+452,182,182,CARDINAL
+453,Homeland Security,homeland security,ORG
+454,Coast Guard College Student Pre Commissioning Initiative,coast guard college student pre commissioning initiative,ORG
+455,Chapter 9,chapter 9,LAW
+456,the Coast Guard the College Student Pre Commissioning Initiative,the coast guard the college student pre commissioning initiative,ORG
+457,The Commandant of the Coast Guard,the commandant of the coast guard,WORK_OF_ART
+458,Officer Candidate School,officer candidate school,ORG
+459,each academic year,each academic year,DATE
+460,Coast Guard Academy Improvement Act,coast guard academy improvement act,ACT
+461,Coast Guard,coast guard,ORG
+462,the College Student Pre Commissioning Initiative,the college student pre commissioning initiative,ORG
+463,42 U.S.C. 1973,42 u.s.c. 1973,DATE
+464,Tribal,tribal,ORG
+465,at least 6 months,at least 6 months,DATE
+466,less than 6 months,less than 6 months,DATE
+467,the same days,the same days,DATE
+468,Indian Health Service,indian health service,ORG
+469,Bureau of Indian Affairs,bureau of indian affairs,ORG
+470,section 203,section 203,LAW
+471,the National Voter Registration Act,the national voter registration act,ACT
+472,52 U.S.C. 20506,52 u.s.c. 20506,DATE
+473,previous 25 years,previous 25 years,DATE
+474,the previous 25 calendar years,the previous 25 calendar years,DATE
+475,10,10,CARDINAL
+476,203,203,CARDINAL
+477,9,9,CARDINAL
+478,Determination of States and Political Subdivisions Subject to Preclearance for Covered Practices,determination of states and political subdivisions subject to preclearance for covered practices,ORG
+479,the Bureau of the Census,the bureau of the census,ORG
+480,20 percent,20 percent,PERCENT
+481,a year,a year,DATE
+482,the preceding decade,the preceding decade,DATE
+483,"10,000","10,000",CARDINAL
+484,52 U.S.C. 21083(b,52 u.s.c. 21083(b,MONEY
+485,English,english,LANGUAGE
+486,election day,election day,DATE
+487,at least 20 percent,at least 20 percent,PERCENT
+488,the United States District Court,the united states district court,GPE
+489,60 days,60 days,DATE
+490,the 60 day,the 60 day,DATE
+491,section 2284,section 2284,LAW
+492,28,28,CARDINAL
+493,Purpose,purpose,ORG
+494,"February 9, 2011","february 9, 2011",DATE
+495,76,76,CARDINAL
+496,Fed,fed,ORG
+497,section 1151,section 1151,DATE
+498,Alaska,alaska,GPE
+499,the Alaska Native Claims Settlement Act,the alaska native claims settlement act,ACT
+500,43 U.S.C.,43 u.s.c.,DATE
+501,Alaska Native,alaska native,GPE
+502,the Bureau of the Census for the,the bureau of the census for the,ORG
+503,25 U.S.C. 5130,25 u.s.c. 5130,MONEY
+504,10503(c,10503(c,DATE
+505,section 21,section 21,LAW
+506,section 9 of this Act,section 9 of this act,ACT
+507,25,25,CARDINAL
+508,Alaskan,alaskan,NORP
+509,American Indians,american indians,ORG
+510,U.S.C.,u.s.c.,ORG
+511,1681,1681,DATE
+512,Title VI,title vi,ORG
+513,Title IX Religious Discrimination in Schools and Colleges,title ix religious discrimination in schools and colleges,LAW
+514,the First Amendment to the Constitution of the United States,the first amendment to the constitution of the united states,LAW
+515,22,22,CARDINAL
+516,211a,211a,MONEY
+517,section 360,section 360,LAW
+518,8 U.S.C.,8 u.s.c.,DATE
+519,1503,1503,DATE
+520,the  Stop Harmful,the  stop harmful,ORG
+521,every 5 years,every 5 years,DATE
+522,Commerce for Communications and Information,commerce for communications and information,ORG
+523,the Hate Crime Statistics Act,the hate crime statistics act,ACT
+524,34 U.S.C. 41305,34 u.s.c. 41305,MONEY
+525,Threatened,threatened,ORG
+526,a)(1)(F,a)(1)(f,PERSON
+527,the 30 day,the 30 day,DATE
+528,the 45 day,the 45 day,DATE
+529,45 day,45 day,DATE
+530,fiscal years,fiscal years,DATE
+531,the Higher Education Act,the higher education act,ACT
+532,20,20,CARDINAL
+533,Section 487(a,section 487(a,LAW
+534,20 U.S.C. 1094(a,20 u.s.c. 1094(a,DATE
+535,496(a)(5,496(a)(5,CARDINAL
+536,28 U.S.C.,28 u.s.c.,MONEY
+537,994,994,CARDINAL
+538,Section 245,section 245,LAW
+539,section 994,section 994,LAW
+540,the United States Sentencing Commission,the united states sentencing commission,GPE
+541,The Administrator of the Office of Juvenile Justice and Delinquency Prevention,the administrator of the office of juvenile justice and delinquency prevention,WORK_OF_ART
+542,the Department of Justice,the department of justice,ORG
+543,juveniles,juveniles,GPE
+544,the Department of the Treasury,the department of the treasury,ORG
+545,the Community Relations Service,the community relations service,ORG
+546,"fiscal years 2017, 2018","fiscal years 2017, 2018",DATE
+547,2019,2019,DATE
+548,245,245,CARDINAL
+549,Women’s Health Act,women’s health act,ACT
+550,ovarian,ovarian,GPE
+551,the Public Health Service Act,the public health service act,ACT
+552,42 U.S.C. 243,42 u.s.c. 243,MONEY
+553,the Preventive Services Guidelines of,the preventive services guidelines of,ORG
+554,the Health Resources and Service Administration,the health resources and service administration,ORG
+555,"October 30, 2017","october 30, 2017",DATE
+556,"200,000,000","200,000,000",MONEY
+557,each of fiscal years 2019,each of fiscal years 2019,DATE
+558,300,300,CARDINAL
+559,the  Foundation of the Federal Bar Association Charter Amendments Act,the  foundation of the federal bar association charter amendments act,ACT
+560,36,36,CARDINAL
+561,Section 70504,section 70504,LAW
+562,70508,70508,CARDINAL
+563,Section 70510,section 70510,LAW
+564,Section 70512,section 70512,LAW
+565,Section 4001,section 4001,LAW
+566,Representatives,representatives,ORG
+567,Declaratory Judgment,declaratory judgment,PERSON
+568,fifteenth,fifteenth,ORDINAL
+569,Section 1,section 1,LAW
+570,1(a,1(a,CARDINAL
+571,10301,10301,DATE
+572,Finding of Constitutional Authority,finding of constitutional authority,ORG
+573,section 3,section 3,LAW
+574,An Act,an act,ACT
+575,"June 18, 1929","june 18, 1929",DATE
+576,later than 72 hours,later than 72 hours,TIME
+577,3(d,3(d,CARDINAL
+578,Notice of Final Adopted Congressional Redistricting Plan Not,notice of final adopted congressional redistricting plan not,ORG
+579,2020,2020,DATE
+580,"January 1, 2017","january 1, 2017",DATE
+581,each of fiscal years 2017,each of fiscal years 2017,DATE
+582,Title IV,title iv,PERSON
+583,"State
+ ","state
+ ",ORG
+584,"Biennial
+ ","biennial
+ ",ORG
+585,section 4702,section 4702,DATE
+586,"later than January 1, 2019","later than january 1, 2019",DATE
+587,2 years,2 years,DATE
+588,section 4703,section 4703,LAW
+589,the  Intern Protection Act,the  intern protection act,ACT
+590,section 701(h,section 701(h,DATE
+591,42 U.S.C. 2000e(h,42 u.s.c. 2000e(h,MONEY
+592,section 302(a)(1,section 302(a)(1,LAW
+593,section 101,section 101,LAW
+594,at least 40 years of age,at least 40 years of age,DATE
+595,1311(a)(1,1311(a)(1,CARDINAL
+596,section 4(a,section 4(a,LAW
+597,Commission,commission,ORG
+598,the Library of Congress,the library of congress,ORG
+599,Board The Board,board the board,ORG
+600,10(a)(3,10(a)(3,DATE
+601,304,304,CARDINAL
+602,Tomorrow,tomorrow,DATE
+603,29 U.S.C. 3102,29 u.s.c. 3102,MONEY
+604,Labor,labor,ORG
+605,section 181,section 181,LAW
+606,the first 5 full fiscal years,the first 5 full fiscal years,DATE
+607,Section 134(d)(1)(A,section 134(d)(1)(a,LAW
+608,the Workforce Innovation,the workforce innovation,ORG
+609,Section 170,section 170,LAW
+610,section 132(a)(2)(A,section 132(a)(2)(a,LAW
+611,"40,000,000","40,000,000",MONEY
+612,later than December 1 of each year,later than december 1 of each year,DATE
+613,the Federal Bureau of Investigation,the federal bureau of investigation,ORG
+614,Career,career,LOC
+615,Technical Education Act,technical education act,ACT
+616,the Carl D. Perkins Career,the carl d. perkins career,FAC
+617,2006,2006,DATE
+618,Section 9,section 9,LAW
+619,2023,2023,DATE
+620,Subparagraph,subparagraph,PERSON
+621,section 112(a)(2,section 112(a)(2,LAW
+622,"less than $100,000","less than $100,000",MONEY
+623,20 U.S.C.,20 u.s.c.,DATE
+624,Section 114(d,section 114(d,LAW
+625,20 U.S.C. 2324(d,20 u.s.c. 2324(d,MONEY
+626,20 U.S.C. 2342(c,20 u.s.c. 2342(c,MONEY
+627,Section 123,section 123,LAW
+628,20 U.S.C. 2343,20 u.s.c. 2343,DATE
+629,section 124(b)(10,section 124(b)(10,LAW
+630,the first program year,the first program year,DATE
+631,113(c)(2)(A,113(c)(2)(a,CARDINAL
+632,3 consecutive years,3 consecutive years,DATE
+633,less than 10 percent,less than 10 percent,PERCENT
+634,section 131,section 131,LAW
+635,132,132,CARDINAL
+636,section 135(b)(9,section 135(b)(9,LAW
+637,Section 124(b,section 124(b,LAW
+638,Section 134(b,section 134(b,LAW
+639,20 U.S.C. 2355(b,20 u.s.c. 2355(b,MONEY
+640,17,17,CARDINAL
+641,Principles of Environmental Justice,principles of environmental justice,ORG
+642,the First National People of Color Environmental Leadership Summit,the first national people of color environmental leadership summit,ORG
+643,October 24,october 24,DATE
+644,"27, 1991","27, 1991",DATE
+645,Washington,washington,GPE
+646,DC,dc,GPE
+647,the Working Group,the working group,ORG
+648,Executive Order,executive order,ORG
+649,65,65,CARDINAL
+650,50121,50121,DATE
+651,"August 16, 2000","august 16, 2000",DATE
+652,Working Group,working group,ORG
+653,4321,4321,DATE
+654,Federal Working Group on Environmental Justice,federal working group on environmental justice,ORG
+655,Composition The Working Group,composition the working group,ORG
+656,Agriculture,agriculture,ORG
+657,Commerce,commerce,ORG
+658,Energy,energy,ORG
+659,Interior,interior,ORG
+660,Transportation,transportation,ORG
+661,the Office of Environmental Justice,the office of environmental justice,ORG
+662,the Consumer Product Safety Commission,the consumer product safety commission,ORG
+663,the Chemical Safety Board,the chemical safety board,ORG
+664,the Office of Science and Technology Policy,the office of science and technology policy,ORG
+665,the Council on Environmental Quality,the council on environmental quality,ORG
+666,Domestic Policy,domestic policy,ORG
+667,the National Economic Council,the national economic council,ORG
+668,the Council of Economic Advisers,the council of economic advisers,ORG
+669,the Environmental Protection Agency,the environmental protection agency,ORG
+670,the Department of Health and Human Services,the department of health and human services,ORG
+671,the Department of Housing and Urban Development,the department of housing and urban development,ORG
+672,the Federal agency,the federal agency,ORG
+673,Nondiscrimination Each Federal,nondiscrimination each federal,ORG
+674,1969,1969,DATE
+675,42 U.S.C. 4321,42 u.s.c. 4321,DATE
+676,42 U.S.C. 5121,42 u.s.c. 5121,MONEY
+677,Council on Environmental Quality Notwithstanding,council on environmental quality notwithstanding,ORG
+678,the National Environmental Policy Act,the national environmental policy act,ACT
+679,Research Each Federal,research each federal,ORG
+680,552a,552a,PRODUCT
+681,the Emergency Planning and Community Right,the emergency planning and community right,ORG
+682,1986,1986,DATE
+683,EJScreen,ejscreen,ORG
+684,National Environmental Justice Advisory Council,national environmental justice advisory council,ORG
+685,"September 30, 1993","september 30, 1993",DATE
+686,the  Advisory Council,the  advisory council,ORG
+687,the Advisory Council,the advisory council,ORG
+688,the day before the date,the day before the date,DATE
+689,Advisory Council,advisory council,ORG
+690,later than 120 days,later than 120 days,DATE
+691,Advisory Council The Administrator,advisory council the administrator,ORG
+692,Duration The Advisory Council,duration the advisory council,ORG
+693,the Environmental Justice Small Grants Program,the environmental justice small grants program,ORG
+694,the Environmental Justice Collaborative Problem Solving Cooperative Agreement Program,the environmental justice collaborative problem solving cooperative agreement program,ORG
+695,the Community Action,the community action,ACT
+696,"January 1, 2012","january 1, 2012",DATE
+697,"10,000,000","10,000,000",MONEY
+698,2027,2027,DATE
+699,Federal Water Pollution Control Act Section,federal water pollution control act section,ACT
+700,the Federal Water Pollution Control Act,the federal water pollution control act,ACT
+701,33 U.S.C.,33 u.s.c.,DATE
+702,1342,1342,DATE
+703,Clean Air Act,clean air act,ACT
+704,the Clean Air Act,the clean air act,ACT
+705,fourth,fourth,ORDINAL
+706,third,third,ORDINAL
+707,section 503(b)(3,section 503(b)(3,LAW
+708,V)(bb,v)(bb,ORG
+709,42 U.S.C. 7661b(b,42 u.s.c. 7661b(b,MONEY
+710,section 108 or,section 108 or,LAW
+711,112,112,CARDINAL
+712,33 U.S.C. 1365,33 u.s.c. 1365,DATE
+713,Act this Act,act this act,ACT
+714,the Surface Mining Control and Reclamation Act,the surface mining control and reclamation act,ACT
+715,1977,1977,DATE
+716,the Marine Protection,the marine protection,ORG
+717,1972,1972,DATE
+718,33 U.S.C. 1401,33 u.s.c. 1401,DATE
+719,300f,300f,MONEY
+720,42 U.S.C. 1983,42 u.s.c. 1983,DATE
+721,Section 602,section 602,LAW
+722,the  National Security Diversity and Inclusion Workforce Act,the  national security diversity and inclusion workforce act,ACT
+723,the Committee on Foreign Relations,the committee on foreign relations,ORG
+724,the Committee on Armed Services,the committee on armed services,ORG
+725,the Committee on Homeland Security,the committee on homeland security,ORG
+726,Governmental Affairs,governmental affairs,ORG
+727,the Select Committee on Intelligence,the select committee on intelligence,ORG
+728,the Committee on Appropriations of the Senate,the committee on appropriations of the senate,ORG
+729,the Committee on Foreign Affairs,the committee on foreign affairs,ORG
+730,the Permanent Select Committee on Intelligence,the permanent select committee on intelligence,ORG
+731,the Committee on Appropriations of the House of Representatives,the committee on appropriations of the house of representatives,ORG
+732,the Department of State,the department of state,ORG
+733,the United States Agency,the united states agency,GPE
+734,International Development,international development,ORG
+735,the Department of Defense,the department of defense,ORG
+736,the Armed Forces,the armed forces,ORG
+737,the Office of International Affairs,the office of international affairs,ORG
+738,the Office of Critical Infrastructure Protection of the Department of the Treasury,the office of critical infrastructure protection of the department of the treasury,ORG
+739,the National Security Division of,the national security division of,ORG
+740,the Department of Homeland Security,the department of homeland security,ORG
+741,the Foreign Agricultural Service of the Department of Agriculture,the foreign agricultural service of the department of agriculture,ORG
+742,the Foreign Service,the foreign service,ORG
+743,section 2101,section 2101,LAW
+744,the national security agency,the national security agency,ORG
+745,the New Inclusion Quotient,the new inclusion quotient,ORG
+746,Presenting Federal Data,presenting federal data,ORG
+747,Ethnicity,ethnicity,ORG
+748,Senior Executive Service,senior executive service,ORG
+749,412,412,CARDINAL
+750,147,147,CARDINAL
+751,32,32,CARDINAL
+752,a period of,a period of,DATE
+753,Mary Jo Lawyer Spano Mesothelioma,mary jo lawyer spano mesothelioma,PERSON
+754,mesothelioma data collection and,mesothelioma data collection and,ORG
+755,Title III,title iii,PRODUCT
+756,mesothelioma data collection,mesothelioma data collection,ORG
+757,the Administrator of the Agency,the administrator of the agency,ORG
+758,Toxic Substances and Disease Registry,toxic substances and disease registry,ORG
+759,the National Institutes of Health,the national institutes of health,ORG
+760,the Food and Drug Administration,the food and drug administration,ORG
+761,the Centers for Medicare & Medicaid Services,the centers for medicare & medicaid services,ORG
+762,Healthcare Research and Quality,healthcare research and quality,ORG
+763,the Department of Veterans Affairs,the department of veterans affairs,ORG
+764,3009,3009,DATE
+765,later than 18 months,later than 18 months,DATE
+766,later than 4 years,later than 4 years,DATE
+767,any fiscal year beginning,any fiscal year beginning,DATE
+768,10 percent,10 percent,PERCENT
+769,that fiscal year,that fiscal year,DATE
+770,Section 1701,section 1701,LAW
+771,the first fiscal year beginning,the first fiscal year beginning,DATE
+772,the 3 fiscal years,the 3 fiscal years,DATE
+773,3(a,3(a,CARDINAL
+774,Beginning in the fifth fiscal year beginning,beginning in the fifth fiscal year beginning,WORK_OF_ART
+775,3796dd,3796dd,LAW
+776,1974,1974,DATE
+777,"Travel
+ ","travel
+ ",ORG
+778,"September 24, 2017","september 24, 2017",DATE
+779,"March 6, 2017","march 6, 2017",DATE
+780,Nicaragua,nicaragua,GPE
+781,Termination of the Designation of Nicaragua for Temporary Protected Status,termination of the designation of nicaragua for temporary protected status,WORK_OF_ART
+782,Haiti,haiti,GPE
+783,Termination of the Designation of Haiti for Temporary Protected Status,termination of the designation of haiti for temporary protected status,WORK_OF_ART
+784,El Salvador,el salvador,GPE
+785,Termination of the Designation of El Salvador for Temporary Protected Status,termination of the designation of el salvador for temporary protected status,WORK_OF_ART
+786,the  Missing Children’s Assistance Amendment Act,the  missing children’s assistance amendment act,ACT
+787,the Juvenile Justice and Delinquency Prevention Act,the juvenile justice and delinquency prevention act,ACT
+788,the Executive Order,the executive order,ORG
+789,the  Protecting Youth,the  protecting youth,ORG
+790,Section 5039,section 5039,LAW
+791,24 hour,24 hour,TIME
+792,"20,000,000","20,000,000",MONEY
+793,fiscal year,fiscal year,DATE
+794,a fiscal year,a fiscal year,DATE
+795,Title,title,PRODUCT
+796,the Hate Crimes Statistics Act,the hate crimes statistics act,ACT
+797,28 U.S.C. 534,28 u.s.c. 534,MONEY
+798,the fiscal year 2018,the fiscal year 2018,DATE
+799,the Office for Victims of Crime,the office for victims of crime,ORG
+800,the Office of Justice Programs,the office of justice programs,ORG
+801,42 U.S.C. 3711,42 u.s.c. 3711,MONEY
+802,the first 180 days,the first 180 days,DATE
+803,Prince Hall Freemasonry,prince hall freemasonry,ORG
+804,Chapter 11,chapter 11,LAW
+805,later than January 31 of each year,later than january 31 of each year,DATE
+806,Education,education,ORG
+807,the Institute of Education Sciences,the institute of education sciences,ORG
+808,Bias,bias,PERSON
+809,Mothers and Offspring Mortality and Morbidity Awareness Act MOMMA’s,mothers and offspring mortality and morbidity awareness act momma’s,ACT
+810,Improving Federal,improving federal,ORG
+811,the Centers for Disease Control and Prevention,the centers for disease control and prevention,ORG
+812,Alliance for Innovation on Maternal Health Grant Program,alliance for innovation on maternal health grant program,ORG
+813,the Associate Administrator of the Maternal and Child Health Bureau of the Health Resources and Services Administration,the associate administrator of the maternal and child health bureau of the health resources and services administration,ORG
+814,the Alliance for Innovation on Maternal Health Grant Program,the alliance for innovation on maternal health grant program,ORG
+815,AIM,aim,ORG
+816,CHIP,chip,ORG
+817,Medicaid,medicaid,ORG
+818,Section 1902,section 1902,LAW
+819,42 U.S.C. 1396a,42 u.s.c. 1396a,DATE
+820,60 day one year,60 day one year,DATE
+821,Section 1903(v)(4)(A,section 1903(v)(4)(a,LAW
+822,the Social Security Act,the social security act,ACT
+823,Section 2112(d)(2)(A,section 2112(d)(2)(a,LAW
+824,Medicaid Section,medicaid section,ORG
+825,1396a(l,1396a(l,CARDINAL
+826,42 U.S.C. 1397ee(d,42 u.s.c. 1397ee(d,MONEY
+827,five years,five years,DATE
+828,section 1903(v)(4)(A)(i,section 1903(v)(4)(a)(i,LAW
+829,section 2107(e)(1,section 2107(e)(1,LAW
+830,the first day,the first day,DATE
+831,quarter,quarter,DATE
+832,2 year,2 year,DATE
+833,the Office of Government Ethics,the office of government ethics,ORG
+834,Citizens United,citizens united,GPE
+835,the Federal Election Commission,the federal election commission,ORG
+836,Vietnam,vietnam,GPE
+837,Veterans Affairs,veterans affairs,ORG
+838,the Centers of Disease Control and Prevention of the Department of Health and Human Services,the centers of disease control and prevention of the department of health and human services,ORG
+839,the Veterans Affairs Central Cancer Registry,the veterans affairs central cancer registry,ORG
+840,the National Program of Cancer Registries,the national program of cancer registries,ORG
+841,Applicability of Federal law Notwithstanding,applicability of federal law notwithstanding,ORG
+842,the  Protecting Newborns,the  protecting newborns,ORG
+843,NAS,nas,ORG
+844,CDC,cdc,ORG
+845,Programs,programs,ORG
+846,Statistics,statistics,ORG
+847,the Safe and Drug Free Schools,the safe and drug free schools,ORG
+848,State Application Section,state application section,ORG
+849,20 U.S.C. 7114(d,20 u.s.c. 7114(d,MONEY
+850,7132,7132,DATE
+851,section 4151,section 4151,LAW
+852,20 U.S.C. 7151,20 u.s.c. 7151,DATE
+853,Risk Factor Paragraph,risk factor paragraph,ORG
+854,Bullying,bullying,GPE
+855,Federal and State Nondiscrimination Laws Nothing,federal and state nondiscrimination laws nothing,ORG
+856,the Elementary and Secondary Education Act,the elementary and secondary education act,ACT
+857,20 U.S.C. 6301,20 u.s.c. 6301,DATE
+858,longer than 4 hours,longer than 4 hours,TIME
+859,section 4(1,section 4(1,DATE
+860,the Federal Rules of Criminal Procedure,the federal rules of criminal procedure,ORG
+861,4 hours,4 hours,TIME
+862,later than 5 days,later than 5 days,DATE
+863,the  Women Inventor Development and Equality Act,the  women inventor development and equality act,ACT
+864,the  African American Civil Rights Network Act,the  african american civil rights network act,ACT
+865,U.S. Civil Rights Network Program,u.s. civil rights network program,ORG
+866,Subdivision 1 of Division B,subdivision 1 of division b,ORG
+867,54,54,CARDINAL
+868,chapter 3083,chapter 3083,LAW
+869,U.S. Civil Rights Network,u.s. civil rights network,ORG
+870,Service,service,ORG
+871,the  U.S. Civil Rights Network,the  u.s. civil rights network,ORG
+872,Network,network,ORG
+873,section 308402(c,section 308402(c,DATE
+874,Offense,offense,ORG
+875,more than 10 years,more than 10 years,DATE
+876,any term of years,any term of years,DATE
+877,249,249,CARDINAL
+878,marijuana programs,marijuana programs,PERSON
+879,the Department of Labor,the department of labor,ORG
+880,10 year,10 year,DATE
+881,yearly,yearly,DATE
+882,the Federal and State,the federal and state,ORG
+883,the next 5 years,the next 5 years,DATE
+884,the next 10 years,the next 10 years,DATE
+885,Section 104(e)(3,section 104(e)(3,LAW
+886,the Child Abuse Prevention and Treatment Act,the child abuse prevention and treatment act,ACT
+887,5105(e)(3,5105(e)(3,CARDINAL
+888,up to 5,up to 5,CARDINAL
+889,up to 30 percent,up to 30 percent,PERCENT
+890,"the Committee on Health, Education","the committee on health, education",ORG
+891,Pensions,pensions,NORP
+892,the Committee on Education,the committee on education,ORG
+893,section 112,section 112,LAW
+894,the end of fiscal year 2022,the end of fiscal year 2022,DATE
+895,the day,the day,DATE
+896,USA Values Act,usa values act,ACT
+897,Prohibition No Executive,prohibition no executive,ORG
+898,Executive,executive,NORP
+899,the  Department of Homeland Security Accountability,the  department of homeland security accountability,ORG
+900,U.S. Customs and Border Protection,u.s. customs and border protection,ORG
+901,U.S. Immigration and Customs Enforcement,u.s. immigration and customs enforcement,ORG
+902,the Immigration and Nationality Act,the immigration and nationality act,ACT
+903,the Tariff Act,the tariff act,ACT
+904,1930,1930,DATE
+905,19 U.S.C. 1401,19 u.s.c. 1401,DATE
+906,U.S. Customs,u.s. customs,ORG
+907,Border Protection,border protection,ORG
+908,the Department of Homeland Security’s Office of Inspector General,the department of homeland security’s office of inspector general,ORG
+909,U.S. Customs and Border Protection’s Office of Professional Responsibility,u.s. customs and border protection’s office of professional responsibility,ORG
+910,U.S. Immigration and Customs Enforcement’s Office of Professional Responsibility,u.s. immigration and customs enforcement’s office of professional responsibility,ORG
+911,section 3(d,section 3(d,LAW
+912,Department of Homeland Security,department of homeland security,ORG
+913,Section 399V–2 of,section 399v–2 of,LAW
+914,CHD,chd,ORG
+915,the Health Insurance Portability,the health insurance portability,ORG
+916,1996,1996,DATE
+917,"4,000,000","4,000,000",MONEY
+918,Section 425 of,section 425 of,LAW
+919,Institute,institute,ORG
+920,NIH,nih,ORG
+921,the  Congenital Heart Futures Reauthorization Act,the  congenital heart futures reauthorization act,ACT
+922,Section 399V–2,section 399v–2,LAW
+923,The Department of Education Organization Act,the department of education organization act,ACT
+924,the Inspector General of,the inspector general of,ORG
+925,the Department of Education,the department of education,ORG
+926,20 U.S.C. 3413(b,20 u.s.c. 3413(b,DATE
+927,Levy Fines Section,levy fines section,ORG
+928,"October 1, 2020","october 1, 2020",DATE
+929,"later than April 1, 2019","later than april 1, 2019",DATE
+930,the Centers for Disease Control of,the centers for disease control of,ORG
+931,the National Intimate Partner and Sexual Violence Survey,the national intimate partner and sexual violence survey,ORG
+932,the National Center for Injury Prevention,the national center for injury prevention,ORG
+933,the preceding calendar year,the preceding calendar year,DATE
+934,LGBTQ,lgbtq,ORG
+935,the Education Amendments of,the education amendments of,ORG
+936,Section 485(f)(14,section 485(f)(14,LAW
+937,Section 485(f)(13,section 485(f)(13,LAW
+938,20 U.S.C. 1092(f)(13,20 u.s.c. 1092(f)(13,DATE
+939,Comptroller General Review,comptroller general review,ORG
+940,"later than August 1, 2020","later than august 1, 2020",DATE
+941,"later than September 1, 2020","later than september 1, 2020",DATE
+942,the Violence Against Women Act of 1994,the violence against women act of 1994,ACT
+943,more than 3 years,more than 3 years,DATE
+944,the Campus Sexual Violence Task Force,the campus sexual violence task force,ORG
+945,Task Force,task force,PRODUCT
+946,20 U.S.C. 1681,20 u.s.c. 1681,DATE
+947,Section 13,section 13,LAW
+948,the Securities Exchange Act,the securities exchange act,ACT
+949,1934,1934,DATE
+950,42 U.S.C. 2000e–3(a,42 u.s.c. 2000e–3(a,MONEY
+951,503,503,CARDINAL
+952,the Genetic Information Nondiscrimination Act,the genetic information nondiscrimination act,ACT
+953,2008,2008,DATE
+954,section 4311(b,section 4311(b,LAW
+955,38,38,CARDINAL
+956,section 40002(b)(13)(A,section 40002(b)(13)(a,LAW
+957,the Violence Against Women Act,the violence against women act,ACT
+958,1994,1994,DATE
+959,34 U.S.C. 12291(b)(13)(A,34 u.s.c. 12291(b)(13)(a,MONEY
+960,B)(vi)(II,b)(vi)(ii,ORG
+961,the Age Discrimination in Employment Act of 1967,the age discrimination in employment act of 1967,ACT
+962,501,501,CARDINAL
+963,the Rehabilitation Act of 1973,the rehabilitation act of 1973,ACT
+964,42 U.S.C. 2000ff,42 u.s.c. 2000ff,TIME
+965,section 4311(a,section 4311(a,LAW
+966,the first fiscal year,the first fiscal year,DATE
+967,A)(i,a)(i,ORG
+968,the Commission The Commission,the commission the commission,ORG
+969,Chapter 81,chapter 81,LAW
+970,"1253, 1254","1253, 1254",DATE
+971,81,81,CARDINAL
+972,Chapter 85,chapter 85,LAW
+973,1261,1261,DATE
+974,85,85,CARDINAL
+975,Federal data collection efforts,federal data collection efforts,ORG
+976,the  Concussion Awareness and Education Act,the  concussion awareness and education act,ACT
+977,Concussion Research Commission,concussion research commission,ORG
+978,a Concussion Research Commission,a concussion research commission,ORG
+979,nine,nine,CARDINAL
+980,Five,five,CARDINAL
+981,Vacancies,vacancies,ORG
+982,chapter 57,chapter 57,LAW
+983,at least 4,at least 4,CARDINAL
+984,Federal department,federal department,ORG
+985,6 months,6 months,DATE
+986,later than 36 months,later than 36 months,DATE
+987,Termination The Commission,termination the commission,ORG
+988,each of fiscal years 2020,each of fiscal years 2020,DATE
+989,2024,2024,DATE
+990,the  Law Enforcement Inclusion Act,the  law enforcement inclusion act,ACT
+991,2016,2016,DATE
+992,42 U.S.C. 3796dd(b,42 u.s.c. 3796dd(b,MONEY
+993,the  Office of Biometric Identity Management Authorization Act,the  office of biometric identity management authorization act,ACT
+994,OBIM Authorization Act,obim authorization act,ACT
+995,the Office of Biometric Identity Management,the office of biometric identity management,ORG
+996,6 U.S.C. 341,6 u.s.c. 341,MONEY
+997,Office of Biometric Identity Management,office of biometric identity management,ORG
+998,the Management Directorate of the Department,the management directorate of the department,ORG
+999,Biometric Support Centers,biometric support centers,ORG
+1000,the Department’s Office of  ,the department’s office of  ,ORG
+1001,section 222,section 222,LAW
+1002,the Office for Civil Rights and Civil Liberties of the Department,the office for civil rights and civil liberties of the department,ORG
+1003,Office,office,ORG
+1004,709,709,CARDINAL
+1005,the  Computer Science for All Act,the  computer science for all act,ACT
+1006,the Bureau of Indian Education,the bureau of indian education,ORG
+1007,the Indian Self Determination and Education Assistance Act,the indian self determination and education assistance act,ACT
+1008,25 U.S.C.,25 u.s.c.,MONEY
+1009,the Tribally Controlled Schools Act,the tribally controlled schools act,ACT
+1010,1988,1988,DATE
+1011,25 U.S.C. 2511,25 u.s.c. 2511,MONEY
+1012,1002,1002,DATE
+1013,Historically Black Colleges,historically black colleges,ORG
+1014,Universities,universities,ORG
+1015,Asian,asian,NORP
+1016,Native American Pacific Islander,native american pacific islander,ORG
+1017,American Indian Tribally,american indian tribally,ORG
+1018,Native Hawaiian,native hawaiian,NORP
+1019,Predominantly Black Institutions,predominantly black institutions,ORG
+1020,Native American,native american,NORP
+1021,Nontribal,nontribal,PERSON
+1022,more than 15 percent,more than 15 percent,PERCENT
+1023,more than 2.5 percent,more than 2.5 percent,PERCENT
+1024,"250,000,000","250,000,000",MONEY
+1025,Richard B. Russell,richard b. russell,PERSON
+1026,1751,1751,DATE
+1027,later than 5 years,later than 5 years,DATE
+1028,the  Task Force,the  task force,ORG
+1029,the Task Force,the task force,ORG
+1030,the  Protecting Older Workers Against Discrimination,the  protecting older workers against discrimination,ORG
+1031,Act of,act of,ACT
+1032,Section 4 of,section 4 of,LAW
+1033,The (1,the (1,WORK_OF_ART
+1034,Section 15,section 15,LAW
+1035,"29 U.S.C. 633a 
+  ","29 u.s.c. 633a 
+  ",PERCENT
+1036,4(g,4(g,CARDINAL
+1037,7(b)(3,7(b)(3,CARDINAL
+1038,4(g)(1,4(g)(1,CARDINAL
+1039,42 U.S.C. 2000e–2,42 u.s.c. 2000e–2,MONEY
+1040,Section 102,section 102,LAW
+1041,42 U.S.C. 12112,42 u.s.c. 12112,DATE
+1042,section 503,section 503,LAW
+1043,section 102(e)(1,section 102(e)(1,LAW
+1044,I.,i.,ORG
+1045,107,107,CARDINAL
+1046,1973,1973,DATE
+1047,section 501,section 501,LAW
+1048,"Federal
+ ","federal
+ ",ORG
+1049,42 U.S.C. 12117,42 u.s.c. 12117,DATE
+1050,"Discriminatory
+ ","discriminatory
+ ",PERSON
+1051,Black Maternal Health Week,black maternal health week,ORG
+1052,ALTO Act,alto act,ACT
+1053,the National Center for Complimentary,the national center for complimentary,ORG
+1054,Integrative Health,integrative health,ORG
+1055,Department of Veterans Affairs,department of veterans affairs,ORG
+1056,the five year,the five year,DATE
+1057,Canada,canada,GPE
+1058,Mexico,mexico,GPE
+1059,Issuance Each Federal,issuance each federal,ORG
+1060,at least 1,at least 1,CARDINAL
+1061,1253(a)(1,1253(a)(1,CARDINAL
+1062,200,200,CARDINAL
+1063,Valid,valid,NORP
+1064,section 1111(b)(2,section 1111(b)(2,LAW
+1065,less than one,less than one,CARDINAL
+1066,"fewer than 10,000","fewer than 10,000",CARDINAL
+1067,less than 20 percent,less than 20 percent,PERCENT
+1068,Rural School Achievement Program,rural school achievement program,ORG
+1069,section 5211(b,section 5211(b,LAW
+1070,1 academic year,1 academic year,DATE
+1071,the year,the year,DATE
+1072,202,202,CARDINAL
+1073,1022a,1022a,DATE
+1074,' first 2 years,' first 2 years,DATE
+1075,4 year,4 year,DATE
+1076,Demonstrating,demonstrating,GPE
+1077,12,12,CARDINAL
+1078,the 1 year,the 1 year,DATE
+1079,less than 3,less than 3,CARDINAL
+1080,each year or partial year,each year or partial year,DATE
+1081,the Armed Forces of the United States,the armed forces of the united states,ORG
+1082,multiyear,multiyear,DATE
+1083,the Educator Preparation Reform Act,the educator preparation reform act,ACT
+1084,1022b,1022b,DATE
+1085,more than 1,more than 1,CARDINAL
+1086,5 year,5 year,DATE
+1087,20 U.S.C. 1022c(a,20 u.s.c. 1022c(a,DATE
+1088,Section 205,section 205,LAW
+1089,1022d,1022d,DATE
+1090,the most recent year,the most recent year,DATE
+1091,the two year,the two year,DATE
+1092,the State Nothing,the state nothing,EVENT
+1093,1022e,1022e,DATE
+1094,12th,12th,ORDINAL
+1095,20 U.S.C. 1022g(a,20 u.s.c. 1022g(a,MONEY
+1096,205,205,CARDINAL
+1097,Section 209,section 209,LAW
+1098,1022h,1022h,DATE
+1099,20 U.S.C. 1070g–2,20 u.s.c. 1070g–2,MONEY
+1100,the  Ending Maternal Mortality Act,the  ending maternal mortality act,ACT
+1101,section 229,section 229,LAW
+1102,the  VA Personnel Equity Act,the  va personnel equity act,ACT
+1103,Title 38 Section 714,title 38 section 714,LAW
+1104,Title 5 Section 4303(f,title 5 section 4303(f,LAW
+1105,Chapter 7,chapter 7,LAW
+1106,"the Veterans Health
+ Administration","the veterans health
+ administration",ORG
+1107,the Department of Veterans Affairs Accountability,the department of veterans affairs accountability,ORG
+1108,"the Civil Rights
+ Act","the civil rights
+ act",ACT
+1109,602,602,CARDINAL
+1110,20 U.S.C. 3412(b,20 u.s.c. 3412(b,MONEY
+1111,all Transportation Security Officers,all transportation security officers,ORG
+1112,"the Committee on Commerce, Science","the committee on commerce, science",ORG
+1113,2010,2010,DATE
+1114,49 U.S.C. 44901(l)(1)(A,49 u.s.c. 44901(l)(1)(a,MONEY
+1115,the  Original Black History Month Resolution,the  original black history month resolution,ORG
+1116,Black History Month,black history month,PERSON
+1117,"the Family and Youth Services Bureau of the Administration on Children, Youth","the family and youth services bureau of the administration on children, youth",ORG
+1118,Families of the Department of Health and Human Services,families of the department of health and human services,ORG
+1119,the Office of Adolescent Health,the office of adolescent health,ORG
+1120,the Division of Adolescent and School Health,the division of adolescent and school health,ORG
+1121,5 years,5 years,DATE
+1122,section 3(f,section 3(f,LAW
+1123,"3, 4","3, 4",DATE
+1124,later than 6 years,later than 6 years,DATE
+1125,Nondiscrimination Programs,nondiscrimination programs,ORG
+1126,18116,18116,DATE
+1127,Limitation No Federal,limitation no federal,ORG
+1128,the Public Health Service Act Section 2500,the public health service act section 2500,ACT
+1129,Section 8526,section 8526,LAW
+1130,Gender,gender,ORG
+1131,section 7,section 7,LAW
+1132,1001,1001,DATE
+1133,"75,000,000","75,000,000",CARDINAL
+1134,each fiscal years 2017,each fiscal years 2017,DATE
+1135,3 percent,3 percent,PERCENT
+1136,510,510,CARDINAL
+1137,710,710,PRODUCT
+1138,Section 510,section 510,LAW
+1139,Home CARE Act,home care act,ACT
+1140,255,255,CARDINAL
+1141,the Administrator of the Administration for Community Living,the administrator of the administration for community living,ORG
+1142,3 year,3 year,DATE
+1143,later than 2 years,later than 2 years,DATE
+1144,Optional,optional,ORG
+1145,Ellie Helton,ellie helton,PERSON
+1146,Lisa Colagrossi,lisa colagrossi,PERSON
+1147,Anne Lawrence,anne lawrence,PERSON
+1148,Jennifer Sedney Focused,jennifer sedney focused,PERSON
+1149,the National Institute of Neurological Disorders,the national institute of neurological disorders,ORG
+1150,"September 30, 2026","september 30, 2026",DATE
+1151,Section 207(a)(2,section 207(a)(2,LAW
+1152,"50,000","50,000",CARDINAL
+1153,8 U.S.C. 1157(c,8 u.s.c. 1157(c,MONEY
+1154,Section 207(c)(3,section 207(c)(3,LAW
+1155,Section 207,section 207,LAW
+1156,1157,1157,DATE
+1157,Background,background,GPE
+1158,Section 209(a)(1,section 209(a)(1,LAW
+1159,1159(a)(1,1159(a)(1,CARDINAL
+1160,8 U.S.C. 1159(c,8 u.s.c. 1159(c,DATE
+1161,Person,person,GPE
+1162,Section 209 of,section 209 of,LAW
+1163,section 237,section 237,LAW
+1164,section 101(a)(42,section 101(a)(42,LAW
+1165,235,235,CARDINAL
+1166,240,240,CARDINAL
+1167,241,241,CARDINAL
+1168,Section 412 of the Immigration and Nationality Act,section 412 of the immigration and nationality act,ACT
+1169,later than 540 days,later than 540 days,DATE
+1170,the Fraud Detection,the fraud detection,ORG
+1171,National Security Directorate,national security directorate,ORG
+1172,Interviews to Protect Refugees and Prevent Fraud,interviews to protect refugees and prevent fraud,ORG
+1173,the U.S. Citizenship and Immigration Services,the u.s. citizenship and immigration services,ORG
+1174,8 U.S.C. 1101(a)(42,8 u.s.c. 1101(a)(42,DATE
+1175,State Department,state department,ORG
+1176,DHS,dhs,ORG
+1177,U.S. Refugee Admissions Program,u.s. refugee admissions program,ORG
+1178,the  Desert Community Lands Act,the  desert community lands act,ACT
+1179,Town,town,WORK_OF_ART
+1180,"approximately 4,630 acres","approximately 4,630 acres",QUANTITY
+1181,Apple Valley Apple Valley Off Highway Vehicle Recreation Area,apple valley apple valley off highway vehicle recreation area,ORG
+1182,"June 14, 1926","june 14, 1926",DATE
+1183,the Recreation and Public Purposes Act,the recreation and public purposes act,ACT
+1184,the State of California,the state of california,ORG
+1185,the Apple Valley Off Highway Vehicle Recreation Area,the apple valley off highway vehicle recreation area,ORG
+1186,Twentynine Palms,twentynine palms,ORG
+1187,California,california,GPE
+1188,Barstow,barstow,GPE
+1189,the City of Barstow,the city of barstow,GPE
+1190,Victorville,victorville,GPE
+1191,the City of,the city of,GPE
+1192,the Health Resources and Services Administration,the health resources and services administration,ORG
+1193,42 U.S.C. 1396d,42 u.s.c. 1396d,DATE
+1194,the American Academy of Pediatric Dentistry,the american academy of pediatric dentistry,ORG
+1195,the American College of Obstetricians,the american college of obstetricians,ORG
+1196,1905(ee,1905(ee,CARDINAL
+1197,60 day 1 year,60 day 1 year,DATE
+1198,section 1902(v)(4)(A)(i,section 1902(v)(4)(a)(i,LAW
+1199,the Children's Health Insurance Program,the children's health insurance program,ORG
+1200,the 305 day,the 305 day,DATE
+1201,the 60th day,the 60th day,DATE
+1202,the last day,the last day,DATE
+1203,the month,the month,DATE
+1204,1397ee(c,1397ee(c,CARDINAL
+1205,FMAP,fmap,GPE
+1206,the first 20 calendar quarters,the first 20 calendar quarters,DATE
+1207,90 percent,90 percent,PERCENT
+1208,calendar quarters,calendar quarters,DATE
+1209,Section 17(d)(3)(A)(ii,section 17(d)(3)(a)(ii,LAW
+1210,the Child Nutrition Act of 1966,the child nutrition act of 1966,ACT
+1211,Postpartum,postpartum,NORP
+1212,$24.78 $49.56,$24.78 $49.56,MONEY
+1213,$2.8311 cents,$2.8311 cents,MONEY
+1214,49.56,49.56,MONEY
+1215,100.66,100.66,MONEY
+1216,thousand,thousand,CARDINAL
+1217,$50.33 $,$50.33 $,MONEY
+1218,Paragraph,paragraph,PERSON
+1219,52.75 percent,52.75 percent,PERCENT
+1220,less than,less than,MONEY
+1221,10.066 cents,10.066 cents,MONEY
+1222,5701(a)(2,5701(a)(2,CARDINAL
+1223,Section 5701,section 5701,LAW
+1224,the Family Smoking Prevention and Tobacco Control,the family smoking prevention and tobacco control,ORG
+1225,section 5702,section 5702,CARDINAL
+1226,5701(b)(1,5701(b)(1,CARDINAL
+1227,50.33,50.33,MONEY
+1228,Section 5701(b)(2,section 5701(b)(2,LAW
+1229,105.69,105.69,MONEY
+1230,211.38,211.38,MONEY
+1231,section 1(f)(3,section 1(f)(3,LAW
+1232,the calendar year,the calendar year,DATE
+1233,year 2017,year 2017,DATE
+1234,0.01,0.01,MONEY
+1235,500,500,MONEY
+1236,"June 18, 1934","june 18, 1934",DATE
+1237,the Foreign Trade Zone Act,the foreign trade zone act,ACT
+1238,48,48,CARDINAL
+1239,998,998,CARDINAL
+1240,19,19,CARDINAL
+1241,1st,1st,ORDINAL
+1242,section 3(a,section 3(a,LAW
+1243,the United States Customs and Border Protection of the Department of Homeland Security,the united states customs and border protection of the department of homeland security,ORG
+1244,2d,2d,CARDINAL
+1245,5702,5702,CARDINAL
+1246,section 5061(e)(3,section 5061(e)(3,LAW
+1247,"December 31, 2019","december 31, 2019",DATE
+1248,the last day of the month,the last day of the month,DATE
+1249,the  Suicide Prevention Analytics Act,the  suicide prevention analytics act,ACT
+1250,Self Harm Behaviors and,self harm behaviors and,ORG
+1251,Suicidal Ideation Program,suicidal ideation program,ORG
+1252,the Syndromic Surveillance of Self Harm Behaviors and,the syndromic surveillance of self harm behaviors and,ORG
+1253,less than 2 years,less than 2 years,DATE
+1254,HHS Subject,hhs subject,ORG
+1255,later than April 30th,later than april 30th,DATE
+1256,years 2020,years 2020,DATE
+1257,their first year,their first year,DATE

@@ -1,0 +1,529 @@
+,WordText,WordTextLower,CategoryLabel
+0,Douglas Almond,douglas almond,PERSON
+1,Lena Edlund,lena edlund,PERSON
+2,Amartya Sen,amartya sen,PERSON
+3,Gynecologists,gynecologists,NORP
+4,Walter Astrada,walter astrada,PERSON
+5,Planned Parenthood,planned parenthood,ORG
+6,Orphan,orphan,GPE
+7,Non Profit Organizations,non profit organizations,ORG
+8,Dorothy Vaughan,dorothy vaughan,PERSON
+9,Wanda Jackson,wanda jackson,PERSON
+10,Equal Credit Opportunity Act,equal credit opportunity act,ACT
+11,Assault,assault,ORG
+12,Threats,threats,NORP
+13,Extensions,extensions,ORG
+14,Hotline,hotline,ORG
+15,Nazism,nazism,NORP
+16,Semites,semites,NORP
+17,Ku Klux Klansmen,ku klux klansmen,PERSON
+18,Dutch,dutch,NORP
+19,Islamist,islamist,NORP
+20,Twitter,twitter,PRODUCT
+21,New York,new york,GPE
+22,U.S. Military,u.s. military,ORG
+23,NFL,nfl,ORG
+24,Puerto Rico,puerto rico,GPE
+25,Fake News,fake news,WORK_OF_ART
+26,Wilson,wilson,PERSON
+27,SECRETLY,secretly,ORG
+28,Wacky Congresswoman,wacky congresswoman,PERSON
+29,Democrat Party,democrat party,ORG
+30,Republican Party,republican party,ORG
+31,Dems,dems,NORP
+32,1967,1967,DATE
+33,Voting Rights Act,voting rights act,ACT
+34,PretrialIntegrityandSafetyAct,pretrialintegrityandsafetyact,ACT
+35,United States Virgin Islands,united states virgin islands,GPE
+36,Guam,guam,GPE
+37,English,english,LANGUAGE
+38,United States District Court,united states district court,GPE
+39,StopHarmful,stopharmful,ORG
+40,Threatened,threatened,ORG
+41,ovarian,ovarian,GPE
+42,Declaratory Judgment,declaratory judgment,PERSON
+43,Library of Congress,library of congress,ORG
+44,Workforce Innovation,workforce innovation,ORG
+45,2023,2023,DATE
+46,Washington,washington,GPE
+47,Nondiscrimination Each Federal,nondiscrimination each federal,ORG
+48,1969,1969,DATE
+49,1986,1986,DATE
+50,EJScreen,ejscreen,ORG
+51,2027,2027,DATE
+52,Surface Mining Control and Reclamation Act,surface mining control and reclamation act,ACT
+53,1977,1977,DATE
+54,Marine Protection,marine protection,ORG
+55,1972,1972,DATE
+56,Committee on Foreign Relations,committee on foreign relations,ORG
+57,International Development,international development,ORG
+58,Ethnicity,ethnicity,ORG
+59,"Travel
+ ","travel
+ ",ORG
+60,Nicaragua,nicaragua,GPE
+61,Haiti,haiti,GPE
+62,MissingChildren’sAssistanceAmendmentAct,missingchildren’sassistanceamendmentact,ACT
+63,ProtectingYouth,protectingyouth,ORG
+64,Prince Hall Freemasonry,prince hall freemasonry,ORG
+65,Bias,bias,PERSON
+66,Improving Federal,improving federal,ORG
+67,AIM,aim,ORG
+68,CHIP,chip,ORG
+69,Office of Government Ethics,office of government ethics,ORG
+70,Citizens United,citizens united,GPE
+71,Vietnam,vietnam,GPE
+72,National Program of Cancer Registries,national program of cancer registries,ORG
+73,ProtectingNewborns,protectingnewborns,ORG
+74,Safe and Drug Free Schools,safe and drug free schools,ORG
+75,Bullying,bullying,GPE
+76,Subdivision 1 of Division B,subdivision 1 of division b,ORG
+77,Pensions,pensions,NORP
+78,USA Values Act,usa values act,ACT
+79,1930,1930,DATE
+80,CHD,chd,ORG
+81,Health Insurance Portability,health insurance portability,ORG
+82,1996,1996,DATE
+83,National Intimate Partner and Sexual Violence Survey,national intimate partner and sexual violence survey,ORG
+84,ConcussionAwarenessandEducationAct,concussionawarenessandeducationact,ACT
+85,LawEnforcementInclusionAct,lawenforcementinclusionact,ACT
+86,2016,2016,DATE
+87,Department’s Office of  ,department’s office of  ,ORG
+88,1988,1988,DATE
+89,Richard B. Russell,richard b. russell,PERSON
+90,ProtectingOlderWorkersAgainstDiscrimination,protectingolderworkersagainstdiscrimination,ORG
+91,"Discriminatory
+ ","discriminatory
+ ",PERSON
+92,ALTO Act,alto act,ACT
+93,Integrative Health,integrative health,ORG
+94,Mexico,mexico,GPE
+95,Issuance Each Federal,issuance each federal,ORG
+96,Valid,valid,NORP
+97,Demonstrating,demonstrating,GPE
+98,Educator Preparation Reform Act,educator preparation reform act,ACT
+99,State Nothing,state nothing,EVENT
+100,EndingMaternalMortalityAct,endingmaternalmortalityact,ACT
+101,Home CARE Act,home care act,ACT
+102,Ellie Helton,ellie helton,PERSON
+103,Lisa Colagrossi,lisa colagrossi,PERSON
+104,Anne Lawrence,anne lawrence,PERSON
+105,Jennifer Sedney Focused,jennifer sedney focused,PERSON
+106,Background,background,GPE
+107,Fraud Detection,fraud detection,ORG
+108,National Security Directorate,national security directorate,ORG
+109,U.S. Citizenship and Immigration Services,u.s. citizenship and immigration services,ORG
+110,DHS,dhs,ORG
+111,U.S. Refugee Admissions Program,u.s. refugee admissions program,ORG
+112,DesertCommunityLandsAct,desertcommunitylandsact,ACT
+113,Town,town,WORK_OF_ART
+114,"approximately 4,630 acres","approximately 4,630 acres",QUANTITY
+115,Victorville,victorville,GPE
+116,American Academy of Pediatric Dentistry,american academy of pediatric dentistry,ORG
+117,FMAP,fmap,GPE
+118,Postpartum,postpartum,NORP
+119,$2.8311 cents,$2.8311 cents,MONEY
+120,100.66,100.66,MONEY
+121,10.066 cents,10.066 cents,MONEY
+122,105.69,105.69,MONEY
+123,Foreign Trade Zone Act,foreign trade zone act,ACT
+124,SuicidePreventionAnalyticsAct,suicidepreventionanalyticsact,ACT
+125,Pedestrian,pedestrian,NORP
+126,Prohibition of Racial Profiling,prohibition of racial profiling,ORG
+127,Federal Law Enforcement Agencies,federal law enforcement agencies,ORG
+128,Federal Pell Grant,federal pell grant,PERSON
+129,Federal Direct Consolidation Loans,federal direct consolidation loans,ORG
+130,one dollar,one dollar,MONEY
+131,National Apprenticeship,national apprenticeship,ORG
+132,H1B Nonimmigrant Petitioner Account,h1b nonimmigrant petitioner account,LOC
+133,Preparing and Retaining Education Professionals Act,preparing and retaining education professionals act,ACT
+134,dyscalculia/dysgraphia,dyscalculia/dysgraphia,ORG
+135,AmeriCorps,americorps,ORG
+136,Grow Your Own,grow your own,FAC
+137,"27,500","27,500",MONEY
+138,Minority Science and Engineering Improvement,minority science and engineering improvement,ORG
+139,Civil Rights Restoration and Enforcement Act,civil rights restoration and enforcement act,ACT
+140,Committees on Environment and Public Works and Energy and Natural Resources of Senate,committees on environment and public works and energy and natural resources of senate,ORG
+141,ERRPA,errpa,ORG
+142,"Equitable
+ ","equitable
+ ",ORG
+143,NationalStatisticsonDeadlyForceTransparencyAct,nationalstatisticsondeadlyforcetransparencyact,ACT
+144,San Bernardino County,san bernardino county,GPE
+145,LongTermInVestment,longterminvestment,ORG
+146,Food and Nutrition Act,food and nutrition act,ACT
+147,NACA,naca,WORK_OF_ART
+148,Pro Tempore,pro tempore,PERSON
+149,ReentryandReunificationAct,reentryandreunificationact,ACT
+150,Veteran Farmers,veteran farmers,ORG
+151,Forest Service,forest service,ORG
+152,National Child Traumatic Stress Network,national child traumatic stress network,ORG
+153,Massachusetts Advocates for Children,massachusetts advocates for children,ORG
+154,ArbitrationFairnessAct,arbitrationfairnessact,ACT
+155,Disarm Hate,disarm hate,WORK_OF_ART
+156,Emergency Department,emergency department,ORG
+157,Kalief's,kalief's,ORG
+158,First Rhode Island Regiment,first rhode island regiment,ORG
+159,Security Clearances,security clearances,ORG
+160,Audits Beginning,audits beginning,ORG
+161,Transition Assistance Program,transition assistance program,ORG
+162,Boots to Business Program,boots to business program,ORG
+163,1.500 inches,1.500 inches,QUANTITY
+164,Muhammad Ali,muhammad ali,PERSON
+165,United States of America,united states of america,GPE
+166,Coins,coins,PERSON
+167,each Office of Minority and Women Inclusion,each office of minority and women inclusion,ORG
+168,Aliens,aliens,PERSON
+169,Liberia,liberia,GPE
+170,D.C. Official Code,d.c. official code,PERSON
+171,Ineligibility A,ineligibility a,ORG
+172,All Urban Consumers,all urban consumers,ORG
+173,CybersecurityEducationIntegrationAct,cybersecurityeducationintegrationact,ACT
+174,National Institute of Standards and Technology,national institute of standards and technology,ORG
+175,Sector Coordinating Councils,sector coordinating councils,ORG
+176,LawEnforcementTrustandIntegrityAct,lawenforcementtrustandintegrityact,ACT
+177,LAW ENFORCEMENT DEVELOPMENT PROGRAMS,law enforcement development programs,ORG
+178,Policies,policies,ORG
+179,Oversight Complaint,oversight complaint,ORG
+180,MEDALLIONS FOR FALLEN LAW ENFORCEMENT,medallions for fallen law enforcement,ORG
+181,AHRQ health,ahrq health,ORG
+182,AmericanPatriotsofWWIIthroughService,americanpatriotsofwwiithroughservice,ORG
+183,30 minutes,30 minutes,TIME
+184,less than 80 square feet,less than 80 square feet,QUANTITY
+185,Updates Every 2 years,updates every 2 years,ORG
+186,EmergencyFinancialManagerReformAct,emergencyfinancialmanagerreformact,ACT
+187,Billie Jean King,billie jean king,PERSON
+188,HealthEquityandAccountabilityAct,healthequityandaccountabilityact,ACT
+189,Amendment Title XXXIV,amendment title xxxiv,ORG
+190,Committee on Ways and Means,committee on ways and means,ORG
+191,National Committee on Vital Health Statistics,national committee on vital health statistics,ORG
+192,Planning and Evaluation,planning and evaluation,ORG
+193,Repository of Government,repository of government,ORG
+194,Republic of Palau,republic of palau,GPE
+195,Republic of Marshall Islands,republic of marshall islands,GPE
+196,Pacific Basin,pacific basin,LOC
+197,Personal Responsibility and Work Opportunity Reconciliation Act,personal responsibility and work opportunity reconciliation act,ACT
+198,Federally Conducted,federally conducted,ORG
+199,American Community Survey,american community survey,ORG
+200,"graduate medical
+			 ","graduate medical
+			 ",ORG
+201,PDP,pdp,ORG
+202,National Council on Interpreting in Health Care’s Code of Ethics and Standards of Practice,national council on interpreting in health care’s code of ethics and standards of practice,ORG
+203,Federal Hospital Insurance Trust Fund,federal hospital insurance trust fund,ORG
+204,Care Related,care related,PERSON
+205,Entities,entities,PERSON
+206,Title XXXIV of,title xxxiv of,WORK_OF_ART
+207,National Working Group,national working group,ORG
+208,David Satcher Public Health,david satcher public health,PERSON
+209,Louis Stokes Public Health Scholars Program,louis stokes public health scholars program,ORG
+210,Patsy Mink Health,patsy mink health,ORG
+211,Edward R. Roybal Health,edward r. roybal health,PERSON
+212,Insular Areas,insular areas,ORG
+213,Sunset of Medicaid,sunset of medicaid,ORG
+214,Virgin Islands,virgin islands,GPE
+215,Indian Health Care Improvement Act,indian health care improvement act,ACT
+216,Administrative Burdens,administrative burdens,PERSON
+217,CAH,cah,ORG
+218,Rural The,rural the,ORG
+219,home health agency,home health agency,ORG
+220,Rural Health Quality Demonstration Projects,rural health quality demonstration projects,ORG
+221,Pursuant,pursuant,PERSON
+222,Office of Under,office of under,ORG
+223,1940,1940,DATE
+224,Essential Community Provider,essential community provider,ORG
+225,Dental Therapist,dental therapist,ORG
+226,Minnesota,minnesota,GPE
+227,Oral Health Services,oral health services,ORG
+228,Sense of Congress,sense of congress,WORK_OF_ART
+229,Quality Payment Program,quality payment program,ORG
+230,Linguistically Accessible,linguistically accessible,PERSON
+231,HealthEmpowermentZoneAct,healthempowermentzoneact,ACT
+232,Freely Associated,freely associated,ORG
+233,Compacts of Free Association,compacts of free association,ORG
+234,Quality Assurance,quality assurance,ORG
+235,Ten percent,ten percent,PERCENT
+236,Scientifically,scientifically,ORG
+237,HPV,hpv,ORG
+238,commonwealth,commonwealth,ORG
+239,promotoras,promotoras,EVENT
+240,Health Care Providers,health care providers,ORG
+241,Consolidated Appropriations Act,consolidated appropriations act,ACT
+242,PEP,pep,ORG
+243,FDA,fda,ORG
+244,Interagency Coordinating Committee,interagency coordinating committee,ORG
+245,National Institute on Child Health and Development,national institute on child health and development,ORG
+246,Children and Families,children and families,ORG
+247,ICCPOM,iccpom,ORG
+248,Office of Population Affairs,office of population affairs,ORG
+249,Integrated Health Care Demonstration Program,integrated health care demonstration program,ORG
+250,Qualified,qualified,ORG
+251,Expert Advisory Panel,expert advisory panel,ORG
+252,National Cancer Institute,national cancer institute,ORG
+253,National Institute of Biomedical Imaging and Bioengineering,national institute of biomedical imaging and bioengineering,ORG
+254,Prostate Cancer Advisory Board,prostate cancer advisory board,ORG
+255,Office of Chief Scientist,office of chief scientist,ORG
+256,Urban Indian Clinics,urban indian clinics,ORG
+257,Aleuts,aleuts,ORG
+258,Pacific Islands,pacific islands,LOC
+259,Healthy People,healthy people,PERSON
+260,C. Such,c. such,PRODUCT
+261,Preventive Services Task Force,preventive services task force,ORG
+262,HBV,hbv,ORG
+263,territories,territories,LOC
+264,Preventions,preventions,PRODUCT
+265,National Heart,national heart,ORG
+266,Blood Institute,blood institute,ORG
+267,Office of Rare Diseases,office of rare diseases,ORG
+268,National Minority Health Resource Center,national minority health resource center,ORG
+269,Craniofacial Research,craniofacial research,ORG
+270,Title XIX,title xix,LAW
+271,more than 25 miles,more than 25 miles,QUANTITY
+272,Delay,delay,PERSON
+273,Office of AIDS Research,office of aids research,ORG
+274,Uniform Code of Military Justice,uniform code of military justice,LAW
+275,National Prison Rape Elimination Commission,national prison rape elimination commission,ORG
+276,Office of HIV/AIDS and Infectious Disease Policy,office of hiv/aids and infectious disease policy,ORG
+277,Subpart 3,subpart 3,LAW
+278,Description Research,description research,ORG
+279,National Health and Nutrition Examination Survey,national health and nutrition examination survey,ORG
+280,Division of Diabetes Translation,division of diabetes translation,ORG
+281,National Diabetes Education Program,national diabetes education program,ORG
+282,National Asthma Education and Prevention Program,national asthma education and prevention program,ORG
+283,Surveillance of Cardiovascular,surveillance of cardiovascular,ORG
+284,Centers for Disease Control and Prevention Division of Tuberculosis Elimination,centers for disease control and prevention division of tuberculosis elimination,ORG
+285,Health Community Program,health community program,ORG
+286,Arthritis Program,arthritis program,ORG
+287,Sickle Cell Disease Research,sickle cell disease research,ORG
+288,American Jobs Creation Act,american jobs creation act,ACT
+289,Reducing Health Disparities Through Health IT,reducing health disparities through health it,ORG
+290,MIPS,mips,ORG
+291,Physician,physician,NORP
+292,2013,2013,DATE
+293,Additional Research and Studies,additional research and studies,ORG
+294,Federal Health,federal health,ORG
+295,Civil Rights Commission,civil rights commission,ORG
+296,Social Determinants,social determinants,ORG
+297,Improving Environmental Justice,improving environmental justice,ORG
+298,National Center for Environmental Health,national center for environmental health,ORG
+299,North American,north american,NORP
+300,Prevention Research Centers,prevention research centers,ORG
+301,Developing Clean Air Rules,developing clean air rules,ORG
+302,Incident Command Structure,incident command structure,ORG
+303,radon,radon,GPE
+304,PPC,ppc,ORG
+305,1906,1906,DATE
+306,National Forest Management Act,national forest management act,ACT
+307,2001,2001,DATE
+308,Withdrawal of Revisions,withdrawal of revisions,ORG
+309,National Pollutant Discharge Elimination System Program,national pollutant discharge elimination system program,ORG
+310,Support of Revisions,support of revisions,ORG
+311,United States & Carabell,united states & carabell,ORG
+312,Wildlife Service,wildlife service,ORG
+313,NFS,nfs,ORG
+314,1982,1982,DATE
+315,Northern District,northern district,LOC
+316,Idaho,idaho,GPE
+317,BLM,blm,ORG
+318,Bureau of Land Management,bureau of land management,ORG
+319,Colorado,colorado,GPE
+320,Utah,utah,GPE
+321,Wyoming,wyoming,GPE
+322,National Marine Fisheries Service,national marine fisheries service,ORG
+323,Endangered Species Act,endangered species act,ACT
+324,Deepwater Horizon,deepwater horizon,PERSON
+325,Gulf Coast,gulf coast,LOC
+326,National Violent Death Reporting System,national violent death reporting system,ORG
+327,Hearings Commission,hearings commission,ORG
+328,Schedule,schedule,PERSON
+329,Detail of Government,detail of government,ORG
+330,Volunteer,volunteer,PRODUCT
+331,Sunset Commission,sunset commission,ORG
+332,MandatoryArbitrationTransparencyAct,mandatoryarbitrationtransparencyact,ACT
+333,metadata,metadata,PERSON
+334,"board, commission","board, commission",ORG
+335,GSA,gsa,ORG
+336,Appendix An,appendix an,PERSON
+337,less than 20 hours,less than 20 hours,TIME
+338,McKinney Vento Homeless Assistance Act,mckinney vento homeless assistance act,ACT
+339,Privacy Nothing,privacy nothing,ORG
+340,MaternalCareAccessandReducingEmergenciesActMaternalCAREAct,maternalcareaccessandreducingemergenciesactmaternalcareact,ACT
+341,National Academy of Medicine Study,national academy of medicine study,ORG
+342,Americans With Disabilities Act,americans with disabilities act,ACT
+343,1981,1981,DATE
+344,Labeling Notwithstanding,labeling notwithstanding,PERSON
+345,IOM,iom,GPE
+346,Consultation Each Federal,consultation each federal,ORG
+347,Removing Medicare,removing medicare,PERSON
+348,Office of Minority Health and Health Disparity Elimination,office of minority health and health disparity elimination,ORG
+349,PPACA,ppaca,GPE
+350,CMS,cms,ORG
+351,Clinicians,clinicians,NORP
+352,Further,further,PERSON
+353,Improvement Activities,improvement activities,ACT
+354,Health Resources and Services Agency,health resources and services agency,ORG
+355,Patient Centered Outcomes Research Institute,patient centered outcomes research institute,ORG
+356,Vaccines for Children Program,vaccines for children program,ORG
+357,DWI,dwi,ORG
+358,Bureau,bureau,ORG
+359,Congress on Bureau,congress on bureau,ORG
+360,HITECH Act,hitech act,ACT
+361,QPP,qpp,ORG
+362,Medicare Access and CHIP Reauthorization Act,medicare access and chip reauthorization act,ACT
+363,MACRA,macra,FAC
+364,Adoption of Certified Electronic Health Record Systems and Electronic Information Sharing,adoption of certified electronic health record systems and electronic information sharing,ORG
+365,Antiquities Act of,antiquities act of,ACT
+366,Clean Water Act Jurisdiction,clean water act jurisdiction,ACT
+367,District Court,district court,ORG
+368,United States Forest Service,united states forest service,GPE
+369,Administrative Procedure Act,administrative procedure act,ACT
+370,58.5 million acres,58.5 million acres,QUANTITY
+371,Record of Decision,record of decision,PRODUCT
+372,Oil Shale Management,oil shale management,ORG
+373,Western Region,western region,LOC
+374,National Oceanic and Atmospheric Administration,national oceanic and atmospheric administration,ORG
+375,Department of Commerce,department of commerce,ORG
+376,ESA,esa,ORG
+377,"Final Rule, Interagency Cooperation","final rule, interagency cooperation",PERSON
+378,SexualHarassmentAwarenessandPreventionAct,sexualharassmentawarenessandpreventionact,ACT
+379,HUD,hud,ORG
+380,Uniform Partition of Heirs Property Act,uniform partition of heirs property act,ACT
+381,National Conference of Commissioners,national conference of commissioners,ORG
+382,Consolidated Farm,consolidated farm,ORG
+383,Farmland,farmland,GPE
+384,Savanna’s Act,savanna’s act,ACT
+385,National Crime Information Center,national crime information center,ORG
+386,Integrated Automated Fingerprint Identification System,integrated automated fingerprint identification system,ORG
+387,Violent Criminal Apprehension Program,violent criminal apprehension program,ORG
+388,National Missing and Unidentified Persons System,national missing and unidentified persons system,ORG
+389,Violence Against Women and Department of Justice Reauthorization Act,violence against women and department of justice reauthorization act,ACT
+390,Committee on Indian Affairs,committee on indian affairs,ORG
+391,Committee on Natural Resources,committee on natural resources,ORG
+392,Next Generation Identification System,next generation identification system,EVENT
+393,"Native American Business Development, Trade Promotion","native american business development, trade promotion",ORG
+394,Village Corporation,village corporation,ORG
+395,Consultation United States,consultation united states,GPE
+396,National Center for Science and Engineering Statistics,national center for science and engineering statistics,ORG
+397,NSF,nsf,ORG
+398,FitnessInformationTransparencyAct,fitnessinformationtransparencyact,ACT
+399,Lonnie Ali,lonnie ali,PERSON
+400,EducationalFreedomAccountsAct,educationalfreedomaccountsact,ACT
+401,Scholarships for Opportunity and Results Act,scholarships for opportunity and results act,ACT
+402,D.C. Code,d.c. code,PERSON
+403,CFO,cfo,ORG
+404,Employee Retirement Income Security Act,employee retirement income security act,ACT
+405,Internal Revenue Code,internal revenue code,ORG
+406,American Sign Language,american sign language,WORK_OF_ART
+407,WSW,wsw,ORG
+408,PoliceReportingInformation,policereportinginformation,ORG
+409,Death in Custody Reporting Act A State,death in custody reporting act a state,ACT
+410,Violent Crime Control and Law Enforcement Act,violent crime control and law enforcement act,ACT
+411,"Institutional
+ ","institutional
+ ",ORG
+412,Ronald V. Dellums Memorial Fellowship for Women of Color,ronald v. dellums memorial fellowship for women of color,PERSON
+413,fewer than 50 percent,fewer than 50 percent,PERCENT
+414,less than 60 percent,less than 60 percent,PERCENT
+415,Federal Insecticide,federal insecticide,ORG
+416,Fungicide,fungicide,PRODUCT
+417,Rodenticide Act,rodenticide act,ACT
+418,Each State  ,each state  ,WORK_OF_ART
+419,Spanish,spanish,NORP
+420,Safer Choice,safer choice,ORG
+421,Health and Safety,health and safety,ORG
+422,1970,1970,DATE
+423,Vietnamese,vietnamese,NORP
+424,Korean,korean,NORP
+425,Nepali,nepali,GPE
+426,Quick Card,quick card,PERSON
+427,NIOSH,niosh,ORG
+428,National Institute for Occupational Safety and Health,national institute for occupational safety and health,ORG
+429,OSHA,osha,ORG
+430,Susan Harwood,susan harwood,PERSON
+431,Vet Centers,vet centers,ORG
+432,Veterans' Business Outreach Center Program,veterans' business outreach center program,ORG
+433,Criteria,criteria,ORG
+434,Limitation Administrator,limitation administrator,ORG
+435,Veterans Business Owners Initiative Pilot Program,veterans business owners initiative pilot program,ORG
+436,State Department Basic Authorities Act,state department basic authorities act,ACT
+437,1956,1956,DATE
+438,Small Business Act,small business act,ACT
+439,Committee on Veterans' Affairs,committee on veterans' affairs,ORG
+440,Peer,peer,PRODUCT
+441,Office of Entrepreneurship Education of Administration,office of entrepreneurship education of administration,ORG
+442,Service Corps of Retired Executives,service corps of retired executives,ORG
+443,Veterans Small Business Ownership Improvements Act,veterans small business ownership improvements act,ACT
+444,Civil Rights Trade Policy Act,civil rights trade policy act,ACT
+445,Bipartisan Congressional Trade Priorities,bipartisan congressional trade priorities,ORG
+446,Universal Declaration of Human Rights,universal declaration of human rights,WORK_OF_ART
+447,Enforced Disappearance,enforced disappearance,PERSON
+448,Covenant on Civil and Political Rights,covenant on civil and political rights,ORG
+449,Cruel,cruel,ORG
+450,Inhuman,inhuman,PERSON
+451,Academic Sciences,academic sciences,ORG
+452,"Committee on Science, Space","committee on science, space",ORG
+453,National Science and Technology Council,national science and technology council,ORG
+454,Each Federal science agency,each federal science agency,ORG
+455,"17,400,000","17,400,000",MONEY
+456,Foreign Assistance Act,foreign assistance act,ACT
+457,1961,1961,DATE
+458,Europe,europe,LOC
+459,2028,2028,DATE
+460,Designation Amounts,designation amounts,ORG
+461,Administrator a Senior Advisor,administrator a senior advisor,ORG
+462,PreventingMaternalDeathsAct,preventingmaternaldeathsact,ACT
+463,Severe Maternal Morbidity A State,severe maternal morbidity a state,ORG
+464,Relief Except,relief except,PERSON
+465,DemocracyRestorationAct,democracyrestorationact,ACT
+466,Misdemeanor,misdemeanor,PERSON
+467,AmericanHousingandEconomicMobilityAct,americanhousingandeconomicmobilityact,ACT
+468,Federal Housing Enterprises Financial Safety,federal housing enterprises financial safety,ORG
+469,1992,1992,DATE
+470,Housing Trust Fund,housing trust fund,ORG
+471,Capital Magnet Fund,capital magnet fund,ORG
+472,Native American Housing Assistance and Self Determination Act of 1996,native american housing assistance and self determination act of 1996,ACT
+473,FHA,fha,ORG
+474,National Housing Act,national housing act,ACT
+475,Real Estate Settlement Procedures Act,real estate settlement procedures act,ACT
+476,Formula,formula,GPE
+477,Bank Holding Company Act,bank holding company act,ACT
+478,Appropriate Federal,appropriate federal,ORG
+479,1813,1813,DATE
+480,National Credit Union Administration,national credit union administration,ORG
+481,Federal Financial Institutions Examination Council,federal financial institutions examination council,ORG
+482,Sufficient,sufficient,GPE
+483,Substantial,substantial,GPE
+484,Federal Supervisory,federal supervisory,ORG
+485,CRA Small Business Disclosure Statement,cra small business disclosure statement,ORG
+486,United States Housing Act,united states housing act,ACT
+487,1937,1937,DATE
+488,billion dollar,billion dollar,MONEY
+489,greater than 10 percent,greater than 10 percent,PERCENT
+490,Deemed,deemed,PERSON
+491,"Committee on Banking, Housing","committee on banking, housing",ORG
+492,Urban Affairs,urban affairs,ORG
+493,Committee on Financial Services,committee on financial services,ORG
+494,Bretton,bretton,PERSON
+495,Dodd Frank Wall Street Reform,dodd frank wall street reform,PERSON
+496,Emergency Economic Stabilization Act,emergency economic stabilization act,ACT
+497,1999,1999,DATE
+498,1971,1971,DATE
+499,Farm Credit Act,farm credit act,ACT
+500,1811,1811,DATE
+501,1989,1989,DATE
+502,"Financial Institutions Reform, Recovery","financial institutions reform, recovery",EVENT
+503,Trade Act of 1974,trade act of 1974,ACT
+504,Magistrate,magistrate,ORG
+505,Navy,navy,ORG
+506,Sealing,sealing,ORG
+507,Automatic,automatic,GPE
+508,TANF,tanf,ORG
+509,Sentencing Commission,sentencing commission,ORG
+510,FBI,fbi,ORG
+511,Frederick Douglass Trafficking Prevention Act,frederick douglass trafficking prevention act,ACT
+512,Violence Against Women Reauthorization Act,violence against women reauthorization act,ACT
+513,Charge Office,charge office,ORG
+514,Homeland Security Investigations,homeland security investigations,ORG
+515,1984,1984,DATE
+516,Child Abuse Act,child abuse act,ACT
+517,Office of Tribal Justice,office of tribal justice,ORG

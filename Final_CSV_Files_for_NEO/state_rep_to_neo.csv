@@ -1,0 +1,545 @@
+representativeid,lastname,firstname,statelabel,statecode,district,chamber,party
+1,Johnson,Henry C,Georgia,13,4,Representative,Democratic
+2,Weber,Randy K,Texas,48,14,Representative,Republican
+3,King,Angus S,Maine,23,0,Senator,Independent
+4,Casey,Robert P,Pennsylvania,42,0,Senator,Democratic
+5,Duncan,John J,Tennessee,47,2,Representative,Republican
+6,Donovan,Daniel M,New York,36,11,Representative,Republican
+7,Boustany,Charles W,Louisiana,22,3,Representative,Republican
+8,Jones,Walter B,North Carolina,37,3,Representative,Republican
+9,Sensenbrenner,James F,Wisconsin,55,5,Representative,Republican
+10,Bishop,Sanford D,Georgia,13,2,Representative,Democratic
+11,Pascrell,Bill,New Jersey,34,9,Representative,Democratic
+12,Conyers,John,Michigan,26,13,Representative,Democratic
+13,Pallone,Frank,New Jersey,34,6,Representative,Democratic
+14,Payne,Donald M,New Jersey,34,10,Representative,Democratic
+15,Beyer,Donald S,Virginia,51,8,Representative,Democratic
+16,Manchin,Joe,West Virginia,54,0,Senator,Democratic
+17,Kennedy,Joseph P,Massachusetts,25,4,Representative,Democratic
+18,Vela,Filemon,Texas,48,34,Representative,Democratic
+19,Farenthold,Blake,Texas,48,27,Representative,Republican
+20,Brady,Kevin,Texas,48,8,Representative,Republican
+21,Babin,Brian,Texas,48,36,Representative,Republican
+22,Kind,Ron,Wisconsin,55,3,Representative,Democratic
+23,Duffy,Sean P,Wisconsin,55,7,Representative,Republican
+24,Kustoff,David,Tennessee,47,8,Representative,Republican
+25,Nolan,Richard M,Minnesota,27,8,Representative,Democratic
+26,Comer,James,Kentucky,21,1,Representative,Republican
+27,Scalise,Steve,Louisiana,22,1,Representative,Republican
+28,Palazzo,Steven M,Mississippi,28,4,Representative,Republican
+29,Byrne,Bradley,Alabama,1,1,Representative,Republican
+30,Gallagher,Mike,Wisconsin,55,8,Representative,Republican
+31,Cooper,Jim,Tennessee,47,5,Representative,Democratic
+32,Dunn,Neal,Florida,12,2,Representative,Republican
+33,Kildee,Daniel T,Michigan,26,5,Representative,Democratic
+34,Mitchell,Paul,Michigan,26,10,Representative,Republican
+35,Bergman,Jack,Michigan,26,1,Representative,Republican
+36,Dingell,Debbie,Michigan,26,12,Representative,Democratic
+37,Yoho,Ted S,Florida,12,3,Representative,Republican
+38,Bilirakis,Gus M,Florida,12,12,Representative,Republican
+39,Webster,Daniel,Florida,12,11,Representative,Republican
+40,Kaptur,Marcy,Ohio,39,9,Representative,Democratic
+41,Crist,Charlie,Florida,12,13,Representative,Democratic
+42,Buchanan,Vern,Florida,12,16,Representative,Republican
+43,Castor,Kathy,Florida,12,14,Representative,Democratic
+44,Rooney,Francis,Florida,12,19,Representative,Republican
+45,Carter,Earl L,Georgia,13,1,Representative,Republican
+46,Curbelo,Carlos,Florida,12,26,Representative,Republican
+47,Ros-Lehtinen,Ileana,Florida,12,27,Representative,Republican
+48,Sanford,Mark,South Carolina,45,1,Representative,Republican
+49,Collins,Chris,New York,36,27,Representative,Republican
+50,Hoyer,Steny H,Maryland,24,5,Representative,Democratic
+51,Butterfield,K G,North Carolina,37,1,Representative,Democratic
+52,Wittman,Robert J,Virginia,51,1,Representative,Republican
+53,Scott,Robert C,Virginia,51,3,Representative,Democratic
+54,Stefanik,Elise M,New York,36,21,Representative,Republican
+55,Ruppersberger,A C,Maryland,24,2,Representative,Democratic
+56,Harris,Andy,Maryland,24,1,Representative,Republican
+57,Taylor,Scott,Virginia,51,2,Representative,Republican
+58,Rochester,Lisa Blunt,Delaware,10,0,Representative,Democratic
+59,Carper,Thomas R,Delaware,10,0,Senator,Democratic
+60,Coons,Christopher A,Delaware,10,0,Senator,Democratic
+61,MacArthur,Thomas,New Jersey,34,3,Representative,Republican
+62,Nadler,Jerrold,New York,36,10,Representative,Democratic
+63,Crowley,Joseph,New York,36,14,Representative,Democratic
+64,Engel,Eliot L,New York,36,16,Representative,Democratic
+65,Suozzi,Tom,New York,36,3,Representative,Democratic
+66,Himes,James A,Connecticut,9,4,Representative,Democratic
+67,DeLauro,Rosa L,Connecticut,9,3,Representative,Democratic
+68,Zeldin,Lee M,New York,36,1,Representative,Republican
+69,Langevin,James R,Rhode Island,44,2,Representative,Democratic
+70,Cicilline,David N,Rhode Island,44,1,Representative,Democratic
+71,Capuano,Michael E,Massachusetts,25,7,Representative,Democratic
+72,Lynch,Stephen F,Massachusetts,25,8,Representative,Democratic
+73,Shea-Porter,Carol,New Hampshire,33,1,Representative,Democratic
+74,Moulton,Seth,Massachusetts,25,6,Representative,Democratic
+75,Keating,William R,Massachusetts,25,9,Representative,Democratic
+76,Pingree,Chellie,Maine,23,1,Representative,Democratic
+77,Poliquin,Bruce,Maine,23,2,Representative,Republican
+78,Young,Don,Alaska,2,0,Representative,Republican
+79,Sullivan,Dan,Alaska,2,0,Senator,Republican
+80,Murkowski,Lisa,Alaska,2,0,Senator,Republican
+81,Gabbard,Tulsi,Hawaii,15,2,Representative,Democratic
+82,DeFazio,Peter A,Oregon,41,4,Representative,Democratic
+83,Bonamici,Suzanne,Oregon,41,1,Representative,Democratic
+84,Larsen,Rick,Washington,53,2,Representative,Democratic
+85,Heck,Denny,Washington,53,10,Representative,Democratic
+86,DelBene,Suzan K,Washington,53,1,Representative,Democratic
+87,Speier,Jackie,California,6,14,Representative,Democratic
+88,Kilmer,Derek,Washington,53,6,Representative,Democratic
+89,Huffman,Jared,California,6,2,Representative,Democratic
+90,Jayapal,Pramila,Washington,53,7,Representative,Democratic
+91,Pelosi,Nancy,California,6,12,Representative,Democratic
+92,Panetta,Jimmy,California,6,20,Representative,Democratic
+93,Brownley,Julia,California,6,26,Representative,Democratic
+94,Carbajal,Salud,California,6,24,Representative,Democratic
+95,Lowenthal,Alan S,California,6,47,Representative,Democratic
+96,Vargas,Juan,California,6,51,Representative,Democratic
+97,Pompeo,Mike,Kansas,20,4,Representative,Republican
+98,Cole,Tom,Oklahoma,40,4,Representative,Republican
+99,Gonzalez,Vicente,Texas,48,15,Representative,Democratic
+100,Castro,Joaquin,Texas,48,20,Representative,Democratic
+101,Williams,Roger,Texas,48,25,Representative,Republican
+102,Doggett,Lloyd,Texas,48,35,Representative,Democratic
+103,Granger,Kay,Texas,48,12,Representative,Republican
+104,Carter,John R,Texas,48,31,Representative,Republican
+105,McCaul,Michael T,Texas,48,10,Representative,Republican
+106,Fortenberry,Jeff,Nebraska,31,1,Representative,Republican
+107,Flores,Bill,Texas,48,17,Representative,Republican
+108,Russell,Steve,Oklahoma,40,5,Representative,Republican
+109,Veasey,Marc A,Texas,48,33,Representative,Democratic
+110,Burgess,Michael C,Texas,48,26,Representative,Republican
+111,Barton,Joe,Texas,48,6,Representative,Republican
+112,Peterson,Collin C,Minnesota,27,7,Representative,Democratic
+113,Marchant,Kenny,Texas,48,24,Representative,Republican
+114,Johnson,Eddie Bernice,Texas,48,30,Representative,Democratic
+115,Mullin,Markwayne,Oklahoma,40,2,Representative,Republican
+116,Ratcliffe,John,Texas,48,4,Representative,Republican
+117,Sessions,Pete,Texas,48,32,Representative,Republican
+118,Johnson,Sam,Texas,48,3,Representative,Republican
+119,Jenkins,Lynn,Kansas,20,2,Representative,Republican
+120,Hensarling,Jeb,Texas,48,5,Representative,Republican
+121,King,Steve,Iowa,19,4,Representative,Republican
+122,Bacon,Don,Nebraska,31,2,Representative,Republican
+123,Walz,Timothy J,Minnesota,27,1,Representative,Democratic
+124,Bridenstine,Jim,Oklahoma,40,1,Representative,Republican
+125,Olson,Pete,Texas,48,22,Representative,Republican
+126,Young,David,Iowa,19,3,Representative,Republican
+127,Culberson,John Abney,Texas,48,7,Representative,Republican
+128,Graves,Sam,Missouri,29,6,Representative,Republican
+129,Green,Al,Texas,48,9,Representative,Democratic
+130,Poe,Ted,Texas,48,2,Representative,Republican
+131,Gohmert,Louie,Texas,48,1,Representative,Republican
+132,Jackson Lee,Sheila,Texas,48,18,Representative,Democratic
+133,Green,Gene,Texas,48,29,Representative,Democratic
+134,Yoder,Kevin,Kansas,20,3,Representative,Republican
+135,Emmer,Tom,Minnesota,27,6,Representative,Republican
+136,Long,Billy,Missouri,29,7,Representative,Republican
+137,Womack,Steve,Arkansas,5,3,Representative,Republican
+138,Hartzler,Vicky,Missouri,29,4,Representative,Republican
+139,Cleaver,Emanuel,Missouri,29,5,Representative,Democratic
+140,Westerman,Bruce,Arkansas,5,4,Representative,Republican
+141,Fleming,John,Louisiana,22,4,Representative,Republican
+142,Loebsack,David,Iowa,19,2,Representative,Democratic
+143,Kline,John,Minnesota,27,2,Representative,Republican
+144,Paulsen,Erik,Minnesota,27,3,Representative,Republican
+145,Blum,Rod,Iowa,19,1,Representative,Republican
+146,Ellison,Keith,Minnesota,27,5,Representative,Democratic
+147,Hill,French J,Arkansas,5,2,Representative,Republican
+148,McCollum,Betty,Minnesota,27,4,Representative,Democratic
+149,Abraham,Ralph Lee,Louisiana,22,5,Representative,Republican
+150,Crawford,Eric A,Arkansas,5,1,Representative,Republican
+151,Smith,Jason,Missouri,29,8,Representative,Republican
+152,Luetkemeyer,Blaine,Missouri,29,3,Representative,Republican
+153,Graves,Garret,Louisiana,22,6,Representative,Republican
+154,Harper,Gregg,Mississippi,28,3,Representative,Republican
+155,LaHood,Darin,Illinois,17,18,Representative,Republican
+156,Thompson,Bennie G,Mississippi,28,2,Representative,Democratic
+157,Richmond,Cedric L,Louisiana,22,2,Representative,Democratic
+158,Bustos,Cheri,Illinois,17,17,Representative,Democratic
+159,Davis,Rodney,Illinois,17,13,Representative,Republican
+160,Wagner,Ann,Missouri,29,2,Representative,Republican
+161,Clay,Wm Lacy,Missouri,29,1,Representative,Democratic
+162,Pocan,Mark,Wisconsin,55,2,Representative,Democratic
+163,Bost,Mike,Illinois,17,12,Representative,Republican
+164,Cohen,Steve,Tennessee,47,9,Representative,Democratic
+165,Kelly,Trent,Mississippi,28,1,Representative,Republican
+166,Nunnelee,Alan,Mississippi,28,1,Representative,Republican
+167,Shimkus,John,Illinois,17,15,Representative,Republican
+168,Kinzinger,Adam,Illinois,17,16,Representative,Republican
+169,Grothman,Glenn,Wisconsin,55,6,Representative,Republican
+170,Blackburn,Marsha,Tennessee,47,7,Representative,Republican
+171,Ryan,Paul,Wisconsin,55,1,Representative,Republican
+172,Hultgren,Randy,Illinois,17,14,Representative,Republican
+173,Sewell,Terri A,Alabama,1,7,Representative,Democratic
+174,Foster,Bill,Illinois,17,11,Representative,Democratic
+175,Roskam,Peter J,Illinois,17,6,Representative,Republican
+176,Krishnamoorthi,Raja,Illinois,17,8,Representative,Democratic
+177,Aderholt,Robert B,Alabama,1,4,Representative,Republican
+178,Kelly,Robin L,Illinois,17,2,Representative,Democratic
+179,Brooks,Mo,Alabama,1,5,Representative,Republican
+180,Schneider,Brad,Illinois,17,10,Representative,Democratic
+181,Lipinski,Daniel,Illinois,17,3,Representative,Democratic
+182,Rush,Bobby L,Illinois,17,1,Representative,Democratic
+183,Bucshon,Larry,Indiana,18,8,Representative,Republican
+184,Moore,Gwen,Wisconsin,55,4,Representative,Democratic
+185,Schakowsky,Janice D,Illinois,17,9,Representative,Democratic
+186,Quigley,Mike,Illinois,17,5,Representative,Democratic
+187,Gutierrez,Luis V,Illinois,17,4,Representative,Democratic
+188,Davis,Danny K,Illinois,17,7,Representative,Democratic
+189,Gaetz,Matt,Florida,12,1,Representative,Republican
+190,Rokita,Todd,Indiana,18,4,Representative,Republican
+191,Visclosky,Peter J,Indiana,18,1,Representative,Democratic
+192,Roby,Martha,Alabama,1,2,Representative,Republican
+193,Palmer,Gary J,Alabama,1,6,Representative,Republican
+194,Guthrie,Brett,Kentucky,21,2,Representative,Republican
+195,DesJarlais,Scott,Tennessee,47,4,Representative,Republican
+196,Black,Diane,Tennessee,47,6,Representative,Republican
+197,Walorski,Jackie,Indiana,18,2,Representative,Republican
+198,Upton,Fred,Michigan,26,6,Representative,Republican
+199,Hollingsworth,Trey,Indiana,18,9,Representative,Republican
+200,Rogers,Mike D,Alabama,1,3,Representative,Republican
+201,Lewis,Jason,Michigan,26,2,Representative,Republican
+202,Brooks,Susan W,Indiana,18,5,Representative,Republican
+203,Carson,Andre,Indiana,18,7,Representative,Democratic
+204,Messer,Luke,Indiana,18,6,Representative,Republican
+205,Yarmuth,John A,Kentucky,21,3,Representative,Democratic
+206,Stutzman,Marlin A,Indiana,18,3,Representative,Republican
+207,Moolenaar,John R,Michigan,26,4,Representative,Republican
+208,Amash,Justin,Michigan,26,3,Representative,Republican
+209,Massie,Thomas,Kentucky,21,4,Representative,Republican
+210,Graves,Tom,Georgia,13,14,Representative,Republican
+211,Fleischmann,Charles J,Tennessee,47,3,Representative,Republican
+212,Ferguson,Drew,Georgia,13,3,Representative,Republican
+213,Walberg,Tim,Michigan,26,7,Representative,Republican
+214,Barr,Andy,Kentucky,21,6,Representative,Republican
+215,Rogers,Harold,Kentucky,21,5,Representative,Republican
+216,Loudermilk,Barry,Georgia,13,11,Representative,Republican
+217,Scott,David,Georgia,13,13,Representative,Democratic
+218,Chabot,Steve,Ohio,39,1,Representative,Republican
+219,Davidson,Warren,Ohio,39,8,Representative,Republican
+220,Latta,Robert E,Ohio,39,5,Representative,Republican
+221,Collins,Doug,Georgia,13,9,Representative,Republican
+222,Lewis,John,Georgia,13,5,Representative,Democratic
+223,Bishop,Mike,Michigan,26,8,Representative,Republican
+224,Jordan,Jim,Ohio,39,4,Representative,Republican
+225,Wenstrup,Brad R,Ohio,39,2,Representative,Republican
+226,Price,Tom,Georgia,13,6,Representative,Republican
+227,Turner,Michael R,Ohio,39,10,Representative,Republican
+228,Meadows,Mark,North Carolina,37,11,Representative,Republican
+229,Woodall,Rob,Georgia,13,7,Representative,Republican
+230,Hice,Jody B,Georgia,13,10,Representative,Republican
+231,Scott,Austin,Georgia,13,8,Representative,Republican
+232,Stivers,Steve,Ohio,39,15,Representative,Republican
+233,Roe,David P,Tennessee,47,1,Representative,Republican
+234,Trott,David A,Michigan,26,11,Representative,Republican
+235,Griffith,Morgan H,Virginia,51,9,Representative,Republican
+236,Lawrence,Brenda L,Michigan,26,14,Representative,Democratic
+237,Duncan,Jeff,South Carolina,45,3,Representative,Republican
+238,Levin,Sander M,Michigan,26,9,Representative,Democratic
+239,Tiberi,Patrick J,Ohio,39,12,Representative,Republican
+240,Allen,Rick W,Georgia,13,12,Representative,Republican
+241,Beatty,Joyce,Ohio,39,3,Representative,Democratic
+242,Johnson,Bill,Ohio,39,6,Representative,Republican
+243,Gibbs,Bob,Ohio,39,7,Representative,Republican
+244,Gowdy,Trey,South Carolina,45,4,Representative,Republican
+245,McHenry,Patrick T,North Carolina,37,10,Representative,Republican
+246,Jenkins,Evan H,West Virginia,54,3,Representative,Republican
+247,Ross,Dennis A,Florida,12,15,Representative,Republican
+248,Rutherford,John,Florida,12,4,Representative,Republican
+249,Rooney,Thomas J,Florida,12,17,Representative,Republican
+250,Lawson,Al,Florida,12,5,Representative,Democratic
+251,Renacci,James B,Ohio,39,16,Representative,Republican
+252,Mooney,Alexander X,West Virginia,54,2,Representative,Republican
+253,DeSantis,Ron,Florida,12,6,Representative,Republican
+254,Mulvaney,Mick,South Carolina,45,5,Representative,Republican
+255,Wilson,Joe,South Carolina,45,2,Representative,Republican
+256,Demings,Val,Florida,12,10,Representative,Democratic
+257,Foxx,Virginia,North Carolina,37,5,Representative,Republican
+258,Fudge,Marcia L,Ohio,39,11,Representative,Democratic
+259,McKinley,David B,West Virginia,54,1,Representative,Republican
+260,Diaz-Balart,Mario,Florida,12,25,Representative,Republican
+261,Soto,Darren,Florida,12,9,Representative,Democratic
+262,Joyce,David P,Ohio,39,14,Representative,Republican
+263,Ryan,Tim,Ohio,39,13,Representative,Democratic
+264,Clyburn,James E,South Carolina,45,6,Representative,Democratic
+265,Murphy,Stephanie,Florida,12,7,Representative,Democratic
+266,Hastings,Alcee L,Florida,12,20,Representative,Democratic
+267,Posey,Bill,Florida,12,8,Representative,Republican
+268,Pittenger,Robert,North Carolina,37,9,Representative,Republican
+269,Adams,Alma S,North Carolina,37,12,Representative,Democratic
+270,Walker,Mark,North Carolina,37,6,Representative,Republican
+271,Hudson,Richard,North Carolina,37,8,Representative,Republican
+272,Mast,Brian,Florida,12,18,Representative,Republican
+273,Rice,Tom,South Carolina,45,7,Representative,Republican
+274,Kelly,Mike,Pennsylvania,42,3,Representative,Republican
+275,Rothfus,Keith J,Pennsylvania,42,12,Representative,Republican
+276,Murphy,Tim,Pennsylvania,42,18,Representative,Republican
+277,Wasserman Schultz,Debbie,Florida,12,23,Representative,Democratic
+278,Frankel,Lois,Florida,12,21,Representative,Democratic
+279,Wilson,Frederica S,Florida,12,24,Representative,Democratic
+280,Frankel,Lois,Florida,12,22,Representative,Democratic
+281,Thompson,Glenn,Pennsylvania,42,5,Representative,Republican
+282,Garrett,Tom,Virginia,51,5,Representative,Republican
+283,Doyle,Michael F,Pennsylvania,42,14,Representative,Democratic
+284,Goodlatte,Bob,Virginia,51,6,Representative,Republican
+285,Shuster,Bill,Pennsylvania,42,9,Representative,Republican
+286,Holding,George,North Carolina,37,2,Representative,Republican
+287,Reed,Tom,New York,36,23,Representative,Republican
+288,Delaney,John K,Maryland,24,6,Representative,Democratic
+289,Price,David E,North Carolina,37,4,Representative,Democratic
+290,Rouzer,David,North Carolina,37,7,Representative,Republican
+291,Higgins,Brian,New York,36,26,Representative,Democratic
+292,Budd,Ted,North Carolina,37,13,Representative,Republican
+293,Comstock,Barbara,Virginia,51,10,Representative,Republican
+294,Brat,Dave,Virginia,51,7,Representative,Republican
+295,McEachin,Donald,Virginia,51,4,Representative,Democratic
+296,Slaughter,Louise McIntosh,New York,36,25,Representative,Democratic
+297,Marino,Tom,Pennsylvania,42,10,Representative,Republican
+298,Van Hollen,Chris,Maryland,24,8,Representative,Democratic
+299,Barletta,Lou,Pennsylvania,42,11,Representative,Republican
+300,Perry,Scott,Pennsylvania,42,4,Representative,Republican
+301,Connolly,Gerald E,Virginia,51,11,Representative,Democratic
+302,Katko,John,New York,36,24,Representative,Republican
+303,Cummings,Elijah E,Maryland,24,7,Representative,Democratic
+304,Sarbanes,John P,Maryland,24,3,Representative,Democratic
+305,Brown,Anthony,Maryland,24,4,Representative,Democratic
+306,Dent,Charles W,Pennsylvania,42,15,Representative,Republican
+307,Smucker,Lloyd,Pennsylvania,42,16,Representative,Republican
+308,Cartwright,Matt,Pennsylvania,42,17,Representative,Democratic
+309,Costello,Ryan A,Pennsylvania,42,6,Representative,Republican
+310,Tenney,Claudia,New York,36,22,Representative,Republican
+311,Meehan,Patrick,Pennsylvania,42,7,Representative,Republican
+312,LoBiondo,Frank A,New Jersey,34,2,Representative,Republican
+313,Faso,John,New York,36,19,Representative,Republican
+314,Fitzpatrick,Michael G,Pennsylvania,42,8,Representative,Republican
+315,Norcross,Donald,New Jersey,34,1,Representative,Democratic
+316,Boyle,Brendan F,Pennsylvania,42,13,Representative,Democratic
+317,Brady,Robert A,Pennsylvania,42,1,Representative,Democratic
+318,Evans,Dwight,Pennsylvania,42,2,Representative,Democratic
+319,Lance,Leonard,New Jersey,34,7,Representative,Republican
+320,Gottheimer,Josh,New Jersey,34,5,Representative,Democratic
+321,Watson Coleman,Bonnie,New Jersey,34,12,Representative,Democratic
+322,Frelinghuysen,Rodney P,New Jersey,34,11,Representative,Republican
+323,Maloney,Sean Patrick,New York,36,18,Representative,Democratic
+324,Smith,Christopher H,New Jersey,34,4,Representative,Republican
+325,Tonko,Paul,New York,36,20,Representative,Democratic
+326,Sires,Albio,New Jersey,34,8,Representative,Democratic
+327,Lowey,Nita M,New York,36,17,Representative,Democratic
+328,Velazquez,Nydia M,New York,36,7,Representative,Democratic
+329,Jeffries,Hakeem S,New York,36,8,Representative,Democratic
+330,Maloney,Carolyn B,New York,36,12,Representative,Democratic
+331,Clarke,Yvette D,New York,36,9,Representative,Democratic
+332,Espaillat,Adriano,New York,36,13,Representative,Democratic
+333,Meeks,Gregory W,New York,36,5,Representative,Democratic
+334,Serrano,Jose E,New York,36,15,Representative,Democratic
+335,Meng,Grace,New York,36,6,Representative,Democratic
+336,Rice,Kathleen M,New York,36,4,Representative,Democratic
+337,King,Peter T,New York,36,2,Representative,Republican
+338,Esty,Elizabeth H,Connecticut,9,5,Representative,Democratic
+339,Neal,Richard E,Massachusetts,25,1,Representative,Democratic
+340,Welch,Peter,Vermont,50,0,Representative,Democratic
+341,Leahy,Patrick J,Vermont,50,0,Senator,Democratic
+342,Sanders,Bernard,Vermont,50,0,Senator,Independent
+343,Larson,John B,Connecticut,9,1,Representative,Democratic
+344,Courtney,Joe,Connecticut,9,2,Representative,Democratic
+345,McGovern,James P,Massachusetts,25,2,Representative,Democratic
+346,Kuster,Ann M,New Hampshire,33,2,Representative,Democratic
+347,Tsongas,Niki,Massachusetts,25,3,Representative,Democratic
+348,Clark,Katherine M,Massachusetts,25,5,Representative,Democratic
+349,Hanabusa,Colleen,Hawaii,15,1,Representative,Democratic
+350,Schrader,Kurt,Oregon,41,5,Representative,Democratic
+351,Herrera Beutler,Jaime,Washington,53,3,Representative,Republican
+352,LaMalfa,Doug,California,6,1,Representative,Republican
+353,Walden,Greg,Oregon,41,2,Representative,Republican
+354,Garamendi,John,California,6,3,Representative,Democratic
+355,Thompson,Mike,California,6,5,Representative,Democratic
+356,Blumenauer,Earl,Oregon,41,3,Representative,Democratic
+357,Reichert,David G,Washington,53,8,Representative,Republican
+358,Smith,Adam,Washington,53,9,Representative,Democratic
+359,DeSaulnier,Mark,California,6,11,Representative,Democratic
+360,Eshoo,Anna G,California,6,18,Representative,Democratic
+361,Lee,Barbara,California,6,13,Representative,Democratic
+362,Swalwell,Eric,California,6,15,Representative,Democratic
+363,Khanna,Ro,California,6,17,Representative,Democratic
+364,Lofgren,Zoe,California,6,19,Representative,Democratic
+365,McNerney,Jerry,California,6,9,Representative,Democratic
+366,Matsui,Doris O,California,6,6,Representative,Democratic
+367,Denham,Jeff,California,6,10,Representative,Republican
+368,Newhouse,Dan,Washington,53,4,Representative,Republican
+369,Bera,Ami,California,6,7,Representative,Democratic
+370,McClintock,Tom,California,6,4,Representative,Republican
+371,Costa,Jim,California,6,16,Representative,Democratic
+372,Valadao,David G,California,6,21,Representative,Republican
+373,Amodei,Mark E,Nevada,32,2,Representative,Republican
+374,Nunes,Devin,California,6,22,Representative,Republican
+375,McCarthy,Kevin,California,6,23,Representative,Republican
+376,Cook,Paul,California,6,8,Representative,Republican
+377,Kihuen,Ruben,Nevada,32,4,Representative,Democratic
+378,McMorris Rodgers,Cathy,Washington,53,5,Representative,Republican
+379,Lieu,Ted,California,6,33,Representative,Democratic
+380,Knight,Stephen,California,6,25,Representative,Republican
+381,Sherman,Brad,California,6,30,Representative,Democratic
+382,Cardenas,Tony,California,6,29,Representative,Democratic
+383,Bass,Karen,California,6,37,Representative,Democratic
+384,Waters,Maxine,California,6,43,Representative,Democratic
+385,Schiff,Adam B,California,6,28,Representative,Democratic
+386,Hahn,Janice,California,6,44,Representative,Democratic
+387,Becerra,Xavier,California,6,34,Representative,Democratic
+388,Roybal-Allard,Lucille,California,6,40,Representative,Democratic
+389,Chu,Judy,California,6,27,Representative,Democratic
+390,Sanchez,Linda T,California,6,38,Representative,Democratic
+391,Rohrabacher,Dana,California,6,48,Representative,Republican
+392,Napolitano,Grace F,California,6,32,Representative,Democratic
+393,Royce,Edward R,California,6,39,Representative,Republican
+394,Correa,Lou,California,6,46,Representative,Democratic
+395,Walters,Mimi,California,6,45,Representative,Republican
+396,Torres,Norma J,California,6,35,Representative,Democratic
+397,Issa,Darrell E,California,6,49,Representative,Republican
+398,Aguilar,Pete,California,6,31,Representative,Democratic
+399,Calvert,Ken,California,6,42,Representative,Republican
+400,Takano,Mark,California,6,41,Representative,Democratic
+401,Peters,Scott H,California,6,52,Representative,Democratic
+402,Hunter,Duncan D,California,6,50,Representative,Republican
+403,Labrador,Raul R,Idaho,16,1,Representative,Republican
+404,Davis,Susan A,California,6,53,Representative,Democratic
+405,Ruiz,Raul,California,6,36,Representative,Democratic
+406,Simpson,Michael K,Idaho,16,2,Representative,Republican
+407,Tester,Jon,Montana,30,0,Senator,Democratic
+408,Daines,Steve,Montana,30,0,Senator,Republican
+409,Zinke,Ryan K,Montana,30,0,Representative,Republican
+410,Rosen,Jacky,Nevada,32,3,Representative,Democratic
+411,Titus,Dina,Nevada,32,1,Representative,Democratic
+412,Grijalva,Raul M,Arizona,4,3,Representative,Democratic
+413,Gosar,Paul A,Arizona,4,4,Representative,Republican
+414,Stewart,Chris,Utah,49,2,Representative,Republican
+415,Bishop,Rob,Utah,49,1,Representative,Republican
+416,OHalleran,Tom,Arizona,4,1,Representative,Democratic
+417,Franks,Trent,Arizona,4,8,Representative,Republican
+418,Love,Mia B,Utah,49,4,Representative,Republican
+419,Gallego,Ruben,Arizona,4,7,Representative,Democratic
+420,Schweikert,David,Arizona,4,6,Representative,Republican
+421,Sinema,Kyrsten,Arizona,4,9,Representative,Democratic
+422,Chaffetz,Jason,Utah,49,3,Representative,Republican
+423,Biggs,Andy,Arizona,4,5,Representative,Republican
+424,McSally,Martha,Arizona,4,2,Representative,Republican
+425,Cheney,Liz,Wyoming,56,0,Representative,Republican
+426,Enzi,Michael B,Wyoming,56,0,Senator,Republican
+427,Barrasso,John,Wyoming,56,0,Senator,Republican
+428,Tipton,Scott  R,Colorado,8,3,Representative,Republican
+429,Pearce,Stevan,New Mexico,35,2,Representative,Republican
+430,Lujan,Ben Ray,New Mexico,35,3,Representative,Democratic
+431,Lujan Grisham,Michelle,New Mexico,35,1,Representative,Democratic
+432,Polis,Jared,Colorado,8,2,Representative,Democratic
+433,O&#39;Rourke,Beto,Texas,48,16,Representative,Democratic
+434,Lamborn,Doug,Colorado,8,5,Representative,Republican
+435,Hurd,Will,Texas,48,23,Representative,Republican
+436,Perlmutter,Ed,Colorado,8,7,Representative,Democratic
+437,Buck,Ken,Colorado,8,4,Representative,Republican
+438,DeGette,Diana,Colorado,8,1,Representative,Democratic
+439,Coffman,Mike,Colorado,8,6,Representative,Republican
+440,Thune,John,South Dakota,46,0,Senator,Republican
+441,Rounds,Mike,South Dakota,46,0,Senator,Republican
+442,Noem,Kristi L,South Dakota,46,0,Representative,Republican
+443,Smith,Adrian,Nebraska,31,3,Representative,Republican
+444,Cramer,Kevin,North Dakota,38,0,Representative,Republican
+445,Hoeven,John,North Dakota,38,0,Senator,Republican
+446,Heitkamp,Heidi,North Dakota,38,0,Senator,Democratic
+447,Arrington,Jodey,Texas,48,19,Representative,Republican
+448,Conaway,Michael K,Texas,48,11,Representative,Republican
+449,Thornberry,Mac,Texas,48,13,Representative,Republican
+450,Lucas,Frank D,Oklahoma,40,3,Representative,Republican
+451,Marshall,Roger,Kansas,20,1,Representative,Republican
+452,Cuellar,Henry,Texas,48,28,Representative,Democratic
+453,Smith,Lamar,Texas,48,21,Representative,Republican
+454,Hirono,Mazie K,Hawaii,15,0,Senator,Democratic
+455,Burr,Richard,North Carolina,37,0,Senator,Republican
+456,Lee,Mike,Utah,49,0,Senator,Republican
+457,Shelby,Richard C,Alabama,1,0,Senator,Republican
+458,Vitter,David,Louisiana,22,0,Senator,Republican
+459,Gillibrand,Kirsten E,New York,36,0,Senator,Democratic
+460,Paul,Rand,Kentucky,21,0,Senator,Republican
+461,Cardin,Benjamin L,Maryland,24,0,Senator,Democratic
+462,Fischer,Deb,Nebraska,31,0,Senator,Republican
+463,Portman,Rob,Ohio,39,0,Senator,Republican
+464,Cantwell,Maria,Washington,53,0,Senator,Democratic
+465,Rubio,Marco,Florida,12,0,Senator,Republican
+466,Inhofe,James M,Oklahoma,40,0,Senator,Republican
+467,Gardner,Cory,Colorado,8,0,Senator,Republican
+468,Blumenthal,Richard,Connecticut,9,0,Senator,Democratic
+469,Ernst,Joni,Iowa,19,0,Senator,Republican
+470,Hassan,Maggie,New Hampshire,33,0,Senator,Democratic
+471,Shaheen,Jeanne,New Hampshire,33,0,Senator,Democratic
+472,Collins,Susan M,Maine,23,0,Senator,Republican
+473,Brown,Sherrod,Ohio,39,0,Senator,Democratic
+474,Durbin,Richard,Illinois,17,0,Senator,Democratic
+475,Markey,Edward J,Massachusetts,25,0,Senator,Democratic
+476,Heinrich,Martin,New Mexico,35,0,Senator,Democratic
+477,Toomey,Pat,Pennsylvania,42,0,Senator,Republican
+478,Heller,Dean,Nevada,32,0,Senator,Republican
+479,Pierluisi,Pedro R,Puerto Rico,72,0,Representative,Democratic
+480,Alexander,Lamar,Tennessee,47,0,Senator,Republican
+481,McCaskill,Claire,Missouri,29,0,Senator,Democratic
+482,Udall,Tom,New Mexico,35,0,Senator,Democratic
+483,Donnelly,Joe,Indiana,18,0,Senator,Democratic
+484,Grassley,Chuck,Iowa,19,0,Senator,Republican
+485,McConnell,Mitch,Kentucky,21,0,Senator,Republican
+486,Blunt,Roy,Missouri,29,0,Senator,Republican
+487,Capito,Shelley Moore,West Virginia,54,0,Senator,Republican
+488,Cotton,Tom,Arkansas,5,0,Senator,Republican
+489,Schatz,Brian,Hawaii,15,0,Senator,Democratic
+490,Stabenow,Debbie,Michigan,26,0,Senator,Democratic
+491,Merkley,Jeff,Oregon,41,0,Senator,Democratic
+492,Scott,Tim,South Carolina,45,0,Senator,Republican
+493,Corker,Bob,Tennessee,47,0,Senator,Republican
+494,Flake,Jeff,Arizona,4,0,Senator,Republican
+495,Perdue,David,Georgia,13,0,Senator,Republican
+496,Duckworth,Tammy,Illinois,17,0,Senator,Democratic
+497,Moran,Jerry,Kansas,20,0,Senator,Republican
+498,Hatch,Orrin G,Utah,49,0,Senator,Republican
+499,Murphy,Christopher S,Connecticut,9,0,Senator,Democratic
+500,Crapo,Mike,Idaho,16,0,Senator,Republican
+501,Whitehouse,Sheldon,Rhode Island,44,0,Senator,Democratic
+502,Klobuchar,Amy,Minnesota,27,0,Senator,Democratic
+503,Sasse,Ben,Nebraska,31,0,Senator,Republican
+504,Johnson,Ron,Wisconsin,55,0,Senator,Republican
+505,McCain,John,Arizona,4,0,Senator,Republican
+506,Boozman,John,Arkansas,5,0,Senator,Republican
+507,Feinstein,Dianne,California,6,0,Senator,Democratic
+508,Franken,Al,Minnesota,27,0,Senator,Democratic
+509,Kaine,Tim,Virginia,51,0,Senator,Democratic
+510,Roberts,Pat,Kansas,20,0,Senator,Republican
+511,Warner,Mark R,Virginia,51,0,Senator,Democratic
+512,Radewagen,Aumua Amata Coleman,American Samoa,60,0,Representative,Republican
+513,Isakson,Johnny,Georgia,13,0,Senator,Republican
+514,Warren,Elizabeth,Massachusetts,25,0,Senator,Democratic
+515,Baldwin,Tammy,Wisconsin,55,0,Senator,Democratic
+516,Norton,Eleanor Holmes,District of Columbia,11,0,Representative,Democratic
+517,Wicker,Roger F,Mississippi,28,0,Senator,Republican
+518,Lankford,James,Oklahoma,40,0,Senator,Republican
+519,Sessions,Jeff,Alabama,1,0,Senator,Republican
+520,Cassidy,Bill,Louisiana,22,0,Senator,Republican
+521,Schumer,Charles E,New York,36,0,Senator,Democratic
+522,Bennet,Michael F,Colorado,8,0,Senator,Democratic
+523,Bordallo,Madeleine Z,Guam,66,0,Representative,Democratic
+524,Sablan,Gregorio Kilili Camacho,Northern Mariana Islands,69,0,Representative,Democratic
+525,Risch,James E,Idaho,16,0,Senator,Republican
+526,Peters,Gary C,Michigan,26,0,Senator,Democratic
+527,Cochran,Thad,Mississippi,28,0,Senator,Republican
+528,Graham,Lindsey,South Carolina,45,0,Senator,Republican
+529,Harris,Kamala,California,6,0,Senator,Democratic
+530,Booker,Cory A,New Jersey,34,0,Senator,Democratic
+531,Menendez,Robert,New Jersey,34,0,Senator,Democratic
+532,LaHood,Darin,Not Specified,0,0,Representative,Unaffiliated
+533,Masto,Catherine Cortez,Nevada,32,0,Senator,Democratic
+534,Tillis,Thom,North Carolina,37,0,Senator,Republican
+535,Davidson,Warren,Not Specified,0,0,Representative,Unaffiliated
+536,Young,Todd,Indiana,18,0,Senator,Republican
+537,Reed,Jack,Rhode Island,44,0,Senator,Democratic
+538,Cruz,Ted,Texas,48,0,Senator,Republican
+539,Cornyn,John,Texas,48,0,Senator,Republican
+540,Murray,Patty,Washington,53,0,Senator,Democratic
+541,Nelson,Bill,Florida,12,0,Senator,Democratic
+542,Van Hollen,Chris,Maryland,24,0,Senator,Democratic
+543,Wyden,Ron,Oregon,41,0,Senator,Democratic
+544,Plaskett,Stacey E,Virgin Islands,0,0,Representative,Democratic
