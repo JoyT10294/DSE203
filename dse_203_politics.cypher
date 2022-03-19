@@ -84,3 +84,12 @@ LOAD CSV WITH HEADERS FROM "file:///spon_rel_data_to_neo_reps.csv" AS line
 WITH line
 MATCH (b:Bill {bill_id: line.billid}), (p:Politician {rep_id: line.representativeid})
 CREATE (c)-[:SPONSORED {sponsor_type: line.primaryorco}]->(p)
+
+
+LOAD CSV WITH HEADERS FROM 'file:///catpd.csv' AS entity
+with entity 
+CREATE (new:entity.WordTextLower {entity_name: entity.WordTextLower);
+CREATE CONSTRAINT ON (new:entity.WordTextLower) ASSERT entity.entity_name IS UNIQUE;
+
+LOAD CSV WITH HEADERS FROM 'file:///allpd3.csv' AS sov
+CREATE (sov.sub)-[:sov.verb]->(sov.pred)
